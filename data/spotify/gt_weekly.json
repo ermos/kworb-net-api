@@ -1,17 +1,32 @@
 {
   "source": "https://kworb.net/spotify/country/gt_weekly.html",
-  "title": "Spotify Weekly Chart - Guatemala - 2026/07/09",
+  "title": "Spotify Weekly Chart - Guatemala - 2026/07/16",
   "chart": [
     {
       "Pos": "1",
-      "P+": "=",
+      "P+": "+1",
+      "Artist and Title": "LOS DOS DE TAMAULIPAS - Ayúdame",
+      "Wks": "15",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "432,259",
+      "Streams+": "+44,545",
+      "Total": "4,344,636",
+      "track_id": "45f6FcdWcuBGB4GvFuwr9f",
+      "artist_ids": [
+        "77Zc5MMUIMJriEDAcaDspi"
+      ]
+    },
+    {
+      "Pos": "2",
+      "P+": "-1",
       "Artist and Title": "Peso Pluma - daño (w/ Tito Double P)",
-      "Wks": "28",
+      "Wks": "29",
       "Pk": "1",
       "(x?)": "(x18)",
-      "Streams": "401,119",
-      "Streams+": "-14,717",
-      "Total": "13,688,995",
+      "Streams": "400,556",
+      "Streams+": "-563",
+      "Total": "14,089,551",
       "track_id": "136BeIIoBGrrU9fI1jbcDR",
       "artist_ids": [
         "12GqGscKJx3aE4t07u7eVZ",
@@ -19,30 +34,15 @@
       ]
     },
     {
-      "Pos": "2",
-      "P+": "+1",
-      "Artist and Title": "LOS DOS DE TAMAULIPAS - Ayúdame",
+      "Pos": "3",
+      "P+": "=",
+      "Artist and Title": "Neton Vega - Nalguita y Teta",
       "Wks": "14",
       "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "387,714",
-      "Streams+": "+28,232",
-      "Total": "3,912,377",
-      "track_id": "45f6FcdWcuBGB4GvFuwr9f",
-      "artist_ids": [
-        "77Zc5MMUIMJriEDAcaDspi"
-      ]
-    },
-    {
-      "Pos": "3",
-      "P+": "-1",
-      "Artist and Title": "Neton Vega - Nalguita y Teta",
-      "Wks": "13",
-      "Pk": "2",
       "(x?)": "(x3)",
-      "Streams": "349,021",
-      "Streams+": "-13,314",
-      "Total": "4,143,397",
+      "Streams": "362,758",
+      "Streams+": "+13,737",
+      "Total": "4,506,155",
       "track_id": "6SuIUd8Wl5tZcyMFAV0EZJ",
       "artist_ids": [
         "6pV5zH2LzjOUHaAvENdMMa"
@@ -52,12 +52,12 @@
       "Pos": "4",
       "P+": "=",
       "Artist and Title": "Neton Vega - Pvta Luna",
-      "Wks": "39",
+      "Wks": "40",
       "Pk": "1",
       "(x?)": "(x8)",
-      "Streams": "327,265",
-      "Streams+": "-6,497",
-      "Total": "14,966,061",
+      "Streams": "327,866",
+      "Streams+": "+601",
+      "Total": "15,293,927",
       "track_id": "33MeEaRCeIQMSRyFTr5ZJU",
       "artist_ids": [
         "6pV5zH2LzjOUHaAvENdMMa"
@@ -65,44 +65,44 @@
     },
     {
       "Pos": "5",
-      "P+": "+2",
-      "Artist and Title": "BTS - SWIM",
-      "Wks": "16",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "296,393",
-      "Streams+": "-3,749",
-      "Total": "5,732,374",
-      "track_id": "68lbSrXDORS51pmyjZv712",
-      "artist_ids": [
-        "3Nrfpe0tUJi4K4DXYWgMUX"
-      ]
-    },
-    {
-      "Pos": "6",
-      "P+": "-1",
+      "P+": "+1",
       "Artist and Title": "Lenin Ramírez - Todo Lo Fue",
-      "Wks": "25",
+      "Wks": "26",
       "Pk": "2",
       "(x?)": "(x6)",
-      "Streams": "286,060",
-      "Streams+": "-33,987",
-      "Total": "8,846,229",
+      "Streams": "281,701",
+      "Streams+": "-4,359",
+      "Total": "9,127,930",
       "track_id": "0Sa8aRfGckW0qUGLrBwoBG",
       "artist_ids": [
         "3hTffafUYLLgO4yuPAxb5U"
       ]
     },
     {
+      "Pos": "6",
+      "P+": "-1",
+      "Artist and Title": "BTS - SWIM",
+      "Wks": "17",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "278,516",
+      "Streams+": "-17,877",
+      "Total": "6,010,890",
+      "track_id": "68lbSrXDORS51pmyjZv712",
+      "artist_ids": [
+        "3Nrfpe0tUJi4K4DXYWgMUX"
+      ]
+    },
+    {
       "Pos": "7",
-      "P+": "+1",
+      "P+": "=",
       "Artist and Title": "Junior H - DEMENCIA (w/ Gael Valenzuela)",
-      "Wks": "21",
+      "Wks": "22",
       "Pk": "7",
       "(x?)": "",
-      "Streams": "265,824",
-      "Streams+": "-3,966",
-      "Total": "3,805,564",
+      "Streams": "269,325",
+      "Streams+": "+3,501",
+      "Total": "4,074,889",
       "track_id": "3BAtCOv7easPy9xoZ4h9Ng",
       "artist_ids": [
         "7Gi6gjaWy3DxyilpF1a8Is",
@@ -111,14 +111,14 @@
     },
     {
       "Pos": "8",
-      "P+": "-2",
+      "P+": "=",
       "Artist and Title": "El Bogueto - Cuando No Era Cantante RMX - Remix (w/ Anuel AA, Fuerza Regida, Yung Beef)",
-      "Wks": "4",
+      "Wks": "5",
       "Pk": "3",
       "(x?)": "(x1)",
-      "Streams": "264,835",
-      "Streams+": "-36,916",
-      "Total": "1,274,561",
+      "Streams": "263,142",
+      "Streams+": "-1,693",
+      "Total": "1,537,703",
       "track_id": "56V7nzrqr6Sq1uFym4odwa",
       "artist_ids": [
         "3S9Hg7sRKhmtWunFZ2yAYP",
@@ -131,12 +131,12 @@
       "Pos": "9",
       "P+": "=",
       "Artist and Title": "Fuerza Regida - TU SANCHO",
-      "Wks": "62",
+      "Wks": "63",
       "Pk": "1",
       "(x?)": "(x6)",
-      "Streams": "260,716",
-      "Streams+": "-4,724",
-      "Total": "20,736,079",
+      "Streams": "250,645",
+      "Streams+": "-10,071",
+      "Total": "20,986,724",
       "track_id": "6eLQXa6uk2EW8drsiKbABZ",
       "artist_ids": [
         "0ys2OFYzWYB5hRDLCsBqxt"
@@ -146,12 +146,12 @@
       "Pos": "10",
       "P+": "=",
       "Artist and Title": "Herencia De Grandes - Ya Borracho",
-      "Wks": "34",
+      "Wks": "35",
       "Pk": "3",
       "(x?)": "(x2)",
-      "Streams": "244,760",
-      "Streams+": "+656",
-      "Total": "11,221,830",
+      "Streams": "247,909",
+      "Streams+": "+3,149",
+      "Total": "11,469,739",
       "track_id": "4NyUIohBa3CEMGcXURYSOh",
       "artist_ids": [
         "0ocHleb3SllGNQQcDH35Xz"
@@ -161,12 +161,12 @@
       "Pos": "11",
       "P+": "=",
       "Artist and Title": "Fuerza Regida - COQUETA (w/ Grupo Frontera)",
-      "Wks": "81",
+      "Wks": "82",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "243,564",
-      "Streams+": "+292",
-      "Total": "23,520,075",
+      "Streams": "240,326",
+      "Streams+": "-3,238",
+      "Total": "23,760,401",
       "track_id": "1PREzVLuDT6PSE9sej4wnV",
       "artist_ids": [
         "0ys2OFYzWYB5hRDLCsBqxt",
@@ -175,44 +175,119 @@
     },
     {
       "Pos": "12",
-      "P+": "=",
-      "Artist and Title": "Tito Double P - POR SUS BESOS",
-      "Wks": "52",
+      "P+": "+3",
+      "Artist and Title": "Danny Ocean - Me Rehúso",
+      "Wks": "506",
       "Pk": "1",
-      "(x?)": "(x12)",
-      "Streams": "233,436",
-      "Streams+": "-6,775",
-      "Total": "18,502,888",
-      "track_id": "1eunv1DeEi29UfAcVEoLTt",
+      "(x?)": "(x1)",
+      "Streams": "235,098",
+      "Streams+": "+13,590",
+      "Total": "47,547,125",
+      "track_id": "6ifUES3keWjwXgae8pXI3o",
       "artist_ids": [
-        "5eumcnUkdmGvkvcsx1WFNG"
+        "5H1nN1SzW0qNeUEZvuXjAj"
       ]
     },
     {
       "Pos": "13",
-      "P+": "+4",
+      "P+": "+3",
+      "Artist and Title": "Emmanuel Cortes - Amor",
+      "Wks": "112",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "229,917",
+      "Streams+": "+10,153",
+      "Total": "21,595,753",
+      "track_id": "6r6IPuFvUX72kQGc9b46rk",
+      "artist_ids": [
+        "7hDt3OE2ubsKzO9rMYPXox"
+      ]
+    },
+    {
+      "Pos": "14",
+      "P+": "-1",
       "Artist and Title": "Fuerza Regida - caperuza",
-      "Wks": "54",
+      "Wks": "55",
       "Pk": "13",
       "(x?)": "",
-      "Streams": "223,714",
-      "Streams+": "+6,951",
-      "Total": "9,105,662",
+      "Streams": "223,374",
+      "Streams+": "-340",
+      "Total": "9,329,036",
       "track_id": "6272S5nkbOvQDazRYq6muV",
       "artist_ids": [
         "0ys2OFYzWYB5hRDLCsBqxt"
       ]
     },
     {
-      "Pos": "14",
-      "P+": "+8",
-      "Artist and Title": "Calle 24 - Noche Perfecta (w/ Fuerza Regida)",
+      "Pos": "15",
+      "P+": "-3",
+      "Artist and Title": "Tito Double P - POR SUS BESOS",
+      "Wks": "53",
+      "Pk": "1",
+      "(x?)": "(x12)",
+      "Streams": "222,003",
+      "Streams+": "-11,433",
+      "Total": "18,724,891",
+      "track_id": "1eunv1DeEi29UfAcVEoLTt",
+      "artist_ids": [
+        "5eumcnUkdmGvkvcsx1WFNG"
+      ]
+    },
+    {
+      "Pos": "16",
+      "P+": "+2",
+      "Artist and Title": "Fuerza Regida - ANSIEDAD",
+      "Wks": "63",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "214,438",
+      "Streams+": "+1,304",
+      "Total": "16,840,504",
+      "track_id": "1a7onn7lPqqRWul5ogyMyX",
+      "artist_ids": [
+        "0ys2OFYzWYB5hRDLCsBqxt"
+      ]
+    },
+    {
+      "Pos": "17",
+      "P+": "+3",
+      "Artist and Title": "Fuerza Regida - EXCESOS",
+      "Wks": "98",
+      "Pk": "14",
+      "(x?)": "",
+      "Streams": "213,963",
+      "Streams+": "+5,501",
+      "Total": "12,781,255",
+      "track_id": "6UtWwuheJr5LLDeVypPNx7",
+      "artist_ids": [
+        "0ys2OFYzWYB5hRDLCsBqxt"
+      ]
+    },
+    {
+      "Pos": "18",
+      "P+": "-1",
+      "Artist and Title": "Lenin Ramírez - Polvo Rosita",
       "Wks": "12",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "210,599",
+      "Streams+": "-6,250",
+      "Total": "2,782,779",
+      "track_id": "5ahJTs5f6GAAFOYhK3ojP8",
+      "artist_ids": [
+        "3hTffafUYLLgO4yuPAxb5U"
+      ]
+    },
+    {
+      "Pos": "19",
+      "P+": "-5",
+      "Artist and Title": "Calle 24 - Noche Perfecta (w/ Fuerza Regida)",
+      "Wks": "13",
       "Pk": "13",
       "(x?)": "",
-      "Streams": "222,473",
-      "Streams+": "+20,267",
-      "Total": "2,622,781",
+      "Streams": "209,619",
+      "Streams+": "-12,854",
+      "Total": "2,832,400",
       "track_id": "3DEPnIQZWIcpRUwH5O0J6O",
       "artist_ids": [
         "6dLuQ5qXxIuWc5urxfIiZR",
@@ -220,135 +295,30 @@
       ]
     },
     {
-      "Pos": "15",
-      "P+": "=",
-      "Artist and Title": "Danny Ocean - Me Rehúso",
-      "Wks": "505",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "221,508",
-      "Streams+": "-11,150",
-      "Total": "47,312,027",
-      "track_id": "6ifUES3keWjwXgae8pXI3o",
-      "artist_ids": [
-        "5H1nN1SzW0qNeUEZvuXjAj"
-      ]
-    },
-    {
-      "Pos": "16",
-      "P+": "-3",
-      "Artist and Title": "Emmanuel Cortes - Amor",
-      "Wks": "111",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "219,764",
-      "Streams+": "-20,221",
-      "Total": "21,365,836",
-      "track_id": "6r6IPuFvUX72kQGc9b46rk",
-      "artist_ids": [
-        "7hDt3OE2ubsKzO9rMYPXox"
-      ]
-    },
-    {
-      "Pos": "17",
-      "P+": "-3",
-      "Artist and Title": "Lenin Ramírez - Polvo Rosita",
-      "Wks": "11",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "216,849",
-      "Streams+": "-21,401",
-      "Total": "2,572,180",
-      "track_id": "5ahJTs5f6GAAFOYhK3ojP8",
-      "artist_ids": [
-        "3hTffafUYLLgO4yuPAxb5U"
-      ]
-    },
-    {
-      "Pos": "18",
-      "P+": "+1",
-      "Artist and Title": "Fuerza Regida - ANSIEDAD",
-      "Wks": "62",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "213,134",
-      "Streams+": "+5,653",
-      "Total": "16,626,066",
-      "track_id": "1a7onn7lPqqRWul5ogyMyX",
-      "artist_ids": [
-        "0ys2OFYzWYB5hRDLCsBqxt"
-      ]
-    },
-    {
-      "Pos": "19",
-      "P+": "+4",
-      "Artist and Title": "La Arrolladora Banda El Limón De Rene Camacho - El Final De Nuestra Historia",
-      "Wks": "67",
-      "Pk": "19",
-      "(x?)": "",
-      "Streams": "211,242",
-      "Streams+": "+10,715",
-      "Total": "10,364,783",
-      "track_id": "31REg67eoHJSvMLUcEmGNj",
-      "artist_ids": [
-        "5bSfBBCxY8QAk4Pifveisz"
-      ]
-    },
-    {
       "Pos": "20",
-      "P+": "=",
-      "Artist and Title": "Fuerza Regida - EXCESOS",
-      "Wks": "97",
-      "Pk": "14",
-      "(x?)": "",
-      "Streams": "208,462",
-      "Streams+": "+3,212",
-      "Total": "12,567,292",
-      "track_id": "6UtWwuheJr5LLDeVypPNx7",
-      "artist_ids": [
-        "0ys2OFYzWYB5hRDLCsBqxt"
-      ]
-    },
-    {
-      "Pos": "21",
-      "P+": "=",
-      "Artist and Title": "Tito Double P - ME VALE V",
-      "Wks": "6",
-      "Pk": "12",
-      "(x?)": "",
-      "Streams": "206,886",
-      "Streams+": "+4,172",
-      "Total": "1,394,920",
-      "track_id": "7HuGsvzf9aYQXmXS3a0Fd3",
-      "artist_ids": [
-        "5eumcnUkdmGvkvcsx1WFNG"
-      ]
-    },
-    {
-      "Pos": "22",
-      "P+": "-6",
+      "P+": "+2",
       "Artist and Title": "Fuerza Regida - Marlboro Rojo",
-      "Wks": "62",
+      "Wks": "63",
       "Pk": "1",
       "(x?)": "(x3)",
-      "Streams": "206,341",
-      "Streams+": "-11,612",
-      "Total": "20,618,342",
+      "Streams": "208,292",
+      "Streams+": "+1,951",
+      "Total": "20,826,634",
       "track_id": "3hpm0fTeSqlhJbnqAgaLZs",
       "artist_ids": [
         "0ys2OFYzWYB5hRDLCsBqxt"
       ]
     },
     {
-      "Pos": "23",
-      "P+": "+1",
+      "Pos": "21",
+      "P+": "+2",
       "Artist and Title": "Oscar Maydon - Tu Boda (w/ Fuerza Regida)",
-      "Wks": "93",
+      "Wks": "94",
       "Pk": "1",
       "(x?)": "(x12)",
-      "Streams": "201,053",
-      "Streams+": "+1,331",
-      "Total": "33,669,207",
+      "Streams": "207,901",
+      "Streams+": "+6,848",
+      "Total": "33,877,108",
       "track_id": "1cOboCuWYI2osTOfolMRS6",
       "artist_ids": [
         "3l9G1G9MxH6DaRhwLklaf5",
@@ -356,15 +326,60 @@
       ]
     },
     {
+      "Pos": "22",
+      "P+": "+4",
+      "Artist and Title": "Jósean Log - Doma",
+      "Wks": "15",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "207,178",
+      "Streams+": "+11,308",
+      "Total": "2,400,787",
+      "track_id": "58cLm4PaHNt8DDr9ayZnNz",
+      "artist_ids": [
+        "1LMyTeRhjaitILs98h3MaF"
+      ]
+    },
+    {
+      "Pos": "23",
+      "P+": "-4",
+      "Artist and Title": "La Arrolladora Banda El Limón De Rene Camacho - El Final De Nuestra Historia",
+      "Wks": "68",
+      "Pk": "19",
+      "(x?)": "",
+      "Streams": "205,313",
+      "Streams+": "-5,929",
+      "Total": "10,570,096",
+      "track_id": "31REg67eoHJSvMLUcEmGNj",
+      "artist_ids": [
+        "5bSfBBCxY8QAk4Pifveisz"
+      ]
+    },
+    {
       "Pos": "24",
       "P+": "+1",
+      "Artist and Title": "Junior H - Y LLORO",
+      "Wks": "145",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "203,595",
+      "Streams+": "+5,738",
+      "Total": "37,680,544",
+      "track_id": "6RcAHyC5sAUIbPTkhOQwd8",
+      "artist_ids": [
+        "7Gi6gjaWy3DxyilpF1a8Is"
+      ]
+    },
+    {
+      "Pos": "25",
+      "P+": "-1",
       "Artist and Title": "J Balvin - LA CANCIÓN (w/ Bad Bunny)",
-      "Wks": "367",
+      "Wks": "368",
       "Pk": "1",
       "(x?)": "(x2)",
-      "Streams": "200,608",
-      "Streams+": "+2,360",
-      "Total": "63,169,101",
+      "Streams": "203,411",
+      "Streams+": "+2,803",
+      "Total": "63,372,512",
       "track_id": "0fea68AdmYNygeTGI4RC18",
       "artist_ids": [
         "1vyhD5VmyZ7KMfW5gqLgo5",
@@ -372,60 +387,45 @@
       ]
     },
     {
-      "Pos": "25",
-      "P+": "-7",
-      "Artist and Title": "Junior H - Y LLORO",
-      "Wks": "144",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "197,857",
-      "Streams+": "-11,475",
-      "Total": "37,476,949",
-      "track_id": "6RcAHyC5sAUIbPTkhOQwd8",
-      "artist_ids": [
-        "7Gi6gjaWy3DxyilpF1a8Is"
-      ]
-    },
-    {
       "Pos": "26",
-      "P+": "+11",
-      "Artist and Title": "Jósean Log - Doma",
-      "Wks": "14",
-      "Pk": "26",
+      "P+": "-5",
+      "Artist and Title": "Tito Double P - ME VALE V",
+      "Wks": "7",
+      "Pk": "12",
       "(x?)": "",
-      "Streams": "195,870",
-      "Streams+": "+20,748",
-      "Total": "2,193,609",
-      "track_id": "58cLm4PaHNt8DDr9ayZnNz",
+      "Streams": "203,251",
+      "Streams+": "-3,635",
+      "Total": "1,598,171",
+      "track_id": "7HuGsvzf9aYQXmXS3a0Fd3",
       "artist_ids": [
-        "1LMyTeRhjaitILs98h3MaF"
+        "5eumcnUkdmGvkvcsx1WFNG"
       ]
     },
     {
       "Pos": "27",
-      "P+": "+2",
-      "Artist and Title": "Plan B - Es un Secreto",
-      "Wks": "262",
-      "Pk": "4",
+      "P+": "+14",
+      "Artist and Title": "La Arrolladora Banda El Limón De Rene Camacho - Mi Segunda Vida",
+      "Wks": "103",
+      "Pk": "27",
       "(x?)": "",
-      "Streams": "182,150",
-      "Streams+": "-1,674",
-      "Total": "46,475,784",
-      "track_id": "3KZCP2StVGdWkOKyRZNWA4",
+      "Streams": "198,129",
+      "Streams+": "+34,847",
+      "Total": "12,299,850",
+      "track_id": "6Z7f0BXDLI8k4CHR9KJdAD",
       "artist_ids": [
-        "2jSGzJw0ebJLu7OLVSOcBP"
+        "5bSfBBCxY8QAk4Pifveisz"
       ]
     },
     {
       "Pos": "28",
-      "P+": "+15",
+      "P+": "=",
       "Artist and Title": "Hermanos Espinoza - FREESTYLE",
-      "Wks": "10",
+      "Wks": "11",
       "Pk": "28",
       "(x?)": "",
-      "Streams": "180,649",
-      "Streams+": "+14,396",
-      "Total": "1,424,907",
+      "Streams": "186,263",
+      "Streams+": "+5,614",
+      "Total": "1,611,170",
       "track_id": "7FcV9ysZVFnmAOYwipRSGp",
       "artist_ids": [
         "1V0BgbhknuuZIMxKO0M9FV"
@@ -433,109 +433,74 @@
     },
     {
       "Pos": "29",
-      "P+": "-2",
-      "Artist and Title": "Peso Pluma - chiclona (w/ Tito Double P, LENCHO)",
-      "Wks": "19",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "180,145",
-      "Streams+": "-8,859",
-      "Total": "4,820,198",
-      "track_id": "5Q4HTsEGKanxOwL1nYCnhQ",
-      "artist_ids": [
-        "12GqGscKJx3aE4t07u7eVZ",
-        "5eumcnUkdmGvkvcsx1WFNG",
-        "34pmYm95tyjrnk8Cbj6nFo"
-      ]
-    },
-    {
-      "Pos": "30",
-      "P+": "+2",
-      "Artist and Title": "Los Dareyes De La Sierra - MATCHA",
-      "Wks": "8",
-      "Pk": "30",
-      "(x?)": "",
-      "Streams": "177,446",
-      "Streams+": "-4,102",
-      "Total": "1,344,825",
-      "track_id": "7KfaBqVsLdG6AtqHTtX36g",
-      "artist_ids": [
-        "1ZMJSCQw8DIefcLb1FIpY0"
-      ]
-    },
-    {
-      "Pos": "31",
-      "P+": "-1",
-      "Artist and Title": "Peso Pluma - tu con el (w/ Tito Double P)",
-      "Wks": "28",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "176,855",
-      "Streams+": "-5,141",
-      "Total": "6,589,264",
-      "track_id": "2A2x5MZB5OrnnKkVOxx5dp",
-      "artist_ids": [
-        "12GqGscKJx3aE4t07u7eVZ",
-        "5eumcnUkdmGvkvcsx1WFNG"
-      ]
-    },
-    {
-      "Pos": "32",
-      "P+": "-4",
-      "Artist and Title": "Peso Pluma - dopamina (w/ Tito Double P)",
-      "Wks": "28",
-      "Pk": "1",
-      "(x?)": "(x4)",
-      "Streams": "174,909",
-      "Streams+": "-12,893",
-      "Total": "10,804,192",
-      "track_id": "3e32UUqXzrI4g2y5kNZrwC",
-      "artist_ids": [
-        "12GqGscKJx3aE4t07u7eVZ",
-        "5eumcnUkdmGvkvcsx1WFNG"
-      ]
-    },
-    {
-      "Pos": "33",
-      "P+": "+2",
+      "P+": "+4",
       "Artist and Title": "Omar Courtz - KOKO",
-      "Wks": "20",
+      "Wks": "21",
       "Pk": "9",
       "(x?)": "",
-      "Streams": "173,959",
-      "Streams+": "-3,870",
-      "Total": "4,466,330",
+      "Streams": "181,276",
+      "Streams+": "+7,317",
+      "Total": "4,647,606",
       "track_id": "1tz7RZirwiuaJw2p0jbdHb",
       "artist_ids": [
         "3E12tRURRvPfHz0hAMCFYc"
       ]
     },
     {
-      "Pos": "34",
-      "P+": "+2",
-      "Artist and Title": "Peso Pluma - HOLLYWOOD (w/ Estevan Plazola)",
-      "Wks": "107",
-      "Pk": "10",
+      "Pos": "30",
+      "P+": "-3",
+      "Artist and Title": "Plan B - Es un Secreto",
+      "Wks": "263",
+      "Pk": "4",
       "(x?)": "",
-      "Streams": "173,796",
-      "Streams+": "-2,617",
-      "Total": "26,418,855",
-      "track_id": "5GTBdEjZe7zEDp1N0eCZE4",
+      "Streams": "179,121",
+      "Streams+": "-3,029",
+      "Total": "46,654,905",
+      "track_id": "3KZCP2StVGdWkOKyRZNWA4",
       "artist_ids": [
-        "12GqGscKJx3aE4t07u7eVZ",
-        "4Rh80sXmcG4xDP1r6dTNiQ"
+        "2jSGzJw0ebJLu7OLVSOcBP"
       ]
     },
     {
-      "Pos": "35",
-      "P+": "-4",
+      "Pos": "31",
+      "P+": "+7",
+      "Artist and Title": "Yandel - Encantadora",
+      "Wks": "167",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "174,764",
+      "Streams+": "+8,033",
+      "Total": "11,792,109",
+      "track_id": "7LABrQFfRYcZUqUwng0Heb",
+      "artist_ids": [
+        "0eHQ9o50hj6ZDNBt6Ys1sD"
+      ]
+    },
+    {
+      "Pos": "32",
+      "P+": "+11",
+      "Artist and Title": "Neton Vega - Todo a Su Tiempo",
+      "Wks": "78",
+      "Pk": "24",
+      "(x?)": "",
+      "Streams": "174,475",
+      "Streams+": "+13,294",
+      "Total": "14,799,667",
+      "track_id": "4JLZyyWuvvse6xKiZqRdau",
+      "artist_ids": [
+        "6pV5zH2LzjOUHaAvENdMMa"
+      ]
+    },
+    {
+      "Pos": "33",
+      "P+": "+2",
       "Artist and Title": "Junior H - DROGA LETAL (w/ Gael Valenzuela, Peso Pluma)",
-      "Wks": "21",
+      "Wks": "22",
       "Pk": "20",
       "(x?)": "",
-      "Streams": "171,927",
-      "Streams+": "-9,956",
-      "Total": "4,430,132",
+      "Streams": "174,288",
+      "Streams+": "+2,361",
+      "Total": "4,604,420",
       "track_id": "0IMJsnmPXXgPyQDbhomx1B",
       "artist_ids": [
         "7Gi6gjaWy3DxyilpF1a8Is",
@@ -544,242 +509,108 @@
       ]
     },
     {
-      "Pos": "36",
-      "P+": "+22",
-      "Artist and Title": "Bobby Pulido - Desvelado",
-      "Wks": "46",
-      "Pk": "36",
+      "Pos": "34",
+      "P+": "-3",
+      "Artist and Title": "Peso Pluma - tu con el (w/ Tito Double P)",
+      "Wks": "29",
+      "Pk": "10",
       "(x?)": "",
-      "Streams": "169,702",
-      "Streams+": "+23,727",
-      "Total": "5,120,193",
-      "track_id": "2JJSGhPpATm8lXeYjD95fw",
-      "artist_ids": [
-        "4EEZg8R3dxbTCCQ1DVWtHg"
-      ]
-    },
-    {
-      "Pos": "37",
-      "P+": "+17",
-      "Artist and Title": "Grupo Firme - El Beneficio De La Duda",
-      "Wks": "107",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "169,399",
-      "Streams+": "+20,510",
-      "Total": "16,928,352",
-      "track_id": "5yXt80BNZGbmHFd0NHZHNn",
-      "artist_ids": [
-        "1dKdetem2xEmjgvyymzytS"
-      ]
-    },
-    {
-      "Pos": "38",
-      "P+": "+9",
-      "Artist and Title": "Yandel - Encantadora",
-      "Wks": "166",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "166,731",
-      "Streams+": "+4,422",
-      "Total": "11,617,345",
-      "track_id": "7LABrQFfRYcZUqUwng0Heb",
-      "artist_ids": [
-        "0eHQ9o50hj6ZDNBt6Ys1sD"
-      ]
-    },
-    {
-      "Pos": "39",
-      "P+": "-1",
-      "Artist and Title": "La Factoria - Perdóname (w/ Eddy Lover)",
-      "Wks": "233",
-      "Pk": "38",
-      "(x?)": "",
-      "Streams": "164,680",
-      "Streams+": "-8,100",
-      "Total": "20,973,922",
-      "track_id": "6yLqoieklk9gwabLaUDJ4s",
-      "artist_ids": [
-        "4VsbQvC84B8Z3IsBY1HLQy",
-        "7gR53ad9JjCweCv4f9MWEX"
-      ]
-    },
-    {
-      "Pos": "40",
-      "P+": "-14",
-      "Artist and Title": "Virlan Garcia - Mi Entorno",
-      "Wks": "33",
-      "Pk": "12",
-      "(x?)": "",
-      "Streams": "164,168",
-      "Streams+": "-30,488",
-      "Total": "7,310,415",
-      "track_id": "30ECWSoejTkHDqo0yMpf6y",
-      "artist_ids": [
-        "0vjeBgTzYTwmYoVySJzXGD"
-      ]
-    },
-    {
-      "Pos": "41",
-      "P+": "-7",
-      "Artist and Title": "La Arrolladora Banda El Limón De Rene Camacho - Mi Segunda Vida",
-      "Wks": "102",
-      "Pk": "34",
-      "(x?)": "",
-      "Streams": "163,282",
-      "Streams+": "-16,495",
-      "Total": "12,101,721",
-      "track_id": "6Z7f0BXDLI8k4CHR9KJdAD",
-      "artist_ids": [
-        "5bSfBBCxY8QAk4Pifveisz"
-      ]
-    },
-    {
-      "Pos": "42",
-      "P+": "-1",
-      "Artist and Title": "Peso Pluma - ni pedo (w/ Tito Double P)",
-      "Wks": "28",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "161,194",
-      "Streams+": "-6,623",
-      "Total": "7,196,512",
-      "track_id": "7xLfNI4gRNTu6FyXJlzBW5",
+      "Streams": "172,355",
+      "Streams+": "-4,500",
+      "Total": "6,761,619",
+      "track_id": "2A2x5MZB5OrnnKkVOxx5dp",
       "artist_ids": [
         "12GqGscKJx3aE4t07u7eVZ",
         "5eumcnUkdmGvkvcsx1WFNG"
       ]
     },
     {
-      "Pos": "43",
-      "P+": "-10",
-      "Artist and Title": "Neton Vega - Todo a Su Tiempo",
-      "Wks": "77",
-      "Pk": "24",
-      "(x?)": "",
-      "Streams": "161,181",
-      "Streams+": "-19,635",
-      "Total": "14,625,192",
-      "track_id": "4JLZyyWuvvse6xKiZqRdau",
-      "artist_ids": [
-        "6pV5zH2LzjOUHaAvENdMMa"
-      ]
-    },
-    {
-      "Pos": "44",
-      "P+": "-5",
-      "Artist and Title": "Bad Bunny - BAILE INoLVIDABLE",
-      "Wks": "79",
-      "Pk": "2",
-      "(x?)": "(x3)",
-      "Streams": "160,379",
-      "Streams+": "-10,545",
-      "Total": "23,764,955",
-      "track_id": "2lTm559tuIvatlT1u0JYG2",
-      "artist_ids": [
-        "4q3ewBCX7sLwd24euuV69X"
-      ]
-    },
-    {
-      "Pos": "45",
-      "P+": "-1",
+      "Pos": "35",
+      "P+": "+10",
       "Artist and Title": "Maná - Oye Mi Amor",
-      "Wks": "79",
-      "Pk": "44",
+      "Wks": "80",
+      "Pk": "35",
       "(x?)": "",
-      "Streams": "160,315",
-      "Streams+": "-5,905",
-      "Total": "8,344,836",
+      "Streams": "172,342",
+      "Streams+": "+12,027",
+      "Total": "8,517,178",
       "track_id": "5EJ2THuhAapEIeQOtXUQ0x",
       "artist_ids": [
         "7okwEbXzyT2VffBmyQBWLz"
       ]
     },
     {
-      "Pos": "46",
-      "P+": "+15",
-      "Artist and Title": "Hermanos Espinoza - 29:11",
+      "Pos": "36",
+      "P+": "-6",
+      "Artist and Title": "Los Dareyes De La Sierra - MATCHA",
       "Wks": "9",
-      "Pk": "46",
+      "Pk": "30",
       "(x?)": "",
-      "Streams": "158,877",
-      "Streams+": "+16,472",
-      "Total": "1,259,224",
-      "track_id": "5tXtuUvOs70nkgaXg8pqnV",
+      "Streams": "172,304",
+      "Streams+": "-5,142",
+      "Total": "1,517,129",
+      "track_id": "7KfaBqVsLdG6AtqHTtX36g",
       "artist_ids": [
-        "1V0BgbhknuuZIMxKO0M9FV"
+        "1ZMJSCQw8DIefcLb1FIpY0"
       ]
     },
     {
-      "Pos": "47",
-      "P+": "+15",
-      "Artist and Title": "Chuyin - PUES QUE LE HAGO ?",
-      "Wks": "26",
-      "Pk": "20",
+      "Pos": "37",
+      "P+": "-5",
+      "Artist and Title": "Peso Pluma - dopamina (w/ Tito Double P)",
+      "Wks": "29",
+      "Pk": "1",
+      "(x?)": "(x4)",
+      "Streams": "171,405",
+      "Streams+": "-3,504",
+      "Total": "10,975,597",
+      "track_id": "3e32UUqXzrI4g2y5kNZrwC",
+      "artist_ids": [
+        "12GqGscKJx3aE4t07u7eVZ",
+        "5eumcnUkdmGvkvcsx1WFNG"
+      ]
+    },
+    {
+      "Pos": "38",
+      "P+": "-2",
+      "Artist and Title": "Bobby Pulido - Desvelado",
+      "Wks": "47",
+      "Pk": "36",
       "(x?)": "",
-      "Streams": "158,316",
-      "Streams+": "+16,059",
-      "Total": "5,080,888",
-      "track_id": "0PA6wI9DZ0bWMaSpXyTrAW",
+      "Streams": "170,951",
+      "Streams+": "+1,249",
+      "Total": "5,291,144",
+      "track_id": "2JJSGhPpATm8lXeYjD95fw",
       "artist_ids": [
-        "5c8ZR64evQ00Spl73s76fo"
+        "4EEZg8R3dxbTCCQ1DVWtHg"
       ]
     },
     {
-      "Pos": "48",
-      "P+": "-3",
-      "Artist and Title": "Julión Álvarez y su Norteño Banda - Regalo De Dios",
-      "Wks": "131",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "155,735",
-      "Streams+": "-9,744",
-      "Total": "32,337,556",
-      "track_id": "51qYdMBxt9mFbtZBzq1Yfi",
-      "artist_ids": [
-        "1bfl0AU8SqmLkElptOprhC"
-      ]
-    },
-    {
-      "Pos": "49",
-      "P+": "-1",
-      "Artist and Title": "Junior H - MIENTRAS DUERMES",
-      "Wks": "74",
-      "Pk": "9",
+      "Pos": "39",
+      "P+": "-5",
+      "Artist and Title": "Peso Pluma - HOLLYWOOD (w/ Estevan Plazola)",
+      "Wks": "108",
+      "Pk": "10",
       "(x?)": "",
-      "Streams": "151,244",
-      "Streams+": "-10,292",
-      "Total": "14,773,957",
-      "track_id": "4e76Ss3ji7HQZ4qwcPNkNA",
+      "Streams": "168,689",
+      "Streams+": "-5,107",
+      "Total": "26,587,544",
+      "track_id": "5GTBdEjZe7zEDp1N0eCZE4",
       "artist_ids": [
-        "7Gi6gjaWy3DxyilpF1a8Is"
+        "12GqGscKJx3aE4t07u7eVZ",
+        "4Rh80sXmcG4xDP1r6dTNiQ"
       ]
     },
     {
-      "Pos": "50",
-      "P+": "-1",
-      "Artist and Title": "Junior H - LAS NOCHES",
-      "Wks": "45",
-      "Pk": "25",
-      "(x?)": "",
-      "Streams": "150,580",
-      "Streams+": "-8,522",
-      "Total": "7,461,156",
-      "track_id": "0uQhDYHyoZe5DpncrPolb6",
-      "artist_ids": [
-        "7Gi6gjaWy3DxyilpF1a8Is"
-      ]
-    },
-    {
-      "Pos": "51",
-      "P+": "+34",
+      "Pos": "40",
+      "P+": "+11",
       "Artist and Title": "La La Love You - El Fin del Mundo (w/ Axolotes Mexicanos)",
-      "Wks": "10",
-      "Pk": "51",
+      "Wks": "11",
+      "Pk": "40",
       "(x?)": "",
-      "Streams": "150,452",
-      "Streams+": "+24,889",
-      "Total": "1,162,991",
+      "Streams": "168,336",
+      "Streams+": "+17,884",
+      "Total": "1,331,327",
       "track_id": "6XXQA6e8qXPJ1sZtRxvbws",
       "artist_ids": [
         "5Q30fhTc0Sl0Q4C5dOjhhQ",
@@ -787,62 +618,202 @@
       ]
     },
     {
-      "Pos": "52",
-      "P+": "+17",
-      "Artist and Title": "Grupo Frontera - EL AMOR DE SU VIDA (w/ Grupo Firme)",
-      "Wks": "152",
-      "Pk": "3",
-      "(x?)": "(x5)",
-      "Streams": "148,593",
-      "Streams+": "+14,101",
-      "Total": "37,432,296",
-      "track_id": "0O3U5iwTbiXCREMkvotJuN",
+      "Pos": "41",
+      "P+": "+3",
+      "Artist and Title": "Bad Bunny - BAILE INoLVIDABLE",
+      "Wks": "80",
+      "Pk": "2",
+      "(x?)": "(x3)",
+      "Streams": "168,201",
+      "Streams+": "+7,822",
+      "Total": "23,933,156",
+      "track_id": "2lTm559tuIvatlT1u0JYG2",
       "artist_ids": [
-        "6XkjpgcEsYab502Vr1bBeW",
+        "4q3ewBCX7sLwd24euuV69X"
+      ]
+    },
+    {
+      "Pos": "42",
+      "P+": "+18",
+      "Artist and Title": "Marc Seguí - Tiroteo - Remix (w/ Rauw Alejandro, Pol Granch)",
+      "Wks": "193",
+      "Pk": "19",
+      "(x?)": "",
+      "Streams": "167,962",
+      "Streams+": "+23,482",
+      "Total": "21,373,352",
+      "track_id": "4OwhwvKESFtuu06dTgct7i",
+      "artist_ids": [
+        "5FQ8tBUtIamA2hRtatrYUF",
+        "1mcTU81TzQhprhouKaTkpq",
+        "1aMt4A5jrQHxDYyC7rXgV0"
+      ]
+    },
+    {
+      "Pos": "43",
+      "P+": "-6",
+      "Artist and Title": "Grupo Firme - El Beneficio De La Duda",
+      "Wks": "108",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "160,694",
+      "Streams+": "-8,705",
+      "Total": "17,089,046",
+      "track_id": "5yXt80BNZGbmHFd0NHZHNn",
+      "artist_ids": [
         "1dKdetem2xEmjgvyymzytS"
+      ]
+    },
+    {
+      "Pos": "44",
+      "P+": "+20",
+      "Artist and Title": "Peso Pluma - LAGUNAS (w/ Jasiel Nuñez)",
+      "Wks": "90",
+      "Pk": "24",
+      "(x?)": "",
+      "Streams": "160,078",
+      "Streams+": "+21,480",
+      "Total": "11,039,831",
+      "track_id": "3HOKxuTDmNVmIlCIpBiD8m",
+      "artist_ids": [
+        "12GqGscKJx3aE4t07u7eVZ",
+        "0T8Ix53aIN4F7aEKj4EnKy"
+      ]
+    },
+    {
+      "Pos": "45",
+      "P+": "-6",
+      "Artist and Title": "La Factoria - Perdóname (w/ Eddy Lover)",
+      "Wks": "234",
+      "Pk": "38",
+      "(x?)": "",
+      "Streams": "159,785",
+      "Streams+": "-4,895",
+      "Total": "21,133,707",
+      "track_id": "6yLqoieklk9gwabLaUDJ4s",
+      "artist_ids": [
+        "4VsbQvC84B8Z3IsBY1HLQy",
+        "7gR53ad9JjCweCv4f9MWEX"
+      ]
+    },
+    {
+      "Pos": "46",
+      "P+": "-17",
+      "Artist and Title": "Peso Pluma - chiclona (w/ Tito Double P, LENCHO)",
+      "Wks": "20",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "159,325",
+      "Streams+": "-20,820",
+      "Total": "4,979,523",
+      "track_id": "5Q4HTsEGKanxOwL1nYCnhQ",
+      "artist_ids": [
+        "12GqGscKJx3aE4t07u7eVZ",
+        "5eumcnUkdmGvkvcsx1WFNG",
+        "34pmYm95tyjrnk8Cbj6nFo"
+      ]
+    },
+    {
+      "Pos": "47",
+      "P+": "-5",
+      "Artist and Title": "Peso Pluma - ni pedo (w/ Tito Double P)",
+      "Wks": "29",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "158,605",
+      "Streams+": "-2,589",
+      "Total": "7,355,117",
+      "track_id": "7xLfNI4gRNTu6FyXJlzBW5",
+      "artist_ids": [
+        "12GqGscKJx3aE4t07u7eVZ",
+        "5eumcnUkdmGvkvcsx1WFNG"
+      ]
+    },
+    {
+      "Pos": "48",
+      "P+": "+8",
+      "Artist and Title": "Espinoza Paz - Lo Intentamos",
+      "Wks": "6",
+      "Pk": "42",
+      "(x?)": "",
+      "Streams": "157,369",
+      "Streams+": "+9,496",
+      "Total": "922,906",
+      "track_id": "2vj3BAmA5hHlqLwofWN0aV",
+      "artist_ids": [
+        "01rgao9OzfBm2BOHWJpi1Y"
+      ]
+    },
+    {
+      "Pos": "49",
+      "P+": "-1",
+      "Artist and Title": "Julión Álvarez y su Norteño Banda - Regalo De Dios",
+      "Wks": "132",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "155,740",
+      "Streams+": "+5",
+      "Total": "32,493,296",
+      "track_id": "51qYdMBxt9mFbtZBzq1Yfi",
+      "artist_ids": [
+        "1bfl0AU8SqmLkElptOprhC"
+      ]
+    },
+    {
+      "Pos": "50",
+      "P+": "-3",
+      "Artist and Title": "Chuyin - PUES QUE LE HAGO ?",
+      "Wks": "27",
+      "Pk": "20",
+      "(x?)": "",
+      "Streams": "155,487",
+      "Streams+": "-2,829",
+      "Total": "5,236,375",
+      "track_id": "0PA6wI9DZ0bWMaSpXyTrAW",
+      "artist_ids": [
+        "5c8ZR64evQ00Spl73s76fo"
+      ]
+    },
+    {
+      "Pos": "51",
+      "P+": "-5",
+      "Artist and Title": "Hermanos Espinoza - 29:11",
+      "Wks": "10",
+      "Pk": "46",
+      "(x?)": "",
+      "Streams": "155,367",
+      "Streams+": "-3,510",
+      "Total": "1,414,591",
+      "track_id": "5tXtuUvOs70nkgaXg8pqnV",
+      "artist_ids": [
+        "1V0BgbhknuuZIMxKO0M9FV"
+      ]
+    },
+    {
+      "Pos": "52",
+      "P+": "-12",
+      "Artist and Title": "Virlan Garcia - Mi Entorno",
+      "Wks": "34",
+      "Pk": "12",
+      "(x?)": "",
+      "Streams": "154,731",
+      "Streams+": "-9,437",
+      "Total": "7,465,146",
+      "track_id": "30ECWSoejTkHDqo0yMpf6y",
+      "artist_ids": [
+        "0vjeBgTzYTwmYoVySJzXGD"
       ]
     },
     {
       "Pos": "53",
       "P+": "+2",
-      "Artist and Title": "Aventura - El Perdedor",
-      "Wks": "143",
-      "Pk": "18",
-      "(x?)": "",
-      "Streams": "148,168",
-      "Streams+": "-532",
-      "Total": "18,068,464",
-      "track_id": "27ze5t5tIDPlVits0KRbxT",
-      "artist_ids": [
-        "1qto4hHid1P71emI6Fd8xi"
-      ]
-    },
-    {
-      "Pos": "54",
-      "P+": "+10",
-      "Artist and Title": "Neton Vega - Morena (w/ Peso Pluma)",
-      "Wks": "73",
-      "Pk": "1",
-      "(x?)": "(x8)",
-      "Streams": "148,108",
-      "Streams+": "+6,048",
-      "Total": "23,189,117",
-      "track_id": "4oB8Xd7gMlUEtWoD8bmCXW",
-      "artist_ids": [
-        "6pV5zH2LzjOUHaAvENdMMa",
-        "12GqGscKJx3aE4t07u7eVZ"
-      ]
-    },
-    {
-      "Pos": "55",
-      "P+": "-3",
       "Artist and Title": "Bad Bunny - Diles (w/ Ozuna, Farruko, Arcángel, Ñengo Flow, DJ Luian, Mambo Kingz)",
-      "Wks": "216",
+      "Wks": "217",
       "Pk": "23",
       "(x?)": "",
-      "Streams": "147,962",
-      "Streams+": "-2,496",
-      "Total": "23,274,653",
+      "Streams": "152,555",
+      "Streams+": "+4,593",
+      "Total": "23,427,208",
       "track_id": "6C1RD7YQVvt3YQj0CmuTeu",
       "artist_ids": [
         "4q3ewBCX7sLwd24euuV69X",
@@ -855,92 +826,61 @@
       ]
     },
     {
-      "Pos": "56",
-      "P+": "-5",
-      "Artist and Title": "Espinoza Paz - Lo Intentamos",
-      "Wks": "5",
-      "Pk": "42",
-      "(x?)": "",
-      "Streams": "147,873",
-      "Streams+": "-6,981",
-      "Total": "765,537",
-      "track_id": "2vj3BAmA5hHlqLwofWN0aV",
-      "artist_ids": [
-        "01rgao9OzfBm2BOHWJpi1Y"
-      ]
-    },
-    {
-      "Pos": "57",
-      "P+": "-1",
-      "Artist and Title": "Los Dareyes De La Sierra - Frecuencia",
-      "Wks": "56",
-      "Pk": "2",
-      "(x?)": "(x9)",
-      "Streams": "147,547",
-      "Streams+": "-349",
-      "Total": "14,621,489",
-      "track_id": "56bPsRfOKla3bGGmVz1uk4",
-      "artist_ids": [
-        "1ZMJSCQw8DIefcLb1FIpY0"
-      ]
-    },
-    {
-      "Pos": "58",
-      "P+": "-8",
+      "Pos": "54",
+      "P+": "+4",
       "Artist and Title": "Bad Bunny - DtMF",
-      "Wks": "79",
+      "Wks": "80",
       "Pk": "1",
       "(x?)": "(x5)",
-      "Streams": "147,084",
-      "Streams+": "-8,772",
-      "Total": "24,386,198",
+      "Streams": "151,225",
+      "Streams+": "+4,141",
+      "Total": "24,537,423",
       "track_id": "3sK8wGT43QFpWrvNQsrQya",
       "artist_ids": [
         "4q3ewBCX7sLwd24euuV69X"
       ]
     },
     {
-      "Pos": "59",
-      "P+": "-6",
-      "Artist and Title": "Romeo Santos - Imitadora",
-      "Wks": "156",
-      "Pk": "16",
+      "Pos": "55",
+      "P+": "-5",
+      "Artist and Title": "Junior H - LAS NOCHES",
+      "Wks": "46",
+      "Pk": "25",
       "(x?)": "",
-      "Streams": "146,083",
-      "Streams+": "-3,342",
-      "Total": "12,560,163",
-      "track_id": "6r46lnXFbE9fr2d3KNaGbe",
+      "Streams": "149,703",
+      "Streams+": "-877",
+      "Total": "7,610,859",
+      "track_id": "0uQhDYHyoZe5DpncrPolb6",
       "artist_ids": [
-        "5lwmRuXgjX8xIwlnauTZIP"
+        "7Gi6gjaWy3DxyilpF1a8Is"
       ]
     },
     {
-      "Pos": "60",
-      "P+": "-18",
-      "Artist and Title": "Marc Seguí - Tiroteo - Remix (w/ Rauw Alejandro, Pol Granch)",
-      "Wks": "192",
-      "Pk": "19",
-      "(x?)": "",
-      "Streams": "144,480",
-      "Streams+": "-22,897",
-      "Total": "21,205,390",
-      "track_id": "4OwhwvKESFtuu06dTgct7i",
+      "Pos": "56",
+      "P+": "-4",
+      "Artist and Title": "Grupo Frontera - EL AMOR DE SU VIDA (w/ Grupo Firme)",
+      "Wks": "153",
+      "Pk": "3",
+      "(x?)": "(x5)",
+      "Streams": "147,784",
+      "Streams+": "-809",
+      "Total": "37,580,080",
+      "track_id": "0O3U5iwTbiXCREMkvotJuN",
       "artist_ids": [
-        "5FQ8tBUtIamA2hRtatrYUF",
-        "1mcTU81TzQhprhouKaTkpq",
-        "1aMt4A5jrQHxDYyC7rXgV0"
+        "6XkjpgcEsYab502Vr1bBeW",
+        "1dKdetem2xEmjgvyymzytS"
       ]
     },
     {
-      "Pos": "61",
-      "P+": "-21",
+      "Pos": "57",
+      "P+": "+4",
       "Artist and Title": "El Bogueto - Cuando No Era Cantante (w/ Yung Beef)",
-      "Wks": "41",
+      "Wks": "42",
       "Pk": "2",
       "(x?)": "(x2)",
-      "Streams": "144,066",
-      "Streams+": "-25,018",
-      "Total": "9,474,972",
+      "Streams": "147,066",
+      "Streams+": "+3,000",
+      "Total": "9,622,038",
       "track_id": "44xDy4h27s4ENaC8fKnCoC",
       "artist_ids": [
         "3S9Hg7sRKhmtWunFZ2yAYP",
@@ -948,61 +888,45 @@
       ]
     },
     {
-      "Pos": "62",
-      "P+": "+45",
-      "Artist and Title": "Anuel AA - Las mas bonitas son p#tas",
-      "Wks": "2",
-      "Pk": "62",
-      "(x?)": "",
-      "Streams": "141,218",
-      "Streams+": "+26,450",
-      "Total": "255,986",
-      "track_id": "4vJaNTSA8fYLLLSauHmkLe",
+      "Pos": "58",
+      "P+": "+21",
+      "Artist and Title": "Tito Double P - TATTOO",
+      "Wks": "72",
+      "Pk": "1",
+      "(x?)": "(x2)",
+      "Streams": "146,420",
+      "Streams+": "+16,609",
+      "Total": "20,196,932",
+      "track_id": "3KgHiAVuP88QoQs9CO4z1P",
       "artist_ids": [
-        "2R21vXR83lH98kGeO99Y66"
+        "5eumcnUkdmGvkvcsx1WFNG"
       ]
     },
     {
-      "Pos": "63",
-      "P+": "-6",
-      "Artist and Title": "Fuerza Regida - CHAVALITAS",
-      "Wks": "44",
+      "Pos": "59",
+      "P+": "-10",
+      "Artist and Title": "Junior H - MIENTRAS DUERMES",
+      "Wks": "75",
       "Pk": "9",
       "(x?)": "",
-      "Streams": "141,195",
-      "Streams+": "-6,407",
-      "Total": "8,793,268",
-      "track_id": "3qdeRGn9erK9sjs1kUtBys",
+      "Streams": "145,117",
+      "Streams+": "-6,127",
+      "Total": "14,919,074",
+      "track_id": "4e76Ss3ji7HQZ4qwcPNkNA",
       "artist_ids": [
-        "0ys2OFYzWYB5hRDLCsBqxt"
+        "7Gi6gjaWy3DxyilpF1a8Is"
       ]
     },
     {
-      "Pos": "64",
-      "P+": "+17",
-      "Artist and Title": "Peso Pluma - LAGUNAS (w/ Jasiel Nuñez)",
-      "Wks": "89",
-      "Pk": "24",
-      "(x?)": "",
-      "Streams": "138,598",
-      "Streams+": "+12,140",
-      "Total": "10,879,753",
-      "track_id": "3HOKxuTDmNVmIlCIpBiD8m",
-      "artist_ids": [
-        "12GqGscKJx3aE4t07u7eVZ",
-        "0T8Ix53aIN4F7aEKj4EnKy"
-      ]
-    },
-    {
-      "Pos": "65",
-      "P+": "-2",
+      "Pos": "60",
+      "P+": "+5",
       "Artist and Title": "Calle 24 - Que Onda (w/ Chino Pacas, Fuerza Regida)",
-      "Wks": "122",
+      "Wks": "123",
       "Pk": "2",
       "(x?)": "(x3)",
-      "Streams": "137,261",
-      "Streams+": "-4,845",
-      "Total": "33,762,551",
+      "Streams": "144,978",
+      "Streams+": "+7,717",
+      "Total": "33,907,529",
       "track_id": "6uIIdjYTxxpWOyWuVXrKQO",
       "artist_ids": [
         "6dLuQ5qXxIuWc5urxfIiZR",
@@ -1011,94 +935,46 @@
       ]
     },
     {
-      "Pos": "66",
-      "P+": "-6",
-      "Artist and Title": "Peso Pluma - 7-3 (w/ Tito Double P)",
-      "Wks": "28",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "137,235",
-      "Streams+": "-5,174",
-      "Total": "7,951,574",
-      "track_id": "4lzo6zPM2paqyP8oBp3DOs",
-      "artist_ids": [
-        "12GqGscKJx3aE4t07u7eVZ",
-        "5eumcnUkdmGvkvcsx1WFNG"
-      ]
-    },
-    {
-      "Pos": "67",
-      "P+": "+21",
-      "Artist and Title": "Omar Camacho - 2+2 (w/ Victor Mendivil)",
-      "Wks": "53",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "137,033",
-      "Streams+": "+13,195",
-      "Total": "12,596,918",
-      "track_id": "2GP6UzoA55p6yYiPCGyEhg",
-      "artist_ids": [
-        "0rUu2qzqezBrCddX1RuUyJ",
-        "5YqI7p8zYsOpKJtjxYdOce"
-      ]
-    },
-    {
-      "Pos": "68",
-      "P+": "+41",
-      "Artist and Title": "Jay Wheeler - De Lejitos - Remix (w/ Omar Courtz)",
-      "Wks": "5",
-      "Pk": "50",
-      "(x?)": "",
-      "Streams": "136,755",
-      "Streams+": "+22,130",
-      "Total": "694,042",
-      "track_id": "5dgREmLlxVJn6h8U0CofEo",
-      "artist_ids": [
-        "2cPqdH7XMvwaBJEVjheH8g",
-        "3E12tRURRvPfHz0hAMCFYc"
-      ]
-    },
-    {
-      "Pos": "69",
-      "P+": "+13",
-      "Artist and Title": "Romeo Santos - Dardos (w/ Prince Royce)",
-      "Wks": "30",
-      "Pk": "46",
-      "(x?)": "",
-      "Streams": "136,485",
-      "Streams+": "+10,208",
-      "Total": "4,377,513",
-      "track_id": "5SudOD9R1Of6CsJVWZy6CQ",
-      "artist_ids": [
-        "5lwmRuXgjX8xIwlnauTZIP",
-        "3MHaV05u0io8fQbZ2XPtlC"
-      ]
-    },
-    {
-      "Pos": "70",
+      "Pos": "61",
       "P+": "-4",
-      "Artist and Title": "Maluma - Borro Cassette",
-      "Wks": "257",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "135,790",
-      "Streams+": "-4,310",
-      "Total": "16,532,465",
-      "track_id": "6DUdDIRgLqCGq1DwkNWQTN",
+      "Artist and Title": "Los Dareyes De La Sierra - Frecuencia",
+      "Wks": "57",
+      "Pk": "2",
+      "(x?)": "(x9)",
+      "Streams": "144,801",
+      "Streams+": "-2,746",
+      "Total": "14,766,290",
+      "track_id": "56bPsRfOKla3bGGmVz1uk4",
       "artist_ids": [
-        "1r4hJ1h58CWwUQe3MxPuau"
+        "1ZMJSCQw8DIefcLb1FIpY0"
       ]
     },
     {
-      "Pos": "71",
+      "Pos": "62",
+      "P+": "-8",
+      "Artist and Title": "Neton Vega - Morena (w/ Peso Pluma)",
+      "Wks": "74",
+      "Pk": "1",
+      "(x?)": "(x8)",
+      "Streams": "143,262",
+      "Streams+": "-4,846",
+      "Total": "23,332,379",
+      "track_id": "4oB8Xd7gMlUEtWoD8bmCXW",
+      "artist_ids": [
+        "6pV5zH2LzjOUHaAvENdMMa",
+        "12GqGscKJx3aE4t07u7eVZ"
+      ]
+    },
+    {
+      "Pos": "63",
       "P+": "+8",
       "Artist and Title": "Feid - LUNA (w/ ATL Jacob)",
-      "Wks": "136",
+      "Wks": "137",
       "Pk": "2",
       "(x?)": "(x1)",
-      "Streams": "135,131",
-      "Streams+": "+7,054",
-      "Total": "37,589,460",
+      "Streams": "142,813",
+      "Streams+": "+7,682",
+      "Total": "37,732,273",
       "track_id": "7bywjHOc0wSjGGbj04XbVi",
       "artist_ids": [
         "2LRoIwlKmHjgvigdNGBHNo",
@@ -1106,137 +982,75 @@
       ]
     },
     {
-      "Pos": "72",
-      "P+": "-13",
-      "Artist and Title": "Banda MS de Sergio Lizárraga - A Lo Mejor",
-      "Wks": "117",
-      "Pk": "59",
+      "Pos": "64",
+      "P+": "-11",
+      "Artist and Title": "Aventura - El Perdedor",
+      "Wks": "144",
+      "Pk": "18",
       "(x?)": "",
-      "Streams": "134,925",
-      "Streams+": "-8,172",
-      "Total": "6,322,783",
-      "track_id": "1ugCJElyPMmDj2FYPgbD4d",
+      "Streams": "142,721",
+      "Streams+": "-5,447",
+      "Total": "18,211,185",
+      "track_id": "27ze5t5tIDPlVits0KRbxT",
       "artist_ids": [
-        "2C6i0I5RiGzDKN9IAF8reh"
+        "1qto4hHid1P71emI6Fd8xi"
       ]
     },
     {
-      "Pos": "73",
-      "P+": "-6",
-      "Artist and Title": "Tito Double P - NADIE",
-      "Wks": "85",
-      "Pk": "2",
-      "(x?)": "(x4)",
-      "Streams": "134,911",
-      "Streams+": "-1,524",
-      "Total": "23,663,051",
-      "track_id": "7sd6zMrgGpEa7NkQm9TRrg",
-      "artist_ids": [
-        "5eumcnUkdmGvkvcsx1WFNG"
-      ]
-    },
-    {
-      "Pos": "74",
-      "P+": "+23",
+      "Pos": "65",
+      "P+": "+9",
       "Artist and Title": "Aitana - SUPERESTRELLA",
-      "Wks": "15",
-      "Pk": "68",
+      "Wks": "16",
+      "Pk": "65",
       "(x?)": "",
-      "Streams": "134,757",
-      "Streams+": "+16,605",
-      "Total": "1,969,453",
+      "Streams": "140,629",
+      "Streams+": "+5,872",
+      "Total": "2,110,082",
       "track_id": "6hpuesKPNa3WhV48O7Fa47",
       "artist_ids": [
         "7eLcDZDYHXZCebtQmVFL25"
       ]
     },
     {
-      "Pos": "75",
-      "P+": "-10",
-      "Artist and Title": "Junior H - PIÉNSALO",
-      "Wks": "101",
-      "Pk": "16",
+      "Pos": "66",
+      "P+": "+15",
+      "Artist and Title": "Bad Bunny - EoO",
+      "Wks": "80",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "138,547",
+      "Streams+": "+9,245",
+      "Total": "20,974,822",
+      "track_id": "6J5kc12BW5HuP3d7C3vvx8",
+      "artist_ids": [
+        "4q3ewBCX7sLwd24euuV69X"
+      ]
+    },
+    {
+      "Pos": "67",
+      "P+": "+3",
+      "Artist and Title": "Maluma - Borro Cassette",
+      "Wks": "258",
+      "Pk": "4",
       "(x?)": "",
-      "Streams": "133,627",
-      "Streams+": "-7,022",
-      "Total": "18,846,009",
-      "track_id": "4ZOkfHC38nxSeSqzGE5HFr",
+      "Streams": "137,881",
+      "Streams+": "+2,091",
+      "Total": "16,670,346",
+      "track_id": "6DUdDIRgLqCGq1DwkNWQTN",
       "artist_ids": [
-        "7Gi6gjaWy3DxyilpF1a8Is"
+        "1r4hJ1h58CWwUQe3MxPuau"
       ]
     },
     {
-      "Pos": "76",
-      "P+": "=",
-      "Artist and Title": "KAROL G - Si Antes Te Hubiera Conocido",
-      "Wks": "107",
-      "Pk": "1",
-      "(x?)": "(x11)",
-      "Streams": "133,480",
-      "Streams+": "+4,209",
-      "Total": "27,129,667",
-      "track_id": "6WatFBLVB0x077xWeoVc2k",
-      "artist_ids": [
-        "790FomKkXshlbRYZFtlgla"
-      ]
-    },
-    {
-      "Pos": "77",
-      "P+": "+9",
-      "Artist and Title": "Plan B - Fanatica Sensual",
-      "Wks": "44",
-      "Pk": "77",
-      "(x?)": "",
-      "Streams": "130,855",
-      "Streams+": "+5,529",
-      "Total": "4,794,723",
-      "track_id": "1DrDfpOx4P4LMxFhtOmeyD",
-      "artist_ids": [
-        "2jSGzJw0ebJLu7OLVSOcBP"
-      ]
-    },
-    {
-      "Pos": "78",
-      "P+": "-10",
-      "Artist and Title": "Moy Bobadilla - Tus Mentiras (En Vivo) (w/ Grupo Firme, Max Peraza)",
-      "Wks": "23",
-      "Pk": "64",
-      "(x?)": "",
-      "Streams": "130,721",
-      "Streams+": "-4,455",
-      "Total": "3,104,463",
-      "track_id": "6znjONJrY5EFnn8TsIsPwx",
-      "artist_ids": [
-        "6H8yLg2ml8H94LRjriezMR",
-        "1dKdetem2xEmjgvyymzytS",
-        "40XLXsvXDPJuQ6adeK9zh7"
-      ]
-    },
-    {
-      "Pos": "79",
-      "P+": "-7",
-      "Artist and Title": "Tito Double P - TATTOO",
-      "Wks": "71",
-      "Pk": "1",
-      "(x?)": "(x2)",
-      "Streams": "129,811",
-      "Streams+": "-3,502",
-      "Total": "20,050,512",
-      "track_id": "3KgHiAVuP88QoQs9CO4z1P",
-      "artist_ids": [
-        "5eumcnUkdmGvkvcsx1WFNG"
-      ]
-    },
-    {
-      "Pos": "80",
-      "P+": "+7",
+      "Pos": "68",
+      "P+": "+12",
       "Artist and Title": "JHAYCO - No Me Conoce - Remix (w/ J Balvin, Bad Bunny)",
-      "Wks": "161",
+      "Wks": "162",
       "Pk": "38",
       "(x?)": "",
-      "Streams": "129,640",
-      "Streams+": "+4,501",
-      "Total": "17,751,324",
+      "Streams": "137,132",
+      "Streams+": "+7,492",
+      "Total": "17,888,456",
       "track_id": "2beS6dD5rovBxSA1zYoSHR",
       "artist_ids": [
         "6nVcHLIgY5pE2YCl8ubca1",
@@ -1245,30 +1059,31 @@
       ]
     },
     {
-      "Pos": "81",
-      "P+": "-11",
-      "Artist and Title": "Bad Bunny - EoO",
-      "Wks": "79",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "129,302",
-      "Streams+": "-4,891",
-      "Total": "20,836,275",
-      "track_id": "6J5kc12BW5HuP3d7C3vvx8",
+      "Pos": "69",
+      "P+": "-2",
+      "Artist and Title": "Omar Camacho - 2+2 (w/ Victor Mendivil)",
+      "Wks": "54",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "135,616",
+      "Streams+": "-1,417",
+      "Total": "12,732,534",
+      "track_id": "2GP6UzoA55p6yYiPCGyEhg",
       "artist_ids": [
-        "4q3ewBCX7sLwd24euuV69X"
+        "0rUu2qzqezBrCddX1RuUyJ",
+        "5YqI7p8zYsOpKJtjxYdOce"
       ]
     },
     {
-      "Pos": "82",
-      "P+": "-5",
+      "Pos": "70",
+      "P+": "+12",
       "Artist and Title": "Fuerza Regida - UNA CERVEZA (w/ Manuel Turizo)",
-      "Wks": "132",
+      "Wks": "133",
       "Pk": "13",
       "(x?)": "",
-      "Streams": "128,488",
-      "Streams+": "-751",
-      "Total": "19,406,834",
+      "Streams": "134,909",
+      "Streams+": "+6,421",
+      "Total": "19,541,743",
       "track_id": "0lbDzTINTToToBpkrnQT2t",
       "artist_ids": [
         "0ys2OFYzWYB5hRDLCsBqxt",
@@ -1276,168 +1091,182 @@
       ]
     },
     {
-      "Pos": "83",
-      "P+": "+10",
-      "Artist and Title": "Bad Bunny - KLOuFRENS",
-      "Wks": "79",
-      "Pk": "14",
+      "Pos": "71",
+      "P+": "+4",
+      "Artist and Title": "Junior H - PIÉNSALO",
+      "Wks": "102",
+      "Pk": "16",
       "(x?)": "",
-      "Streams": "128,310",
-      "Streams+": "+7,794",
-      "Total": "14,846,557",
-      "track_id": "4MUrUT38U98olfnyzMBCzm",
+      "Streams": "134,726",
+      "Streams+": "+1,099",
+      "Total": "18,980,735",
+      "track_id": "4ZOkfHC38nxSeSqzGE5HFr",
       "artist_ids": [
-        "4q3ewBCX7sLwd24euuV69X"
+        "7Gi6gjaWy3DxyilpF1a8Is"
       ]
     },
     {
-      "Pos": "84",
-      "P+": "+37",
-      "Artist and Title": "Chuyin - PUES YA NI PEDO (w/ Fuerza Regida)",
-      "Wks": "7",
-      "Pk": "84",
+      "Pos": "72",
+      "P+": "-6",
+      "Artist and Title": "Peso Pluma - 7-3 (w/ Tito Double P)",
+      "Wks": "29",
+      "Pk": "4",
       "(x?)": "",
-      "Streams": "127,992",
-      "Streams+": "+17,403",
-      "Total": "766,482",
-      "track_id": "3N7BmCgSASJ9WWYqhzT5uJ",
+      "Streams": "134,121",
+      "Streams+": "-3,114",
+      "Total": "8,085,695",
+      "track_id": "4lzo6zPM2paqyP8oBp3DOs",
       "artist_ids": [
-        "5c8ZR64evQ00Spl73s76fo",
+        "12GqGscKJx3aE4t07u7eVZ",
+        "5eumcnUkdmGvkvcsx1WFNG"
+      ]
+    },
+    {
+      "Pos": "73",
+      "P+": "-4",
+      "Artist and Title": "Romeo Santos - Dardos (w/ Prince Royce)",
+      "Wks": "31",
+      "Pk": "46",
+      "(x?)": "",
+      "Streams": "133,810",
+      "Streams+": "-2,675",
+      "Total": "4,511,323",
+      "track_id": "5SudOD9R1Of6CsJVWZy6CQ",
+      "artist_ids": [
+        "5lwmRuXgjX8xIwlnauTZIP",
+        "3MHaV05u0io8fQbZ2XPtlC"
+      ]
+    },
+    {
+      "Pos": "74",
+      "P+": "-15",
+      "Artist and Title": "Romeo Santos - Imitadora",
+      "Wks": "157",
+      "Pk": "16",
+      "(x?)": "",
+      "Streams": "133,146",
+      "Streams+": "-12,937",
+      "Total": "12,693,309",
+      "track_id": "6r46lnXFbE9fr2d3KNaGbe",
+      "artist_ids": [
+        "5lwmRuXgjX8xIwlnauTZIP"
+      ]
+    },
+    {
+      "Pos": "75",
+      "P+": "+24",
+      "Artist and Title": "Quevedo - Columbia",
+      "Wks": "70",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "132,914",
+      "Streams+": "+14,976",
+      "Total": "13,145,310",
+      "track_id": "6XbtvPmIpyCbjuT0e8cQtp",
+      "artist_ids": [
+        "52iwsT98xCoGgiGntTiR7K"
+      ]
+    },
+    {
+      "Pos": "76",
+      "P+": "-13",
+      "Artist and Title": "Fuerza Regida - CHAVALITAS",
+      "Wks": "45",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "132,896",
+      "Streams+": "-8,299",
+      "Total": "8,926,164",
+      "track_id": "3qdeRGn9erK9sjs1kUtBys",
+      "artist_ids": [
         "0ys2OFYzWYB5hRDLCsBqxt"
       ]
     },
     {
-      "Pos": "85",
-      "P+": "-7",
+      "Pos": "77",
+      "P+": "-5",
+      "Artist and Title": "Banda MS de Sergio Lizárraga - A Lo Mejor",
+      "Wks": "118",
+      "Pk": "59",
+      "(x?)": "",
+      "Streams": "132,733",
+      "Streams+": "-2,192",
+      "Total": "6,455,516",
+      "track_id": "1ugCJElyPMmDj2FYPgbD4d",
+      "artist_ids": [
+        "2C6i0I5RiGzDKN9IAF8reh"
+      ]
+    },
+    {
+      "Pos": "78",
+      "P+": "-2",
+      "Artist and Title": "KAROL G - Si Antes Te Hubiera Conocido",
+      "Wks": "108",
+      "Pk": "1",
+      "(x?)": "(x11)",
+      "Streams": "132,183",
+      "Streams+": "-1,297",
+      "Total": "27,261,850",
+      "track_id": "6WatFBLVB0x077xWeoVc2k",
+      "artist_ids": [
+        "790FomKkXshlbRYZFtlgla"
+      ]
+    },
+    {
+      "Pos": "79",
+      "P+": "+6",
       "Artist and Title": "Plan B - Candy",
-      "Wks": "171",
+      "Wks": "172",
       "Pk": "55",
       "(x?)": "",
-      "Streams": "127,449",
-      "Streams+": "-805",
-      "Total": "18,007,603",
+      "Streams": "132,104",
+      "Streams+": "+4,655",
+      "Total": "18,139,707",
       "track_id": "2ctjDCCg1wHoQSjIJ8p6U4",
       "artist_ids": [
         "2jSGzJw0ebJLu7OLVSOcBP"
       ]
     },
     {
-      "Pos": "86",
-      "P+": "-15",
+      "Pos": "80",
+      "P+": "+6",
       "Artist and Title": "Zion & Lennox - La Player (Bandolera)",
-      "Wks": "210",
+      "Wks": "211",
       "Pk": "2",
       "(x?)": "(x6)",
-      "Streams": "127,257",
-      "Streams+": "-6,832",
-      "Total": "14,787,572",
+      "Streams": "131,106",
+      "Streams+": "+3,849",
+      "Total": "14,918,678",
       "track_id": "0VKkyBKCXyR99navhVRqcP",
       "artist_ids": [
         "21451j1KhjAiaYKflxBjr1"
       ]
     },
     {
-      "Pos": "87",
-      "P+": "-7",
-      "Artist and Title": "Fuerza Regida - Por Esos Ojos",
-      "Wks": "73",
-      "Pk": "6",
+      "Pos": "81",
+      "P+": "+2",
+      "Artist and Title": "Bad Bunny - KLOuFRENS",
+      "Wks": "80",
+      "Pk": "14",
       "(x?)": "",
-      "Streams": "127,249",
-      "Streams+": "+674",
-      "Total": "17,028,161",
-      "track_id": "77pDO4WZPIdkwFve0iHWnb",
+      "Streams": "130,968",
+      "Streams+": "+2,658",
+      "Total": "14,977,525",
+      "track_id": "4MUrUT38U98olfnyzMBCzm",
       "artist_ids": [
-        "0ys2OFYzWYB5hRDLCsBqxt"
+        "4q3ewBCX7sLwd24euuV69X"
       ]
     },
     {
-      "Pos": "88",
-      "P+": "-15",
-      "Artist and Title": "Tito Double P - DOS DÍAS (w/ Peso Pluma)",
-      "Wks": "98",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "127,109",
-      "Streams+": "-6,192",
-      "Total": "27,543,888",
-      "track_id": "5lKFO0PrOC9jmOlPEdjHsL",
-      "artist_ids": [
-        "5eumcnUkdmGvkvcsx1WFNG",
-        "12GqGscKJx3aE4t07u7eVZ"
-      ]
-    },
-    {
-      "Pos": "89",
-      "P+": "-15",
-      "Artist and Title": "Fuerza Regida - PERO NO TE ENAMORES",
-      "Wks": "61",
-      "Pk": "43",
-      "(x?)": "",
-      "Streams": "126,246",
-      "Streams+": "-3,411",
-      "Total": "7,110,181",
-      "track_id": "3w1h7uNU1Dfk2tOaHiIGat",
-      "artist_ids": [
-        "0ys2OFYzWYB5hRDLCsBqxt"
-      ]
-    },
-    {
-      "Pos": "90",
-      "P+": "-15",
-      "Artist and Title": "Conjunto Primavera - Actos De Un Tonto",
-      "Wks": "55",
-      "Pk": "75",
-      "(x?)": "",
-      "Streams": "124,554",
-      "Streams+": "-4,994",
-      "Total": "5,914,783",
-      "track_id": "7cmdmDyKZDgK92uPlTBg6m",
-      "artist_ids": [
-        "3nFB4eMP5gdqee2eQb8nZb"
-      ]
-    },
-    {
-      "Pos": "91",
-      "P+": "-45",
-      "Artist and Title": "Oliver Tree - Life Goes On",
-      "Wks": "28",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "124,405",
-      "Streams+": "-39,429",
-      "Total": "2,679,446",
-      "track_id": "0eu4C55hL6x29mmeAjytzC",
-      "artist_ids": [
-        "6TLwD7HPWuiOzvXEa3oCNe"
-      ]
-    },
-    {
-      "Pos": "92",
-      "P+": "+24",
-      "Artist and Title": "Xavi - En Privado (w/ Manuel Turizo)",
-      "Wks": "74",
-      "Pk": "1",
-      "(x?)": "(x3)",
-      "Streams": "124,283",
-      "Streams+": "+11,874",
-      "Total": "20,839,874",
-      "track_id": "2SkB7jADnfiWH8qAE9H8cO",
-      "artist_ids": [
-        "3Me35AWHCGqW4sZ7bWWJt1",
-        "0tmwSHipWxN12fsoLcFU3B"
-      ]
-    },
-    {
-      "Pos": "93",
-      "P+": "-2",
+      "Pos": "82",
+      "P+": "+11",
       "Artist and Title": "Tainy - MOJABI GHOST (w/ Bad Bunny)",
-      "Wks": "157",
+      "Wks": "158",
       "Pk": "11",
       "(x?)": "",
-      "Streams": "123,747",
-      "Streams+": "+1,704",
-      "Total": "21,291,217",
+      "Streams": "129,614",
+      "Streams+": "+5,867",
+      "Total": "21,420,831",
       "track_id": "46YjJXVXWHlQ21odKktg5e",
       "artist_ids": [
         "0GM7qgcRCORpGnfcN2tCiB",
@@ -1445,15 +1274,264 @@
       ]
     },
     {
+      "Pos": "83",
+      "P+": "+6",
+      "Artist and Title": "Fuerza Regida - PERO NO TE ENAMORES",
+      "Wks": "62",
+      "Pk": "43",
+      "(x?)": "",
+      "Streams": "129,230",
+      "Streams+": "+2,984",
+      "Total": "7,239,411",
+      "track_id": "3w1h7uNU1Dfk2tOaHiIGat",
+      "artist_ids": [
+        "0ys2OFYzWYB5hRDLCsBqxt"
+      ]
+    },
+    {
+      "Pos": "84",
+      "P+": "+37",
+      "Artist and Title": "LOS DOS DE TAMAULIPAS - Gastando Verdes",
+      "Wks": "3",
+      "Pk": "84",
+      "(x?)": "",
+      "Streams": "128,378",
+      "Streams+": "+17,703",
+      "Total": "333,635",
+      "track_id": "5n9qm4KvU4dKWVFpCAwSGt",
+      "artist_ids": [
+        "77Zc5MMUIMJriEDAcaDspi"
+      ]
+    },
+    {
+      "Pos": "85",
+      "P+": "-8",
+      "Artist and Title": "Plan B - Fanatica Sensual",
+      "Wks": "45",
+      "Pk": "77",
+      "(x?)": "",
+      "Streams": "127,406",
+      "Streams+": "-3,449",
+      "Total": "4,922,129",
+      "track_id": "1DrDfpOx4P4LMxFhtOmeyD",
+      "artist_ids": [
+        "2jSGzJw0ebJLu7OLVSOcBP"
+      ]
+    },
+    {
+      "Pos": "86",
+      "P+": "+6",
+      "Artist and Title": "Xavi - En Privado (w/ Manuel Turizo)",
+      "Wks": "75",
+      "Pk": "1",
+      "(x?)": "(x3)",
+      "Streams": "127,347",
+      "Streams+": "+3,064",
+      "Total": "20,967,221",
+      "track_id": "2SkB7jADnfiWH8qAE9H8cO",
+      "artist_ids": [
+        "3Me35AWHCGqW4sZ7bWWJt1",
+        "0tmwSHipWxN12fsoLcFU3B"
+      ]
+    },
+    {
+      "Pos": "87",
+      "P+": "-19",
+      "Artist and Title": "Jay Wheeler - De Lejitos - Remix (w/ Omar Courtz)",
+      "Wks": "6",
+      "Pk": "50",
+      "(x?)": "",
+      "Streams": "126,049",
+      "Streams+": "-10,706",
+      "Total": "820,091",
+      "track_id": "5dgREmLlxVJn6h8U0CofEo",
+      "artist_ids": [
+        "2cPqdH7XMvwaBJEVjheH8g",
+        "3E12tRURRvPfHz0hAMCFYc"
+      ]
+    },
+    {
+      "Pos": "88",
+      "P+": "-15",
+      "Artist and Title": "Tito Double P - NADIE",
+      "Wks": "86",
+      "Pk": "2",
+      "(x?)": "(x4)",
+      "Streams": "125,015",
+      "Streams+": "-9,896",
+      "Total": "23,788,066",
+      "track_id": "7sd6zMrgGpEa7NkQm9TRrg",
+      "artist_ids": [
+        "5eumcnUkdmGvkvcsx1WFNG"
+      ]
+    },
+    {
+      "Pos": "89",
+      "P+": "+11",
+      "Artist and Title": "Tito Double P - 5-7 (w/ Junior H)",
+      "Wks": "98",
+      "Pk": "18",
+      "(x?)": "",
+      "Streams": "124,988",
+      "Streams+": "+7,271",
+      "Total": "19,099,526",
+      "track_id": "3IEvQ1CzszUJtTRLmmMJ2X",
+      "artist_ids": [
+        "5eumcnUkdmGvkvcsx1WFNG",
+        "7Gi6gjaWy3DxyilpF1a8Is"
+      ]
+    },
+    {
+      "Pos": "90",
+      "P+": "+5",
+      "Artist and Title": "Fuerza Regida - ME JALO (w/ Grupo Frontera)",
+      "Wks": "82",
+      "Pk": "3",
+      "(x?)": "(x2)",
+      "Streams": "124,600",
+      "Streams+": "+1,796",
+      "Total": "18,663,921",
+      "track_id": "3D24ErT1MMmUfXWotSj2A2",
+      "artist_ids": [
+        "0ys2OFYzWYB5hRDLCsBqxt",
+        "6XkjpgcEsYab502Vr1bBeW"
+      ]
+    },
+    {
+      "Pos": "91",
+      "P+": "+32",
+      "Artist and Title": "La Mosca - Para No Verte Más",
+      "Wks": "2",
+      "Pk": "91",
+      "(x?)": "",
+      "Streams": "124,599",
+      "Streams+": "+14,431",
+      "Total": "234,767",
+      "track_id": "19CmuECYssqkPWANF4nLWM",
+      "artist_ids": [
+        "60nua3AsVSfADZtg5Hdz3W"
+      ]
+    },
+    {
+      "Pos": "92",
+      "P+": "-4",
+      "Artist and Title": "Tito Double P - DOS DÍAS (w/ Peso Pluma)",
+      "Wks": "99",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "123,597",
+      "Streams+": "-3,512",
+      "Total": "27,667,485",
+      "track_id": "5lKFO0PrOC9jmOlPEdjHsL",
+      "artist_ids": [
+        "5eumcnUkdmGvkvcsx1WFNG",
+        "12GqGscKJx3aE4t07u7eVZ"
+      ]
+    },
+    {
+      "Pos": "93",
+      "P+": "-9",
+      "Artist and Title": "Chuyin - PUES YA NI PEDO (w/ Fuerza Regida)",
+      "Wks": "8",
+      "Pk": "84",
+      "(x?)": "",
+      "Streams": "121,158",
+      "Streams+": "-6,834",
+      "Total": "887,640",
+      "track_id": "3N7BmCgSASJ9WWYqhzT5uJ",
+      "artist_ids": [
+        "5c8ZR64evQ00Spl73s76fo",
+        "0ys2OFYzWYB5hRDLCsBqxt"
+      ]
+    },
+    {
       "Pos": "94",
-      "P+": "=",
+      "P+": "-4",
+      "Artist and Title": "Conjunto Primavera - Actos De Un Tonto",
+      "Wks": "56",
+      "Pk": "75",
+      "(x?)": "",
+      "Streams": "120,724",
+      "Streams+": "-3,830",
+      "Total": "6,035,507",
+      "track_id": "7cmdmDyKZDgK92uPlTBg6m",
+      "artist_ids": [
+        "3nFB4eMP5gdqee2eQb8nZb"
+      ]
+    },
+    {
+      "Pos": "95",
+      "P+": "-8",
+      "Artist and Title": "Fuerza Regida - Por Esos Ojos",
+      "Wks": "74",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "120,531",
+      "Streams+": "-6,718",
+      "Total": "17,148,692",
+      "track_id": "77pDO4WZPIdkwFve0iHWnb",
+      "artist_ids": [
+        "0ys2OFYzWYB5hRDLCsBqxt"
+      ]
+    },
+    {
+      "Pos": "96",
+      "P+": "+6",
+      "Artist and Title": "Ryan Castro - LA VILLA (w/ Kapo, Gangsta)",
+      "Wks": "30",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "119,960",
+      "Streams+": "+3,327",
+      "Total": "5,762,634",
+      "track_id": "2ZyrAym0sRLwt4PhGotHuI",
+      "artist_ids": [
+        "7j6DKwmjbxvpQO8h914uEz",
+        "3UTF2no3muGdiFXVujl94i",
+        "5ayJu41CsIbLfnMldF6bj3"
+      ]
+    },
+    {
+      "Pos": "97",
+      "P+": "+14",
+      "Artist and Title": "Calle 24 - SUIZA",
+      "Wks": "63",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "119,763",
+      "Streams+": "+5,727",
+      "Total": "14,157,174",
+      "track_id": "7585wxMp2e3IhBq3tJAXgw",
+      "artist_ids": [
+        "6dLuQ5qXxIuWc5urxfIiZR"
+      ]
+    },
+    {
+      "Pos": "98",
+      "P+": "+3",
+      "Artist and Title": "Shakira - Dai Dai (w/ Burna Boy)",
+      "Wks": "9",
+      "Pk": "50",
+      "(x?)": "",
+      "Streams": "119,148",
+      "Streams+": "+2,151",
+      "Total": "1,107,376",
+      "track_id": "0kosUz0jePvjiz4ctmR6wL",
+      "artist_ids": [
+        "0EmeFodog0BfCgMzAIvKQp",
+        "3wcj11K77LjEY1PkEazffa"
+      ]
+    },
+    {
+      "Pos": "99",
+      "P+": "-5",
       "Artist and Title": "Omar Camacho - 4x4 (w/ Victor Mendivil, Angel Almaguer, $HUPE)",
-      "Wks": "25",
+      "Wks": "26",
       "Pk": "26",
       "(x?)": "",
-      "Streams": "122,993",
-      "Streams+": "+2,714",
-      "Total": "4,592,644",
+      "Streams": "118,873",
+      "Streams+": "-4,120",
+      "Total": "4,711,517",
       "track_id": "1nkrOMcNi5TAwYWDQAOaB3",
       "artist_ids": [
         "0rUu2qzqezBrCddX1RuUyJ",
@@ -1463,31 +1541,15 @@
       ]
     },
     {
-      "Pos": "95",
-      "P+": "+18",
-      "Artist and Title": "Fuerza Regida - ME JALO (w/ Grupo Frontera)",
-      "Wks": "81",
-      "Pk": "3",
-      "(x?)": "(x2)",
-      "Streams": "122,804",
-      "Streams+": "+9,804",
-      "Total": "18,539,321",
-      "track_id": "3D24ErT1MMmUfXWotSj2A2",
-      "artist_ids": [
-        "0ys2OFYzWYB5hRDLCsBqxt",
-        "6XkjpgcEsYab502Vr1bBeW"
-      ]
-    },
-    {
-      "Pos": "96",
-      "P+": "-1",
+      "Pos": "100",
+      "P+": "-4",
       "Artist and Title": "Héctor \"El Father\" - El Telefono (w/ Wisin & Yandel)",
-      "Wks": "43",
+      "Wks": "44",
       "Pk": "43",
       "(x?)": "",
-      "Streams": "121,241",
-      "Streams+": "+1,258",
-      "Total": "5,808,952",
+      "Streams": "118,562",
+      "Streams+": "-2,679",
+      "Total": "5,927,514",
       "track_id": "614NVFo5csQqRnryl4jXs2",
       "artist_ids": [
         "2TjgzYcbTdsZjbT9OItIeB",
@@ -1495,109 +1557,15 @@
       ]
     },
     {
-      "Pos": "97",
-      "P+": "-13",
-      "Artist and Title": "Aventura - Dile al Amor",
-      "Wks": "168",
-      "Pk": "28",
-      "(x?)": "",
-      "Streams": "120,262",
-      "Streams+": "-5,370",
-      "Total": "17,241,101",
-      "track_id": "6lFM8kkmpffm0aq2gzEtEK",
-      "artist_ids": [
-        "1qto4hHid1P71emI6Fd8xi"
-      ]
-    },
-    {
-      "Pos": "98",
-      "P+": "-9",
-      "Artist and Title": "Don Omar - Dile",
-      "Wks": "304",
-      "Pk": "36",
-      "(x?)": "",
-      "Streams": "119,027",
-      "Streams+": "-3,790",
-      "Total": "29,679,625",
-      "track_id": "69Ej1xrGjOcHvIMtMKxK0G",
-      "artist_ids": [
-        "33ScadVnbm2X8kkUqOkC6Z"
-      ]
-    },
-    {
-      "Pos": "99",
-      "P+": "RE",
-      "Artist and Title": "Quevedo - Columbia",
-      "Wks": "69",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "117,938",
-      "Streams+": "",
-      "Total": "13,012,396",
-      "track_id": "6XbtvPmIpyCbjuT0e8cQtp",
-      "artist_ids": [
-        "52iwsT98xCoGgiGntTiR7K"
-      ]
-    },
-    {
-      "Pos": "100",
-      "P+": "+3",
-      "Artist and Title": "Tito Double P - 5-7 (w/ Junior H)",
-      "Wks": "97",
-      "Pk": "18",
-      "(x?)": "",
-      "Streams": "117,717",
-      "Streams+": "+1,537",
-      "Total": "18,974,538",
-      "track_id": "3IEvQ1CzszUJtTRLmmMJ2X",
-      "artist_ids": [
-        "5eumcnUkdmGvkvcsx1WFNG",
-        "7Gi6gjaWy3DxyilpF1a8Is"
-      ]
-    },
-    {
       "Pos": "101",
-      "P+": "-2",
-      "Artist and Title": "Shakira - Dai Dai (w/ Burna Boy)",
-      "Wks": "8",
-      "Pk": "50",
-      "(x?)": "",
-      "Streams": "116,997",
-      "Streams+": "-264",
-      "Total": "988,228",
-      "track_id": "0kosUz0jePvjiz4ctmR6wL",
-      "artist_ids": [
-        "0EmeFodog0BfCgMzAIvKQp",
-        "3wcj11K77LjEY1PkEazffa"
-      ]
-    },
-    {
-      "Pos": "102",
-      "P+": "-6",
-      "Artist and Title": "Ryan Castro - LA VILLA (w/ Kapo, Gangsta)",
-      "Wks": "29",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "116,633",
-      "Streams+": "-1,540",
-      "Total": "5,642,674",
-      "track_id": "2ZyrAym0sRLwt4PhGotHuI",
-      "artist_ids": [
-        "7j6DKwmjbxvpQO8h914uEz",
-        "3UTF2no3muGdiFXVujl94i",
-        "5ayJu41CsIbLfnMldF6bj3"
-      ]
-    },
-    {
-      "Pos": "103",
-      "P+": "RE",
+      "P+": "+2",
       "Artist and Title": "Alleh - capaz (merengueton) (w/ Yorghaki)",
-      "Wks": "59",
+      "Wks": "60",
       "Pk": "24",
       "(x?)": "",
-      "Streams": "115,599",
-      "Streams+": "",
-      "Total": "9,738,135",
+      "Streams": "118,511",
+      "Streams+": "+2,912",
+      "Total": "9,856,646",
       "track_id": "4DnrAI8WyUY6gkOwl8GlPN",
       "artist_ids": [
         "3DeOmVSmpv7WknXoo1OS8p",
@@ -1605,168 +1573,30 @@
       ]
     },
     {
-      "Pos": "104",
-      "P+": "-4",
-      "Artist and Title": "Romeo Santos - Odio (w/ Drake)",
-      "Wks": "164",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "115,244",
-      "Streams+": "-2,009",
-      "Total": "8,338,231",
-      "track_id": "1iLv1ieT9BZ3qsti9yTCnG",
-      "artist_ids": [
-        "5lwmRuXgjX8xIwlnauTZIP",
-        "3TVXtAsR1Inumwj472S9r4"
-      ]
-    },
-    {
-      "Pos": "105",
-      "P+": "+94",
-      "Artist and Title": "Romeo Santos - Llévame Contigo",
-      "Wks": "107",
-      "Pk": "39",
-      "(x?)": "",
-      "Streams": "115,182",
-      "Streams+": "+25,418",
-      "Total": "9,482,036",
-      "track_id": "0uLwWjN1KFO678WNJcZDkw",
-      "artist_ids": [
-        "5lwmRuXgjX8xIwlnauTZIP"
-      ]
-    },
-    {
-      "Pos": "106",
-      "P+": "-23",
-      "Artist and Title": "Michael Jackson - Billie Jean",
-      "Wks": "11",
-      "Pk": "31",
-      "(x?)": "",
-      "Streams": "115,064",
-      "Streams+": "-10,936",
-      "Total": "1,839,732",
-      "track_id": "7J1uxwnxfQLu4APicE5Rnj",
-      "artist_ids": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ]
-    },
-    {
-      "Pos": "107",
-      "P+": "+18",
-      "Artist and Title": "Belanova - Rosa Pastel",
-      "Wks": "150",
-      "Pk": "28",
-      "(x?)": "",
-      "Streams": "114,870",
-      "Streams+": "+6,187",
-      "Total": "18,106,827",
-      "track_id": "6Z0ybnsUBhbZ9ZjPW64eoF",
-      "artist_ids": [
-        "3oNy8cjBtJzLC07I70sklp"
-      ]
-    },
-    {
-      "Pos": "108",
-      "P+": "+68",
+      "Pos": "102",
+      "P+": "+6",
       "Artist and Title": "Junior H - TRES BOTELLAS",
-      "Wks": "95",
+      "Wks": "96",
       "Pk": "29",
       "(x?)": "",
-      "Streams": "114,762",
-      "Streams+": "+20,662",
-      "Total": "11,966,062",
+      "Streams": "118,050",
+      "Streams+": "+3,288",
+      "Total": "12,084,112",
       "track_id": "2CshODtf7iwe3pKlPmEWF5",
       "artist_ids": [
         "7Gi6gjaWy3DxyilpF1a8Is"
       ]
     },
     {
-      "Pos": "109",
-      "P+": "+13",
-      "Artist and Title": "Los Bukis - A Donde Vayas",
-      "Wks": "159",
-      "Pk": "69",
-      "(x?)": "",
-      "Streams": "114,358",
-      "Streams+": "+3,929",
-      "Total": "15,667,199",
-      "track_id": "3yb8pakJMZzfiK7siLZLUM",
-      "artist_ids": [
-        "16kOCiqZ1auY4sokSeZuKf"
-      ]
-    },
-    {
-      "Pos": "110",
-      "P+": "+18",
-      "Artist and Title": "Tainy - Lo Siento BB:/ (w/ Bad Bunny, Julieta Venegas)",
-      "Wks": "167",
-      "Pk": "1",
-      "(x?)": "(x20)",
-      "Streams": "114,246",
-      "Streams+": "+7,765",
-      "Total": "27,058,326",
-      "track_id": "4gzsuuZypVbxs0Af1LSZyB",
-      "artist_ids": [
-        "0GM7qgcRCORpGnfcN2tCiB",
-        "4q3ewBCX7sLwd24euuV69X",
-        "2QWIScpFDNxmS6ZEMIUvgm"
-      ]
-    },
-    {
-      "Pos": "111",
-      "P+": "+1",
-      "Artist and Title": "Calle 24 - SUIZA",
-      "Wks": "62",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "114,036",
-      "Streams+": "+1,036",
-      "Total": "14,037,411",
-      "track_id": "7585wxMp2e3IhBq3tJAXgw",
-      "artist_ids": [
-        "6dLuQ5qXxIuWc5urxfIiZR"
-      ]
-    },
-    {
-      "Pos": "112",
-      "P+": "-11",
-      "Artist and Title": "Eddy Herrera - Tu Eres Ajena",
-      "Wks": "45",
-      "Pk": "88",
-      "(x?)": "",
-      "Streams": "113,823",
-      "Streams+": "-2,903",
-      "Total": "4,220,920",
-      "track_id": "1jD48pmiHMSVHHPzKLi4P3",
-      "artist_ids": [
-        "4yNdrUaF54csrLixVTnqzC"
-      ]
-    },
-    {
-      "Pos": "113",
-      "P+": "+1",
-      "Artist and Title": "Los Bukis - Acepto Mi Derrota",
-      "Wks": "145",
-      "Pk": "49",
-      "(x?)": "",
-      "Streams": "113,194",
-      "Streams+": "+530",
-      "Total": "17,141,024",
-      "track_id": "3FKDvQRZImg9cl1jcaQiHX",
-      "artist_ids": [
-        "16kOCiqZ1auY4sokSeZuKf"
-      ]
-    },
-    {
-      "Pos": "114",
-      "P+": "+37",
+      "Pos": "103",
+      "P+": "+11",
       "Artist and Title": "Ya Ice Dilan - Dichavate (w/ Rey Tony, Helabusador, JipMusic Global, Dj Honda)",
-      "Wks": "3",
-      "Pk": "114",
+      "Wks": "4",
+      "Pk": "103",
       "(x?)": "",
-      "Streams": "113,084",
-      "Streams+": "+14,083",
-      "Total": "308,973",
+      "Streams": "117,135",
+      "Streams+": "+4,051",
+      "Total": "426,108",
       "track_id": "6Ab2trdJulkRRhaJ9zVGQa",
       "artist_ids": [
         "3EumQuYai5g1235jIBaPhA",
@@ -1777,78 +1607,46 @@
       ]
     },
     {
-      "Pos": "115",
-      "P+": "+70",
-      "Artist and Title": "Rauw Alejandro - Qué Pasaría... (w/ Bad Bunny)",
-      "Wks": "84",
-      "Pk": "5",
+      "Pos": "104",
+      "P+": "=",
+      "Artist and Title": "Romeo Santos - Odio (w/ Drake)",
+      "Wks": "165",
+      "Pk": "6",
       "(x?)": "",
-      "Streams": "112,335",
-      "Streams+": "+19,930",
-      "Total": "18,258,829",
-      "track_id": "0l0vcZMU7AOeQmUIREoI2U",
+      "Streams": "117,096",
+      "Streams+": "+1,852",
+      "Total": "8,455,327",
+      "track_id": "1iLv1ieT9BZ3qsti9yTCnG",
       "artist_ids": [
-        "1mcTU81TzQhprhouKaTkpq",
-        "4q3ewBCX7sLwd24euuV69X"
+        "5lwmRuXgjX8xIwlnauTZIP",
+        "3TVXtAsR1Inumwj472S9r4"
       ]
     },
     {
-      "Pos": "116",
-      "P+": "+2",
-      "Artist and Title": "Los Temerarios - Acepta Mi Error",
-      "Wks": "110",
-      "Pk": "78",
+      "Pos": "105",
+      "P+": "+41",
+      "Artist and Title": "Banda Clave Nueva - Cuál Adiós",
+      "Wks": "24",
+      "Pk": "98",
       "(x?)": "",
-      "Streams": "112,124",
-      "Streams+": "-46",
-      "Total": "11,775,457",
-      "track_id": "6jkEUTIKec0nXvXYC3HZdo",
+      "Streams": "117,009",
+      "Streams+": "+12,587",
+      "Total": "2,764,764",
+      "track_id": "5R9lPFnoJGppR1MsI7vHxy",
       "artist_ids": [
-        "3YbOSxo85kla7RID8ugnW3"
+        "7DxmRNDWbpskTfkfmiRd7R"
       ]
     },
     {
-      "Pos": "117",
-      "P+": "+18",
-      "Artist and Title": "Grupo Frontera - un x100to (w/ Bad Bunny)",
-      "Wks": "168",
-      "Pk": "1",
-      "(x?)": "(x6)",
-      "Streams": "111,761",
-      "Streams+": "+7,820",
-      "Total": "41,830,109",
-      "track_id": "2yzshFeBIwH8tWIqHEFLeD",
-      "artist_ids": [
-        "6XkjpgcEsYab502Vr1bBeW",
-        "4q3ewBCX7sLwd24euuV69X"
-      ]
-    },
-    {
-      "Pos": "118",
-      "P+": "+76",
-      "Artist and Title": "KAROL G - Coleccionando Heridas (w/ Marco Antonio Solís)",
-      "Wks": "55",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "111,447",
-      "Streams+": "+20,729",
-      "Total": "7,980,747",
-      "track_id": "3ddJ8Vbc5tYPxq5zKRVke6",
-      "artist_ids": [
-        "790FomKkXshlbRYZFtlgla",
-        "3tJnB0s6c3oXPq1SCCavnd"
-      ]
-    },
-    {
-      "Pos": "119",
-      "P+": "-27",
+      "Pos": "106",
+      "P+": "+13",
       "Artist and Title": "Natanael Cano - Perlas Negras (w/ Gabito Ballesteros)",
-      "Wks": "53",
+      "Wks": "54",
       "Pk": "1",
       "(x?)": "(x4)",
-      "Streams": "111,126",
-      "Streams+": "-10,118",
-      "Total": "11,828,180",
+      "Streams": "116,420",
+      "Streams+": "+5,294",
+      "Total": "11,944,600",
       "track_id": "0N6h5RnzCNJG3JfROXQIMQ",
       "artist_ids": [
         "0elWFr7TW8piilVRYJUe4P",
@@ -1856,388 +1654,30 @@
       ]
     },
     {
-      "Pos": "120",
-      "P+": "+6",
-      "Artist and Title": "Romeo Santos - Propuesta Indecente",
-      "Wks": "263",
-      "Pk": "3",
-      "(x?)": "(x2)",
-      "Streams": "110,807",
-      "Streams+": "+2,160",
-      "Total": "12,818,645",
-      "track_id": "5PycBIeabfvX3n9ILG7Vrv",
-      "artist_ids": [
-        "5lwmRuXgjX8xIwlnauTZIP"
-      ]
-    },
-    {
-      "Pos": "121",
-      "P+": "+49",
-      "Artist and Title": "LOS DOS DE TAMAULIPAS - Gastando Verdes",
-      "Wks": "2",
-      "Pk": "121",
-      "(x?)": "",
-      "Streams": "110,675",
-      "Streams+": "+16,093",
-      "Total": "205,257",
-      "track_id": "5n9qm4KvU4dKWVFpCAwSGt",
-      "artist_ids": [
-        "77Zc5MMUIMJriEDAcaDspi"
-      ]
-    },
-    {
-      "Pos": "122",
-      "P+": "RE",
-      "Artist and Title": "Beéle - mi refe (w/ Ovy On The Drums)",
-      "Wks": "68",
-      "Pk": "21",
-      "(x?)": "",
-      "Streams": "110,239",
-      "Streams+": "",
-      "Total": "12,923,871",
-      "track_id": "4zhk2RS2EZODmBW6il55Qj",
-      "artist_ids": [
-        "7a0XAaPaK2aDSqa8p3QnC7",
-        "3m5qlPf2OkihLz3dRYnkPA"
-      ]
-    },
-    {
-      "Pos": "123",
-      "P+": "NEW",
-      "Artist and Title": "La Mosca - Para No Verte Más",
-      "Wks": "1",
-      "Pk": "123",
-      "(x?)": "",
-      "Streams": "110,168",
-      "Streams+": "",
-      "Total": "110,168",
-      "track_id": "19CmuECYssqkPWANF4nLWM",
-      "artist_ids": [
-        "60nua3AsVSfADZtg5Hdz3W"
-      ]
-    },
-    {
-      "Pos": "124",
-      "P+": "+5",
-      "Artist and Title": "La Receta - Lo Que Hay X Aquí",
-      "Wks": "51",
-      "Pk": "35",
-      "(x?)": "",
-      "Streams": "109,978",
-      "Streams+": "+3,731",
-      "Total": "7,257,543",
-      "track_id": "7oJ3N7oVSwoa5sdpg6NCE6",
-      "artist_ids": [
-        "3p8PwzenE7ktd4BVFuQzMD"
-      ]
-    },
-    {
-      "Pos": "125",
-      "P+": "-20",
-      "Artist and Title": "W Sound - La Plena - W Sound 05 (w/ Beéle, Ovy On The Drums)",
-      "Wks": "72",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "109,870",
-      "Streams+": "-6,136",
-      "Total": "17,099,218",
-      "track_id": "6iOndD4OFo7GkaDypWQIou",
-      "artist_ids": [
-        "5uwa6tAMMfNbBFIHiI6NV4",
-        "7a0XAaPaK2aDSqa8p3QnC7",
-        "3m5qlPf2OkihLz3dRYnkPA"
-      ]
-    },
-    {
-      "Pos": "126",
-      "P+": "+10",
-      "Artist and Title": "Bad Bunny - VeLDÁ (w/ Omar Courtz, Dei V)",
-      "Wks": "79",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "109,642",
-      "Streams+": "+6,253",
-      "Total": "14,653,970",
-      "track_id": "7d6yK8v8J484SWH5prIQiE",
-      "artist_ids": [
-        "4q3ewBCX7sLwd24euuV69X",
-        "3E12tRURRvPfHz0hAMCFYc",
-        "2YRyPiW98bpkARAS4B3OQP"
-      ]
-    },
-    {
-      "Pos": "127",
-      "P+": "+56",
-      "Artist and Title": "Gabito Ballesteros - 7 DÍAS (w/ Tito Double P)",
-      "Wks": "40",
-      "Pk": "17",
-      "(x?)": "",
-      "Streams": "109,448",
-      "Streams+": "+16,606",
-      "Total": "6,307,221",
-      "track_id": "6X3h549Z7LJk881NPI5kTa",
-      "artist_ids": [
-        "6Sbl0NT50roqWvy746MfVf",
-        "5eumcnUkdmGvkvcsx1WFNG"
-      ]
-    },
-    {
-      "Pos": "128",
-      "P+": "-1",
-      "Artist and Title": "Tony Dize - Permítame (w/ Yandel)",
-      "Wks": "47",
-      "Pk": "90",
-      "(x?)": "",
-      "Streams": "109,220",
-      "Streams+": "+2,651",
-      "Total": "5,271,482",
-      "track_id": "6OaGIYcVzx5c7aEKkuYS1M",
-      "artist_ids": [
-        "3LKXWvXFWrkwUzJWxzwVpW",
-        "0eHQ9o50hj6ZDNBt6Ys1sD"
-      ]
-    },
-    {
-      "Pos": "129",
-      "P+": "-10",
-      "Artist and Title": "Hermanos Espinoza - DIOS POR DELANTE",
-      "Wks": "13",
-      "Pk": "106",
-      "(x?)": "",
-      "Streams": "108,915",
-      "Streams+": "-2,939",
-      "Total": "1,327,272",
-      "track_id": "2oh3rdSZ0fqQvqzid13VXr",
-      "artist_ids": [
-        "1V0BgbhknuuZIMxKO0M9FV"
-      ]
-    },
-    {
-      "Pos": "130",
-      "P+": "+42",
-      "Artist and Title": "Grupo Firme - Matcha Latte (w/ Octavio Cuadras)",
-      "Wks": "5",
-      "Pk": "130",
-      "(x?)": "",
-      "Streams": "108,843",
-      "Streams+": "+14,395",
-      "Total": "480,932",
-      "track_id": "35XhkoUJcvjCmG6qkS75qY",
-      "artist_ids": [
-        "1dKdetem2xEmjgvyymzytS",
-        "2DleHTnLZ18SJy0LCcoIGp"
-      ]
-    },
-    {
-      "Pos": "131",
-      "P+": "+69",
-      "Artist and Title": "Rauw Alejandro - Khé? (w/ Romeo Santos)",
-      "Wks": "84",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "108,672",
-      "Streams+": "+19,015",
-      "Total": "17,631,856",
-      "track_id": "1YYfyJ2yCvGFCxwjsIqEK9",
-      "artist_ids": [
-        "1mcTU81TzQhprhouKaTkpq",
-        "5lwmRuXgjX8xIwlnauTZIP"
-      ]
-    },
-    {
-      "Pos": "132",
-      "P+": "-30",
-      "Artist and Title": "Grupo Firme - Que Te Quieran Bonito (w/ Luis Alfonso Partida El Yaki)",
-      "Wks": "31",
-      "Pk": "24",
-      "(x?)": "",
-      "Streams": "108,601",
-      "Streams+": "-7,875",
-      "Total": "4,763,199",
-      "track_id": "3YV73DlP8kB6sOACXeiACW",
-      "artist_ids": [
-        "1dKdetem2xEmjgvyymzytS",
-        "5l6N2hoIaP7snXdjnCULvk"
-      ]
-    },
-    {
-      "Pos": "133",
-      "P+": "-10",
-      "Artist and Title": "Julión Álvarez y su Norteño Banda - Rey Sin Reina",
-      "Wks": "96",
-      "Pk": "1",
-      "(x?)": "(x4)",
-      "Streams": "107,980",
-      "Streams+": "-898",
-      "Total": "23,352,191",
-      "track_id": "0BiDnJFB3TlRB6aji7jUz3",
-      "artist_ids": [
-        "1bfl0AU8SqmLkElptOprhC"
-      ]
-    },
-    {
-      "Pos": "134",
-      "P+": "-19",
-      "Artist and Title": "Victor Mendivil - Gané (w/ Gabito Ballesteros)",
-      "Wks": "4",
-      "Pk": "86",
-      "(x?)": "",
-      "Streams": "107,817",
-      "Streams+": "-4,726",
-      "Total": "451,862",
-      "track_id": "7ARRCcCMXLzdda2w5jxSY4",
-      "artist_ids": [
-        "5YqI7p8zYsOpKJtjxYdOce",
-        "6Sbl0NT50roqWvy746MfVf"
-      ]
-    },
-    {
-      "Pos": "135",
-      "P+": "-45",
-      "Artist and Title": "Kapo - UWAIE",
-      "Wks": "90",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "107,653",
-      "Streams+": "-14,752",
-      "Total": "13,490,626",
-      "track_id": "5QjmUqgpPQgXgg4606DqZF",
-      "artist_ids": [
-        "3UTF2no3muGdiFXVujl94i"
-      ]
-    },
-    {
-      "Pos": "136",
-      "P+": "-12",
-      "Artist and Title": "Julión Álvarez y su Norteño Banda - Cero Empatía",
-      "Wks": "89",
-      "Pk": "20",
-      "(x?)": "",
-      "Streams": "107,389",
-      "Streams+": "-1,310",
-      "Total": "12,875,148",
-      "track_id": "03MqlviAY1kvFqdaGl5Mhg",
-      "artist_ids": [
-        "1bfl0AU8SqmLkElptOprhC"
-      ]
-    },
-    {
-      "Pos": "137",
-      "P+": "-31",
-      "Artist and Title": "Grupo Mojado - Piensa En Mí",
-      "Wks": "112",
-      "Pk": "74",
-      "(x?)": "",
-      "Streams": "107,290",
-      "Streams+": "-7,807",
-      "Total": "11,361,920",
-      "track_id": "1xKP7GVLY33i5jmx1bB1Kk",
-      "artist_ids": [
-        "28NFZuZbEm7yzMpv1q1Rb7"
-      ]
-    },
-    {
-      "Pos": "138",
-      "P+": "+22",
-      "Artist and Title": "Grupo Marca Registrada - Di Que Sí (w/ Grupo Frontera)",
-      "Wks": "43",
-      "Pk": "42",
-      "(x?)": "",
-      "Streams": "107,216",
-      "Streams+": "+10,230",
-      "Total": "5,365,474",
-      "track_id": "0pliiCOWPN0IId8sXAqNJr",
-      "artist_ids": [
-        "1gW6pz5n1aK249L0GvfQCC",
-        "6XkjpgcEsYab502Vr1bBeW"
-      ]
-    },
-    {
-      "Pos": "139",
-      "P+": "-7",
-      "Artist and Title": "Bad Bunny - Ojitos Lindos (w/ Bomba Estéreo)",
-      "Wks": "214",
-      "Pk": "1",
-      "(x?)": "(x3)",
-      "Streams": "107,152",
-      "Streams+": "+2,517",
-      "Total": "41,680,277",
-      "track_id": "3k3NWokhRRkEPhCzPmV8TW",
-      "artist_ids": [
-        "4q3ewBCX7sLwd24euuV69X",
-        "5n9bMYfz9qss2VOW89EVs2"
-      ]
-    },
-    {
-      "Pos": "140",
-      "P+": "-32",
-      "Artist and Title": "Julión Álvarez y su Norteño Banda - Lo Tienes Todo",
-      "Wks": "134",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "106,204",
-      "Streams+": "-8,532",
-      "Total": "23,299,641",
-      "track_id": "29vIEdxgMT9H1fnBMecWjA",
-      "artist_ids": [
-        "1bfl0AU8SqmLkElptOprhC"
-      ]
-    },
-    {
-      "Pos": "141",
-      "P+": "+11",
-      "Artist and Title": "Los Bukis - Tus Mentiras",
-      "Wks": "21",
-      "Pk": "141",
-      "(x?)": "",
-      "Streams": "106,168",
-      "Streams+": "+7,246",
-      "Total": "2,138,508",
-      "track_id": "3MoQ3YG2Vy3bg9m4RRWvVD",
-      "artist_ids": [
-        "16kOCiqZ1auY4sokSeZuKf"
-      ]
-    },
-    {
-      "Pos": "142",
-      "P+": "+7",
-      "Artist and Title": "Grupo Firme - Al Final Del Día",
-      "Wks": "2",
-      "Pk": "142",
-      "(x?)": "",
-      "Streams": "105,547",
-      "Streams+": "+5,788",
-      "Total": "205,306",
-      "track_id": "6VBGFvNil2VJuZtYseebZ5",
-      "artist_ids": [
-        "1dKdetem2xEmjgvyymzytS"
-      ]
-    },
-    {
-      "Pos": "143",
-      "P+": "+52",
-      "Artist and Title": "Junior H - Extssy Model",
-      "Wks": "168",
-      "Pk": "35",
-      "(x?)": "",
-      "Streams": "104,789",
-      "Streams+": "+14,214",
-      "Total": "20,314,373",
-      "track_id": "24teIhDYO2RocTA2v5dY0r",
-      "artist_ids": [
-        "7Gi6gjaWy3DxyilpF1a8Is"
-      ]
-    },
-    {
-      "Pos": "144",
+      "Pos": "107",
       "P+": "-2",
+      "Artist and Title": "Romeo Santos - Llévame Contigo",
+      "Wks": "108",
+      "Pk": "39",
+      "(x?)": "",
+      "Streams": "115,776",
+      "Streams+": "+594",
+      "Total": "9,597,812",
+      "track_id": "0uLwWjN1KFO678WNJcZDkw",
+      "artist_ids": [
+        "5lwmRuXgjX8xIwlnauTZIP"
+      ]
+    },
+    {
+      "Pos": "108",
+      "P+": "+36",
       "Artist and Title": "Maluma - Cuatro Babys (w/ Trap Capos, Noriel, Bryant Myers, Juhn)",
-      "Wks": "130",
+      "Wks": "131",
       "Pk": "12",
       "(x?)": "",
-      "Streams": "104,550",
-      "Streams+": "+3,997",
-      "Total": "9,168,930",
+      "Streams": "115,651",
+      "Streams+": "+11,101",
+      "Total": "9,284,581",
       "track_id": "0JoHqmlqE0W0i9prt6kcHR",
       "artist_ids": [
         "1r4hJ1h58CWwUQe3MxPuau",
@@ -2248,273 +1688,740 @@
       ]
     },
     {
-      "Pos": "145",
-      "P+": "-11",
-      "Artist and Title": "Bad Bunny - Moscow Mule",
-      "Wks": "195",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "104,471",
-      "Streams+": "+132",
-      "Total": "31,692,045",
-      "track_id": "6Xom58OOXk2SoU711L2IXO",
-      "artist_ids": [
-        "4q3ewBCX7sLwd24euuV69X"
-      ]
-    },
-    {
-      "Pos": "146",
-      "P+": "-13",
-      "Artist and Title": "Banda Clave Nueva - Cuál Adiós",
-      "Wks": "23",
-      "Pk": "98",
+      "Pos": "109",
+      "P+": "-31",
+      "Artist and Title": "Moy Bobadilla - Tus Mentiras (En Vivo) (w/ Grupo Firme, Max Peraza)",
+      "Wks": "24",
+      "Pk": "64",
       "(x?)": "",
-      "Streams": "104,422",
-      "Streams+": "-167",
-      "Total": "2,647,755",
-      "track_id": "5R9lPFnoJGppR1MsI7vHxy",
+      "Streams": "115,523",
+      "Streams+": "-15,198",
+      "Total": "3,219,986",
+      "track_id": "6znjONJrY5EFnn8TsIsPwx",
       "artist_ids": [
-        "7DxmRNDWbpskTfkfmiRd7R"
+        "6H8yLg2ml8H94LRjriezMR",
+        "1dKdetem2xEmjgvyymzytS",
+        "40XLXsvXDPJuQ6adeK9zh7"
       ]
     },
     {
-      "Pos": "147",
-      "P+": "+6",
-      "Artist and Title": "Mon Laferte - Tu Falta De Querer",
+      "Pos": "110",
+      "P+": "+15",
+      "Artist and Title": "W Sound - La Plena - W Sound 05 (w/ Beéle, Ovy On The Drums)",
+      "Wks": "73",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "114,934",
+      "Streams+": "+5,064",
+      "Total": "17,214,152",
+      "track_id": "6iOndD4OFo7GkaDypWQIou",
+      "artist_ids": [
+        "5uwa6tAMMfNbBFIHiI6NV4",
+        "7a0XAaPaK2aDSqa8p3QnC7",
+        "3m5qlPf2OkihLz3dRYnkPA"
+      ]
+    },
+    {
+      "Pos": "111",
+      "P+": "+65",
+      "Artist and Title": "Espinoza Paz - El Próximo Viernes",
+      "Wks": "6",
+      "Pk": "111",
+      "(x?)": "",
+      "Streams": "114,724",
+      "Streams+": "+21,843",
+      "Total": "598,963",
+      "track_id": "70F4EfjFcXuqdf2nN51P0P",
+      "artist_ids": [
+        "01rgao9OzfBm2BOHWJpi1Y"
+      ]
+    },
+    {
+      "Pos": "112",
+      "P+": "+21",
+      "Artist and Title": "Julión Álvarez y su Norteño Banda - Rey Sin Reina",
       "Wks": "97",
-      "Pk": "90",
-      "(x?)": "",
-      "Streams": "103,337",
-      "Streams+": "+4,849",
-      "Total": "9,454,732",
-      "track_id": "4skuEIloXWuxxgekKupkEH",
+      "Pk": "1",
+      "(x?)": "(x4)",
+      "Streams": "114,689",
+      "Streams+": "+6,709",
+      "Total": "23,466,880",
+      "track_id": "0BiDnJFB3TlRB6aji7jUz3",
       "artist_ids": [
-        "4boI7bJtmB1L3b1cuL75Zr"
+        "1bfl0AU8SqmLkElptOprhC"
       ]
     },
     {
-      "Pos": "148",
-      "P+": "-50",
+      "Pos": "113",
+      "P+": "=",
+      "Artist and Title": "Los Bukis - Acepto Mi Derrota",
+      "Wks": "146",
+      "Pk": "49",
+      "(x?)": "",
+      "Streams": "114,637",
+      "Streams+": "+1,443",
+      "Total": "17,255,661",
+      "track_id": "3FKDvQRZImg9cl1jcaQiHX",
+      "artist_ids": [
+        "16kOCiqZ1auY4sokSeZuKf"
+      ]
+    },
+    {
+      "Pos": "114",
+      "P+": "+34",
       "Artist and Title": "Cardenales De Nuevo León - Que Nadie Sepa",
-      "Wks": "25",
+      "Wks": "26",
       "Pk": "98",
       "(x?)": "",
-      "Streams": "102,462",
-      "Streams+": "-15,279",
-      "Total": "2,724,748",
+      "Streams": "114,365",
+      "Streams+": "+11,903",
+      "Total": "2,839,113",
       "track_id": "3Pj5wV8ftxWXRPK4qQbpiy",
       "artist_ids": [
         "0GpuSge5ffZ053NhXxgQkV"
       ]
     },
     {
-      "Pos": "149",
+      "Pos": "115",
+      "P+": "+15",
+      "Artist and Title": "Grupo Firme - Matcha Latte (w/ Octavio Cuadras)",
+      "Wks": "6",
+      "Pk": "115",
+      "(x?)": "",
+      "Streams": "114,331",
+      "Streams+": "+5,488",
+      "Total": "595,263",
+      "track_id": "35XhkoUJcvjCmG6qkS75qY",
+      "artist_ids": [
+        "1dKdetem2xEmjgvyymzytS",
+        "2DleHTnLZ18SJy0LCcoIGp"
+      ]
+    },
+    {
+      "Pos": "116",
+      "P+": "NEW",
+      "Artist and Title": "Oasis - Wonderwall - Remastered",
+      "Wks": "1",
+      "Pk": "116",
+      "(x?)": "",
+      "Streams": "113,947",
+      "Streams+": "",
+      "Total": "113,947",
+      "track_id": "5qqabIl2vWzo9ApSC317sa",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ]
+    },
+    {
+      "Pos": "117",
       "P+": "-11",
-      "Artist and Title": "Cardenales De Nuevo León - Belleza De Cantina",
-      "Wks": "31",
-      "Pk": "108",
+      "Artist and Title": "Michael Jackson - Billie Jean",
+      "Wks": "12",
+      "Pk": "31",
       "(x?)": "",
-      "Streams": "100,523",
-      "Streams+": "-2,433",
-      "Total": "3,161,024",
-      "track_id": "4ZplewvZRLFcfBa5uyBbhd",
+      "Streams": "113,446",
+      "Streams+": "-1,618",
+      "Total": "1,953,178",
+      "track_id": "7J1uxwnxfQLu4APicE5Rnj",
       "artist_ids": [
-        "0GpuSge5ffZ053NhXxgQkV"
+        "3fMbdgg4jU18AjLCKBhRSm"
       ]
     },
     {
-      "Pos": "150",
-      "P+": "-39",
-      "Artist and Title": "La Arrolladora Banda El Limón De Rene Camacho - El Ruido De Tus Zapatos",
-      "Wks": "26",
-      "Pk": "104",
+      "Pos": "118",
+      "P+": "+11",
+      "Artist and Title": "Hermanos Espinoza - DIOS POR DELANTE",
+      "Wks": "14",
+      "Pk": "106",
       "(x?)": "",
-      "Streams": "100,305",
-      "Streams+": "-13,335",
-      "Total": "2,576,936",
-      "track_id": "3VhupipSGvOXrNrNvUwhs1",
+      "Streams": "113,398",
+      "Streams+": "+4,483",
+      "Total": "1,440,670",
+      "track_id": "2oh3rdSZ0fqQvqzid13VXr",
       "artist_ids": [
-        "5bSfBBCxY8QAk4Pifveisz"
+        "1V0BgbhknuuZIMxKO0M9FV"
       ]
     },
     {
-      "Pos": "151",
-      "P+": "-6",
-      "Artist and Title": "Tito Double P - LINDA (w/ Neton Vega)",
-      "Wks": "82",
-      "Pk": "36",
-      "(x?)": "",
-      "Streams": "99,971",
-      "Streams+": "-401",
-      "Total": "12,610,081",
-      "track_id": "7qXptgpZGo8AFPhJCBVLFE",
-      "artist_ids": [
-        "5eumcnUkdmGvkvcsx1WFNG",
-        "6pV5zH2LzjOUHaAvENdMMa"
-      ]
-    },
-    {
-      "Pos": "152",
+      "Pos": "119",
       "P+": "-9",
-      "Artist and Title": "Bad Bunny - NUEVAYoL",
-      "Wks": "79",
+      "Artist and Title": "Tainy - Lo Siento BB:/ (w/ Bad Bunny, Julieta Venegas)",
+      "Wks": "168",
+      "Pk": "1",
+      "(x?)": "(x20)",
+      "Streams": "113,032",
+      "Streams+": "-1,214",
+      "Total": "27,171,358",
+      "track_id": "4gzsuuZypVbxs0Af1LSZyB",
+      "artist_ids": [
+        "0GM7qgcRCORpGnfcN2tCiB",
+        "4q3ewBCX7sLwd24euuV69X",
+        "2QWIScpFDNxmS6ZEMIUvgm"
+      ]
+    },
+    {
+      "Pos": "120",
+      "P+": "+11",
+      "Artist and Title": "Rauw Alejandro - Khé? (w/ Romeo Santos)",
+      "Wks": "85",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "99,162",
-      "Streams+": "-1,352",
-      "Total": "14,384,350",
-      "track_id": "5TFD2bmFKGhoCRbX61nXY5",
+      "Streams": "113,000",
+      "Streams+": "+4,328",
+      "Total": "17,744,856",
+      "track_id": "1YYfyJ2yCvGFCxwjsIqEK9",
+      "artist_ids": [
+        "1mcTU81TzQhprhouKaTkpq",
+        "5lwmRuXgjX8xIwlnauTZIP"
+      ]
+    },
+    {
+      "Pos": "121",
+      "P+": "+7",
+      "Artist and Title": "Tony Dize - Permítame (w/ Yandel)",
+      "Wks": "48",
+      "Pk": "90",
+      "(x?)": "",
+      "Streams": "112,839",
+      "Streams+": "+3,619",
+      "Total": "5,384,321",
+      "track_id": "6OaGIYcVzx5c7aEKkuYS1M",
+      "artist_ids": [
+        "3LKXWvXFWrkwUzJWxzwVpW",
+        "0eHQ9o50hj6ZDNBt6Ys1sD"
+      ]
+    },
+    {
+      "Pos": "122",
+      "P+": "-25",
+      "Artist and Title": "Aventura - Dile al Amor",
+      "Wks": "169",
+      "Pk": "28",
+      "(x?)": "",
+      "Streams": "112,607",
+      "Streams+": "-7,655",
+      "Total": "17,353,708",
+      "track_id": "6lFM8kkmpffm0aq2gzEtEK",
+      "artist_ids": [
+        "1qto4hHid1P71emI6Fd8xi"
+      ]
+    },
+    {
+      "Pos": "123",
+      "P+": "-11",
+      "Artist and Title": "Eddy Herrera - Tu Eres Ajena",
+      "Wks": "46",
+      "Pk": "88",
+      "(x?)": "",
+      "Streams": "112,313",
+      "Streams+": "-1,510",
+      "Total": "4,333,233",
+      "track_id": "1jD48pmiHMSVHHPzKLi4P3",
+      "artist_ids": [
+        "4yNdrUaF54csrLixVTnqzC"
+      ]
+    },
+    {
+      "Pos": "124",
+      "P+": "-9",
+      "Artist and Title": "Rauw Alejandro - Qué Pasaría... (w/ Bad Bunny)",
+      "Wks": "85",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "112,283",
+      "Streams+": "-52",
+      "Total": "18,371,112",
+      "track_id": "0l0vcZMU7AOeQmUIREoI2U",
+      "artist_ids": [
+        "1mcTU81TzQhprhouKaTkpq",
+        "4q3ewBCX7sLwd24euuV69X"
+      ]
+    },
+    {
+      "Pos": "125",
+      "P+": "+20",
+      "Artist and Title": "Bad Bunny - Moscow Mule",
+      "Wks": "196",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "112,137",
+      "Streams+": "+7,666",
+      "Total": "31,804,182",
+      "track_id": "6Xom58OOXk2SoU711L2IXO",
       "artist_ids": [
         "4q3ewBCX7sLwd24euuV69X"
       ]
     },
     {
-      "Pos": "153",
-      "P+": "+8",
-      "Artist and Title": "Don Omar - Salio El Sol",
-      "Wks": "63",
-      "Pk": "122",
+      "Pos": "126",
+      "P+": "-19",
+      "Artist and Title": "Belanova - Rosa Pastel",
+      "Wks": "151",
+      "Pk": "28",
       "(x?)": "",
-      "Streams": "99,056",
-      "Streams+": "+2,496",
-      "Total": "5,568,324",
-      "track_id": "48NXpYRuvv9izul4oXhqS9",
+      "Streams": "112,050",
+      "Streams+": "-2,820",
+      "Total": "18,218,877",
+      "track_id": "6Z0ybnsUBhbZ9ZjPW64eoF",
       "artist_ids": [
-        "33ScadVnbm2X8kkUqOkC6Z"
+        "3oNy8cjBtJzLC07I70sklp"
       ]
     },
     {
-      "Pos": "154",
-      "P+": "+34",
-      "Artist and Title": "Omar Courtz - POR SI MAÑANA NO ESTOY",
-      "Wks": "20",
+      "Pos": "127",
+      "P+": "-1",
+      "Artist and Title": "Bad Bunny - VeLDÁ (w/ Omar Courtz, Dei V)",
+      "Wks": "80",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "111,777",
+      "Streams+": "+2,135",
+      "Total": "14,765,747",
+      "track_id": "7d6yK8v8J484SWH5prIQiE",
+      "artist_ids": [
+        "4q3ewBCX7sLwd24euuV69X",
+        "3E12tRURRvPfHz0hAMCFYc",
+        "2YRyPiW98bpkARAS4B3OQP"
+      ]
+    },
+    {
+      "Pos": "128",
+      "P+": "-19",
+      "Artist and Title": "Los Bukis - A Donde Vayas",
+      "Wks": "160",
       "Pk": "69",
       "(x?)": "",
-      "Streams": "98,731",
-      "Streams+": "+6,633",
-      "Total": "2,485,614",
-      "track_id": "595wwjQiad6e6lSTScmXvz",
+      "Streams": "111,681",
+      "Streams+": "-2,677",
+      "Total": "15,778,880",
+      "track_id": "3yb8pakJMZzfiK7siLZLUM",
       "artist_ids": [
-        "3E12tRURRvPfHz0hAMCFYc"
+        "16kOCiqZ1auY4sokSeZuKf"
       ]
     },
     {
-      "Pos": "155",
-      "P+": "+20",
-      "Artist and Title": "Rels B - TU VAS SIN (fav)",
-      "Wks": "53",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "98,580",
-      "Streams+": "+4,434",
-      "Total": "8,044,772",
-      "track_id": "6uiQ0DqbXTBc8tl0AUKZkR",
-      "artist_ids": [
-        "2IMZYfNi21MGqxopj9fWx8"
-      ]
-    },
-    {
-      "Pos": "156",
-      "P+": "-36",
-      "Artist and Title": "Grupo Arriesgado - Ansiedad",
-      "Wks": "77",
-      "Pk": "31",
-      "(x?)": "",
-      "Streams": "98,357",
-      "Streams+": "-12,791",
-      "Total": "11,113,726",
-      "track_id": "6uCZqv78d015paeHFUOUlI",
-      "artist_ids": [
-        "5NUPPRjsbXHNyVDrUESYeh"
-      ]
-    },
-    {
-      "Pos": "157",
-      "P+": "-53",
+      "Pos": "129",
+      "P+": "+28",
       "Artist and Title": "Conjunto Primavera - Necesito Decirte",
-      "Wks": "46",
+      "Wks": "47",
       "Pk": "104",
       "(x?)": "",
-      "Streams": "98,345",
-      "Streams+": "-17,776",
-      "Total": "4,697,441",
+      "Streams": "111,379",
+      "Streams+": "+13,034",
+      "Total": "4,808,820",
       "track_id": "7A2q0QaLWjnH3ufI4WFzM9",
       "artist_ids": [
         "3nFB4eMP5gdqee2eQb8nZb"
       ]
     },
     {
-      "Pos": "158",
-      "P+": "-14",
-      "Artist and Title": "Romeo Santos - Necio (w/ null)",
-      "Wks": "61",
-      "Pk": "34",
+      "Pos": "130",
+      "P+": "-3",
+      "Artist and Title": "Gabito Ballesteros - 7 DÍAS (w/ Tito Double P)",
+      "Wks": "41",
+      "Pk": "17",
       "(x?)": "",
-      "Streams": "97,915",
-      "Streams+": "-2,495",
-      "Total": "3,684,453",
-      "track_id": "3DKWF8is9hzp84aSxnhlag",
+      "Streams": "111,043",
+      "Streams+": "+1,595",
+      "Total": "6,418,264",
+      "track_id": "6X3h549Z7LJk881NPI5kTa",
       "artist_ids": [
-        "5lwmRuXgjX8xIwlnauTZIP",
-        "7yGQgQiiKpg2k00JXf8hJk"
+        "6Sbl0NT50roqWvy746MfVf",
+        "5eumcnUkdmGvkvcsx1WFNG"
       ]
     },
     {
-      "Pos": "159",
-      "P+": "-2",
-      "Artist and Title": "Natanael Cano - Madonna (w/ Oscar Maydon)",
-      "Wks": "122",
+      "Pos": "131",
+      "P+": "+8",
+      "Artist and Title": "Bad Bunny - Ojitos Lindos (w/ Bomba Estéreo)",
+      "Wks": "215",
       "Pk": "1",
-      "(x?)": "(x5)",
-      "Streams": "97,637",
-      "Streams+": "+105",
-      "Total": "28,838,629",
-      "track_id": "5LhI8m7n8xlQmNe3b7Rwis",
+      "(x?)": "(x3)",
+      "Streams": "111,024",
+      "Streams+": "+3,872",
+      "Total": "41,791,301",
+      "track_id": "3k3NWokhRRkEPhCzPmV8TW",
       "artist_ids": [
-        "0elWFr7TW8piilVRYJUe4P",
-        "3l9G1G9MxH6DaRhwLklaf5"
+        "4q3ewBCX7sLwd24euuV69X",
+        "5n9bMYfz9qss2VOW89EVs2"
       ]
     },
     {
-      "Pos": "160",
+      "Pos": "132",
+      "P+": "-34",
+      "Artist and Title": "Don Omar - Dile",
+      "Wks": "305",
+      "Pk": "36",
+      "(x?)": "",
+      "Streams": "110,952",
+      "Streams+": "-8,075",
+      "Total": "29,790,577",
+      "track_id": "69Ej1xrGjOcHvIMtMKxK0G",
+      "artist_ids": [
+        "33ScadVnbm2X8kkUqOkC6Z"
+      ]
+    },
+    {
+      "Pos": "133",
+      "P+": "-71",
+      "Artist and Title": "Anuel AA - Las mas bonitas son p#tas",
+      "Wks": "3",
+      "Pk": "62",
+      "(x?)": "",
+      "Streams": "110,840",
+      "Streams+": "-30,378",
+      "Total": "366,826",
+      "track_id": "4vJaNTSA8fYLLLSauHmkLe",
+      "artist_ids": [
+        "2R21vXR83lH98kGeO99Y66"
+      ]
+    },
+    {
+      "Pos": "134",
+      "P+": "+1",
+      "Artist and Title": "Kapo - UWAIE",
+      "Wks": "91",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "110,590",
+      "Streams+": "+2,937",
+      "Total": "13,601,216",
+      "track_id": "5QjmUqgpPQgXgg4606DqZF",
+      "artist_ids": [
+        "3UTF2no3muGdiFXVujl94i"
+      ]
+    },
+    {
+      "Pos": "135",
+      "P+": "+3",
+      "Artist and Title": "Grupo Marca Registrada - Di Que Sí (w/ Grupo Frontera)",
+      "Wks": "44",
+      "Pk": "42",
+      "(x?)": "",
+      "Streams": "110,330",
+      "Streams+": "+3,114",
+      "Total": "5,475,804",
+      "track_id": "0pliiCOWPN0IId8sXAqNJr",
+      "artist_ids": [
+        "1gW6pz5n1aK249L0GvfQCC",
+        "6XkjpgcEsYab502Vr1bBeW"
+      ]
+    },
+    {
+      "Pos": "136",
+      "P+": "-45",
+      "Artist and Title": "Oliver Tree - Life Goes On",
+      "Wks": "29",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "110,005",
+      "Streams+": "-14,400",
+      "Total": "2,789,451",
+      "track_id": "0eu4C55hL6x29mmeAjytzC",
+      "artist_ids": [
+        "6TLwD7HPWuiOzvXEa3oCNe"
+      ]
+    },
+    {
+      "Pos": "137",
+      "P+": "-20",
+      "Artist and Title": "Grupo Frontera - un x100to (w/ Bad Bunny)",
+      "Wks": "169",
+      "Pk": "1",
+      "(x?)": "(x6)",
+      "Streams": "109,864",
+      "Streams+": "-1,897",
+      "Total": "41,939,973",
+      "track_id": "2yzshFeBIwH8tWIqHEFLeD",
+      "artist_ids": [
+        "6XkjpgcEsYab502Vr1bBeW",
+        "4q3ewBCX7sLwd24euuV69X"
+      ]
+    },
+    {
+      "Pos": "138",
+      "P+": "-18",
+      "Artist and Title": "Romeo Santos - Propuesta Indecente",
+      "Wks": "264",
+      "Pk": "3",
+      "(x?)": "(x2)",
+      "Streams": "109,787",
+      "Streams+": "-1,020",
+      "Total": "12,928,432",
+      "track_id": "5PycBIeabfvX3n9ILG7Vrv",
+      "artist_ids": [
+        "5lwmRuXgjX8xIwlnauTZIP"
+      ]
+    },
+    {
+      "Pos": "139",
+      "P+": "NEW",
+      "Artist and Title": "El De Las R's - La Cheyenne",
+      "Wks": "1",
+      "Pk": "139",
+      "(x?)": "",
+      "Streams": "109,743",
+      "Streams+": "",
+      "Total": "109,743",
+      "track_id": "290ilxF4OsghfGWMV9OZNd",
+      "artist_ids": [
+        "6LRccuxVVYoqRQif85sG9j"
+      ]
+    },
+    {
+      "Pos": "140",
+      "P+": "-22",
+      "Artist and Title": "KAROL G - Coleccionando Heridas (w/ Marco Antonio Solís)",
+      "Wks": "56",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "109,558",
+      "Streams+": "-1,889",
+      "Total": "8,090,305",
+      "track_id": "3ddJ8Vbc5tYPxq5zKRVke6",
+      "artist_ids": [
+        "790FomKkXshlbRYZFtlgla",
+        "3tJnB0s6c3oXPq1SCCavnd"
+      ]
+    },
+    {
+      "Pos": "141",
+      "P+": "-17",
+      "Artist and Title": "La Receta - Lo Que Hay X Aquí",
+      "Wks": "52",
+      "Pk": "35",
+      "(x?)": "",
+      "Streams": "108,890",
+      "Streams+": "-1,088",
+      "Total": "7,366,433",
+      "track_id": "7oJ3N7oVSwoa5sdpg6NCE6",
+      "artist_ids": [
+        "3p8PwzenE7ktd4BVFuQzMD"
+      ]
+    },
+    {
+      "Pos": "142",
       "P+": "-1",
+      "Artist and Title": "Los Bukis - Tus Mentiras",
+      "Wks": "22",
+      "Pk": "141",
+      "(x?)": "",
+      "Streams": "107,323",
+      "Streams+": "+1,155",
+      "Total": "2,245,831",
+      "track_id": "3MoQ3YG2Vy3bg9m4RRWvVD",
+      "artist_ids": [
+        "16kOCiqZ1auY4sokSeZuKf"
+      ]
+    },
+    {
+      "Pos": "143",
+      "P+": "=",
+      "Artist and Title": "Junior H - Extssy Model",
+      "Wks": "169",
+      "Pk": "35",
+      "(x?)": "",
+      "Streams": "106,232",
+      "Streams+": "+1,443",
+      "Total": "20,420,605",
+      "track_id": "24teIhDYO2RocTA2v5dY0r",
+      "artist_ids": [
+        "7Gi6gjaWy3DxyilpF1a8Is"
+      ]
+    },
+    {
+      "Pos": "144",
+      "P+": "-12",
+      "Artist and Title": "Grupo Firme - Que Te Quieran Bonito (w/ Luis Alfonso Partida El Yaki)",
+      "Wks": "32",
+      "Pk": "24",
+      "(x?)": "",
+      "Streams": "106,151",
+      "Streams+": "-2,450",
+      "Total": "4,869,350",
+      "track_id": "3YV73DlP8kB6sOACXeiACW",
+      "artist_ids": [
+        "1dKdetem2xEmjgvyymzytS",
+        "5l6N2hoIaP7snXdjnCULvk"
+      ]
+    },
+    {
+      "Pos": "145",
+      "P+": "-29",
+      "Artist and Title": "Los Temerarios - Acepta Mi Error",
+      "Wks": "111",
+      "Pk": "78",
+      "(x?)": "",
+      "Streams": "105,413",
+      "Streams+": "-6,711",
+      "Total": "11,880,870",
+      "track_id": "6jkEUTIKec0nXvXYC3HZdo",
+      "artist_ids": [
+        "3YbOSxo85kla7RID8ugnW3"
+      ]
+    },
+    {
+      "Pos": "146",
+      "P+": "+4",
+      "Artist and Title": "La Arrolladora Banda El Limón De Rene Camacho - El Ruido De Tus Zapatos",
+      "Wks": "27",
+      "Pk": "104",
+      "(x?)": "",
+      "Streams": "104,691",
+      "Streams+": "+4,386",
+      "Total": "2,681,627",
+      "track_id": "3VhupipSGvOXrNrNvUwhs1",
+      "artist_ids": [
+        "5bSfBBCxY8QAk4Pifveisz"
+      ]
+    },
+    {
+      "Pos": "147",
+      "P+": "+21",
+      "Artist and Title": "Jasiel Nuñez - Corazón Frío (w/ DannyLux)",
+      "Wks": "29",
+      "Pk": "111",
+      "(x?)": "",
+      "Streams": "104,577",
+      "Streams+": "+8,070",
+      "Total": "2,855,479",
+      "track_id": "0KSwFEkVh0KCBR0TwqBVen",
+      "artist_ids": [
+        "0T8Ix53aIN4F7aEKj4EnKy",
+        "6ElqtIfQsAkEYypgfJIjeK"
+      ]
+    },
+    {
+      "Pos": "148",
+      "P+": "+8",
+      "Artist and Title": "Grupo Arriesgado - Ansiedad",
+      "Wks": "78",
+      "Pk": "31",
+      "(x?)": "",
+      "Streams": "104,397",
+      "Streams+": "+6,040",
+      "Total": "11,218,123",
+      "track_id": "6uCZqv78d015paeHFUOUlI",
+      "artist_ids": [
+        "5NUPPRjsbXHNyVDrUESYeh"
+      ]
+    },
+    {
+      "Pos": "149",
+      "P+": "-9",
+      "Artist and Title": "Julión Álvarez y su Norteño Banda - Lo Tienes Todo",
+      "Wks": "135",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "104,371",
+      "Streams+": "-1,833",
+      "Total": "23,404,012",
+      "track_id": "29vIEdxgMT9H1fnBMecWjA",
+      "artist_ids": [
+        "1bfl0AU8SqmLkElptOprhC"
+      ]
+    },
+    {
+      "Pos": "150",
+      "P+": "-14",
+      "Artist and Title": "Julión Álvarez y su Norteño Banda - Cero Empatía",
+      "Wks": "90",
+      "Pk": "20",
+      "(x?)": "",
+      "Streams": "103,972",
+      "Streams+": "-3,417",
+      "Total": "12,979,120",
+      "track_id": "03MqlviAY1kvFqdaGl5Mhg",
+      "artist_ids": [
+        "1bfl0AU8SqmLkElptOprhC"
+      ]
+    },
+    {
+      "Pos": "151",
+      "P+": "-29",
+      "Artist and Title": "Beéle - mi refe (w/ Ovy On The Drums)",
+      "Wks": "69",
+      "Pk": "21",
+      "(x?)": "",
+      "Streams": "103,905",
+      "Streams+": "-6,334",
+      "Total": "13,027,776",
+      "track_id": "4zhk2RS2EZODmBW6il55Qj",
+      "artist_ids": [
+        "7a0XAaPaK2aDSqa8p3QnC7",
+        "3m5qlPf2OkihLz3dRYnkPA"
+      ]
+    },
+    {
+      "Pos": "152",
+      "P+": "+13",
+      "Artist and Title": "Romeo Santos - Que Se Mueran",
+      "Wks": "44",
+      "Pk": "99",
+      "(x?)": "",
+      "Streams": "103,345",
+      "Streams+": "+6,390",
+      "Total": "4,692,881",
+      "track_id": "7FrPSk0rZdCPR50pfzdzMK",
+      "artist_ids": [
+        "5lwmRuXgjX8xIwlnauTZIP"
+      ]
+    },
+    {
+      "Pos": "153",
+      "P+": "-6",
+      "Artist and Title": "Mon Laferte - Tu Falta De Querer",
+      "Wks": "98",
+      "Pk": "90",
+      "(x?)": "",
+      "Streams": "102,965",
+      "Streams+": "-372",
+      "Total": "9,557,697",
+      "track_id": "4skuEIloXWuxxgekKupkEH",
+      "artist_ids": [
+        "4boI7bJtmB1L3b1cuL75Zr"
+      ]
+    },
+    {
+      "Pos": "154",
+      "P+": "-5",
+      "Artist and Title": "Cardenales De Nuevo León - Belleza De Cantina",
+      "Wks": "32",
+      "Pk": "108",
+      "(x?)": "",
+      "Streams": "102,630",
+      "Streams+": "+2,107",
+      "Total": "3,263,654",
+      "track_id": "4ZplewvZRLFcfBa5uyBbhd",
+      "artist_ids": [
+        "0GpuSge5ffZ053NhXxgQkV"
+      ]
+    },
+    {
+      "Pos": "155",
+      "P+": "+5",
       "Artist and Title": "Los Mier - Te Amo",
-      "Wks": "30",
+      "Wks": "31",
       "Pk": "128",
       "(x?)": "",
-      "Streams": "97,502",
-      "Streams+": "+275",
-      "Total": "3,004,078",
+      "Streams": "100,965",
+      "Streams+": "+3,463",
+      "Total": "3,105,043",
       "track_id": "2Y1qcW4b9aVRnX1fHaVvxY",
       "artist_ids": [
         "2B8mbONjmLnXk4wpqF5UPQ"
       ]
     },
     {
-      "Pos": "161",
-      "P+": "-31",
-      "Artist and Title": "Los Temerarios - Ven Porque Te Necesito",
-      "Wks": "145",
-      "Pk": "22",
-      "(x?)": "",
-      "Streams": "97,492",
-      "Streams+": "-8,593",
-      "Total": "17,670,218",
-      "track_id": "4MNfkZ8dtva3cjJ2biqnDS",
-      "artist_ids": [
-        "3YbOSxo85kla7RID8ugnW3"
-      ]
-    },
-    {
-      "Pos": "162",
-      "P+": "-12",
+      "Pos": "156",
+      "P+": "+6",
       "Artist and Title": "Régulo Molina - Canasteo (w/ Oscar Maydon, Neton Vega)",
-      "Wks": "25",
+      "Wks": "26",
       "Pk": "16",
       "(x?)": "",
-      "Streams": "97,381",
-      "Streams+": "-1,799",
-      "Total": "3,706,700",
+      "Streams": "100,405",
+      "Streams+": "+3,024",
+      "Total": "3,807,105",
       "track_id": "67jm6nWkkJUsiJ6zedlYng",
       "artist_ids": [
         "6sbrrDwFdWvTLiq8NUykqm",
@@ -2523,321 +2430,76 @@
       ]
     },
     {
-      "Pos": "163",
-      "P+": "+1",
-      "Artist and Title": "Tito Double P - ROSONES",
-      "Wks": "83",
-      "Pk": "2",
-      "(x?)": "(x2)",
-      "Streams": "97,120",
-      "Streams+": "+942",
-      "Total": "19,673,510",
-      "track_id": "0LTwdL5yZ6YOTEGUQPFuSN",
-      "artist_ids": [
-        "5eumcnUkdmGvkvcsx1WFNG"
-      ]
-    },
-    {
-      "Pos": "164",
-      "P+": "NEW",
-      "Artist and Title": "EL DE LA TINTA - holanda (w/ Angel Cervantes, Sahir Montoya)",
-      "Wks": "1",
-      "Pk": "164",
+      "Pos": "157",
+      "P+": "-23",
+      "Artist and Title": "Victor Mendivil - Gané (w/ Gabito Ballesteros)",
+      "Wks": "5",
+      "Pk": "86",
       "(x?)": "",
-      "Streams": "97,055",
-      "Streams+": "",
-      "Total": "97,055",
-      "track_id": "08ryHOM7OrGGcdrqFqNXxe",
+      "Streams": "100,402",
+      "Streams+": "-7,415",
+      "Total": "552,264",
+      "track_id": "7ARRCcCMXLzdda2w5jxSY4",
       "artist_ids": [
-        "6VNymaTBHnYKnBfST2A5Cv",
-        "3cbOif2nNznwEiNw9Ty8NJ",
-        "7x5TwK8zGLmVk8k8zIEIrX"
+        "5YqI7p8zYsOpKJtjxYdOce",
+        "6Sbl0NT50roqWvy746MfVf"
       ]
     },
     {
-      "Pos": "165",
-      "P+": "-55",
-      "Artist and Title": "Romeo Santos - Que Se Mueran",
-      "Wks": "43",
-      "Pk": "99",
+      "Pos": "158",
+      "P+": "-3",
+      "Artist and Title": "Rels B - TU VAS SIN (fav)",
+      "Wks": "54",
+      "Pk": "11",
       "(x?)": "",
-      "Streams": "96,955",
-      "Streams+": "-17,402",
-      "Total": "4,589,536",
-      "track_id": "7FrPSk0rZdCPR50pfzdzMK",
+      "Streams": "100,274",
+      "Streams+": "+1,694",
+      "Total": "8,145,046",
+      "track_id": "6uiQ0DqbXTBc8tl0AUKZkR",
       "artist_ids": [
-        "5lwmRuXgjX8xIwlnauTZIP"
+        "2IMZYfNi21MGqxopj9fWx8"
       ]
     },
     {
-      "Pos": "166",
-      "P+": "-26",
-      "Artist and Title": "Eslabon Armado - AMIGOS CON DERECHOS (w/ Peso Pluma)",
-      "Wks": "2",
-      "Pk": "140",
-      "(x?)": "",
-      "Streams": "96,845",
-      "Streams+": "-4,205",
-      "Total": "197,895",
-      "track_id": "3NYyi0nCnxhuChr6V5yaJn",
-      "artist_ids": [
-        "0XeEobZplHxzM9QzFQWLiR",
-        "12GqGscKJx3aE4t07u7eVZ"
-      ]
-    },
-    {
-      "Pos": "167",
-      "P+": "+6",
-      "Artist and Title": "Los Angeles De Charly - Me Volví A Acordar De Ti",
-      "Wks": "18",
-      "Pk": "155",
-      "(x?)": "",
-      "Streams": "96,599",
-      "Streams+": "+2,223",
-      "Total": "1,469,949",
-      "track_id": "7256yGEwDkqs39TKHTeXik",
-      "artist_ids": [
-        "0fdpJLsenUo15X3dPPWJSR"
-      ]
-    },
-    {
-      "Pos": "168",
-      "P+": "+23",
-      "Artist and Title": "Jasiel Nuñez - Corazón Frío (w/ DannyLux)",
-      "Wks": "28",
-      "Pk": "111",
-      "(x?)": "",
-      "Streams": "96,507",
-      "Streams+": "+4,965",
-      "Total": "2,750,902",
-      "track_id": "0KSwFEkVh0KCBR0TwqBVen",
-      "artist_ids": [
-        "0T8Ix53aIN4F7aEKj4EnKy",
-        "6ElqtIfQsAkEYypgfJIjeK"
-      ]
-    },
-    {
-      "Pos": "169",
-      "P+": "-2",
-      "Artist and Title": "Enrique Iglesias - Cuando Me Enamoro (w/ Juan Luis Guerra 4.40)",
-      "Wks": "74",
-      "Pk": "88",
-      "(x?)": "",
-      "Streams": "95,903",
-      "Streams+": "+992",
-      "Total": "5,536,954",
-      "track_id": "79gkHjNTSyGPXEyGkNQ8zH",
-      "artist_ids": [
-        "7qG3b048QCHVRO5Pv1T5lw",
-        "3nlpTZci9O5W8RsNoNH559"
-      ]
-    },
-    {
-      "Pos": "170",
-      "P+": "-15",
-      "Artist and Title": "Calibre 50 - Si Te Pudiera Mentir",
-      "Wks": "193",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "95,899",
-      "Streams+": "-1,741",
-      "Total": "18,881,691",
-      "track_id": "3p6eieHX6oEOzJStPtEsLu",
-      "artist_ids": [
-        "4jogXSSvlyMkODGSZ2wc2P"
-      ]
-    },
-    {
-      "Pos": "171",
-      "P+": "-13",
-      "Artist and Title": "Vicente Fernández - Un Millón de Primaveras",
-      "Wks": "168",
-      "Pk": "14",
-      "(x?)": "",
-      "Streams": "94,552",
-      "Streams+": "-2,882",
-      "Total": "15,214,036",
-      "track_id": "6j5LtifAnuTjTYvml61yFZ",
-      "artist_ids": [
-        "4PPoI9LuYeFX8V674Z1R6l"
-      ]
-    },
-    {
-      "Pos": "172",
-      "P+": "+2",
+      "Pos": "159",
+      "P+": "+13",
       "Artist and Title": "Maluma - Hawái",
-      "Wks": "150",
+      "Wks": "151",
       "Pk": "1",
       "(x?)": "(x10)",
-      "Streams": "94,328",
-      "Streams+": "-21",
-      "Total": "18,622,162",
+      "Streams": "99,971",
+      "Streams+": "+5,643",
+      "Total": "18,722,133",
       "track_id": "1yoMvmasuxZfqHEipJhRbp",
       "artist_ids": [
         "1r4hJ1h58CWwUQe3MxPuau"
       ]
     },
     {
-      "Pos": "173",
-      "P+": "RE",
-      "Artist and Title": "Fuerza Regida - TÚ NAME",
-      "Wks": "121",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "93,255",
-      "Streams+": "",
-      "Total": "21,440,519",
-      "track_id": "3FqUPvubYeRCMsdJ02QyZR",
-      "artist_ids": [
-        "0ys2OFYzWYB5hRDLCsBqxt"
-      ]
-    },
-    {
-      "Pos": "174",
-      "P+": "+4",
-      "Artist and Title": "Banda Tierra Sagrada - La Buena y la Mala",
-      "Wks": "54",
-      "Pk": "67",
-      "(x?)": "",
-      "Streams": "93,082",
-      "Streams+": "-624",
-      "Total": "4,338,146",
-      "track_id": "4y0n8xKuEKE0J2sThzswhg",
-      "artist_ids": [
-        "0v7JYEoQOQbzNNESKwxmzT"
-      ]
-    },
-    {
-      "Pos": "175",
-      "P+": "+9",
-      "Artist and Title": "La Santa Grifa - Sabanas Blancas",
-      "Wks": "21",
-      "Pk": "149",
-      "(x?)": "",
-      "Streams": "92,941",
-      "Streams+": "+352",
-      "Total": "2,137,731",
-      "track_id": "0IBhXEEKXhv0bdpboaw5M3",
-      "artist_ids": [
-        "1oH2B8tcHn4Gpl2bmmyd4A"
-      ]
-    },
-    {
-      "Pos": "176",
-      "P+": "+6",
-      "Artist and Title": "Espinoza Paz - El Próximo Viernes",
-      "Wks": "5",
-      "Pk": "144",
-      "(x?)": "",
-      "Streams": "92,881",
-      "Streams+": "-80",
-      "Total": "484,239",
-      "track_id": "70F4EfjFcXuqdf2nN51P0P",
-      "artist_ids": [
-        "01rgao9OzfBm2BOHWJpi1Y"
-      ]
-    },
-    {
-      "Pos": "177",
-      "P+": "+3",
-      "Artist and Title": "Bobby Pulido - Se Murió De Amor",
-      "Wks": "4",
-      "Pk": "142",
-      "(x?)": "",
-      "Streams": "92,396",
-      "Streams+": "-652",
-      "Total": "379,434",
-      "track_id": "5iuGn3RXvfvHIyIe8fyxBE",
-      "artist_ids": [
-        "4EEZg8R3dxbTCCQ1DVWtHg"
-      ]
-    },
-    {
-      "Pos": "178",
-      "P+": "-7",
-      "Artist and Title": "Rauw Alejandro - El Efecto (w/ Chencho Corleone)",
-      "Wks": "128",
-      "Pk": "36",
-      "(x?)": "",
-      "Streams": "92,046",
-      "Streams+": "-2,486",
-      "Total": "9,004,861",
-      "track_id": "4SJHHpKhcuXwDsCsPqshXj",
-      "artist_ids": [
-        "1mcTU81TzQhprhouKaTkpq",
-        "37230BxxYs9ksS7OkZw3IU"
-      ]
-    },
-    {
-      "Pos": "179",
-      "P+": "-33",
-      "Artist and Title": "Peso Pluma - NUEVA VIDA",
-      "Wks": "159",
-      "Pk": "25",
-      "(x?)": "",
-      "Streams": "91,831",
-      "Streams+": "-8,488",
-      "Total": "21,458,759",
-      "track_id": "4Nf5EZ40JenjMUKXOiyRU5",
-      "artist_ids": [
-        "12GqGscKJx3aE4t07u7eVZ"
-      ]
-    },
-    {
-      "Pos": "180",
-      "P+": "-3",
-      "Artist and Title": "Romeo Santos - Hilito",
-      "Wks": "63",
-      "Pk": "64",
-      "(x?)": "",
-      "Streams": "91,782",
-      "Streams+": "-2,202",
-      "Total": "1,157,251",
-      "track_id": "6CKlQHQIxhWtq7MnEJ6QCz",
-      "artist_ids": [
-        "5lwmRuXgjX8xIwlnauTZIP"
-      ]
-    },
-    {
-      "Pos": "181",
-      "P+": "-42",
-      "Artist and Title": "Manuel Turizo - La Bachata",
-      "Wks": "186",
-      "Pk": "1",
-      "(x?)": "(x17)",
-      "Streams": "91,769",
-      "Streams+": "-10,875",
-      "Total": "43,709,513",
-      "track_id": "3tt9i3Hhzq84dPS8H7iSiJ",
-      "artist_ids": [
-        "0tmwSHipWxN12fsoLcFU3B"
-      ]
-    },
-    {
-      "Pos": "182",
-      "P+": "+7",
+      "Pos": "160",
+      "P+": "+22",
       "Artist and Title": "Luis R Conriquez - Muchacho Alegre",
-      "Wks": "4",
-      "Pk": "182",
+      "Wks": "5",
+      "Pk": "160",
       "(x?)": "",
-      "Streams": "91,567",
-      "Streams+": "+16",
-      "Total": "370,480",
+      "Streams": "99,861",
+      "Streams+": "+8,294",
+      "Total": "470,341",
       "track_id": "5xLyrOUjlel6P0lghNv2I3",
       "artist_ids": [
         "0pePYDrJGk8gqMRbXrLJC8"
       ]
     },
     {
-      "Pos": "183",
-      "P+": "-46",
+      "Pos": "161",
+      "P+": "+22",
       "Artist and Title": "Anuel AA - Sola (Remix) (w/ Daddy Yankee, Zion & Lennox, Farruko, Wisin)",
-      "Wks": "303",
+      "Wks": "304",
       "Pk": "8",
       "(x?)": "",
-      "Streams": "91,437",
-      "Streams+": "-11,768",
-      "Total": "16,592,409",
+      "Streams": "99,036",
+      "Streams+": "+7,599",
+      "Total": "16,691,445",
       "track_id": "5q2JbCNi4FcnglgPfxcV65",
       "artist_ids": [
         "2R21vXR83lH98kGeO99Y66",
@@ -2848,111 +2510,410 @@
       ]
     },
     {
-      "Pos": "184",
-      "P+": "-43",
-      "Artist and Title": "Victor Mendivil - GOET",
-      "Wks": "50",
+      "Pos": "162",
+      "P+": "+5",
+      "Artist and Title": "Los Angeles De Charly - Me Volví A Acordar De Ti",
+      "Wks": "19",
+      "Pk": "155",
+      "(x?)": "",
+      "Streams": "99,024",
+      "Streams+": "+2,425",
+      "Total": "1,568,973",
+      "track_id": "7256yGEwDkqs39TKHTeXik",
+      "artist_ids": [
+        "0fdpJLsenUo15X3dPPWJSR"
+      ]
+    },
+    {
+      "Pos": "163",
+      "P+": "-11",
+      "Artist and Title": "Bad Bunny - NUEVAYoL",
+      "Wks": "80",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "98,952",
+      "Streams+": "-210",
+      "Total": "14,483,302",
+      "track_id": "5TFD2bmFKGhoCRbX61nXY5",
+      "artist_ids": [
+        "4q3ewBCX7sLwd24euuV69X"
+      ]
+    },
+    {
+      "Pos": "164",
+      "P+": "-10",
+      "Artist and Title": "Omar Courtz - POR SI MAÑANA NO ESTOY",
+      "Wks": "21",
       "Pk": "69",
       "(x?)": "",
-      "Streams": "91,001",
-      "Streams+": "-9,831",
-      "Total": "5,873,797",
-      "track_id": "5CE77TLqLjOQ2qgAobzPds",
+      "Streams": "98,852",
+      "Streams+": "+121",
+      "Total": "2,584,466",
+      "track_id": "595wwjQiad6e6lSTScmXvz",
       "artist_ids": [
-        "5YqI7p8zYsOpKJtjxYdOce"
+        "3E12tRURRvPfHz0hAMCFYc"
       ]
     },
     {
-      "Pos": "185",
-      "P+": "RE",
-      "Artist and Title": "Tito Double P - CORAZÓN PARTÍO",
-      "Wks": "30",
-      "Pk": "6",
+      "Pos": "165",
+      "P+": "+5",
+      "Artist and Title": "Calibre 50 - Si Te Pudiera Mentir",
+      "Wks": "194",
+      "Pk": "5",
       "(x?)": "",
-      "Streams": "90,992",
+      "Streams": "98,564",
+      "Streams+": "+2,665",
+      "Total": "18,980,255",
+      "track_id": "3p6eieHX6oEOzJStPtEsLu",
+      "artist_ids": [
+        "4jogXSSvlyMkODGSZ2wc2P"
+      ]
+    },
+    {
+      "Pos": "166",
+      "P+": "-29",
+      "Artist and Title": "Grupo Mojado - Piensa En Mí",
+      "Wks": "113",
+      "Pk": "74",
+      "(x?)": "",
+      "Streams": "98,533",
+      "Streams+": "-8,757",
+      "Total": "11,460,453",
+      "track_id": "1xKP7GVLY33i5jmx1bB1Kk",
+      "artist_ids": [
+        "28NFZuZbEm7yzMpv1q1Rb7"
+      ]
+    },
+    {
+      "Pos": "167",
+      "P+": "+14",
+      "Artist and Title": "Manuel Turizo - La Bachata",
+      "Wks": "187",
+      "Pk": "1",
+      "(x?)": "(x17)",
+      "Streams": "98,142",
+      "Streams+": "+6,373",
+      "Total": "43,807,655",
+      "track_id": "3tt9i3Hhzq84dPS8H7iSiJ",
+      "artist_ids": [
+        "0tmwSHipWxN12fsoLcFU3B"
+      ]
+    },
+    {
+      "Pos": "168",
+      "P+": "-15",
+      "Artist and Title": "Don Omar - Salio El Sol",
+      "Wks": "64",
+      "Pk": "122",
+      "(x?)": "",
+      "Streams": "97,843",
+      "Streams+": "-1,213",
+      "Total": "5,666,167",
+      "track_id": "48NXpYRuvv9izul4oXhqS9",
+      "artist_ids": [
+        "33ScadVnbm2X8kkUqOkC6Z"
+      ]
+    },
+    {
+      "Pos": "169",
+      "P+": "+28",
+      "Artist and Title": "The Police - Every Breath You Take",
+      "Wks": "61",
+      "Pk": "100",
+      "(x?)": "",
+      "Streams": "97,623",
+      "Streams+": "+8,860",
+      "Total": "3,268,332",
+      "track_id": "1JSTJqkT5qHq8MDJnJbRE1",
+      "artist_ids": [
+        "5NGO30tJxFlKixkPSgXcFE"
+      ]
+    },
+    {
+      "Pos": "170",
+      "P+": "-9",
+      "Artist and Title": "Los Temerarios - Ven Porque Te Necesito",
+      "Wks": "146",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "97,563",
+      "Streams+": "+71",
+      "Total": "17,767,781",
+      "track_id": "4MNfkZ8dtva3cjJ2biqnDS",
+      "artist_ids": [
+        "3YbOSxo85kla7RID8ugnW3"
+      ]
+    },
+    {
+      "Pos": "171",
+      "P+": "+7",
+      "Artist and Title": "Rauw Alejandro - El Efecto (w/ Chencho Corleone)",
+      "Wks": "129",
+      "Pk": "36",
+      "(x?)": "",
+      "Streams": "97,463",
+      "Streams+": "+5,417",
+      "Total": "9,102,324",
+      "track_id": "4SJHHpKhcuXwDsCsPqshXj",
+      "artist_ids": [
+        "1mcTU81TzQhprhouKaTkpq",
+        "37230BxxYs9ksS7OkZw3IU"
+      ]
+    },
+    {
+      "Pos": "172",
+      "P+": "+5",
+      "Artist and Title": "Bobby Pulido - Se Murió De Amor",
+      "Wks": "5",
+      "Pk": "142",
+      "(x?)": "",
+      "Streams": "97,395",
+      "Streams+": "+4,999",
+      "Total": "476,829",
+      "track_id": "5iuGn3RXvfvHIyIe8fyxBE",
+      "artist_ids": [
+        "4EEZg8R3dxbTCCQ1DVWtHg"
+      ]
+    },
+    {
+      "Pos": "173",
+      "P+": "-22",
+      "Artist and Title": "Tito Double P - LINDA (w/ Neton Vega)",
+      "Wks": "83",
+      "Pk": "36",
+      "(x?)": "",
+      "Streams": "97,152",
+      "Streams+": "-2,819",
+      "Total": "12,707,233",
+      "track_id": "7qXptgpZGo8AFPhJCBVLFE",
+      "artist_ids": [
+        "5eumcnUkdmGvkvcsx1WFNG",
+        "6pV5zH2LzjOUHaAvENdMMa"
+      ]
+    },
+    {
+      "Pos": "174",
+      "P+": "+1",
+      "Artist and Title": "La Santa Grifa - Sabanas Blancas",
+      "Wks": "22",
+      "Pk": "149",
+      "(x?)": "",
+      "Streams": "96,539",
+      "Streams+": "+3,598",
+      "Total": "2,234,270",
+      "track_id": "0IBhXEEKXhv0bdpboaw5M3",
+      "artist_ids": [
+        "1oH2B8tcHn4Gpl2bmmyd4A"
+      ]
+    },
+    {
+      "Pos": "175",
+      "P+": "+21",
+      "Artist and Title": "Omar Courtz - ⁠LUCES DE COLORES",
+      "Wks": "25",
+      "Pk": "125",
+      "(x?)": "",
+      "Streams": "96,436",
+      "Streams+": "+7,584",
+      "Total": "2,536,140",
+      "track_id": "5dDlknAL9imbXXl7uG7oqe",
+      "artist_ids": [
+        "3E12tRURRvPfHz0hAMCFYc"
+      ]
+    },
+    {
+      "Pos": "176",
+      "P+": "-7",
+      "Artist and Title": "Enrique Iglesias - Cuando Me Enamoro (w/ Juan Luis Guerra 4.40)",
+      "Wks": "75",
+      "Pk": "88",
+      "(x?)": "",
+      "Streams": "95,885",
+      "Streams+": "-18",
+      "Total": "5,632,839",
+      "track_id": "79gkHjNTSyGPXEyGkNQ8zH",
+      "artist_ids": [
+        "7qG3b048QCHVRO5Pv1T5lw",
+        "3nlpTZci9O5W8RsNoNH559"
+      ]
+    },
+    {
+      "Pos": "177",
+      "P+": "-35",
+      "Artist and Title": "Grupo Firme - Al Final Del Día",
+      "Wks": "3",
+      "Pk": "142",
+      "(x?)": "",
+      "Streams": "95,806",
+      "Streams+": "-9,741",
+      "Total": "301,112",
+      "track_id": "6VBGFvNil2VJuZtYseebZ5",
+      "artist_ids": [
+        "1dKdetem2xEmjgvyymzytS"
+      ]
+    },
+    {
+      "Pos": "178",
+      "P+": "-4",
+      "Artist and Title": "Banda Tierra Sagrada - La Buena y la Mala",
+      "Wks": "55",
+      "Pk": "67",
+      "(x?)": "",
+      "Streams": "95,642",
+      "Streams+": "+2,560",
+      "Total": "4,433,788",
+      "track_id": "4y0n8xKuEKE0J2sThzswhg",
+      "artist_ids": [
+        "0v7JYEoQOQbzNNESKwxmzT"
+      ]
+    },
+    {
+      "Pos": "179",
+      "P+": "RE",
+      "Artist and Title": "Boza - orióN (w/ ELENA ROSE)",
+      "Wks": "41",
+      "Pk": "95",
+      "(x?)": "",
+      "Streams": "95,278",
       "Streams+": "",
-      "Total": "4,899,218",
-      "track_id": "2qo9LSOvqq5yFxETD8XMaj",
+      "Total": "4,139,411",
+      "track_id": "4feh4Ak3ZJfC6ibxkNzlkE",
       "artist_ids": [
-        "5eumcnUkdmGvkvcsx1WFNG"
+        "2NfSBtmWe7oPw1EmetJVso",
+        "0zO8yNnw5GQgutcIyXfGBY"
       ]
     },
     {
-      "Pos": "186",
-      "P+": "-30",
-      "Artist and Title": "Plan B - Si No Le Contesto",
-      "Wks": "139",
-      "Pk": "71",
-      "(x?)": "",
-      "Streams": "90,857",
-      "Streams+": "-6,749",
-      "Total": "14,302,652",
-      "track_id": "6NdKkfo7o6IH1Op0jsBDjN",
-      "artist_ids": [
-        "2jSGzJw0ebJLu7OLVSOcBP"
-      ]
-    },
-    {
-      "Pos": "187",
+      "Pos": "180",
       "P+": "RE",
+      "Artist and Title": "Juanes - Es Por Ti",
+      "Wks": "33",
+      "Pk": "109",
+      "(x?)": "",
+      "Streams": "95,259",
+      "Streams+": "",
+      "Total": "2,846,363",
+      "track_id": "3b1IQflSLrgzYQPGFzI9cl",
+      "artist_ids": [
+        "0UWZUmn7sybxMCqrw9tGa7"
+      ]
+    },
+    {
+      "Pos": "181",
+      "P+": "+6",
       "Artist and Title": "Christian Nodal - Ya No Somos Ni Seremos",
-      "Wks": "149",
+      "Wks": "150",
       "Pk": "1",
       "(x?)": "(x2)",
-      "Streams": "90,762",
-      "Streams+": "",
-      "Total": "27,162,115",
+      "Streams": "94,622",
+      "Streams+": "+3,860",
+      "Total": "27,256,737",
       "track_id": "0UXlu64mDLvfzR8IXMz06J",
       "artist_ids": [
         "0XwVARXT135rw8lyw1EeWP"
       ]
     },
     {
+      "Pos": "182",
+      "P+": "RE",
+      "Artist and Title": "Bad Bunny - Tití Me Preguntó",
+      "Wks": "98",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "94,258",
+      "Streams+": "",
+      "Total": "23,593,460",
+      "track_id": "1IHWl5LamUGEuP4ozKQSXZ",
+      "artist_ids": [
+        "4q3ewBCX7sLwd24euuV69X"
+      ]
+    },
+    {
+      "Pos": "183",
+      "P+": "-25",
+      "Artist and Title": "Romeo Santos - Necio (w/ null)",
+      "Wks": "62",
+      "Pk": "34",
+      "(x?)": "",
+      "Streams": "93,982",
+      "Streams+": "-3,933",
+      "Total": "3,778,435",
+      "track_id": "3DKWF8is9hzp84aSxnhlag",
+      "artist_ids": [
+        "5lwmRuXgjX8xIwlnauTZIP",
+        "7yGQgQiiKpg2k00JXf8hJk"
+      ]
+    },
+    {
+      "Pos": "184",
+      "P+": "NEW",
+      "Artist and Title": "Calle 24 - TÓXICOS",
+      "Wks": "1",
+      "Pk": "184",
+      "(x?)": "",
+      "Streams": "93,294",
+      "Streams+": "",
+      "Total": "93,294",
+      "track_id": "6wHkuPGYXCiURrF56PUuJi",
+      "artist_ids": [
+        "6dLuQ5qXxIuWc5urxfIiZR"
+      ]
+    },
+    {
+      "Pos": "185",
+      "P+": "+1",
+      "Artist and Title": "Plan B - Si No Le Contesto",
+      "Wks": "140",
+      "Pk": "71",
+      "(x?)": "",
+      "Streams": "93,281",
+      "Streams+": "+2,424",
+      "Total": "14,395,933",
+      "track_id": "6NdKkfo7o6IH1Op0jsBDjN",
+      "artist_ids": [
+        "2jSGzJw0ebJLu7OLVSOcBP"
+      ]
+    },
+    {
+      "Pos": "186",
+      "P+": "+8",
+      "Artist and Title": "Los Temerarios - Tu Última Canción",
+      "Wks": "105",
+      "Pk": "34",
+      "(x?)": "",
+      "Streams": "93,143",
+      "Streams+": "+3,885",
+      "Total": "10,345,731",
+      "track_id": "7dWSrvzawBZPa7VVeHZBn7",
+      "artist_ids": [
+        "3YbOSxo85kla7RID8ugnW3"
+      ]
+    },
+    {
+      "Pos": "187",
+      "P+": "-3",
+      "Artist and Title": "Victor Mendivil - GOET",
+      "Wks": "51",
+      "Pk": "69",
+      "(x?)": "",
+      "Streams": "93,009",
+      "Streams+": "+2,008",
+      "Total": "5,966,806",
+      "track_id": "5CE77TLqLjOQ2qgAobzPds",
+      "artist_ids": [
+        "5YqI7p8zYsOpKJtjxYdOce"
+      ]
+    },
+    {
       "Pos": "188",
-      "P+": "-26",
-      "Artist and Title": "ARIA VEGA - CHÉVERE (premium_remix) (w/ Ryan Castro)",
-      "Wks": "20",
-      "Pk": "60",
-      "(x?)": "",
-      "Streams": "90,263",
-      "Streams+": "-6,260",
-      "Total": "2,473,701",
-      "track_id": "3CBEVPwR3kUXDoTx1lqFUQ",
-      "artist_ids": [
-        "3e9aKKEgSOjIQS9gv2Nr1X",
-        "7j6DKwmjbxvpQO8h914uEz"
-      ]
-    },
-    {
-      "Pos": "189",
-      "P+": "+9",
-      "Artist and Title": "Blessd - YOGURCITO REMIX (w/ Anuel AA, Yan Block, Luar La L, Kris R., ROA)",
-      "Wks": "36",
-      "Pk": "46",
-      "(x?)": "",
-      "Streams": "89,980",
-      "Streams+": "+195",
-      "Total": "4,531,406",
-      "track_id": "7nrd0eIftH3NQLfgk20Qp9",
-      "artist_ids": [
-        "1TA5sGRlKUJXBN4ZyJuDIX",
-        "2R21vXR83lH98kGeO99Y66",
-        "6TKygPpVT29oGUogu4J9Ec",
-        "4axKuDPr6WKcDCyh8vueTY",
-        "3i6lAgVHplDXb6zrjIeBeK",
-        "4cYbf45YbZptNISnhay0xH"
-      ]
-    },
-    {
-      "Pos": "190",
-      "P+": "-42",
+      "P+": "+2",
       "Artist and Title": "Victor Valverde - El Mayor De Los Ranas (w/ JR Torres)",
-      "Wks": "78",
+      "Wks": "79",
       "Pk": "17",
       "(x?)": "",
-      "Streams": "89,857",
-      "Streams+": "-10,080",
-      "Total": "11,785,463",
+      "Streams": "92,800",
+      "Streams+": "+2,943",
+      "Total": "11,878,263",
       "track_id": "6v5qt5KPQHJt5ckWuhDGtM",
       "artist_ids": [
         "20nJFshDG1OYH7Qp9K0TXf",
@@ -2960,137 +2921,15 @@
       ]
     },
     {
-      "Pos": "191",
-      "P+": "-1",
-      "Artist and Title": "Chino Pacas - Madrugada (w/ FLVCKKA)",
-      "Wks": "5",
-      "Pk": "79",
-      "(x?)": "",
-      "Streams": "89,777",
-      "Streams+": "-1,770",
-      "Total": "518,451",
-      "track_id": "6vksmHF8RtdZgH0ZWYIxmY",
-      "artist_ids": [
-        "2rmkQLzj0k4nZdQehOUByO",
-        "12fZoiFXBSs7aVMxGKQgBN"
-      ]
-    },
-    {
-      "Pos": "192",
-      "P+": "RE",
-      "Artist and Title": "Grupo Cañaveral De Humberto Pabón - Tiene Espinas el Rosal",
-      "Wks": "19",
-      "Pk": "81",
-      "(x?)": "",
-      "Streams": "89,345",
-      "Streams+": "",
-      "Total": "1,950,047",
-      "track_id": "3klxazS2H1hEHq0xtUr8em",
-      "artist_ids": [
-        "48zixAu4wMDZwpVbOenDU7"
-      ]
-    },
-    {
-      "Pos": "193",
-      "P+": "-12",
-      "Artist and Title": "Moy Bobadilla - Corazón",
-      "Wks": "15",
-      "Pk": "129",
-      "(x?)": "",
-      "Streams": "89,262",
-      "Streams+": "-3,754",
-      "Total": "1,575,961",
-      "track_id": "5jWrRvkVz0w5x3UOcJ1Xyx",
-      "artist_ids": [
-        "6H8yLg2ml8H94LRjriezMR"
-      ]
-    },
-    {
-      "Pos": "194",
-      "P+": "-15",
-      "Artist and Title": "Los Temerarios - Tu Última Canción",
-      "Wks": "104",
-      "Pk": "34",
-      "(x?)": "",
-      "Streams": "89,258",
-      "Streams+": "-3,911",
-      "Total": "10,252,588",
-      "track_id": "7dWSrvzawBZPa7VVeHZBn7",
-      "artist_ids": [
-        "3YbOSxo85kla7RID8ugnW3"
-      ]
-    },
-    {
-      "Pos": "195",
-      "P+": "-2",
-      "Artist and Title": "Fuerza Regida - INMORTAL (w/ Chuyin)",
-      "Wks": "23",
-      "Pk": "93",
-      "(x?)": "",
-      "Streams": "88,859",
-      "Streams+": "-1,995",
-      "Total": "2,388,277",
-      "track_id": "3BssiKHkHy0zXZCj1T8TcJ",
-      "artist_ids": [
-        "0ys2OFYzWYB5hRDLCsBqxt",
-        "5c8ZR64evQ00Spl73s76fo"
-      ]
-    },
-    {
-      "Pos": "196",
-      "P+": "RE",
-      "Artist and Title": "Omar Courtz - ⁠LUCES DE COLORES",
-      "Wks": "24",
-      "Pk": "125",
-      "(x?)": "",
-      "Streams": "88,852",
-      "Streams+": "",
-      "Total": "2,439,704",
-      "track_id": "5dDlknAL9imbXXl7uG7oqe",
-      "artist_ids": [
-        "3E12tRURRvPfHz0hAMCFYc"
-      ]
-    },
-    {
-      "Pos": "197",
-      "P+": "RE",
-      "Artist and Title": "The Police - Every Breath You Take",
-      "Wks": "60",
-      "Pk": "100",
-      "(x?)": "",
-      "Streams": "88,763",
-      "Streams+": "",
-      "Total": "3,170,709",
-      "track_id": "1JSTJqkT5qHq8MDJnJbRE1",
-      "artist_ids": [
-        "5NGO30tJxFlKixkPSgXcFE"
-      ]
-    },
-    {
-      "Pos": "198",
-      "P+": "RE",
-      "Artist and Title": "Arcángel - Pa' Que La Pases Bien",
-      "Wks": "94",
-      "Pk": "72",
-      "(x?)": "",
-      "Streams": "88,683",
-      "Streams+": "",
-      "Total": "10,110,970",
-      "track_id": "1pLCpA1RN8avJxSD3ZCwhj",
-      "artist_ids": [
-        "4SsVbpTthjScTS7U2hmr1X"
-      ]
-    },
-    {
-      "Pos": "199",
-      "P+": "-12",
+      "Pos": "189",
+      "P+": "+10",
       "Artist and Title": "Bad Bunny - Callaita (w/ Tainy)",
-      "Wks": "251",
+      "Wks": "252",
       "Pk": "1",
       "(x?)": "(x3)",
-      "Streams": "88,585",
-      "Streams+": "-3,752",
-      "Total": "24,650,792",
+      "Streams": "92,434",
+      "Streams+": "+3,849",
+      "Total": "24,743,226",
       "track_id": "2TH65lNHgvLxCKXM3apjxI",
       "artist_ids": [
         "4q3ewBCX7sLwd24euuV69X",
@@ -3098,18 +2937,171 @@
       ]
     },
     {
-      "Pos": "200",
+      "Pos": "190",
       "P+": "RE",
-      "Artist and Title": "Tito Double P - LA FAMA",
-      "Wks": "5",
-      "Pk": "48",
+      "Artist and Title": "Oscar Maydon - Amigos? No. (w/ Neton Vega)",
+      "Wks": "67",
+      "Pk": "13",
       "(x?)": "",
-      "Streams": "88,505",
+      "Streams": "92,273",
       "Streams+": "",
-      "Total": "613,462",
-      "track_id": "2NAM4cGSNerduR7uPfZknS",
+      "Total": "11,384,131",
+      "track_id": "5MBAaEt7s8El3WWhYinLzv",
+      "artist_ids": [
+        "3l9G1G9MxH6DaRhwLklaf5",
+        "6pV5zH2LzjOUHaAvENdMMa"
+      ]
+    },
+    {
+      "Pos": "191",
+      "P+": "-12",
+      "Artist and Title": "Peso Pluma - NUEVA VIDA",
+      "Wks": "160",
+      "Pk": "25",
+      "(x?)": "",
+      "Streams": "92,091",
+      "Streams+": "+260",
+      "Total": "21,550,850",
+      "track_id": "4Nf5EZ40JenjMUKXOiyRU5",
+      "artist_ids": [
+        "12GqGscKJx3aE4t07u7eVZ"
+      ]
+    },
+    {
+      "Pos": "192",
+      "P+": "-7",
+      "Artist and Title": "Tito Double P - CORAZÓN PARTÍO",
+      "Wks": "31",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "92,038",
+      "Streams+": "+1,046",
+      "Total": "4,991,256",
+      "track_id": "2qo9LSOvqq5yFxETD8XMaj",
       "artist_ids": [
         "5eumcnUkdmGvkvcsx1WFNG"
+      ]
+    },
+    {
+      "Pos": "193",
+      "P+": "RE",
+      "Artist and Title": "Zion & Lennox - Otra vez (w/ J Balvin)",
+      "Wks": "264",
+      "Pk": "1",
+      "(x?)": "(x14)",
+      "Streams": "91,939",
+      "Streams+": "",
+      "Total": "13,701,593",
+      "track_id": "3QwBODjSEzelZyVjxPOHdq",
+      "artist_ids": [
+        "21451j1KhjAiaYKflxBjr1",
+        "1vyhD5VmyZ7KMfW5gqLgo5"
+      ]
+    },
+    {
+      "Pos": "194",
+      "P+": "RE",
+      "Artist and Title": "Pesado - A chillar a otra parte",
+      "Wks": "25",
+      "Pk": "54",
+      "(x?)": "",
+      "Streams": "91,412",
+      "Streams+": "",
+      "Total": "2,732,135",
+      "track_id": "3BwabPHcwg7jotkO7YOcJ2",
+      "artist_ids": [
+        "4BwiodzEp9Hwes5HeFjMVK"
+      ]
+    },
+    {
+      "Pos": "195",
+      "P+": "RE",
+      "Artist and Title": "Los Enanitos Verdes - Lamento Boliviano",
+      "Wks": "298",
+      "Pk": "75",
+      "(x?)": "",
+      "Streams": "91,283",
+      "Streams+": "",
+      "Total": "14,463,984",
+      "track_id": "6Pur3hWy6Nzc27ilmsp5HA",
+      "artist_ids": [
+        "4TK1gDgb7QKoPFlzRrBRgR"
+      ]
+    },
+    {
+      "Pos": "196",
+      "P+": "-23",
+      "Artist and Title": "Fuerza Regida - TÚ NAME",
+      "Wks": "122",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "91,155",
+      "Streams+": "-2,100",
+      "Total": "21,531,674",
+      "track_id": "3FqUPvubYeRCMsdJ02QyZR",
+      "artist_ids": [
+        "0ys2OFYzWYB5hRDLCsBqxt"
+      ]
+    },
+    {
+      "Pos": "197",
+      "P+": "-34",
+      "Artist and Title": "Tito Double P - ROSONES",
+      "Wks": "84",
+      "Pk": "2",
+      "(x?)": "(x2)",
+      "Streams": "90,960",
+      "Streams+": "-6,160",
+      "Total": "19,764,470",
+      "track_id": "0LTwdL5yZ6YOTEGUQPFuSN",
+      "artist_ids": [
+        "5eumcnUkdmGvkvcsx1WFNG"
+      ]
+    },
+    {
+      "Pos": "198",
+      "P+": "-18",
+      "Artist and Title": "Romeo Santos - Hilito",
+      "Wks": "64",
+      "Pk": "64",
+      "(x?)": "",
+      "Streams": "90,620",
+      "Streams+": "-1,162",
+      "Total": "1,247,871",
+      "track_id": "6CKlQHQIxhWtq7MnEJ6QCz",
+      "artist_ids": [
+        "5lwmRuXgjX8xIwlnauTZIP"
+      ]
+    },
+    {
+      "Pos": "199",
+      "P+": "-4",
+      "Artist and Title": "Fuerza Regida - INMORTAL (w/ Chuyin)",
+      "Wks": "24",
+      "Pk": "93",
+      "(x?)": "",
+      "Streams": "90,364",
+      "Streams+": "+1,505",
+      "Total": "2,478,641",
+      "track_id": "3BssiKHkHy0zXZCj1T8TcJ",
+      "artist_ids": [
+        "0ys2OFYzWYB5hRDLCsBqxt",
+        "5c8ZR64evQ00Spl73s76fo"
+      ]
+    },
+    {
+      "Pos": "200",
+      "P+": "NEW",
+      "Artist and Title": "El De Las R's - Beretta (De Los Cerros La Escuela)",
+      "Wks": "1",
+      "Pk": "200",
+      "(x?)": "",
+      "Streams": "90,251",
+      "Streams+": "",
+      "Total": "90,251",
+      "track_id": "2T6bX3rxdMc9V7ErfOB5yG",
+      "artist_ids": [
+        "6LRccuxVVYoqRQif85sG9j"
       ]
     }
   ]
