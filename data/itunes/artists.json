@@ -4,15 +4,32 @@
   "chart": [
     {
       "Pos": "1",
-      "P+": "=",
+      "P+": "+6",
+      "Artist": "Ariana Grande",
+      "Points": "8111",
+      "Apple M": "6455",
+      "Spotify": "481",
+      "iTunes": "929",
+      "YouTube": "71",
+      "Shazam": "85",
+      "Deezer": "90",
+      "Top Country": "United States",
+      "#": "154",
+      "artist_ids": [
+        "arianagrande"
+      ]
+    },
+    {
+      "Pos": "2",
+      "P+": "-1",
       "Artist": "Bad Bunny",
-      "Points": "4702",
-      "Apple M": "2377",
-      "Spotify": "1855",
-      "iTunes": "113",
+      "Points": "4460",
+      "Apple M": "2215",
+      "Spotify": "1810",
+      "iTunes": "88",
       "YouTube": "82",
-      "Shazam": "56",
-      "Deezer": "219",
+      "Shazam": "54",
+      "Deezer": "211",
       "Top Country": "Spain",
       "#": "109",
       "artist_ids": [
@@ -20,16 +37,16 @@
       ]
     },
     {
-      "Pos": "2",
-      "P+": "=",
+      "Pos": "3",
+      "P+": "-1",
       "Artist": "Drake",
-      "Points": "4460",
-      "Apple M": "3595",
-      "Spotify": "628",
-      "iTunes": "102",
+      "Points": "4214",
+      "Apple M": "3348",
+      "Spotify": "626",
+      "iTunes": "113",
       "YouTube": "45",
       "Shazam": "28",
-      "Deezer": "62",
+      "Deezer": "55",
       "Top Country": "South Africa",
       "#": "157",
       "artist_ids": [
@@ -37,103 +54,86 @@
       ]
     },
     {
-      "Pos": "3",
-      "P+": "+2",
-      "Artist": "BTS",
-      "Points": "3987",
-      "Apple M": "1094",
-      "Spotify": "1141",
-      "iTunes": "1478",
-      "YouTube": "33",
-      "Shazam": "12",
-      "Deezer": "228",
-      "Top Country": "Brazil",
-      "#": "141",
-      "artist_ids": [
-        "bts"
-      ]
-    },
-    {
       "Pos": "4",
-      "P+": "-1",
+      "P+": "=",
       "Artist": "Michael Jackson",
-      "Points": "3818",
-      "Apple M": "1187",
-      "Spotify": "1357",
-      "iTunes": "403",
+      "Points": "3564",
+      "Apple M": "1100",
+      "Spotify": "1296",
+      "iTunes": "298",
       "YouTube": "687",
-      "Shazam": "9",
-      "Deezer": "175",
+      "Shazam": "7",
+      "Deezer": "174",
       "Top Country": "United States",
-      "#": "145",
+      "#": "150",
       "artist_ids": [
         "michaeljackson"
       ]
     },
     {
       "Pos": "5",
-      "P+": "-1",
-      "Artist": "Olivia Rodrigo",
-      "Points": "3706",
-      "Apple M": "2120",
-      "Spotify": "1192",
-      "iTunes": "146",
-      "YouTube": "36",
-      "Shazam": "69",
-      "Deezer": "143",
-      "Top Country": "United States",
-      "#": "135",
+      "P+": "-2",
+      "Artist": "BTS",
+      "Points": "3472",
+      "Apple M": "1022",
+      "Spotify": "1162",
+      "iTunes": "1031",
+      "YouTube": "33",
+      "Shazam": "12",
+      "Deezer": "212",
+      "Top Country": "Venezuela",
+      "#": "139",
       "artist_ids": [
-        "oliviarodrigo"
+        "bts"
       ]
     },
     {
       "Pos": "6",
       "P+": "=",
       "Artist": "Shakira",
-      "Points": "3396",
-      "Apple M": "577",
-      "Spotify": "707",
-      "iTunes": "358",
+      "Points": "3353",
+      "Apple M": "536",
+      "Spotify": "709",
+      "iTunes": "349",
       "YouTube": "1479",
-      "Shazam": "124",
-      "Deezer": "152",
+      "Shazam": "117",
+      "Deezer": "163",
       "Top Country": "Spain",
-      "#": "150",
+      "#": "147",
       "artist_ids": [
         "shakira"
       ]
     },
     {
       "Pos": "7",
-      "P+": "+1",
-      "Artist": "Ariana Grande",
-      "Points": "2974",
-      "Apple M": "1878",
-      "Spotify": "648",
-      "iTunes": "185",
-      "YouTube": "71",
-      "Shazam": "86",
-      "Deezer": "107",
-      "Top Country": "Indonesia",
-      "#": "137",
+      "P+": "-2",
+      "Artist": "Olivia Rodrigo",
+      "Points": "3323",
+      "Apple M": "1774",
+      "Spotify": "1162",
+      "iTunes": "168",
+      "YouTube": "36",
+      "Shazam": "70",
+      "Deezer": "113",
+      "Top Country": "Australia",
+      "#": "134",
       "artist_ids": [
-        "arianagrande"
+        "oliviarodrigo"
       ]
     },
     {
       "Pos": "8",
-      "P+": "-1",
+      "P+": "=",
       "Artist": "Taylor Swift",
-      "Points": "2850",
-      "Apple M": "1665",
-      "Spotify": "633",
-      "iTunes": "255",
+      "Points": "2617",
+      "Apple M": "1505",
+      "Spotify": "622",
+      "iTunes": "201",
       "YouTube": "82",
-      "Shazam": "74",
-      "Deezer": "142",
+      "Shazam": "73",
+      "Deezer": "135",
       "Top Country": "Australia",
-      "#": "129",
+      "#": "133",
       "artist_ids": [
         "taylorswift"
       ]
@@ -142,13 +142,13 @@
       "Pos": "9",
       "P+": "=",
       "Artist": "Justin Bieber",
-      "Points": "2317",
-      "Apple M": "953",
-      "Spotify": "993",
-      "iTunes": "142",
+      "Points": "2189",
+      "Apple M": "896",
+      "Spotify": "953",
+      "iTunes": "116",
       "YouTube": "127",
       "Shazam": "55",
-      "Deezer": "46",
+      "Deezer": "43",
       "Top Country": "Indonesia",
       "#": "150",
       "artist_ids": [
@@ -159,13 +159,13 @@
       "Pos": "10",
       "P+": "=",
       "Artist": "Omar Courtz",
-      "Points": "2003",
-      "Apple M": "790",
-      "Spotify": "944",
-      "iTunes": "8",
+      "Points": "1910",
+      "Apple M": "716",
+      "Spotify": "926",
+      "iTunes": "11",
       "YouTube": "220",
-      "Shazam": "22",
-      "Deezer": "20",
+      "Shazam": "23",
+      "Deezer": "16",
       "Top Country": "Argentina",
       "#": "26",
       "artist_ids": [
@@ -174,51 +174,51 @@
     },
     {
       "Pos": "11",
-      "P+": "=",
-      "Artist": "The Weeknd",
-      "Points": "1913",
-      "Apple M": "1276",
-      "Spotify": "531",
-      "iTunes": "69",
-      "YouTube": "7",
-      "Shazam": "11",
-      "Deezer": "18",
-      "Top Country": "Netherlands",
-      "#": "150",
+      "P+": "+1",
+      "Artist": "HUGEL",
+      "Points": "1885",
+      "Apple M": "460",
+      "Spotify": "504",
+      "iTunes": "352",
+      "YouTube": "158",
+      "Shazam": "294",
+      "Deezer": "117",
+      "Top Country": "Germany",
+      "#": "92",
       "artist_ids": [
-        "theweeknd"
+        "hugel"
       ]
     },
     {
       "Pos": "12",
-      "P+": "=",
-      "Artist": "HUGEL",
-      "Points": "1874",
-      "Apple M": "483",
-      "Spotify": "491",
-      "iTunes": "336",
-      "YouTube": "158",
-      "Shazam": "295",
-      "Deezer": "111",
+      "P+": "-1",
+      "Artist": "The Weeknd",
+      "Points": "1852",
+      "Apple M": "1175",
+      "Spotify": "555",
+      "iTunes": "79",
+      "YouTube": "7",
+      "Shazam": "12",
+      "Deezer": "24",
       "Top Country": "Germany",
-      "#": "94",
+      "#": "147",
       "artist_ids": [
-        "hugel"
+        "theweeknd"
       ]
     },
     {
       "Pos": "13",
       "P+": "=",
       "Artist": "Olivia Dean",
-      "Points": "1740",
-      "Apple M": "839",
-      "Spotify": "553",
-      "iTunes": "136",
+      "Points": "1674",
+      "Apple M": "760",
+      "Spotify": "564",
+      "iTunes": "140",
       "YouTube": "32",
-      "Shazam": "56",
-      "Deezer": "124",
+      "Shazam": "57",
+      "Deezer": "121",
       "Top Country": "Australia",
-      "#": "127",
+      "#": "130",
       "artist_ids": [
         "oliviadean"
       ]
@@ -227,15 +227,15 @@
       "Pos": "14",
       "P+": "=",
       "Artist": "Bruno Mars",
-      "Points": "1636",
-      "Apple M": "498",
-      "Spotify": "712",
-      "iTunes": "235",
+      "Points": "1556",
+      "Apple M": "477",
+      "Spotify": "708",
+      "iTunes": "190",
       "YouTube": "41",
-      "Shazam": "52",
-      "Deezer": "99",
+      "Shazam": "51",
+      "Deezer": "89",
       "Top Country": "Netherlands",
-      "#": "133",
+      "#": "131",
       "artist_ids": [
         "brunomars"
       ]
@@ -244,15 +244,15 @@
       "Pos": "15",
       "P+": "=",
       "Artist": "Burna Boy",
-      "Points": "1448",
-      "Apple M": "737",
-      "Spotify": "277",
-      "iTunes": "293",
+      "Points": "1381",
+      "Apple M": "683",
+      "Spotify": "275",
+      "iTunes": "282",
       "YouTube": "10",
-      "Shazam": "129",
-      "Deezer": "2",
+      "Shazam": "122",
+      "Deezer": "8",
       "Top Country": "Nigeria",
-      "#": "157",
+      "#": "156",
       "artist_ids": [
         "burnaboy"
       ]
@@ -261,15 +261,15 @@
       "Pos": "16",
       "P+": "=",
       "Artist": "Fuerza Regida",
-      "Points": "1362",
-      "Apple M": "574",
-      "Spotify": "598",
-      "iTunes": "13",
+      "Points": "1319",
+      "Apple M": "535",
+      "Spotify": "592",
+      "iTunes": "8",
       "YouTube": "146",
       "Shazam": "9",
-      "Deezer": "22",
+      "Deezer": "29",
       "Top Country": "Mexico",
-      "#": "22",
+      "#": "21",
       "artist_ids": [
         "fuerzaregida"
       ]
@@ -278,80 +278,80 @@
       "Pos": "17",
       "P+": "=",
       "Artist": "Ella Langley",
-      "Points": "1345",
-      "Apple M": "383",
-      "Spotify": "464",
-      "iTunes": "246",
+      "Points": "1309",
+      "Apple M": "346",
+      "Spotify": "475",
+      "iTunes": "241",
       "YouTube": "84",
-      "Shazam": "36",
-      "Deezer": "132",
+      "Shazam": "35",
+      "Deezer": "128",
       "Top Country": "United States",
-      "#": "45",
+      "#": "47",
       "artist_ids": [
         "ellalangley"
       ]
     },
     {
       "Pos": "18",
-      "P+": "+1",
-      "Artist": "Charli xcx",
-      "Points": "1159",
-      "Apple M": "799",
-      "Spotify": "19",
-      "iTunes": "269",
-      "YouTube": "15",
-      "Shazam": "0",
-      "Deezer": "57",
-      "Top Country": "Brazil",
-      "#": "110",
-      "artist_ids": [
-        "charlixcx"
-      ]
-    },
-    {
-      "Pos": "19",
-      "P+": "-1",
-      "Artist": "Gracie Abrams",
-      "Points": "1116",
-      "Apple M": "693",
-      "Spotify": "332",
-      "iTunes": "78",
-      "YouTube": "0",
-      "Shazam": "7",
-      "Deezer": "5",
-      "Top Country": "Australia",
-      "#": "119",
-      "artist_ids": [
-        "gracieabrams"
-      ]
-    },
-    {
-      "Pos": "20",
-      "P+": "=",
+      "P+": "+2",
       "Artist": "Katy Perry",
-      "Points": "1091",
+      "Points": "1109",
       "Apple M": "239",
-      "Spotify": "676",
-      "iTunes": "23",
+      "Spotify": "691",
+      "iTunes": "24",
       "YouTube": "120",
-      "Shazam": "25",
-      "Deezer": "8",
+      "Shazam": "24",
+      "Deezer": "12",
       "Top Country": "Germany",
-      "#": "111",
+      "#": "109",
       "artist_ids": [
         "katyperry"
       ]
     },
     {
+      "Pos": "19",
+      "P+": "+4",
+      "Artist": "Rihanna",
+      "Points": "1055",
+      "Apple M": "385",
+      "Spotify": "533",
+      "iTunes": "74",
+      "YouTube": "2",
+      "Shazam": "53",
+      "Deezer": "9",
+      "Top Country": "Germany",
+      "#": "139",
+      "artist_ids": [
+        "rihanna"
+      ]
+    },
+    {
+      "Pos": "20",
+      "P+": "+4",
+      "Artist": "Mauvais Djo",
+      "Points": "1036",
+      "Apple M": "370",
+      "Spotify": "262",
+      "iTunes": "77",
+      "YouTube": "186",
+      "Shazam": "94",
+      "Deezer": "47",
+      "Top Country": "France",
+      "#": "70",
+      "artist_ids": [
+        "mauvaisdjo"
+      ]
+    },
+    {
       "Pos": "21",
-      "P+": "+2",
+      "P+": "=",
       "Artist": "Anuel AA",
-      "Points": "1044",
-      "Apple M": "424",
+      "Points": "1016",
+      "Apple M": "390",
       "Spotify": "413",
-      "iTunes": "2",
+      "iTunes": "8",
       "YouTube": "132",
-      "Shazam": "62",
+      "Shazam": "63",
       "Deezer": "10",
       "Top Country": "Chile",
       "#": "24",
@@ -363,115 +363,115 @@
       "Pos": "22",
       "P+": "=",
       "Artist": "Alex Warren",
-      "Points": "1033",
-      "Apple M": "238",
-      "Spotify": "509",
-      "iTunes": "124",
+      "Points": "987",
+      "Apple M": "215",
+      "Spotify": "499",
+      "iTunes": "117",
       "YouTube": "57",
       "Shazam": "48",
-      "Deezer": "57",
+      "Deezer": "50",
       "Top Country": "Australia",
-      "#": "83",
+      "#": "82",
       "artist_ids": [
         "alexwarren"
       ]
     },
     {
       "Pos": "23",
-      "P+": "+2",
-      "Artist": "Rihanna",
-      "Points": "1019",
-      "Apple M": "395",
-      "Spotify": "486",
-      "iTunes": "67",
-      "YouTube": "2",
-      "Shazam": "58",
-      "Deezer": "12",
-      "Top Country": "Germany",
-      "#": "138",
+      "P+": "-5",
+      "Artist": "Charli xcx",
+      "Points": "960",
+      "Apple M": "616",
+      "Spotify": "146",
+      "iTunes": "135",
+      "YouTube": "15",
+      "Shazam": "0",
+      "Deezer": "48",
+      "Top Country": "Australia",
+      "#": "107",
       "artist_ids": [
-        "rihanna"
+        "charlixcx"
       ]
     },
     {
       "Pos": "24",
-      "P+": "-3",
-      "Artist": "Mauvais Djo",
-      "Points": "1014",
-      "Apple M": "371",
-      "Spotify": "269",
-      "iTunes": "51",
-      "YouTube": "186",
-      "Shazam": "92",
-      "Deezer": "47",
-      "Top Country": "France",
-      "#": "69",
-      "artist_ids": [
-        "mauvaisdjo"
-      ]
-    },
-    {
-      "Pos": "25",
-      "P+": "-1",
+      "P+": "+1",
       "Artist": "Quevedo",
-      "Points": "979",
-      "Apple M": "303",
-      "Spotify": "542",
-      "iTunes": "21",
+      "Points": "960",
+      "Apple M": "275",
+      "Spotify": "546",
+      "iTunes": "23",
       "YouTube": "69",
-      "Shazam": "18",
-      "Deezer": "26",
+      "Shazam": "17",
+      "Deezer": "30",
       "Top Country": "Spain",
-      "#": "26",
+      "#": "25",
       "artist_ids": [
         "quevedo"
       ]
     },
     {
-      "Pos": "26",
+      "Pos": "25",
       "P+": "+1",
       "Artist": "KATSEYE",
-      "Points": "968",
-      "Apple M": "210",
-      "Spotify": "258",
-      "iTunes": "60",
+      "Points": "913",
+      "Apple M": "174",
+      "Spotify": "255",
+      "iTunes": "53",
       "YouTube": "378",
-      "Shazam": "11",
-      "Deezer": "52",
+      "Shazam": "13",
+      "Deezer": "40",
       "Top Country": "United States",
-      "#": "91",
+      "#": "94",
       "artist_ids": [
         "katseye"
       ]
     },
     {
-      "Pos": "27",
-      "P+": "+4",
-      "Artist": "Billie Eilish",
-      "Points": "946",
-      "Apple M": "596",
-      "Spotify": "233",
-      "iTunes": "42",
+      "Pos": "26",
+      "P+": "-7",
+      "Artist": "Gracie Abrams",
+      "Points": "881",
+      "Apple M": "600",
+      "Spotify": "208",
+      "iTunes": "44",
       "YouTube": "0",
-      "Shazam": "5",
-      "Deezer": "70",
-      "Top Country": "Indonesia",
-      "#": "134",
+      "Shazam": "9",
+      "Deezer": "21",
+      "Top Country": "Australia",
+      "#": "116",
       "artist_ids": [
-        "billieeilish"
+        "gracieabrams"
+      ]
+    },
+    {
+      "Pos": "27",
+      "P+": "+3",
+      "Artist": "LINKIN PARK",
+      "Points": "880",
+      "Apple M": "328",
+      "Spotify": "453",
+      "iTunes": "53",
+      "YouTube": "2",
+      "Shazam": "1",
+      "Deezer": "42",
+      "Top Country": "Germany",
+      "#": "95",
+      "artist_ids": [
+        "linkinpark"
       ]
     },
     {
       "Pos": "28",
-      "P+": "+1",
+      "P+": "=",
       "Artist": "Asake",
-      "Points": "939",
-      "Apple M": "743",
-      "Spotify": "126",
-      "iTunes": "8",
+      "Points": "868",
+      "Apple M": "660",
+      "Spotify": "125",
+      "iTunes": "6",
       "YouTube": "31",
-      "Shazam": "18",
-      "Deezer": "12",
+      "Shazam": "21",
+      "Deezer": "25",
       "Top Country": "Nigeria",
       "#": "52",
       "artist_ids": [
@@ -480,236 +480,168 @@
     },
     {
       "Pos": "29",
-      "P+": "+1",
+      "P+": "-2",
+      "Artist": "Billie Eilish",
+      "Points": "856",
+      "Apple M": "548",
+      "Spotify": "219",
+      "iTunes": "26",
+      "YouTube": "0",
+      "Shazam": "6",
+      "Deezer": "58",
+      "Top Country": "Indonesia",
+      "#": "128",
+      "artist_ids": [
+        "billieeilish"
+      ]
+    },
+    {
+      "Pos": "30",
+      "P+": "-1",
       "Artist": "Harry Styles",
-      "Points": "926",
-      "Apple M": "482",
-      "Spotify": "207",
-      "iTunes": "101",
+      "Points": "851",
+      "Apple M": "432",
+      "Spotify": "197",
+      "iTunes": "94",
       "YouTube": "30",
-      "Shazam": "79",
-      "Deezer": "27",
-      "Top Country": "United Kingdom",
+      "Shazam": "77",
+      "Deezer": "21",
+      "Top Country": "Mexico",
       "#": "98",
       "artist_ids": [
         "harrystyles"
       ]
     },
     {
-      "Pos": "30",
-      "P+": "-4",
-      "Artist": "Oasis",
-      "Points": "915",
-      "Apple M": "299",
-      "Spotify": "396",
-      "iTunes": "32",
-      "YouTube": "127",
-      "Shazam": "33",
-      "Deezer": "28",
-      "Top Country": "United Kingdom",
-      "#": "87",
-      "artist_ids": [
-        "oasis"
-      ]
-    },
-    {
       "Pos": "31",
-      "P+": "-3",
-      "Artist": "LINKIN PARK",
-      "Points": "915",
-      "Apple M": "349",
-      "Spotify": "456",
-      "iTunes": "70",
-      "YouTube": "2",
-      "Shazam": "1",
-      "Deezer": "37",
-      "Top Country": "Germany",
-      "#": "96",
-      "artist_ids": [
-        "linkinpark"
-      ]
-    },
-    {
-      "Pos": "32",
-      "P+": "=",
+      "P+": "+1",
       "Artist": "Zara Larsson",
-      "Points": "901",
-      "Apple M": "241",
-      "Spotify": "398",
-      "iTunes": "43",
+      "Points": "847",
+      "Apple M": "213",
+      "Spotify": "388",
+      "iTunes": "29",
       "YouTube": "121",
-      "Shazam": "11",
-      "Deezer": "86",
+      "Shazam": "10",
+      "Deezer": "85",
       "Top Country": "Sweden",
-      "#": "79",
+      "#": "74",
       "artist_ids": [
         "zaralarsson"
       ]
     },
     {
+      "Pos": "32",
+      "P+": "-1",
+      "Artist": "Oasis",
+      "Points": "843",
+      "Apple M": "263",
+      "Spotify": "356",
+      "iTunes": "30",
+      "YouTube": "127",
+      "Shazam": "30",
+      "Deezer": "36",
+      "Top Country": "Italy",
+      "#": "82",
+      "artist_ids": [
+        "oasis"
+      ]
+    },
+    {
       "Pos": "33",
-      "P+": "=",
+      "P+": "+137",
+      "Artist": "Davido",
+      "Points": "839",
+      "Apple M": "749",
+      "Spotify": "39",
+      "iTunes": "24",
+      "YouTube": "13",
+      "Shazam": "12",
+      "Deezer": "2",
+      "Top Country": "Nigeria",
+      "#": "79",
+      "artist_ids": [
+        "davido"
+      ]
+    },
+    {
+      "Pos": "34",
+      "P+": "-1",
       "Artist": "Morgan Wallen",
-      "Points": "883",
-      "Apple M": "424",
-      "Spotify": "332",
-      "iTunes": "86",
+      "Points": "828",
+      "Apple M": "363",
+      "Spotify": "346",
+      "iTunes": "66",
       "YouTube": "0",
-      "Shazam": "6",
-      "Deezer": "35",
+      "Shazam": "7",
+      "Deezer": "45",
       "Top Country": "United States",
-      "#": "32",
+      "#": "34",
       "artist_ids": [
         "morganwallen"
       ]
     },
     {
-      "Pos": "34",
-      "P+": "+2",
+      "Pos": "35",
+      "P+": "=",
       "Artist": "Lady Gaga",
-      "Points": "876",
-      "Apple M": "300",
-      "Spotify": "389",
-      "iTunes": "121",
+      "Points": "824",
+      "Apple M": "276",
+      "Spotify": "402",
+      "iTunes": "86",
       "YouTube": "0",
-      "Shazam": "14",
-      "Deezer": "51",
+      "Shazam": "16",
+      "Deezer": "44",
       "Top Country": "Germany",
-      "#": "118",
+      "#": "117",
       "artist_ids": [
         "ladygaga"
       ]
     },
     {
-      "Pos": "35",
-      "P+": "+2",
+      "Pos": "36",
+      "P+": "=",
       "Artist": "SIENNA SPIRO",
-      "Points": "875",
-      "Apple M": "409",
-      "Spotify": "345",
-      "iTunes": "63",
+      "Points": "807",
+      "Apple M": "352",
+      "Spotify": "341",
+      "iTunes": "59",
       "YouTube": "0",
-      "Shazam": "48",
-      "Deezer": "10",
+      "Shazam": "47",
+      "Deezer": "9",
       "Top Country": "United Kingdom",
-      "#": "107",
+      "#": "105",
       "artist_ids": [
         "siennaspiro"
       ]
     },
     {
-      "Pos": "36",
-      "P+": "-2",
-      "Artist": "sombr",
-      "Points": "875",
-      "Apple M": "162",
-      "Spotify": "485",
-      "iTunes": "52",
-      "YouTube": "0",
-      "Shazam": "59",
-      "Deezer": "117",
-      "Top Country": "Australia",
-      "#": "76",
-      "artist_ids": [
-        "sombr"
-      ]
-    },
-    {
       "Pos": "37",
-      "P+": "-2",
+      "P+": "=",
       "Artist": "Noah Kahan",
-      "Points": "857",
-      "Apple M": "364",
-      "Spotify": "459",
-      "iTunes": "21",
+      "Points": "805",
+      "Apple M": "301",
+      "Spotify": "457",
+      "iTunes": "26",
       "YouTube": "0",
       "Shazam": "5",
-      "Deezer": "8",
+      "Deezer": "16",
       "Top Country": "Canada",
-      "#": "69",
+      "#": "66",
       "artist_ids": [
         "noahkahan"
       ]
     },
     {
       "Pos": "38",
-      "P+": "=",
-      "Artist": "Future",
-      "Points": "835",
-      "Apple M": "735",
-      "Spotify": "75",
-      "iTunes": "14",
-      "YouTube": "6",
-      "Shazam": "4",
-      "Deezer": "2",
-      "Top Country": "United States",
-      "#": "128",
-      "artist_ids": [
-        "future"
-      ]
-    },
-    {
-      "Pos": "39",
-      "P+": "=",
-      "Artist": "Madonna",
-      "Points": "815",
-      "Apple M": "571",
-      "Spotify": "46",
-      "iTunes": "164",
-      "YouTube": "16",
-      "Shazam": "7",
-      "Deezer": "11",
-      "Top Country": "Brazil",
-      "#": "102",
-      "artist_ids": [
-        "madonna"
-      ]
-    },
-    {
-      "Pos": "40",
-      "P+": "+1",
-      "Artist": "Dua Lipa",
-      "Points": "807",
-      "Apple M": "343",
-      "Spotify": "406",
-      "iTunes": "33",
-      "YouTube": "9",
-      "Shazam": "5",
-      "Deezer": "11",
-      "Top Country": "Netherlands",
-      "#": "104",
-      "artist_ids": [
-        "dualipa"
-      ]
-    },
-    {
-      "Pos": "41",
-      "P+": "+3",
-      "Artist": "Sabrina Carpenter",
-      "Points": "803",
-      "Apple M": "487",
-      "Spotify": "217",
-      "iTunes": "27",
-      "YouTube": "0",
-      "Shazam": "3",
-      "Deezer": "69",
-      "Top Country": "Australia",
-      "#": "103",
-      "artist_ids": [
-        "sabrinacarpenter"
-      ]
-    },
-    {
-      "Pos": "42",
-      "P+": "-2",
+      "P+": "+4",
       "Artist": "Romeo Santos",
-      "Points": "800",
+      "Points": "803",
       "Apple M": "163",
-      "Spotify": "331",
-      "iTunes": "13",
-      "YouTube": "281",
-      "Shazam": "7",
-      "Deezer": "5",
+      "Spotify": "335",
+      "iTunes": "17",
+      "YouTube": "279",
+      "Shazam": "6",
+      "Deezer": "3",
       "Top Country": "Spain",
       "#": "27",
       "artist_ids": [
@@ -717,16 +649,67 @@
       ]
     },
     {
-      "Pos": "43",
-      "P+": "=",
+      "Pos": "39",
+      "P+": "+1",
+      "Artist": "Dua Lipa",
+      "Points": "800",
+      "Apple M": "331",
+      "Spotify": "417",
+      "iTunes": "30",
+      "YouTube": "9",
+      "Shazam": "5",
+      "Deezer": "7",
+      "Top Country": "Netherlands",
+      "#": "109",
+      "artist_ids": [
+        "dualipa"
+      ]
+    },
+    {
+      "Pos": "40",
+      "P+": "+6",
+      "Artist": "KAROL G",
+      "Points": "791",
+      "Apple M": "286",
+      "Spotify": "370",
+      "iTunes": "44",
+      "YouTube": "30",
+      "Shazam": "18",
+      "Deezer": "43",
+      "Top Country": "Spain",
+      "#": "45",
+      "artist_ids": [
+        "karolg"
+      ]
+    },
+    {
+      "Pos": "41",
+      "P+": "-7",
+      "Artist": "sombr",
+      "Points": "788",
+      "Apple M": "124",
+      "Spotify": "473",
+      "iTunes": "59",
+      "YouTube": "0",
+      "Shazam": "59",
+      "Deezer": "72",
+      "Top Country": "Australia",
+      "#": "72",
+      "artist_ids": [
+        "sombr"
+      ]
+    },
+    {
+      "Pos": "42",
+      "P+": "+1",
       "Artist": "BLOK3",
-      "Points": "787",
-      "Apple M": "273",
+      "Points": "763",
+      "Apple M": "259",
       "Spotify": "239",
-      "iTunes": "42",
+      "iTunes": "32",
       "YouTube": "186",
-      "Shazam": "39",
-      "Deezer": "8",
+      "Shazam": "40",
+      "Deezer": "7",
       "Top Country": "Turkey",
       "#": "34",
       "artist_ids": [
@@ -734,288 +717,288 @@
       ]
     },
     {
-      "Pos": "44",
-      "P+": "+3",
-      "Artist": "Imael Angel",
-      "Points": "766",
-      "Apple M": "232",
-      "Spotify": "75",
-      "iTunes": "220",
-      "YouTube": "11",
-      "Shazam": "228",
-      "Deezer": "0",
-      "Top Country": "Germany",
-      "#": "76",
-      "artist_ids": [
-        "imaelangel"
-      ]
-    },
-    {
-      "Pos": "45",
-      "P+": "-3",
-      "Artist": "Tyla",
-      "Points": "764",
-      "Apple M": "677",
-      "Spotify": "19",
-      "iTunes": "51",
-      "YouTube": "0",
-      "Shazam": "5",
-      "Deezer": "11",
-      "Top Country": "South Africa",
-      "#": "133",
-      "artist_ids": [
-        "tyla"
-      ]
-    },
-    {
-      "Pos": "46",
-      "P+": "-1",
-      "Artist": "KAROL G",
-      "Points": "753",
-      "Apple M": "300",
-      "Spotify": "341",
-      "iTunes": "27",
-      "YouTube": "30",
-      "Shazam": "18",
-      "Deezer": "36",
-      "Top Country": "Spain",
-      "#": "44",
-      "artist_ids": [
-        "karolg"
-      ]
-    },
-    {
-      "Pos": "47",
-      "P+": "+1",
+      "Pos": "43",
+      "P+": "+4",
       "Artist": "Tame Impala",
-      "Points": "713",
-      "Apple M": "181",
-      "Spotify": "199",
-      "iTunes": "60",
+      "Points": "755",
+      "Apple M": "175",
+      "Spotify": "197",
+      "iTunes": "73",
       "YouTube": "99",
-      "Shazam": "89",
-      "Deezer": "84",
-      "Top Country": "United States",
-      "#": "91",
+      "Shazam": "111",
+      "Deezer": "101",
+      "Top Country": "Canada",
+      "#": "96",
       "artist_ids": [
         "tameimpala"
       ]
     },
     {
-      "Pos": "48",
-      "P+": "-2",
-      "Artist": "Ed Sheeran",
-      "Points": "710",
-      "Apple M": "384",
-      "Spotify": "149",
-      "iTunes": "138",
-      "YouTube": "1",
-      "Shazam": "22",
-      "Deezer": "16",
-      "Top Country": "Australia",
-      "#": "132",
+      "Pos": "44",
+      "P+": "-5",
+      "Artist": "Madonna",
+      "Points": "753",
+      "Apple M": "520",
+      "Spotify": "21",
+      "iTunes": "178",
+      "YouTube": "16",
+      "Shazam": "7",
+      "Deezer": "11",
+      "Top Country": "Brazil",
+      "#": "104",
       "artist_ids": [
-        "edsheeran"
+        "madonna"
+      ]
+    },
+    {
+      "Pos": "45",
+      "P+": "-1",
+      "Artist": "Imael Angel",
+      "Points": "748",
+      "Apple M": "223",
+      "Spotify": "75",
+      "iTunes": "215",
+      "YouTube": "11",
+      "Shazam": "224",
+      "Deezer": "0",
+      "Top Country": "Germany",
+      "#": "77",
+      "artist_ids": [
+        "imaelangel"
+      ]
+    },
+    {
+      "Pos": "46",
+      "P+": "-8",
+      "Artist": "Future",
+      "Points": "725",
+      "Apple M": "660",
+      "Spotify": "37",
+      "iTunes": "18",
+      "YouTube": "6",
+      "Shazam": "2",
+      "Deezer": "3",
+      "Top Country": "United States",
+      "#": "126",
+      "artist_ids": [
+        "future"
+      ]
+    },
+    {
+      "Pos": "47",
+      "P+": "-6",
+      "Artist": "Sabrina Carpenter",
+      "Points": "719",
+      "Apple M": "436",
+      "Spotify": "205",
+      "iTunes": "20",
+      "YouTube": "0",
+      "Shazam": "3",
+      "Deezer": "54",
+      "Top Country": "Australia",
+      "#": "97",
+      "artist_ids": [
+        "sabrinacarpenter"
+      ]
+    },
+    {
+      "Pos": "48",
+      "P+": "+2",
+      "Artist": "JENNIE",
+      "Points": "691",
+      "Apple M": "333",
+      "Spotify": "160",
+      "iTunes": "101",
+      "YouTube": "46",
+      "Shazam": "49",
+      "Deezer": "4",
+      "Top Country": "Taiwan",
+      "#": "89",
+      "artist_ids": [
+        "jennie"
       ]
     },
     {
       "Pos": "49",
       "P+": "=",
       "Artist": "HUNTR/X",
-      "Points": "696",
-      "Apple M": "346",
-      "Spotify": "72",
-      "iTunes": "52",
+      "Points": "678",
+      "Apple M": "322",
+      "Spotify": "71",
+      "iTunes": "59",
       "YouTube": "209",
-      "Shazam": "18",
-      "Deezer": "0",
+      "Shazam": "17",
+      "Deezer": "1",
       "Top Country": "United Kingdom",
-      "#": "87",
+      "#": "83",
       "artist_ids": [
         "huntrx"
       ]
     },
     {
       "Pos": "50",
-      "P+": "=",
-      "Artist": "JENNIE",
-      "Points": "696",
-      "Apple M": "367",
-      "Spotify": "148",
-      "iTunes": "87",
-      "YouTube": "46",
-      "Shazam": "47",
-      "Deezer": "1",
-      "Top Country": "Taiwan",
-      "#": "91",
-      "artist_ids": [
-        "jennie"
-      ]
-    },
-    {
-      "Pos": "51",
-      "P+": "+1",
-      "Artist": "Rauw Alejandro",
-      "Points": "691",
-      "Apple M": "425",
-      "Spotify": "241",
-      "iTunes": "4",
-      "YouTube": "4",
-      "Shazam": "5",
-      "Deezer": "13",
-      "Top Country": "Mexico",
-      "#": "25",
-      "artist_ids": [
-        "rauwalejandro"
-      ]
-    },
-    {
-      "Pos": "52",
-      "P+": "-1",
+      "P+": "+2",
       "Artist": "Kanye West",
-      "Points": "681",
-      "Apple M": "505",
-      "Spotify": "128",
-      "iTunes": "40",
+      "Points": "666",
+      "Apple M": "499",
+      "Spotify": "136",
+      "iTunes": "22",
       "YouTube": "0",
       "Shazam": "5",
-      "Deezer": "3",
+      "Deezer": "4",
       "Top Country": "United States",
-      "#": "128",
+      "#": "127",
       "artist_ids": [
         "kanyewest"
       ]
     },
     {
-      "Pos": "53",
-      "P+": "+65",
-      "Artist": "Glen Hansard",
-      "Points": "657",
-      "Apple M": "108",
-      "Spotify": "18",
-      "iTunes": "519",
-      "YouTube": "0",
-      "Shazam": "8",
-      "Deezer": "5",
-      "Top Country": "Ireland",
-      "#": "32",
+      "Pos": "51",
+      "P+": "-3",
+      "Artist": "Ed Sheeran",
+      "Points": "655",
+      "Apple M": "348",
+      "Spotify": "152",
+      "iTunes": "121",
+      "YouTube": "1",
+      "Shazam": "22",
+      "Deezer": "11",
+      "Top Country": "Australia",
+      "#": "126",
       "artist_ids": [
-        "glenhansard"
+        "edsheeran"
       ]
     },
     {
-      "Pos": "54",
+      "Pos": "52",
       "P+": "-1",
-      "Artist": "Ninho",
-      "Points": "651",
-      "Apple M": "496",
-      "Spotify": "130",
-      "iTunes": "2",
-      "YouTube": "0",
+      "Artist": "Rauw Alejandro",
+      "Points": "653",
+      "Apple M": "395",
+      "Spotify": "234",
+      "iTunes": "6",
+      "YouTube": "4",
       "Shazam": "5",
-      "Deezer": "18",
-      "Top Country": "France",
-      "#": "25",
-      "artist_ids": [
-        "ninho"
-      ]
-    },
-    {
-      "Pos": "55",
-      "P+": "-1",
-      "Artist": "Temper City",
-      "Points": "645",
-      "Apple M": "107",
-      "Spotify": "238",
-      "iTunes": "47",
-      "YouTube": "119",
-      "Shazam": "89",
-      "Deezer": "44",
-      "Top Country": "Germany",
-      "#": "89",
-      "artist_ids": [
-        "tempercity"
-      ]
-    },
-    {
-      "Pos": "56",
-      "P+": "=",
-      "Artist": "Peso Pluma",
-      "Points": "633",
-      "Apple M": "306",
-      "Spotify": "220",
-      "iTunes": "4",
-      "YouTube": "88",
-      "Shazam": "2",
-      "Deezer": "14",
+      "Deezer": "10",
       "Top Country": "Mexico",
-      "#": "21",
+      "#": "23",
       "artist_ids": [
-        "pesopluma"
+        "rauwalejandro"
       ]
     },
     {
-      "Pos": "57",
-      "P+": "+2",
+      "Pos": "53",
+      "P+": "+4",
       "Artist": "Ultra Naté",
-      "Points": "629",
-      "Apple M": "206",
+      "Points": "638",
+      "Apple M": "201",
       "Spotify": "75",
-      "iTunes": "191",
+      "iTunes": "204",
       "YouTube": "0",
-      "Shazam": "158",
+      "Shazam": "157",
       "Deezer": "0",
       "Top Country": "Germany",
-      "#": "76",
+      "#": "77",
       "artist_ids": [
         "ultranate"
       ]
     },
     {
-      "Pos": "58",
-      "P+": "-3",
+      "Pos": "54",
+      "P+": "+1",
+      "Artist": "Temper City",
+      "Points": "635",
+      "Apple M": "93",
+      "Spotify": "245",
+      "iTunes": "44",
+      "YouTube": "119",
+      "Shazam": "89",
+      "Deezer": "46",
+      "Top Country": "Germany",
+      "#": "88",
+      "artist_ids": [
+        "tempercity"
+      ]
+    },
+    {
+      "Pos": "55",
+      "P+": "-10",
+      "Artist": "Tyla",
+      "Points": "635",
+      "Apple M": "530",
+      "Spotify": "53",
+      "iTunes": "31",
+      "YouTube": "0",
+      "Shazam": "5",
+      "Deezer": "17",
+      "Top Country": "South Africa",
+      "#": "132",
+      "artist_ids": [
+        "tyla"
+      ]
+    },
+    {
+      "Pos": "56",
+      "P+": "+2",
       "Artist": "Teddy Swims",
-      "Points": "624",
-      "Apple M": "115",
-      "Spotify": "201",
-      "iTunes": "122",
+      "Points": "632",
+      "Apple M": "114",
+      "Spotify": "209",
+      "iTunes": "132",
       "YouTube": "50",
       "Shazam": "85",
-      "Deezer": "50",
+      "Deezer": "41",
       "Top Country": "Netherlands",
-      "#": "64",
+      "#": "67",
       "artist_ids": [
         "teddyswims"
       ]
     },
     {
-      "Pos": "59",
-      "P+": "-2",
-      "Artist": "Blessd",
-      "Points": "598",
-      "Apple M": "238",
-      "Spotify": "223",
+      "Pos": "57",
+      "P+": "-3",
+      "Artist": "Ninho",
+      "Points": "614",
+      "Apple M": "465",
+      "Spotify": "131",
       "iTunes": "2",
-      "YouTube": "117",
-      "Shazam": "15",
-      "Deezer": "3",
-      "Top Country": "Colombia",
-      "#": "18",
+      "YouTube": "0",
+      "Shazam": "5",
+      "Deezer": "10",
+      "Top Country": "France",
+      "#": "23",
       "artist_ids": [
-        "blessd"
+        "ninho"
       ]
     },
     {
-      "Pos": "60",
+      "Pos": "58",
       "P+": "-2",
+      "Artist": "Peso Pluma",
+      "Points": "604",
+      "Apple M": "283",
+      "Spotify": "215",
+      "iTunes": "1",
+      "YouTube": "88",
+      "Shazam": "2",
+      "Deezer": "15",
+      "Top Country": "Mexico",
+      "#": "22",
+      "artist_ids": [
+        "pesopluma"
+      ]
+    },
+    {
+      "Pos": "59",
+      "P+": "=",
       "Artist": "manifest",
-      "Points": "595",
-      "Apple M": "163",
+      "Points": "599",
+      "Apple M": "150",
       "Spotify": "229",
-      "iTunes": "44",
+      "iTunes": "58",
       "YouTube": "147",
       "Shazam": "4",
-      "Deezer": "8",
+      "Deezer": "10",
       "Top Country": "Turkey",
       "#": "7",
       "artist_ids": [
@@ -1023,251 +1006,200 @@
       ]
     },
     {
-      "Pos": "61",
+      "Pos": "60",
       "P+": "+1",
       "Artist": "Aitana",
-      "Points": "583",
-      "Apple M": "183",
-      "Spotify": "252",
-      "iTunes": "30",
+      "Points": "584",
+      "Apple M": "175",
+      "Spotify": "265",
+      "iTunes": "29",
       "YouTube": "63",
-      "Shazam": "18",
-      "Deezer": "37",
+      "Shazam": "17",
+      "Deezer": "35",
       "Top Country": "Spain",
-      "#": "22",
+      "#": "23",
       "artist_ids": [
         "aitana"
       ]
     },
     {
+      "Pos": "61",
+      "P+": "-1",
+      "Artist": "Blessd",
+      "Points": "576",
+      "Apple M": "223",
+      "Spotify": "214",
+      "iTunes": "1",
+      "YouTube": "117",
+      "Shazam": "16",
+      "Deezer": "5",
+      "Top Country": "Colombia",
+      "#": "18",
+      "artist_ids": [
+        "blessd"
+      ]
+    },
+    {
       "Pos": "62",
-      "P+": "+1",
-      "Artist": "Lana Del Rey",
-      "Points": "573",
-      "Apple M": "373",
-      "Spotify": "127",
-      "iTunes": "46",
-      "YouTube": "0",
-      "Shazam": "20",
-      "Deezer": "7",
-      "Top Country": "Brazil",
-      "#": "119",
-      "artist_ids": [
-        "lanadelrey"
-      ]
-    },
-    {
-      "Pos": "63",
-      "P+": "-2",
-      "Artist": "Amr Diab",
-      "Points": "573",
-      "Apple M": "399",
-      "Spotify": "38",
-      "iTunes": "22",
-      "YouTube": "69",
-      "Shazam": "18",
-      "Deezer": "27",
-      "Top Country": "Egypt",
-      "#": "21",
-      "artist_ids": [
-        "amrdiab"
-      ]
-    },
-    {
-      "Pos": "64",
-      "P+": "-4",
-      "Artist": "Anitta",
-      "Points": "573",
-      "Apple M": "422",
-      "Spotify": "100",
-      "iTunes": "26",
-      "YouTube": "0",
-      "Shazam": "8",
-      "Deezer": "17",
-      "Top Country": "Brazil",
-      "#": "49",
-      "artist_ids": [
-        "anitta"
-      ]
-    },
-    {
-      "Pos": "65",
-      "P+": "+1",
+      "P+": "+3",
       "Artist": "Mrs. GREEN APPLE",
       "Points": "567",
-      "Apple M": "191",
-      "Spotify": "277",
+      "Apple M": "189",
+      "Spotify": "278",
       "iTunes": "38",
       "YouTube": "56",
       "Shazam": "2",
-      "Deezer": "2",
+      "Deezer": "3",
       "Top Country": "Japan",
-      "#": "3",
+      "#": "2",
       "artist_ids": [
         "mrsgreenapple"
       ]
     },
     {
-      "Pos": "66",
-      "P+": "+7",
-      "Artist": "Pitbull",
-      "Points": "552",
-      "Apple M": "100",
-      "Spotify": "380",
-      "iTunes": "51",
-      "YouTube": "6",
-      "Shazam": "11",
-      "Deezer": "4",
-      "Top Country": "Latvia",
-      "#": "82",
-      "artist_ids": [
-        "pitbull"
-      ]
-    },
-    {
-      "Pos": "67",
-      "P+": "-3",
-      "Artist": "Don Miguelo",
-      "Points": "550",
-      "Apple M": "54",
-      "Spotify": "81",
-      "iTunes": "56",
-      "YouTube": "232",
-      "Shazam": "115",
-      "Deezer": "12",
-      "Top Country": "France",
-      "#": "106",
-      "artist_ids": [
-        "donmiguelo"
-      ]
-    },
-    {
-      "Pos": "68",
-      "P+": "-3",
-      "Artist": "Dave",
-      "Points": "548",
-      "Apple M": "300",
-      "Spotify": "118",
-      "iTunes": "19",
-      "YouTube": "53",
-      "Shazam": "53",
+      "Pos": "63",
+      "P+": "-10",
+      "Artist": "Glen Hansard",
+      "Points": "551",
+      "Apple M": "105",
+      "Spotify": "16",
+      "iTunes": "414",
+      "YouTube": "0",
+      "Shazam": "10",
       "Deezer": "6",
-      "Top Country": "United Kingdom",
-      "#": "130",
+      "Top Country": "Ireland",
+      "#": "32",
       "artist_ids": [
-        "dave"
+        "glenhansard"
       ]
     },
     {
-      "Pos": "69",
-      "P+": "+9",
+      "Pos": "64",
+      "P+": "+5",
       "Artist": "Fleetwood Mac",
-      "Points": "534",
-      "Apple M": "167",
-      "Spotify": "288",
-      "iTunes": "56",
+      "Points": "545",
+      "Apple M": "159",
+      "Spotify": "306",
+      "iTunes": "51",
       "YouTube": "0",
       "Shazam": "4",
-      "Deezer": "20",
+      "Deezer": "24",
       "Top Country": "Australia",
-      "#": "44",
+      "#": "48",
       "artist_ids": [
         "fleetwoodmac"
       ]
     },
     {
-      "Pos": "70",
-      "P+": "-2",
-      "Artist": "aespa",
-      "Points": "530",
-      "Apple M": "371",
-      "Spotify": "61",
-      "iTunes": "38",
-      "YouTube": "54",
-      "Shazam": "5",
-      "Deezer": "2",
-      "Top Country": "South Korea",
-      "#": "33",
+      "Pos": "65",
+      "P+": "+2",
+      "Artist": "Don Miguelo",
+      "Points": "527",
+      "Apple M": "40",
+      "Spotify": "83",
+      "iTunes": "62",
+      "YouTube": "232",
+      "Shazam": "101",
+      "Deezer": "10",
+      "Top Country": "France",
+      "#": "104",
       "artist_ids": [
-        "aespa"
+        "donmiguelo"
       ]
     },
     {
-      "Pos": "71",
-      "P+": "+5",
-      "Artist": "Pritam",
-      "Points": "529",
-      "Apple M": "225",
-      "Spotify": "274",
-      "iTunes": "9",
-      "YouTube": "19",
-      "Shazam": "1",
-      "Deezer": "0",
-      "Top Country": "India",
-      "#": "19",
+      "Pos": "66",
+      "P+": "+2",
+      "Artist": "Dave",
+      "Points": "525",
+      "Apple M": "271",
+      "Spotify": "114",
+      "iTunes": "25",
+      "YouTube": "53",
+      "Shazam": "51",
+      "Deezer": "12",
+      "Top Country": "United Kingdom",
+      "#": "125",
       "artist_ids": [
-        "pritam"
+        "dave"
       ]
     },
     {
-      "Pos": "72",
-      "P+": "-3",
-      "Artist": "Beéle",
+      "Pos": "67",
+      "P+": "+12",
+      "Artist": "Yandel",
       "Points": "521",
-      "Apple M": "191",
-      "Spotify": "299",
-      "iTunes": "7",
+      "Apple M": "111",
+      "Spotify": "271",
+      "iTunes": "6",
+      "YouTube": "96",
+      "Shazam": "29",
+      "Deezer": "8",
+      "Top Country": "Chile",
+      "#": "18",
+      "artist_ids": [
+        "yandel"
+      ]
+    },
+    {
+      "Pos": "68",
+      "P+": "+4",
+      "Artist": "Beéle",
+      "Points": "516",
+      "Apple M": "176",
+      "Spotify": "311",
+      "iTunes": "5",
       "YouTube": "19",
       "Shazam": "5",
       "Deezer": "0",
       "Top Country": "Spain",
-      "#": "26",
+      "#": "25",
       "artist_ids": [
         "beele"
       ]
     },
     {
-      "Pos": "73",
-      "P+": "+1",
-      "Artist": "Feid",
-      "Points": "518",
-      "Apple M": "329",
-      "Spotify": "156",
-      "iTunes": "4",
-      "YouTube": "8",
-      "Shazam": "13",
-      "Deezer": "8",
-      "Top Country": "Colombia",
-      "#": "24",
-      "artist_ids": [
-        "feid"
-      ]
-    },
-    {
-      "Pos": "74",
-      "P+": "-7",
-      "Artist": "Dominic Fike",
+      "Pos": "69",
+      "P+": "-6",
+      "Artist": "Amr Diab",
       "Points": "514",
-      "Apple M": "72",
-      "Spotify": "341",
-      "iTunes": "3",
-      "YouTube": "50",
-      "Shazam": "13",
-      "Deezer": "36",
-      "Top Country": "United States",
-      "#": "78",
+      "Apple M": "342",
+      "Spotify": "37",
+      "iTunes": "22",
+      "YouTube": "69",
+      "Shazam": "17",
+      "Deezer": "27",
+      "Top Country": "Egypt",
+      "#": "20",
       "artist_ids": [
-        "dominicfike"
+        "amrdiab"
       ]
     },
     {
-      "Pos": "75",
-      "P+": "-4",
+      "Pos": "70",
+      "P+": "+1",
+      "Artist": "Pritam",
+      "Points": "513",
+      "Apple M": "218",
+      "Spotify": "267",
+      "iTunes": "8",
+      "YouTube": "19",
+      "Shazam": "1",
+      "Deezer": "0",
+      "Top Country": "India",
+      "#": "16",
+      "artist_ids": [
+        "pritam"
+      ]
+    },
+    {
+      "Pos": "71",
+      "P+": "+4",
       "Artist": "Jay Wheeler",
-      "Points": "509",
-      "Apple M": "119",
-      "Spotify": "264",
-      "iTunes": "0",
+      "Points": "512",
+      "Apple M": "115",
+      "Spotify": "265",
+      "iTunes": "7",
       "YouTube": "100",
       "Shazam": "17",
       "Deezer": "8",
@@ -1278,33 +1210,186 @@
       ]
     },
     {
-      "Pos": "76",
-      "P+": "+3",
-      "Artist": "Luke Combs",
-      "Points": "507",
-      "Apple M": "243",
+      "Pos": "72",
+      "P+": "-6",
+      "Artist": "Pitbull",
+      "Points": "506",
+      "Apple M": "118",
+      "Spotify": "335",
+      "iTunes": "29",
+      "YouTube": "6",
+      "Shazam": "11",
+      "Deezer": "7",
+      "Top Country": "Latvia",
+      "#": "80",
+      "artist_ids": [
+        "pitbull"
+      ]
+    },
+    {
+      "Pos": "73",
+      "P+": "-9",
+      "Artist": "Anitta",
+      "Points": "504",
+      "Apple M": "330",
+      "Spotify": "127",
+      "iTunes": "25",
+      "YouTube": "0",
+      "Shazam": "8",
+      "Deezer": "14",
+      "Top Country": "Brazil",
+      "#": "50",
+      "artist_ids": [
+        "anitta"
+      ]
+    },
+    {
+      "Pos": "74",
+      "P+": "-12",
+      "Artist": "Lana Del Rey",
+      "Points": "503",
+      "Apple M": "321",
+      "Spotify": "120",
+      "iTunes": "35",
+      "YouTube": "0",
+      "Shazam": "19",
+      "Deezer": "8",
+      "Top Country": "Brazil",
+      "#": "121",
+      "artist_ids": [
+        "lanadelrey"
+      ]
+    },
+    {
+      "Pos": "75",
+      "P+": "-2",
+      "Artist": "Feid",
+      "Points": "491",
+      "Apple M": "308",
       "Spotify": "150",
-      "iTunes": "40",
+      "iTunes": "3",
+      "YouTube": "8",
+      "Shazam": "13",
+      "Deezer": "9",
+      "Top Country": "Colombia",
+      "#": "23",
+      "artist_ids": [
+        "feid"
+      ]
+    },
+    {
+      "Pos": "76",
+      "P+": "-2",
+      "Artist": "Dominic Fike",
+      "Points": "487",
+      "Apple M": "63",
+      "Spotify": "326",
+      "iTunes": "3",
+      "YouTube": "50",
+      "Shazam": "12",
+      "Deezer": "34",
+      "Top Country": "United States",
+      "#": "83",
+      "artist_ids": [
+        "dominicfike"
+      ]
+    },
+    {
+      "Pos": "77",
+      "P+": "+5",
+      "Artist": "GIMS",
+      "Points": "487",
+      "Apple M": "174",
+      "Spotify": "164",
+      "iTunes": "32",
+      "YouTube": "89",
+      "Shazam": "12",
+      "Deezer": "16",
+      "Top Country": "France",
+      "#": "29",
+      "artist_ids": [
+        "gims"
+      ]
+    },
+    {
+      "Pos": "78",
+      "P+": "+3",
+      "Artist": "Calvin Harris",
+      "Points": "485",
+      "Apple M": "133",
+      "Spotify": "299",
+      "iTunes": "32",
+      "YouTube": "2",
+      "Shazam": "11",
+      "Deezer": "8",
+      "Top Country": "Ireland",
+      "#": "91",
+      "artist_ids": [
+        "calvinharris"
+      ]
+    },
+    {
+      "Pos": "79",
+      "P+": "-9",
+      "Artist": "aespa",
+      "Points": "485",
+      "Apple M": "337",
+      "Spotify": "58",
+      "iTunes": "27",
+      "YouTube": "54",
+      "Shazam": "5",
+      "Deezer": "4",
+      "Top Country": "South Korea",
+      "#": "35",
+      "artist_ids": [
+        "aespa"
+      ]
+    },
+    {
+      "Pos": "80",
+      "P+": "=",
+      "Artist": "Aya Nakamura",
+      "Points": "485",
+      "Apple M": "204",
+      "Spotify": "173",
+      "iTunes": "8",
+      "YouTube": "53",
+      "Shazam": "23",
+      "Deezer": "24",
+      "Top Country": "France",
+      "#": "58",
+      "artist_ids": [
+        "ayanakamura"
+      ]
+    },
+    {
+      "Pos": "81",
+      "P+": "-5",
+      "Artist": "Luke Combs",
+      "Points": "482",
+      "Apple M": "232",
+      "Spotify": "144",
+      "iTunes": "41",
       "YouTube": "20",
       "Shazam": "4",
-      "Deezer": "50",
+      "Deezer": "41",
       "Top Country": "Canada",
-      "#": "17",
+      "#": "12",
       "artist_ids": [
         "lukecombs"
       ]
     },
     {
-      "Pos": "77",
-      "P+": "-7",
+      "Pos": "82",
+      "P+": "-5",
       "Artist": "Fat Papi",
-      "Points": "507",
-      "Apple M": "118",
-      "Spotify": "104",
-      "iTunes": "2",
+      "Points": "479",
+      "Apple M": "101",
+      "Spotify": "98",
+      "iTunes": "0",
       "YouTube": "84",
-      "Shazam": "187",
-      "Deezer": "12",
+      "Shazam": "183",
+      "Deezer": "13",
       "Top Country": "Germany",
       "#": "92",
       "artist_ids": [
@@ -1312,118 +1397,50 @@
       ]
     },
     {
-      "Pos": "78",
-      "P+": "-3",
+      "Pos": "83",
+      "P+": "-5",
       "Artist": "Malcolm Todd",
-      "Points": "502",
-      "Apple M": "79",
-      "Spotify": "353",
-      "iTunes": "10",
+      "Points": "477",
+      "Apple M": "74",
+      "Spotify": "341",
+      "iTunes": "8",
       "YouTube": "30",
-      "Shazam": "11",
-      "Deezer": "19",
+      "Shazam": "12",
+      "Deezer": "13",
       "Top Country": "United States",
-      "#": "61",
+      "#": "66",
       "artist_ids": [
         "malcolmtodd"
       ]
     },
     {
-      "Pos": "79",
-      "P+": "-7",
-      "Artist": "Yandel",
-      "Points": "495",
-      "Apple M": "108",
-      "Spotify": "251",
-      "iTunes": "4",
-      "YouTube": "96",
-      "Shazam": "29",
-      "Deezer": "8",
-      "Top Country": "Chile",
-      "#": "20",
-      "artist_ids": [
-        "yandel"
-      ]
-    },
-    {
-      "Pos": "80",
-      "P+": "=",
-      "Artist": "Aya Nakamura",
-      "Points": "491",
-      "Apple M": "209",
-      "Spotify": "171",
-      "iTunes": "7",
-      "YouTube": "53",
-      "Shazam": "23",
-      "Deezer": "28",
-      "Top Country": "France",
-      "#": "52",
-      "artist_ids": [
-        "ayanakamura"
-      ]
-    },
-    {
-      "Pos": "81",
-      "P+": "+8",
-      "Artist": "Calvin Harris",
-      "Points": "484",
-      "Apple M": "144",
-      "Spotify": "282",
-      "iTunes": "40",
-      "YouTube": "2",
-      "Shazam": "11",
-      "Deezer": "7",
-      "Top Country": "Ireland",
-      "#": "86",
-      "artist_ids": [
-        "calvinharris"
-      ]
-    },
-    {
-      "Pos": "82",
-      "P+": "+5",
-      "Artist": "GIMS",
-      "Points": "484",
-      "Apple M": "184",
-      "Spotify": "165",
-      "iTunes": "19",
-      "YouTube": "89",
-      "Shazam": "12",
-      "Deezer": "16",
-      "Top Country": "France",
-      "#": "26",
-      "artist_ids": [
-        "gims"
-      ]
-    },
-    {
-      "Pos": "83",
-      "P+": "+8",
+      "Pos": "84",
+      "P+": "-1",
       "Artist": "Tito Double P",
-      "Points": "479",
-      "Apple M": "224",
-      "Spotify": "216",
-      "iTunes": "13",
+      "Points": "474",
+      "Apple M": "237",
+      "Spotify": "209",
+      "iTunes": "2",
       "YouTube": "17",
-      "Shazam": "2",
-      "Deezer": "6",
+      "Shazam": "3",
+      "Deezer": "7",
       "Top Country": "Mexico",
-      "#": "18",
+      "#": "19",
       "artist_ids": [
         "titodoublep"
       ]
     },
     {
-      "Pos": "84",
-      "P+": "+4",
+      "Pos": "85",
+      "P+": "-1",
       "Artist": "Don Omar",
-      "Points": "473",
-      "Apple M": "37",
-      "Spotify": "278",
-      "iTunes": "12",
+      "Points": "472",
+      "Apple M": "41",
+      "Spotify": "281",
+      "iTunes": "5",
       "YouTube": "131",
       "Shazam": "11",
-      "Deezer": "4",
+      "Deezer": "3",
       "Top Country": "Chile",
       "#": "73",
       "artist_ids": [
@@ -1431,30 +1448,47 @@
       ]
     },
     {
-      "Pos": "85",
-      "P+": "-1",
-      "Artist": "Himra",
-      "Points": "468",
-      "Apple M": "403",
-      "Spotify": "0",
-      "iTunes": "2",
-      "YouTube": "13",
-      "Shazam": "22",
-      "Deezer": "28",
-      "Top Country": "Côte d'Ivoire",
-      "#": "12",
+      "Pos": "86",
+      "P+": "+105",
+      "Artist": "Shaboozey",
+      "Points": "469",
+      "Apple M": "208",
+      "Spotify": "63",
+      "iTunes": "107",
+      "YouTube": "7",
+      "Shazam": "2",
+      "Deezer": "83",
+      "Top Country": "Canada",
+      "#": "59",
       "artist_ids": [
-        "himra"
+        "shaboozey"
       ]
     },
     {
-      "Pos": "86",
-      "P+": "-9",
+      "Pos": "87",
+      "P+": "-1",
+      "Artist": "back number",
+      "Points": "468",
+      "Apple M": "129",
+      "Spotify": "320",
+      "iTunes": "5",
+      "YouTube": "11",
+      "Shazam": "2",
+      "Deezer": "1",
+      "Top Country": "Japan",
+      "#": "1",
+      "artist_ids": [
+        "backnumber"
+      ]
+    },
+    {
+      "Pos": "88",
+      "P+": "-3",
       "Artist": "SZA",
-      "Points": "467",
-      "Apple M": "240",
-      "Spotify": "212",
-      "iTunes": "6",
+      "Points": "464",
+      "Apple M": "241",
+      "Spotify": "210",
+      "iTunes": "4",
       "YouTube": "0",
       "Shazam": "0",
       "Deezer": "9",
@@ -1465,84 +1499,101 @@
       ]
     },
     {
-      "Pos": "87",
+      "Pos": "89",
       "P+": "-2",
-      "Artist": "back number",
-      "Points": "467",
-      "Apple M": "132",
-      "Spotify": "317",
-      "iTunes": "4",
-      "YouTube": "11",
-      "Shazam": "2",
-      "Deezer": "2",
-      "Top Country": "Japan",
-      "#": "1",
+      "Artist": "Himra",
+      "Points": "457",
+      "Apple M": "389",
+      "Spotify": "0",
+      "iTunes": "2",
+      "YouTube": "13",
+      "Shazam": "22",
+      "Deezer": "31",
+      "Top Country": "Côte d'Ivoire",
+      "#": "12",
       "artist_ids": [
-        "backnumber"
+        "himra"
       ]
     },
     {
-      "Pos": "88",
-      "P+": "-2",
+      "Pos": "90",
+      "P+": "-1",
       "Artist": "Nicki Minaj",
-      "Points": "453",
-      "Apple M": "184",
-      "Spotify": "152",
-      "iTunes": "43",
+      "Points": "447",
+      "Apple M": "164",
+      "Spotify": "153",
+      "iTunes": "56",
       "YouTube": "52",
       "Shazam": "21",
-      "Deezer": "0",
+      "Deezer": "2",
       "Top Country": "Germany",
-      "#": "142",
+      "#": "143",
       "artist_ids": [
         "nickiminaj"
       ]
     },
     {
-      "Pos": "89",
-      "P+": "-6",
+      "Pos": "91",
+      "P+": "-3",
       "Artist": "KPop Demon Hunters Cast",
-      "Points": "452",
-      "Apple M": "346",
+      "Points": "436",
+      "Apple M": "322",
       "Spotify": "36",
-      "iTunes": "53",
+      "iTunes": "62",
       "YouTube": "0",
-      "Shazam": "18",
+      "Shazam": "17",
       "Deezer": "0",
       "Top Country": "Australia",
-      "#": "85",
+      "#": "81",
       "artist_ids": [
         "kpopdemonhunterscast"
       ]
     },
     {
-      "Pos": "90",
-      "P+": "-8",
-      "Artist": "Ludwig Göransson",
-      "Points": "448",
-      "Apple M": "306",
-      "Spotify": "0",
-      "iTunes": "82",
-      "YouTube": "0",
-      "Shazam": "60",
-      "Deezer": "0",
-      "Top Country": "Turkey",
-      "#": "99",
+      "Pos": "92",
+      "P+": "+6",
+      "Artist": "ANOTR",
+      "Points": "432",
+      "Apple M": "68",
+      "Spotify": "191",
+      "iTunes": "55",
+      "YouTube": "6",
+      "Shazam": "59",
+      "Deezer": "53",
+      "Top Country": "Netherlands",
+      "#": "54",
       "artist_ids": [
-        "ludwiggoransson"
+        "anotr"
       ]
     },
     {
-      "Pos": "91",
-      "P+": "+3",
+      "Pos": "93",
+      "P+": "=",
+      "Artist": "Chris Brown",
+      "Points": "431",
+      "Apple M": "351",
+      "Spotify": "22",
+      "iTunes": "41",
+      "YouTube": "4",
+      "Shazam": "6",
+      "Deezer": "7",
+      "Top Country": "Papua New Guinea",
+      "#": "99",
+      "artist_ids": [
+        "chrisbrown"
+      ]
+    },
+    {
+      "Pos": "94",
+      "P+": "-3",
       "Artist": "Ya Ice Dilan",
-      "Points": "442",
-      "Apple M": "81",
-      "Spotify": "170",
-      "iTunes": "9",
+      "Points": "431",
+      "Apple M": "80",
+      "Spotify": "169",
+      "iTunes": "5",
       "YouTube": "119",
       "Shazam": "38",
-      "Deezer": "25",
+      "Deezer": "20",
       "Top Country": "Spain",
       "#": "25",
       "artist_ids": [
@@ -1550,62 +1601,368 @@
       ]
     },
     {
-      "Pos": "92",
-      "P+": "+6",
+      "Pos": "95",
+      "P+": "-3",
       "Artist": "El Bogueto",
-      "Points": "439",
-      "Apple M": "53",
-      "Spotify": "237",
+      "Points": "427",
+      "Apple M": "47",
+      "Spotify": "229",
       "iTunes": "1",
       "YouTube": "135",
       "Shazam": "4",
       "Deezer": "10",
       "Top Country": "Mexico",
-      "#": "20",
+      "#": "21",
       "artist_ids": [
         "elbogueto"
       ]
     },
     {
-      "Pos": "93",
-      "P+": "+2",
-      "Artist": "Chris Brown",
-      "Points": "438",
-      "Apple M": "364",
-      "Spotify": "23",
-      "iTunes": "35",
-      "YouTube": "4",
-      "Shazam": "7",
-      "Deezer": "5",
-      "Top Country": "South Africa",
-      "#": "101",
+      "Pos": "96",
+      "P+": "+1",
+      "Artist": "Werenoi",
+      "Points": "424",
+      "Apple M": "230",
+      "Spotify": "187",
+      "iTunes": "0",
+      "YouTube": "0",
+      "Shazam": "1",
+      "Deezer": "6",
+      "Top Country": "France",
+      "#": "17",
       "artist_ids": [
-        "chrisbrown"
+        "werenoi"
       ]
     },
     {
-      "Pos": "94",
-      "P+": "+10",
-      "Artist": "Coldplay",
-      "Points": "434",
-      "Apple M": "108",
-      "Spotify": "181",
-      "iTunes": "132",
+      "Pos": "97",
+      "P+": "+12",
+      "Artist": "Malie Donn",
+      "Points": "415",
+      "Apple M": "390",
+      "Spotify": "0",
+      "iTunes": "5",
+      "YouTube": "16",
+      "Shazam": "0",
+      "Deezer": "4",
+      "Top Country": "Jamaica",
+      "#": "18",
+      "artist_ids": [
+        "maliedonn"
+      ]
+    },
+    {
+      "Pos": "98",
+      "P+": "-3",
+      "Artist": "Junior H",
+      "Points": "414",
+      "Apple M": "175",
+      "Spotify": "205",
+      "iTunes": "4",
+      "YouTube": "23",
+      "Shazam": "1",
+      "Deezer": "6",
+      "Top Country": "Mexico",
+      "#": "17",
+      "artist_ids": [
+        "juniorh"
+      ]
+    },
+    {
+      "Pos": "99",
+      "P+": "+2",
+      "Artist": "RAYE",
+      "Points": "414",
+      "Apple M": "143",
+      "Spotify": "137",
+      "iTunes": "79",
+      "YouTube": "8",
+      "Shazam": "11",
+      "Deezer": "36",
+      "Top Country": "United Kingdom",
+      "#": "64",
+      "artist_ids": [
+        "raye"
+      ]
+    },
+    {
+      "Pos": "100",
+      "P+": "-10",
+      "Artist": "Ludwig Göransson",
+      "Points": "409",
+      "Apple M": "271",
+      "Spotify": "1",
+      "iTunes": "79",
+      "YouTube": "0",
+      "Shazam": "59",
+      "Deezer": "0",
+      "Top Country": "Turkey",
+      "#": "96",
+      "artist_ids": [
+        "ludwiggoransson"
+      ]
+    },
+    {
+      "Pos": "101",
+      "P+": "+2",
+      "Artist": "Geolier",
+      "Points": "407",
+      "Apple M": "113",
+      "Spotify": "192",
+      "iTunes": "8",
+      "YouTube": "92",
+      "Shazam": "1",
+      "Deezer": "0",
+      "Top Country": "Italy",
+      "#": "2",
+      "artist_ids": [
+        "geolier"
+      ]
+    },
+    {
+      "Pos": "102",
+      "P+": "+4",
+      "Artist": "ILLIT",
+      "Points": "405",
+      "Apple M": "101",
+      "Spotify": "67",
+      "iTunes": "31",
+      "YouTube": "194",
+      "Shazam": "11",
+      "Deezer": "2",
+      "Top Country": "Japan",
+      "#": "57",
+      "artist_ids": [
+        "illit"
+      ]
+    },
+    {
+      "Pos": "103",
+      "P+": "-3",
+      "Artist": "Jul",
+      "Points": "405",
+      "Apple M": "231",
+      "Spotify": "147",
+      "iTunes": "6",
+      "YouTube": "10",
+      "Shazam": "3",
+      "Deezer": "8",
+      "Top Country": "France",
+      "#": "11",
+      "artist_ids": [
+        "jul"
+      ]
+    },
+    {
+      "Pos": "104",
+      "P+": "+6",
+      "Artist": "LE SSERAFIM",
+      "Points": "402",
+      "Apple M": "65",
+      "Spotify": "46",
+      "iTunes": "1",
+      "YouTube": "278",
+      "Shazam": "7",
+      "Deezer": "6",
+      "Top Country": "South Korea",
+      "#": "66",
+      "artist_ids": [
+        "lesserafim"
+      ]
+    },
+    {
+      "Pos": "105",
+      "P+": "+91",
+      "Artist": "Kabza De Small",
+      "Points": "401",
+      "Apple M": "324",
+      "Spotify": "14",
+      "iTunes": "52",
+      "YouTube": "0",
+      "Shazam": "11",
+      "Deezer": "0",
+      "Top Country": "South Africa",
+      "#": "17",
+      "artist_ids": [
+        "kabzadesmall"
+      ]
+    },
+    {
+      "Pos": "106",
+      "P+": "-2",
+      "Artist": "Tems",
+      "Points": "398",
+      "Apple M": "246",
+      "Spotify": "55",
+      "iTunes": "30",
+      "YouTube": "12",
+      "Shazam": "53",
+      "Deezer": "3",
+      "Top Country": "United States",
+      "#": "127",
+      "artist_ids": [
+        "tems"
+      ]
+    },
+    {
+      "Pos": "107",
+      "P+": "+6",
+      "Artist": "Don Toliver",
+      "Points": "397",
+      "Apple M": "249",
+      "Spotify": "126",
+      "iTunes": "11",
       "YouTube": "0",
       "Shazam": "3",
-      "Deezer": "10",
-      "Top Country": "Netherlands",
-      "#": "109",
+      "Deezer": "9",
+      "Top Country": "United States",
+      "#": "112",
       "artist_ids": [
-        "coldplay"
+        "dontoliver"
       ]
     },
     {
-      "Pos": "95",
-      "P+": "+2",
+      "Pos": "108",
+      "P+": "-3",
+      "Artist": "Pashanim",
+      "Points": "397",
+      "Apple M": "180",
+      "Spotify": "213",
+      "iTunes": "2",
+      "YouTube": "2",
+      "Shazam": "0",
+      "Deezer": "0",
+      "Top Country": "Germany",
+      "#": "7",
+      "artist_ids": [
+        "pashanim"
+      ]
+    },
+    {
+      "Pos": "109",
+      "P+": "+9",
+      "Artist": "Shashwat Sachdev",
+      "Points": "393",
+      "Apple M": "137",
+      "Spotify": "128",
+      "iTunes": "32",
+      "YouTube": "95",
+      "Shazam": "0",
+      "Deezer": "0",
+      "Top Country": "India",
+      "#": "15",
+      "artist_ids": [
+        "shashwatsachdev"
+      ]
+    },
+    {
+      "Pos": "110",
+      "P+": "+4",
+      "Artist": "Arijit Singh",
+      "Points": "392",
+      "Apple M": "144",
+      "Spotify": "205",
+      "iTunes": "5",
+      "YouTube": "36",
+      "Shazam": "2",
+      "Deezer": "0",
+      "Top Country": "India",
+      "#": "17",
+      "artist_ids": [
+        "arijitsingh"
+      ]
+    },
+    {
+      "Pos": "111",
+      "P+": "-4",
+      "Artist": "SOLTO (FR)",
+      "Points": "383",
+      "Apple M": "141",
+      "Spotify": "0",
+      "iTunes": "115",
+      "YouTube": "0",
+      "Shazam": "127",
+      "Deezer": "0",
+      "Top Country": "Belgium",
+      "#": "82",
+      "artist_ids": [
+        "soltofr"
+      ]
+    },
+    {
+      "Pos": "112",
+      "P+": "+52",
+      "Artist": "JAZZWRLD",
+      "Points": "379",
+      "Apple M": "324",
+      "Spotify": "15",
+      "iTunes": "7",
+      "YouTube": "15",
+      "Shazam": "16",
+      "Deezer": "0",
+      "Top Country": "South Africa",
+      "#": "28",
+      "artist_ids": [
+        "jazzwrld"
+      ]
+    },
+    {
+      "Pos": "113",
+      "P+": "-14",
+      "Artist": "Adele",
+      "Points": "378",
+      "Apple M": "174",
+      "Spotify": "49",
+      "iTunes": "116",
+      "YouTube": "0",
+      "Shazam": "31",
+      "Deezer": "7",
+      "Top Country": "Netherlands",
+      "#": "136",
+      "artist_ids": [
+        "adele"
+      ]
+    },
+    {
+      "Pos": "114",
+      "P+": "-3",
+      "Artist": "The Strokes",
+      "Points": "376",
+      "Apple M": "312",
+      "Spotify": "24",
+      "iTunes": "29",
+      "YouTube": "0",
+      "Shazam": "0",
+      "Deezer": "11",
+      "Top Country": "Italy",
+      "#": "79",
+      "artist_ids": [
+        "thestrokes"
+      ]
+    },
+    {
+      "Pos": "115",
+      "P+": "=",
+      "Artist": "Lil Baby",
+      "Points": "375",
+      "Apple M": "300",
+      "Spotify": "32",
+      "iTunes": "5",
+      "YouTube": "20",
+      "Shazam": "16",
+      "Deezer": "1",
+      "Top Country": "United States",
+      "#": "72",
+      "artist_ids": [
+        "lilbaby"
+      ]
+    },
+    {
+      "Pos": "116",
+      "P+": "-20",
       "Artist": "周杰伦",
-      "Points": "433",
-      "Apple M": "433",
+      "Points": "375",
+      "Apple M": "375",
       "Spotify": "0",
       "iTunes": "0",
       "YouTube": "0",
@@ -1618,285 +1975,47 @@
       ]
     },
     {
-      "Pos": "96",
-      "P+": "-4",
-      "Artist": "Werenoi",
-      "Points": "431",
-      "Apple M": "243",
-      "Spotify": "183",
-      "iTunes": "0",
+      "Pos": "117",
+      "P+": "-23",
+      "Artist": "Coldplay",
+      "Points": "373",
+      "Apple M": "88",
+      "Spotify": "178",
+      "iTunes": "89",
       "YouTube": "0",
-      "Shazam": "1",
-      "Deezer": "4",
-      "Top Country": "France",
-      "#": "17",
-      "artist_ids": [
-        "werenoi"
-      ]
-    },
-    {
-      "Pos": "97",
-      "P+": "+11",
-      "Artist": "Junior H",
-      "Points": "431",
-      "Apple M": "186",
-      "Spotify": "212",
-      "iTunes": "4",
-      "YouTube": "23",
-      "Shazam": "1",
-      "Deezer": "5",
-      "Top Country": "Mexico",
-      "#": "18",
-      "artist_ids": [
-        "juniorh"
-      ]
-    },
-    {
-      "Pos": "98",
-      "P+": "+8",
-      "Artist": "ANOTR",
-      "Points": "429",
-      "Apple M": "73",
-      "Spotify": "191",
-      "iTunes": "48",
-      "YouTube": "6",
-      "Shazam": "60",
-      "Deezer": "51",
+      "Shazam": "2",
+      "Deezer": "17",
       "Top Country": "Netherlands",
-      "#": "52",
+      "#": "109",
       "artist_ids": [
-        "anotr"
+        "coldplay"
       ]
     },
     {
-      "Pos": "99",
+      "Pos": "118",
       "P+": "+4",
-      "Artist": "Adele",
-      "Points": "428",
-      "Apple M": "200",
-      "Spotify": "44",
-      "iTunes": "140",
-      "YouTube": "0",
-      "Shazam": "32",
-      "Deezer": "11",
-      "Top Country": "Russia",
-      "#": "136",
-      "artist_ids": [
-        "adele"
-      ]
-    },
-    {
-      "Pos": "100",
-      "P+": "=",
-      "Artist": "Jul",
-      "Points": "417",
-      "Apple M": "245",
-      "Spotify": "145",
-      "iTunes": "5",
-      "YouTube": "10",
-      "Shazam": "4",
-      "Deezer": "8",
-      "Top Country": "France",
-      "#": "13",
-      "artist_ids": [
-        "jul"
-      ]
-    },
-    {
-      "Pos": "101",
-      "P+": "-20",
-      "Artist": "RAYE",
-      "Points": "417",
-      "Apple M": "164",
-      "Spotify": "143",
-      "iTunes": "62",
-      "YouTube": "8",
-      "Shazam": "11",
-      "Deezer": "29",
-      "Top Country": "United Kingdom",
-      "#": "68",
-      "artist_ids": [
-        "raye"
-      ]
-    },
-    {
-      "Pos": "102",
-      "P+": "+3",
-      "Artist": "Geolier",
-      "Points": "415",
-      "Apple M": "120",
-      "Spotify": "190",
-      "iTunes": "11",
-      "YouTube": "92",
-      "Shazam": "1",
-      "Deezer": "0",
-      "Top Country": "Italy",
-      "#": "3",
-      "artist_ids": [
-        "geolier"
-      ]
-    },
-    {
-      "Pos": "103",
-      "P+": "-7",
-      "Artist": "Tems",
-      "Points": "414",
-      "Apple M": "270",
-      "Spotify": "56",
-      "iTunes": "23",
+      "Artist": "Alkaline",
+      "Points": "370",
+      "Apple M": "343",
+      "Spotify": "0",
+      "iTunes": "15",
       "YouTube": "12",
-      "Shazam": "54",
-      "Deezer": "0",
-      "Top Country": "United States",
-      "#": "132",
-      "artist_ids": [
-        "tems"
-      ]
-    },
-    {
-      "Pos": "104",
-      "P+": "+52",
-      "Artist": "Kavinsky",
-      "Points": "414",
-      "Apple M": "83",
-      "Spotify": "27",
-      "iTunes": "276",
-      "YouTube": "0",
-      "Shazam": "4",
-      "Deezer": "23",
-      "Top Country": "France",
-      "#": "47",
-      "artist_ids": [
-        "kavinsky"
-      ]
-    },
-    {
-      "Pos": "105",
-      "P+": "-12",
-      "Artist": "Pashanim",
-      "Points": "414",
-      "Apple M": "221",
-      "Spotify": "186",
-      "iTunes": "4",
-      "YouTube": "2",
       "Shazam": "0",
       "Deezer": "0",
-      "Top Country": "Germany",
-      "#": "8",
+      "Top Country": "Montserrat",
+      "#": "24",
       "artist_ids": [
-        "pashanim"
+        "alkaline"
       ]
     },
     {
-      "Pos": "106",
-      "P+": "-5",
-      "Artist": "ILLIT",
-      "Points": "413",
-      "Apple M": "107",
-      "Spotify": "68",
-      "iTunes": "28",
-      "YouTube": "194",
-      "Shazam": "11",
-      "Deezer": "5",
-      "Top Country": "Japan",
-      "#": "52",
-      "artist_ids": [
-        "illit"
-      ]
-    },
-    {
-      "Pos": "107",
-      "P+": "+6",
-      "Artist": "SOLTO (FR)",
-      "Points": "412",
-      "Apple M": "156",
-      "Spotify": "0",
-      "iTunes": "129",
-      "YouTube": "0",
-      "Shazam": "127",
-      "Deezer": "0",
-      "Top Country": "Netherlands",
-      "#": "81",
-      "artist_ids": [
-        "soltofr"
-      ]
-    },
-    {
-      "Pos": "108",
-      "P+": "+3",
-      "Artist": "Malie Donn",
-      "Points": "409",
-      "Apple M": "385",
-      "Spotify": "0",
-      "iTunes": "4",
-      "YouTube": "16",
-      "Shazam": "0",
-      "Deezer": "3",
-      "Top Country": "Jamaica",
-      "#": "20",
-      "artist_ids": [
-        "maliedonn"
-      ]
-    },
-    {
-      "Pos": "109",
-      "P+": "-10",
-      "Artist": "LE SSERAFIM",
-      "Points": "407",
-      "Apple M": "68",
-      "Spotify": "50",
-      "iTunes": "3",
-      "YouTube": "278",
-      "Shazam": "7",
-      "Deezer": "3",
-      "Top Country": "South Korea",
-      "#": "66",
-      "artist_ids": [
-        "lesserafim"
-      ]
-    },
-    {
-      "Pos": "110",
-      "P+": "+2",
-      "Artist": "Tate McRae",
-      "Points": "407",
-      "Apple M": "244",
-      "Spotify": "100",
-      "iTunes": "7",
-      "YouTube": "0",
-      "Shazam": "4",
-      "Deezer": "52",
-      "Top Country": "Canada",
-      "#": "81",
-      "artist_ids": [
-        "tatemcrae"
-      ]
-    },
-    {
-      "Pos": "111",
-      "P+": "-21",
-      "Artist": "The Strokes",
-      "Points": "406",
-      "Apple M": "356",
-      "Spotify": "0",
-      "iTunes": "46",
-      "YouTube": "0",
-      "Shazam": "0",
-      "Deezer": "4",
-      "Top Country": "Ireland",
-      "#": "84",
-      "artist_ids": [
-        "thestrokes"
-      ]
-    },
-    {
-      "Pos": "112",
-      "P+": "+2",
+      "Pos": "119",
+      "P+": "-7",
       "Artist": "Kimo Sounds",
-      "Points": "400",
-      "Apple M": "17",
+      "Points": "368",
+      "Apple M": "19",
       "Spotify": "0",
-      "iTunes": "256",
+      "iTunes": "222",
       "YouTube": "54",
       "Shazam": "72",
       "Deezer": "0",
@@ -1907,152 +2026,33 @@
       ]
     },
     {
-      "Pos": "113",
-      "P+": "-4",
-      "Artist": "Don Toliver",
-      "Points": "396",
-      "Apple M": "251",
-      "Spotify": "128",
-      "iTunes": "8",
-      "YouTube": "0",
-      "Shazam": "3",
-      "Deezer": "6",
-      "Top Country": "United States",
-      "#": "112",
-      "artist_ids": [
-        "dontoliver"
-      ]
-    },
-    {
-      "Pos": "114",
-      "P+": "-12",
-      "Artist": "Arijit Singh",
-      "Points": "396",
-      "Apple M": "148",
-      "Spotify": "202",
-      "iTunes": "7",
-      "YouTube": "36",
-      "Shazam": "3",
-      "Deezer": "0",
-      "Top Country": "India",
-      "#": "17",
-      "artist_ids": [
-        "arijitsingh"
-      ]
-    },
-    {
-      "Pos": "115",
-      "P+": "+1",
-      "Artist": "Lil Baby",
-      "Points": "390",
-      "Apple M": "312",
-      "Spotify": "34",
-      "iTunes": "5",
-      "YouTube": "20",
-      "Shazam": "17",
-      "Deezer": "1",
-      "Top Country": "United States",
-      "#": "73",
-      "artist_ids": [
-        "lilbaby"
-      ]
-    },
-    {
-      "Pos": "116",
-      "P+": "+5",
-      "Artist": "The Goo Goo Dolls",
-      "Points": "387",
-      "Apple M": "78",
-      "Spotify": "214",
-      "iTunes": "31",
-      "YouTube": "25",
-      "Shazam": "25",
-      "Deezer": "14",
-      "Top Country": "Australia",
-      "#": "61",
-      "artist_ids": [
-        "thegoogoodolls"
-      ]
-    },
-    {
-      "Pos": "117",
-      "P+": "-7",
+      "Pos": "120",
+      "P+": "-3",
       "Artist": "David Guetta",
-      "Points": "381",
-      "Apple M": "98",
-      "Spotify": "102",
-      "iTunes": "123",
+      "Points": "362",
+      "Apple M": "96",
+      "Spotify": "112",
+      "iTunes": "95",
       "YouTube": "12",
       "Shazam": "37",
-      "Deezer": "9",
-      "Top Country": "Switzerland",
+      "Deezer": "10",
+      "Top Country": "Germany",
       "#": "102",
       "artist_ids": [
         "davidguetta"
       ]
     },
     {
-      "Pos": "118",
-      "P+": "-3",
-      "Artist": "Shashwat Sachdev",
-      "Points": "375",
-      "Apple M": "138",
-      "Spotify": "129",
-      "iTunes": "12",
-      "YouTube": "95",
-      "Shazam": "1",
-      "Deezer": "1",
-      "Top Country": "India",
-      "#": "17",
-      "artist_ids": [
-        "shashwatsachdev"
-      ]
-    },
-    {
-      "Pos": "119",
-      "P+": "+7",
-      "Artist": "Beyoncé",
-      "Points": "374",
-      "Apple M": "239",
-      "Spotify": "21",
-      "iTunes": "74",
-      "YouTube": "3",
-      "Shazam": "14",
-      "Deezer": "22",
-      "Top Country": "South Africa",
-      "#": "123",
-      "artist_ids": [
-        "beyonce"
-      ]
-    },
-    {
-      "Pos": "120",
-      "P+": "+3",
-      "Artist": "Yan Block",
-      "Points": "372",
-      "Apple M": "51",
-      "Spotify": "263",
-      "iTunes": "2",
-      "YouTube": "49",
-      "Shazam": "1",
-      "Deezer": "6",
-      "Top Country": "Chile",
-      "#": "18",
-      "artist_ids": [
-        "yanblock"
-      ]
-    },
-    {
       "Pos": "121",
-      "P+": "-4",
+      "P+": "=",
       "Artist": "Jala Brat",
-      "Points": "369",
-      "Apple M": "290",
+      "Points": "360",
+      "Apple M": "277",
       "Spotify": "0",
       "iTunes": "1",
       "YouTube": "42",
       "Shazam": "0",
-      "Deezer": "36",
+      "Deezer": "40",
       "Top Country": "Serbia",
       "#": "6",
       "artist_ids": [
@@ -2061,49 +2061,117 @@
     },
     {
       "Pos": "122",
-      "P+": "-3",
-      "Artist": "Alkaline",
-      "Points": "367",
-      "Apple M": "341",
-      "Spotify": "0",
-      "iTunes": "14",
-      "YouTube": "12",
-      "Shazam": "0",
-      "Deezer": "0",
-      "Top Country": "Montserrat",
-      "#": "23",
+      "P+": "-6",
+      "Artist": "The Goo Goo Dolls",
+      "Points": "359",
+      "Apple M": "70",
+      "Spotify": "206",
+      "iTunes": "21",
+      "YouTube": "25",
+      "Shazam": "25",
+      "Deezer": "11",
+      "Top Country": "Australia",
+      "#": "60",
       "artist_ids": [
-        "alkaline"
+        "thegoogoodolls"
       ]
     },
     {
       "Pos": "123",
-      "P+": "-16",
-      "Artist": "Travis Scott",
-      "Points": "367",
-      "Apple M": "278",
-      "Spotify": "19",
-      "iTunes": "9",
-      "YouTube": "0",
-      "Shazam": "56",
-      "Deezer": "4",
-      "Top Country": "Romania",
-      "#": "134",
+      "P+": "+8",
+      "Artist": "Sam Fender",
+      "Points": "357",
+      "Apple M": "95",
+      "Spotify": "136",
+      "iTunes": "72",
+      "YouTube": "22",
+      "Shazam": "11",
+      "Deezer": "22",
+      "Top Country": "United Kingdom",
+      "#": "29",
       "artist_ids": [
-        "travisscott"
+        "samfender"
       ]
     },
     {
       "Pos": "124",
-      "P+": "+6",
+      "P+": "-4",
+      "Artist": "Yan Block",
+      "Points": "352",
+      "Apple M": "42",
+      "Spotify": "254",
+      "iTunes": "1",
+      "YouTube": "49",
+      "Shazam": "1",
+      "Deezer": "5",
+      "Top Country": "Chile",
+      "#": "18",
+      "artist_ids": [
+        "yanblock"
+      ]
+    },
+    {
+      "Pos": "125",
+      "P+": "-17",
+      "Artist": "Tate McRae",
+      "Points": "352",
+      "Apple M": "198",
+      "Spotify": "107",
+      "iTunes": "13",
+      "YouTube": "0",
+      "Shazam": "4",
+      "Deezer": "30",
+      "Top Country": "Canada",
+      "#": "78",
+      "artist_ids": [
+        "tatemcrae"
+      ]
+    },
+    {
+      "Pos": "126",
+      "P+": "+10",
+      "Artist": "Post Malone",
+      "Points": "349",
+      "Apple M": "137",
+      "Spotify": "135",
+      "iTunes": "29",
+      "YouTube": "20",
+      "Shazam": "8",
+      "Deezer": "20",
+      "Top Country": "Canada",
+      "#": "73",
+      "artist_ids": [
+        "postmalone"
+      ]
+    },
+    {
+      "Pos": "127",
+      "P+": "-8",
+      "Artist": "Beyoncé",
+      "Points": "349",
+      "Apple M": "199",
+      "Spotify": "31",
+      "iTunes": "71",
+      "YouTube": "3",
+      "Shazam": "13",
+      "Deezer": "31",
+      "Top Country": "South Africa",
+      "#": "120",
+      "artist_ids": [
+        "beyonce"
+      ]
+    },
+    {
+      "Pos": "128",
+      "P+": "-4",
       "Artist": "Myke Towers",
-      "Points": "360",
-      "Apple M": "157",
-      "Spotify": "119",
-      "iTunes": "4",
+      "Points": "346",
+      "Apple M": "137",
+      "Spotify": "125",
+      "iTunes": "3",
       "YouTube": "61",
       "Shazam": "16",
-      "Deezer": "4",
+      "Deezer": "3",
       "Top Country": "Spain",
       "#": "19",
       "artist_ids": [
@@ -2111,169 +2179,16 @@
       ]
     },
     {
-      "Pos": "125",
-      "P+": "-1",
-      "Artist": "Benson Boone",
-      "Points": "359",
-      "Apple M": "86",
-      "Spotify": "138",
-      "iTunes": "39",
-      "YouTube": "39",
-      "Shazam": "31",
-      "Deezer": "26",
-      "Top Country": "Australia",
-      "#": "66",
-      "artist_ids": [
-        "bensonboone"
-      ]
-    },
-    {
-      "Pos": "126",
-      "P+": "-6",
-      "Artist": "prodshushy",
-      "Points": "359",
-      "Apple M": "118",
-      "Spotify": "52",
-      "iTunes": "2",
-      "YouTube": "0",
-      "Shazam": "187",
-      "Deezer": "0",
-      "Top Country": "Germany",
-      "#": "90",
-      "artist_ids": [
-        "prodshushy"
-      ]
-    },
-    {
-      "Pos": "127",
-      "P+": "-2",
-      "Artist": "Mac Miller",
-      "Points": "358",
-      "Apple M": "132",
-      "Spotify": "168",
-      "iTunes": "6",
-      "YouTube": "22",
-      "Shazam": "29",
-      "Deezer": "2",
-      "Top Country": "United States",
-      "#": "82",
-      "artist_ids": [
-        "macmiller"
-      ]
-    },
-    {
-      "Pos": "128",
-      "P+": "-6",
-      "Artist": "J Balvin",
-      "Points": "358",
-      "Apple M": "201",
-      "Spotify": "111",
-      "iTunes": "6",
-      "YouTube": "6",
-      "Shazam": "22",
-      "Deezer": "11",
-      "Top Country": "Colombia",
-      "#": "45",
-      "artist_ids": [
-        "jbalvin"
-      ]
-    },
-    {
       "Pos": "129",
-      "P+": "-1",
-      "Artist": "The Killers",
-      "Points": "351",
-      "Apple M": "99",
-      "Spotify": "209",
-      "iTunes": "23",
-      "YouTube": "0",
-      "Shazam": "7",
-      "Deezer": "13",
-      "Top Country": "Germany",
-      "#": "41",
-      "artist_ids": [
-        "thekillers"
-      ]
-    },
-    {
-      "Pos": "130",
-      "P+": "-3",
-      "Artist": "Ozuna",
-      "Points": "346",
-      "Apple M": "197",
-      "Spotify": "121",
-      "iTunes": "7",
-      "YouTube": "12",
-      "Shazam": "7",
-      "Deezer": "1",
-      "Top Country": "Spain",
-      "#": "33",
-      "artist_ids": [
-        "ozuna"
-      ]
-    },
-    {
-      "Pos": "131",
-      "P+": "+1",
-      "Artist": "Sam Fender",
-      "Points": "346",
-      "Apple M": "101",
-      "Spotify": "136",
-      "iTunes": "57",
-      "YouTube": "22",
-      "Shazam": "10",
-      "Deezer": "19",
-      "Top Country": "United Kingdom",
-      "#": "28",
-      "artist_ids": [
-        "samfender"
-      ]
-    },
-    {
-      "Pos": "132",
-      "P+": "+2",
-      "Artist": "Ankara Echoes",
-      "Points": "339",
-      "Apple M": "107",
-      "Spotify": "11",
-      "iTunes": "29",
-      "YouTube": "109",
-      "Shazam": "84",
-      "Deezer": "0",
-      "Top Country": "Turkey",
-      "#": "54",
-      "artist_ids": [
-        "ankaraechoes"
-      ]
-    },
-    {
-      "Pos": "133",
-      "P+": "+2",
-      "Artist": "Tainy",
-      "Points": "339",
-      "Apple M": "215",
-      "Spotify": "115",
-      "iTunes": "1",
-      "YouTube": "1",
-      "Shazam": "4",
-      "Deezer": "3",
-      "Top Country": "Mexico",
-      "#": "25",
-      "artist_ids": [
-        "tainy"
-      ]
-    },
-    {
-      "Pos": "134",
-      "P+": "+2",
+      "P+": "+5",
       "Artist": "Tiakola",
-      "Points": "336",
-      "Apple M": "220",
-      "Spotify": "53",
+      "Points": "345",
+      "Apple M": "227",
+      "Spotify": "52",
       "iTunes": "4",
       "YouTube": "35",
       "Shazam": "13",
-      "Deezer": "12",
+      "Deezer": "14",
       "Top Country": "France",
       "#": "21",
       "artist_ids": [
@@ -2281,50 +2196,186 @@
       ]
     },
     {
-      "Pos": "135",
-      "P+": "+2",
+      "Pos": "130",
+      "P+": "+5",
       "Artist": "Danny Ocean",
-      "Points": "336",
+      "Points": "345",
       "Apple M": "32",
-      "Spotify": "226",
-      "iTunes": "1",
+      "Spotify": "238",
+      "iTunes": "0",
       "YouTube": "62",
       "Shazam": "1",
-      "Deezer": "14",
+      "Deezer": "12",
       "Top Country": "Spain",
-      "#": "21",
+      "#": "25",
       "artist_ids": [
         "dannyocean"
       ]
     },
     {
-      "Pos": "136",
-      "P+": "+2",
-      "Artist": "Post Malone",
-      "Points": "335",
-      "Apple M": "144",
-      "Spotify": "116",
-      "iTunes": "27",
-      "YouTube": "20",
-      "Shazam": "5",
-      "Deezer": "23",
-      "Top Country": "United States",
-      "#": "77",
+      "Pos": "131",
+      "P+": "-6",
+      "Artist": "Benson Boone",
+      "Points": "345",
+      "Apple M": "74",
+      "Spotify": "130",
+      "iTunes": "30",
+      "YouTube": "39",
+      "Shazam": "31",
+      "Deezer": "42",
+      "Top Country": "Australia",
+      "#": "64",
       "artist_ids": [
-        "postmalone"
+        "bensonboone"
+      ]
+    },
+    {
+      "Pos": "132",
+      "P+": "-6",
+      "Artist": "Mac Miller",
+      "Points": "345",
+      "Apple M": "119",
+      "Spotify": "168",
+      "iTunes": "1",
+      "YouTube": "22",
+      "Shazam": "28",
+      "Deezer": "6",
+      "Top Country": "United States",
+      "#": "86",
+      "artist_ids": [
+        "macmiller"
+      ]
+    },
+    {
+      "Pos": "133",
+      "P+": "+8",
+      "Artist": "Steve Lacy",
+      "Points": "342",
+      "Apple M": "243",
+      "Spotify": "21",
+      "iTunes": "1",
+      "YouTube": "0",
+      "Shazam": "23",
+      "Deezer": "54",
+      "Top Country": "United States",
+      "#": "103",
+      "artist_ids": [
+        "stevelacy"
+      ]
+    },
+    {
+      "Pos": "134",
+      "P+": "+3",
+      "Artist": "Plan B",
+      "Points": "341",
+      "Apple M": "22",
+      "Spotify": "248",
+      "iTunes": "1",
+      "YouTube": "67",
+      "Shazam": "0",
+      "Deezer": "4",
+      "Top Country": "Argentina",
+      "#": "19",
+      "artist_ids": [
+        "planb"
+      ]
+    },
+    {
+      "Pos": "135",
+      "P+": "-6",
+      "Artist": "The Killers",
+      "Points": "340",
+      "Apple M": "87",
+      "Spotify": "208",
+      "iTunes": "24",
+      "YouTube": "0",
+      "Shazam": "7",
+      "Deezer": "14",
+      "Top Country": "Germany",
+      "#": "46",
+      "artist_ids": [
+        "thekillers"
+      ]
+    },
+    {
+      "Pos": "136",
+      "P+": "-6",
+      "Artist": "Ozuna",
+      "Points": "338",
+      "Apple M": "180",
+      "Spotify": "131",
+      "iTunes": "5",
+      "YouTube": "12",
+      "Shazam": "7",
+      "Deezer": "4",
+      "Top Country": "Spain",
+      "#": "34",
+      "artist_ids": [
+        "ozuna"
       ]
     },
     {
       "Pos": "137",
-      "P+": "-4",
+      "P+": "+5",
+      "Artist": "KITSCHKRIEG",
+      "Points": "338",
+      "Apple M": "50",
+      "Spotify": "47",
+      "iTunes": "45",
+      "YouTube": "80",
+      "Shazam": "109",
+      "Deezer": "6",
+      "Top Country": "Germany",
+      "#": "79",
+      "artist_ids": [
+        "kitschkrieg"
+      ]
+    },
+    {
+      "Pos": "138",
+      "P+": "-10",
+      "Artist": "J Balvin",
+      "Points": "337",
+      "Apple M": "185",
+      "Spotify": "113",
+      "iTunes": "6",
+      "YouTube": "6",
+      "Shazam": "14",
+      "Deezer": "13",
+      "Top Country": "Colombia",
+      "#": "41",
+      "artist_ids": [
+        "jbalvin"
+      ]
+    },
+    {
+      "Pos": "139",
+      "P+": "-12",
+      "Artist": "prodshushy",
+      "Points": "336",
+      "Apple M": "101",
+      "Spotify": "49",
+      "iTunes": "3",
+      "YouTube": "0",
+      "Shazam": "183",
+      "Deezer": "0",
+      "Top Country": "Germany",
+      "#": "91",
+      "artist_ids": [
+        "prodshushy"
+      ]
+    },
+    {
+      "Pos": "140",
+      "P+": "-2",
       "Artist": "M!LK",
-      "Points": "330",
-      "Apple M": "82",
+      "Points": "332",
+      "Apple M": "78",
       "Spotify": "90",
-      "iTunes": "40",
+      "iTunes": "45",
       "YouTube": "114",
       "Shazam": "4",
-      "Deezer": "0",
+      "Deezer": "1",
       "Top Country": "Japan",
       "#": "1",
       "artist_ids": [
@@ -2332,115 +2383,149 @@
       ]
     },
     {
-      "Pos": "138",
-      "P+": "+6",
-      "Artist": "Plan B",
-      "Points": "328",
-      "Apple M": "22",
-      "Spotify": "238",
-      "iTunes": "1",
-      "YouTube": "67",
-      "Shazam": "0",
-      "Deezer": "1",
-      "Top Country": "Argentina",
-      "#": "18",
-      "artist_ids": [
-        "planb"
-      ]
-    },
-    {
-      "Pos": "139",
-      "P+": "-10",
-      "Artist": "Kendrick Lamar",
-      "Points": "327",
-      "Apple M": "250",
-      "Spotify": "27",
-      "iTunes": "28",
-      "YouTube": "0",
-      "Shazam": "0",
-      "Deezer": "22",
-      "Top Country": "United States",
-      "#": "112",
-      "artist_ids": [
-        "kendricklamar"
-      ]
-    },
-    {
-      "Pos": "140",
-      "P+": "+14",
-      "Artist": "TUL8TE",
-      "Points": "324",
-      "Apple M": "152",
-      "Spotify": "52",
-      "iTunes": "0",
-      "YouTube": "96",
-      "Shazam": "14",
-      "Deezer": "8",
-      "Top Country": "Egypt",
-      "#": "21",
-      "artist_ids": [
-        "tul8te"
-      ]
-    },
-    {
       "Pos": "141",
-      "P+": "+25",
-      "Artist": "Steve Lacy",
-      "Points": "323",
-      "Apple M": "253",
-      "Spotify": "44",
-      "iTunes": "6",
+      "P+": "-18",
+      "Artist": "Travis Scott",
+      "Points": "330",
+      "Apple M": "237",
+      "Spotify": "23",
+      "iTunes": "8",
       "YouTube": "0",
-      "Shazam": "8",
-      "Deezer": "12",
-      "Top Country": "United States",
-      "#": "101",
+      "Shazam": "55",
+      "Deezer": "8",
+      "Top Country": "Romania",
+      "#": "130",
       "artist_ids": [
-        "stevelacy"
+        "travisscott"
       ]
     },
     {
       "Pos": "142",
-      "P+": "-11",
-      "Artist": "KITSCHKRIEG",
-      "Points": "323",
-      "Apple M": "50",
-      "Spotify": "51",
-      "iTunes": "28",
-      "YouTube": "80",
-      "Shazam": "110",
-      "Deezer": "3",
-      "Top Country": "Germany",
-      "#": "78",
+      "P+": "+45",
+      "Artist": "CORTIS",
+      "Points": "326",
+      "Apple M": "126",
+      "Spotify": "47",
+      "iTunes": "102",
+      "YouTube": "48",
+      "Shazam": "3",
+      "Deezer": "0",
+      "Top Country": "South Korea",
+      "#": "40",
       "artist_ids": [
-        "kitschkrieg"
+        "cortis"
       ]
     },
     {
       "Pos": "143",
-      "P+": "-3",
-      "Artist": "Bebe Rexha",
-      "Points": "318",
-      "Apple M": "92",
-      "Spotify": "74",
-      "iTunes": "55",
-      "YouTube": "24",
-      "Shazam": "36",
-      "Deezer": "36",
-      "Top Country": "Germany",
-      "#": "56",
+      "P+": "+3",
+      "Artist": "TRIANGLE DES BERMUDES",
+      "Points": "323",
+      "Apple M": "193",
+      "Spotify": "67",
+      "iTunes": "2",
+      "YouTube": "36",
+      "Shazam": "11",
+      "Deezer": "14",
+      "Top Country": "France",
+      "#": "28",
       "artist_ids": [
-        "beberexha"
+        "triangledesbermudes"
       ]
     },
     {
       "Pos": "144",
-      "P+": "+5",
+      "P+": "-11",
+      "Artist": "Tainy",
+      "Points": "322",
+      "Apple M": "191",
+      "Spotify": "118",
+      "iTunes": "0",
+      "YouTube": "1",
+      "Shazam": "5",
+      "Deezer": "6",
+      "Top Country": "Mexico",
+      "#": "22",
+      "artist_ids": [
+        "tainy"
+      ]
+    },
+    {
+      "Pos": "145",
+      "P+": "-13",
+      "Artist": "Ankara Echoes",
+      "Points": "321",
+      "Apple M": "97",
+      "Spotify": "11",
+      "iTunes": "21",
+      "YouTube": "109",
+      "Shazam": "84",
+      "Deezer": "0",
+      "Top Country": "Turkey",
+      "#": "53",
+      "artist_ids": [
+        "ankaraechoes"
+      ]
+    },
+    {
+      "Pos": "146",
+      "P+": "+11",
+      "Artist": "DJ Goja",
+      "Points": "320",
+      "Apple M": "33",
+      "Spotify": "2",
+      "iTunes": "55",
+      "YouTube": "166",
+      "Shazam": "64",
+      "Deezer": "0",
+      "Top Country": "France",
+      "#": "76",
+      "artist_ids": [
+        "djgoja"
+      ]
+    },
+    {
+      "Pos": "147",
+      "P+": "+21",
+      "Artist": "Milo j",
+      "Points": "318",
+      "Apple M": "115",
+      "Spotify": "195",
+      "iTunes": "2",
+      "YouTube": "0",
+      "Shazam": "2",
+      "Deezer": "3",
+      "Top Country": "Argentina",
+      "#": "20",
+      "artist_ids": [
+        "miloj"
+      ]
+    },
+    {
+      "Pos": "148",
+      "P+": "+2",
+      "Artist": "Jimin",
+      "Points": "314",
+      "Apple M": "129",
+      "Spotify": "154",
+      "iTunes": "22",
+      "YouTube": "0",
+      "Shazam": "1",
+      "Deezer": "9",
+      "Top Country": "Myanmar",
+      "#": "34",
+      "artist_ids": [
+        "jimin"
+      ]
+    },
+    {
+      "Pos": "149",
+      "P+": "-5",
       "Artist": "Neton Vega",
-      "Points": "315",
-      "Apple M": "96",
-      "Spotify": "173",
-      "iTunes": "5",
+      "Points": "311",
+      "Apple M": "87",
+      "Spotify": "172",
+      "iTunes": "11",
       "YouTube": "31",
       "Shazam": "6",
       "Deezer": "4",
@@ -2451,251 +2536,98 @@
       ]
     },
     {
-      "Pos": "145",
-      "P+": "+20",
-      "Artist": "TRIANGLE DES BERMUDES",
-      "Points": "312",
-      "Apple M": "189",
-      "Spotify": "66",
-      "iTunes": "0",
-      "YouTube": "36",
-      "Shazam": "10",
-      "Deezer": "10",
-      "Top Country": "France",
-      "#": "29",
-      "artist_ids": [
-        "triangledesbermudes"
-      ]
-    },
-    {
-      "Pos": "146",
-      "P+": "=",
-      "Artist": "Gunna",
-      "Points": "312",
-      "Apple M": "287",
-      "Spotify": "21",
-      "iTunes": "2",
-      "YouTube": "0",
-      "Shazam": "2",
-      "Deezer": "1",
-      "Top Country": "South Africa",
-      "#": "68",
-      "artist_ids": [
-        "gunna"
-      ]
-    },
-    {
-      "Pos": "147",
-      "P+": "+8",
-      "Artist": "Mora",
-      "Points": "311",
-      "Apple M": "212",
-      "Spotify": "92",
-      "iTunes": "1",
-      "YouTube": "4",
-      "Shazam": "3",
-      "Deezer": "1",
-      "Top Country": "Spain",
-      "#": "18",
-      "artist_ids": [
-        "mora"
-      ]
-    },
-    {
-      "Pos": "148",
-      "P+": "+4",
-      "Artist": "Nirvana",
-      "Points": "310",
-      "Apple M": "149",
-      "Spotify": "119",
-      "iTunes": "20",
-      "YouTube": "3",
-      "Shazam": "11",
-      "Deezer": "9",
-      "Top Country": "Australia",
-      "#": "72",
-      "artist_ids": [
-        "nirvana"
-      ]
-    },
-    {
-      "Pos": "149",
+      "Pos": "150",
       "P+": "-10",
+      "Artist": "TUL8TE",
+      "Points": "307",
+      "Apple M": "131",
+      "Spotify": "54",
+      "iTunes": "2",
+      "YouTube": "96",
+      "Shazam": "16",
+      "Deezer": "8",
+      "Top Country": "Egypt",
+      "#": "21",
+      "artist_ids": [
+        "tul8te"
+      ]
+    },
+    {
+      "Pos": "151",
+      "P+": "-2",
       "Artist": "周杰倫",
-      "Points": "309",
-      "Apple M": "309",
+      "Points": "307",
+      "Apple M": "306",
       "Spotify": "0",
       "iTunes": "0",
       "YouTube": "0",
       "Shazam": "0",
       "Deezer": "0",
       "Top Country": "Taiwan",
-      "#": "4",
+      "#": "5",
       "artist_ids": [
         "E591A8E69DB0E580AB"
       ]
     },
     {
-      "Pos": "150",
-      "P+": "-7",
-      "Artist": "Jimin",
-      "Points": "308",
-      "Apple M": "125",
-      "Spotify": "150",
-      "iTunes": "22",
-      "YouTube": "0",
-      "Shazam": "1",
-      "Deezer": "11",
-      "Top Country": "Myanmar",
-      "#": "34",
-      "artist_ids": [
-        "jimin"
-      ]
-    },
-    {
-      "Pos": "151",
-      "P+": "-4",
-      "Artist": "Wizkid",
-      "Points": "307",
-      "Apple M": "216",
-      "Spotify": "60",
-      "iTunes": "13",
-      "YouTube": "8",
-      "Shazam": "10",
-      "Deezer": "1",
-      "Top Country": "Nigeria",
-      "#": "76",
-      "artist_ids": [
-        "wizkid"
-      ]
-    },
-    {
       "Pos": "152",
-      "P+": "+1",
-      "Artist": "JHAYCO",
-      "Points": "306",
-      "Apple M": "242",
-      "Spotify": "59",
-      "iTunes": "4",
-      "YouTube": "0",
-      "Shazam": "2",
-      "Deezer": "0",
-      "Top Country": "Colombia",
-      "#": "38",
+      "P+": "+4",
+      "Artist": "Oliver Tree",
+      "Points": "305",
+      "Apple M": "2",
+      "Spotify": "4",
+      "iTunes": "10",
+      "YouTube": "279",
+      "Shazam": "1",
+      "Deezer": "8",
+      "Top Country": "United States",
+      "#": "51",
       "artist_ids": [
-        "jhayco"
+        "olivertree"
       ]
     },
     {
       "Pos": "153",
-      "P+": "+5",
+      "P+": "=",
       "Artist": "Jere Klein",
-      "Points": "305",
-      "Apple M": "29",
-      "Spotify": "145",
-      "iTunes": "1",
+      "Points": "302",
+      "Apple M": "27",
+      "Spotify": "144",
+      "iTunes": "0",
       "YouTube": "121",
       "Shazam": "7",
-      "Deezer": "1",
+      "Deezer": "3",
       "Top Country": "Chile",
-      "#": "8",
+      "#": "7",
       "artist_ids": [
         "jereklein"
       ]
     },
     {
       "Pos": "154",
-      "P+": "-3",
-      "Artist": "Lenin Ramírez",
-      "Points": "302",
-      "Apple M": "13",
-      "Spotify": "110",
-      "iTunes": "8",
-      "YouTube": "151",
-      "Shazam": "13",
-      "Deezer": "8",
-      "Top Country": "Mexico",
-      "#": "15",
+      "P+": "-9",
+      "Artist": "Mora",
+      "Points": "299",
+      "Apple M": "201",
+      "Spotify": "89",
+      "iTunes": "0",
+      "YouTube": "4",
+      "Shazam": "3",
+      "Deezer": "2",
+      "Top Country": "Spain",
+      "#": "19",
       "artist_ids": [
-        "leninramirez"
+        "mora"
       ]
     },
     {
       "Pos": "155",
-      "P+": "-13",
-      "Artist": "Arctic Monkeys",
-      "Points": "301",
-      "Apple M": "102",
-      "Spotify": "177",
-      "iTunes": "14",
-      "YouTube": "2",
-      "Shazam": "0",
-      "Deezer": "6",
-      "Top Country": "United Kingdom",
-      "#": "85",
-      "artist_ids": [
-        "arcticmonkeys"
-      ]
-    },
-    {
-      "Pos": "156",
-      "P+": "-15",
-      "Artist": "Oliver Tree",
-      "Points": "299",
-      "Apple M": "2",
-      "Spotify": "5",
-      "iTunes": "9",
-      "YouTube": "279",
-      "Shazam": "2",
-      "Deezer": "3",
-      "Top Country": "United States",
-      "#": "50",
-      "artist_ids": [
-        "olivertree"
-      ]
-    },
-    {
-      "Pos": "157",
-      "P+": "+3",
-      "Artist": "Daniel Caesar",
-      "Points": "298",
-      "Apple M": "154",
-      "Spotify": "133",
-      "iTunes": "7",
-      "YouTube": "0",
-      "Shazam": "3",
-      "Deezer": "1",
-      "Top Country": "Philippines",
-      "#": "50",
-      "artist_ids": [
-        "danielcaesar"
-      ]
-    },
-    {
-      "Pos": "158",
-      "P+": "-10",
-      "Artist": "DJ Goja",
-      "Points": "297",
-      "Apple M": "33",
-      "Spotify": "0",
-      "iTunes": "34",
-      "YouTube": "166",
-      "Shazam": "64",
-      "Deezer": "0",
-      "Top Country": "France",
-      "#": "78",
-      "artist_ids": [
-        "djgoja"
-      ]
-    },
-    {
-      "Pos": "159",
-      "P+": "+3",
+      "P+": "+4",
       "Artist": "Ovy On the Drums",
-      "Points": "297",
-      "Apple M": "85",
-      "Spotify": "158",
-      "iTunes": "4",
+      "Points": "298",
+      "Apple M": "80",
+      "Spotify": "167",
+      "iTunes": "3",
       "YouTube": "37",
       "Shazam": "8",
       "Deezer": "4",
@@ -2706,115 +2638,64 @@
       ]
     },
     {
-      "Pos": "160",
-      "P+": "-3",
-      "Artist": "Tulus",
+      "Pos": "156",
+      "P+": "-8",
+      "Artist": "Nirvana",
+      "Points": "296",
+      "Apple M": "132",
+      "Spotify": "115",
+      "iTunes": "23",
+      "YouTube": "3",
+      "Shazam": "11",
+      "Deezer": "13",
+      "Top Country": "Germany",
+      "#": "71",
+      "artist_ids": [
+        "nirvana"
+      ]
+    },
+    {
+      "Pos": "157",
+      "P+": "-18",
+      "Artist": "Kendrick Lamar",
       "Points": "295",
-      "Apple M": "82",
-      "Spotify": "140",
-      "iTunes": "17",
-      "YouTube": "49",
-      "Shazam": "6",
-      "Deezer": "1",
-      "Top Country": "Indonesia",
-      "#": "5",
-      "artist_ids": [
-        "tulus"
-      ]
-    },
-    {
-      "Pos": "161",
-      "P+": "-11",
-      "Artist": "Buba Corelli",
-      "Points": "294",
-      "Apple M": "281",
-      "Spotify": "0",
-      "iTunes": "1",
-      "YouTube": "7",
-      "Shazam": "0",
-      "Deezer": "5",
-      "Top Country": "North Macedonia",
-      "#": "5",
-      "artist_ids": [
-        "bubacorelli"
-      ]
-    },
-    {
-      "Pos": "162",
-      "P+": "+17",
-      "Artist": "Davido",
-      "Points": "294",
-      "Apple M": "219",
-      "Spotify": "23",
-      "iTunes": "22",
-      "YouTube": "13",
-      "Shazam": "12",
-      "Deezer": "4",
-      "Top Country": "Nigeria",
-      "#": "37",
-      "artist_ids": [
-        "davido"
-      ]
-    },
-    {
-      "Pos": "163",
-      "P+": "NEW",
-      "Artist": "The Frames",
-      "Points": "293",
-      "Apple M": "136",
-      "Spotify": "12",
-      "iTunes": "131",
+      "Apple M": "231",
+      "Spotify": "27",
+      "iTunes": "18",
       "YouTube": "0",
-      "Shazam": "6",
-      "Deezer": "8",
-      "Top Country": "Ireland",
-      "#": "14",
+      "Shazam": "0",
+      "Deezer": "20",
+      "Top Country": "United States",
+      "#": "107",
       "artist_ids": [
-        "theframes"
+        "kendricklamar"
       ]
     },
     {
-      "Pos": "164",
-      "P+": "-19",
-      "Artist": "Fally Ipupa",
-      "Points": "292",
-      "Apple M": "200",
-      "Spotify": "0",
-      "iTunes": "9",
-      "YouTube": "56",
-      "Shazam": "24",
-      "Deezer": "4",
-      "Top Country": "Cameroon",
-      "#": "23",
-      "artist_ids": [
-        "fallyipupa"
-      ]
-    },
-    {
-      "Pos": "165",
-      "P+": "+123",
-      "Artist": "JAZZWRLD",
-      "Points": "288",
-      "Apple M": "234",
-      "Spotify": "10",
-      "iTunes": "8",
-      "YouTube": "15",
-      "Shazam": "17",
-      "Deezer": "3",
+      "Pos": "158",
+      "P+": "-11",
+      "Artist": "Gunna",
+      "Points": "294",
+      "Apple M": "268",
+      "Spotify": "19",
+      "iTunes": "4",
+      "YouTube": "0",
+      "Shazam": "2",
+      "Deezer": "1",
       "Top Country": "South Africa",
-      "#": "25",
+      "#": "61",
       "artist_ids": [
-        "jazzwrld"
+        "gunna"
       ]
     },
     {
-      "Pos": "166",
-      "P+": "-2",
+      "Pos": "159",
+      "P+": "+6",
       "Artist": "Kenshi Yonezu",
-      "Points": "288",
-      "Apple M": "70",
+      "Points": "289",
+      "Apple M": "67",
       "Spotify": "118",
-      "iTunes": "24",
+      "iTunes": "29",
       "YouTube": "72",
       "Shazam": "3",
       "Deezer": "0",
@@ -2825,32 +2706,219 @@
       ]
     },
     {
-      "Pos": "167",
-      "P+": "-6",
-      "Artist": "El De Las R's",
-      "Points": "288",
-      "Apple M": "18",
-      "Spotify": "45",
-      "iTunes": "6",
-      "YouTube": "111",
-      "Shazam": "104",
-      "Deezer": "4",
-      "Top Country": "Mexico",
-      "#": "75",
+      "Pos": "160",
+      "P+": "=",
+      "Artist": "Tulus",
+      "Points": "287",
+      "Apple M": "79",
+      "Spotify": "140",
+      "iTunes": "13",
+      "YouTube": "49",
+      "Shazam": "5",
+      "Deezer": "1",
+      "Top Country": "Indonesia",
+      "#": "4",
       "artist_ids": [
-        "eldelasrs"
+        "tulus"
+      ]
+    },
+    {
+      "Pos": "161",
+      "P+": "+8",
+      "Artist": "La Rvfleuze",
+      "Points": "285",
+      "Apple M": "152",
+      "Spotify": "95",
+      "iTunes": "3",
+      "YouTube": "27",
+      "Shazam": "7",
+      "Deezer": "2",
+      "Top Country": "France",
+      "#": "18",
+      "artist_ids": [
+        "larvfleuze"
+      ]
+    },
+    {
+      "Pos": "162",
+      "P+": "-11",
+      "Artist": "Wizkid",
+      "Points": "285",
+      "Apple M": "191",
+      "Spotify": "58",
+      "iTunes": "14",
+      "YouTube": "8",
+      "Shazam": "9",
+      "Deezer": "5",
+      "Top Country": "Nigeria",
+      "#": "77",
+      "artist_ids": [
+        "wizkid"
+      ]
+    },
+    {
+      "Pos": "163",
+      "P+": "NEW",
+      "Artist": "Armin van Buuren",
+      "Points": "285",
+      "Apple M": "40",
+      "Spotify": "0",
+      "iTunes": "239",
+      "YouTube": "0",
+      "Shazam": "5",
+      "Deezer": "1",
+      "Top Country": "Belgium",
+      "#": "51",
+      "artist_ids": [
+        "arminvanbuuren"
+      ]
+    },
+    {
+      "Pos": "164",
+      "P+": "-21",
+      "Artist": "Bebe Rexha",
+      "Points": "285",
+      "Apple M": "75",
+      "Spotify": "75",
+      "iTunes": "46",
+      "YouTube": "24",
+      "Shazam": "36",
+      "Deezer": "30",
+      "Top Country": "Germany",
+      "#": "54",
+      "artist_ids": [
+        "beberexha"
+      ]
+    },
+    {
+      "Pos": "165",
+      "P+": "-4",
+      "Artist": "Buba Corelli",
+      "Points": "283",
+      "Apple M": "271",
+      "Spotify": "0",
+      "iTunes": "1",
+      "YouTube": "7",
+      "Shazam": "0",
+      "Deezer": "5",
+      "Top Country": "Croatia",
+      "#": "5",
+      "artist_ids": [
+        "bubacorelli"
+      ]
+    },
+    {
+      "Pos": "166",
+      "P+": "-11",
+      "Artist": "Arctic Monkeys",
+      "Points": "280",
+      "Apple M": "96",
+      "Spotify": "174",
+      "iTunes": "6",
+      "YouTube": "2",
+      "Shazam": "0",
+      "Deezer": "2",
+      "Top Country": "United Kingdom",
+      "#": "86",
+      "artist_ids": [
+        "arcticmonkeys"
+      ]
+    },
+    {
+      "Pos": "167",
+      "P+": "-15",
+      "Artist": "JHAYCO",
+      "Points": "278",
+      "Apple M": "218",
+      "Spotify": "56",
+      "iTunes": "1",
+      "YouTube": "0",
+      "Shazam": "2",
+      "Deezer": "1",
+      "Top Country": "Colombia",
+      "#": "37",
+      "artist_ids": [
+        "jhayco"
       ]
     },
     {
       "Pos": "168",
-      "P+": "+128",
-      "Artist": "Markéta Irglová",
-      "Points": "287",
-      "Apple M": "45",
-      "Spotify": "6",
-      "iTunes": "231",
+      "P+": "+9",
+      "Artist": "Kapo",
+      "Points": "275",
+      "Apple M": "71",
+      "Spotify": "182",
+      "iTunes": "3",
+      "YouTube": "5",
+      "Shazam": "4",
+      "Deezer": "11",
+      "Top Country": "Colombia",
+      "#": "19",
+      "artist_ids": [
+        "kapo"
+      ]
+    },
+    {
+      "Pos": "169",
+      "P+": "-67",
+      "Artist": "Kavinsky",
+      "Points": "274",
+      "Apple M": "54",
+      "Spotify": "17",
+      "iTunes": "167",
+      "YouTube": "0",
+      "Shazam": "15",
+      "Deezer": "21",
+      "Top Country": "France",
+      "#": "47",
+      "artist_ids": [
+        "kavinsky"
+      ]
+    },
+    {
+      "Pos": "170",
+      "P+": "+20",
+      "Artist": "Shawn Mendes",
+      "Points": "274",
+      "Apple M": "31",
+      "Spotify": "233",
+      "iTunes": "5",
       "YouTube": "0",
       "Shazam": "4",
+      "Deezer": "1",
+      "Top Country": "Indonesia",
+      "#": "71",
+      "artist_ids": [
+        "shawnmendes"
+      ]
+    },
+    {
+      "Pos": "171",
+      "P+": "+11",
+      "Artist": "Maluma",
+      "Points": "273",
+      "Apple M": "67",
+      "Spotify": "132",
+      "iTunes": "8",
+      "YouTube": "57",
+      "Shazam": "5",
+      "Deezer": "4",
+      "Top Country": "Colombia",
+      "#": "25",
+      "artist_ids": [
+        "maluma"
+      ]
+    },
+    {
+      "Pos": "172",
+      "P+": "-5",
+      "Artist": "Markéta Irglová",
+      "Points": "272",
+      "Apple M": "45",
+      "Spotify": "6",
+      "iTunes": "216",
+      "YouTube": "0",
+      "Shazam": "5",
       "Deezer": "0",
       "Top Country": "Ireland",
       "#": "29",
@@ -2859,135 +2927,84 @@
       ]
     },
     {
-      "Pos": "169",
-      "P+": "=",
-      "Artist": "Milo j",
-      "Points": "286",
-      "Apple M": "70",
-      "Spotify": "202",
-      "iTunes": "1",
-      "YouTube": "0",
-      "Shazam": "2",
-      "Deezer": "11",
-      "Top Country": "Argentina",
-      "#": "20",
-      "artist_ids": [
-        "miloj"
-      ]
-    },
-    {
-      "Pos": "170",
-      "P+": "-3",
-      "Artist": "La Rvfleuze",
-      "Points": "286",
-      "Apple M": "160",
-      "Spotify": "91",
-      "iTunes": "0",
-      "YouTube": "27",
-      "Shazam": "8",
-      "Deezer": "0",
-      "Top Country": "France",
-      "#": "19",
-      "artist_ids": [
-        "larvfleuze"
-      ]
-    },
-    {
-      "Pos": "171",
-      "P+": "-8",
-      "Artist": "STELLA LEFTY",
-      "Points": "279",
-      "Apple M": "61",
-      "Spotify": "74",
-      "iTunes": "50",
-      "YouTube": "19",
-      "Shazam": "21",
-      "Deezer": "54",
-      "Top Country": "United States",
-      "#": "22",
-      "artist_ids": [
-        "stellalefty"
-      ]
-    },
-    {
-      "Pos": "172",
+      "Pos": "173",
       "P+": "=",
       "Artist": "Shiva",
-      "Points": "278",
-      "Apple M": "109",
-      "Spotify": "140",
-      "iTunes": "0",
+      "Points": "272",
+      "Apple M": "103",
+      "Spotify": "139",
+      "iTunes": "1",
       "YouTube": "29",
       "Shazam": "0",
       "Deezer": "0",
       "Top Country": "Italy",
-      "#": "2",
+      "#": "1",
       "artist_ids": [
         "shiva"
       ]
     },
     {
-      "Pos": "173",
-      "P+": "-14",
-      "Artist": "Tory Lanez",
-      "Points": "278",
-      "Apple M": "241",
-      "Spotify": "31",
-      "iTunes": "3",
-      "YouTube": "0",
-      "Shazam": "0",
-      "Deezer": "3",
-      "Top Country": "Canada",
-      "#": "84",
-      "artist_ids": [
-        "torylanez"
-      ]
-    },
-    {
       "Pos": "174",
-      "P+": "-6",
-      "Artist": "Ravyn Lenae",
-      "Points": "277",
-      "Apple M": "52",
-      "Spotify": "144",
-      "iTunes": "4",
-      "YouTube": "5",
-      "Shazam": "35",
-      "Deezer": "37",
-      "Top Country": "Germany",
-      "#": "82",
+      "P+": "-3",
+      "Artist": "STELLA LEFTY",
+      "Points": "269",
+      "Apple M": "50",
+      "Spotify": "77",
+      "iTunes": "44",
+      "YouTube": "19",
+      "Shazam": "21",
+      "Deezer": "58",
+      "Top Country": "United States",
+      "#": "23",
       "artist_ids": [
-        "ravynlenae"
+        "stellalefty"
       ]
     },
     {
       "Pos": "175",
-      "P+": "-4",
-      "Artist": "Jennifer Lopez",
-      "Points": "276",
-      "Apple M": "41",
-      "Spotify": "100",
-      "iTunes": "27",
-      "YouTube": "65",
-      "Shazam": "23",
-      "Deezer": "21",
-      "Top Country": "Germany",
-      "#": "68",
+      "P+": "-9",
+      "Artist": "El De Las R's",
+      "Points": "269",
+      "Apple M": "15",
+      "Spotify": "38",
+      "iTunes": "3",
+      "YouTube": "111",
+      "Shazam": "99",
+      "Deezer": "4",
+      "Top Country": "Mexico",
+      "#": "74",
       "artist_ids": [
-        "jenniferlopez"
+        "eldelasrs"
       ]
     },
     {
       "Pos": "176",
-      "P+": "-6",
+      "P+": "-18",
+      "Artist": "Daniel Caesar",
+      "Points": "268",
+      "Apple M": "130",
+      "Spotify": "130",
+      "iTunes": "6",
+      "YouTube": "0",
+      "Shazam": "3",
+      "Deezer": "0",
+      "Top Country": "Philippines",
+      "#": "47",
+      "artist_ids": [
+        "danielcaesar"
+      ]
+    },
+    {
+      "Pos": "177",
+      "P+": "-1",
       "Artist": "Ryan Castro",
-      "Points": "275",
-      "Apple M": "77",
+      "Points": "268",
+      "Apple M": "69",
       "Spotify": "116",
-      "iTunes": "4",
+      "iTunes": "3",
       "YouTube": "51",
       "Shazam": "16",
-      "Deezer": "12",
+      "Deezer": "13",
       "Top Country": "Colombia",
       "#": "17",
       "artist_ids": [
@@ -2995,47 +3012,217 @@
       ]
     },
     {
-      "Pos": "177",
-      "P+": "+6",
-      "Artist": "Kapo",
-      "Points": "273",
-      "Apple M": "76",
-      "Spotify": "172",
-      "iTunes": "2",
-      "YouTube": "5",
-      "Shazam": "4",
-      "Deezer": "14",
-      "Top Country": "Colombia",
-      "#": "19",
-      "artist_ids": [
-        "kapo"
-      ]
-    },
-    {
       "Pos": "178",
-      "P+": "+3",
-      "Artist": "Anirudh Ravichander",
-      "Points": "272",
-      "Apple M": "137",
-      "Spotify": "32",
-      "iTunes": "76",
-      "YouTube": "16",
-      "Shazam": "10",
-      "Deezer": "1",
-      "Top Country": "India",
-      "#": "13",
+      "P+": "+2",
+      "Artist": "ROSALÍA",
+      "Points": "267",
+      "Apple M": "135",
+      "Spotify": "90",
+      "iTunes": "14",
+      "YouTube": "20",
+      "Shazam": "3",
+      "Deezer": "5",
+      "Top Country": "Spain",
+      "#": "35",
       "artist_ids": [
-        "anirudhravichander"
+        "rosalia"
       ]
     },
     {
       "Pos": "179",
+      "P+": "+6",
+      "Artist": "Ñengo Flow",
+      "Points": "266",
+      "Apple M": "58",
+      "Spotify": "167",
+      "iTunes": "1",
+      "YouTube": "26",
+      "Shazam": "10",
+      "Deezer": "3",
+      "Top Country": "Spain",
+      "#": "20",
+      "artist_ids": [
+        "nengoflow"
+      ]
+    },
+    {
+      "Pos": "180",
+      "P+": "-17",
+      "Artist": "Fally Ipupa",
+      "Points": "266",
+      "Apple M": "170",
+      "Spotify": "0",
+      "iTunes": "9",
+      "YouTube": "56",
+      "Shazam": "24",
+      "Deezer": "8",
+      "Top Country": "Cameroon",
+      "#": "23",
+      "artist_ids": [
+        "fallyipupa"
+      ]
+    },
+    {
+      "Pos": "181",
+      "P+": "+12",
+      "Artist": "Zivert",
+      "Points": "265",
+      "Apple M": "192",
+      "Spotify": "8",
+      "iTunes": "23",
+      "YouTube": "24",
+      "Shazam": "17",
+      "Deezer": "2",
+      "Top Country": "Russia",
+      "#": "22",
+      "artist_ids": [
+        "zivert"
+      ]
+    },
+    {
+      "Pos": "182",
       "P+": "+1",
-      "Artist": "Motive",
-      "Points": "271",
-      "Apple M": "102",
+      "Artist": "Raim Laode",
+      "Points": "264",
+      "Apple M": "33",
+      "Spotify": "176",
+      "iTunes": "7",
+      "YouTube": "37",
+      "Shazam": "5",
+      "Deezer": "5",
+      "Top Country": "Indonesia",
+      "#": "4",
+      "artist_ids": [
+        "raimlaode"
+      ]
+    },
+    {
+      "Pos": "183",
+      "P+": "-9",
+      "Artist": "Ravyn Lenae",
+      "Points": "264",
+      "Apple M": "52",
       "Spotify": "137",
-      "iTunes": "19",
+      "iTunes": "9",
+      "YouTube": "5",
+      "Shazam": "35",
+      "Deezer": "26",
+      "Top Country": "Germany",
+      "#": "77",
+      "artist_ids": [
+        "ravynlenae"
+      ]
+    },
+    {
+      "Pos": "184",
+      "P+": "+17",
+      "Artist": "MIA BOYKA",
+      "Points": "262",
+      "Apple M": "56",
+      "Spotify": "13",
+      "iTunes": "15",
+      "YouTube": "76",
+      "Shazam": "102",
+      "Deezer": "0",
+      "Top Country": "Russia",
+      "#": "71",
+      "artist_ids": [
+        "miaboyka"
+      ]
+    },
+    {
+      "Pos": "185",
+      "P+": "+24",
+      "Artist": "Wisin",
+      "Points": "259",
+      "Apple M": "42",
+      "Spotify": "187",
+      "iTunes": "9",
+      "YouTube": "7",
+      "Shazam": "12",
+      "Deezer": "2",
+      "Top Country": "Chile",
+      "#": "21",
+      "artist_ids": [
+        "wisin"
+      ]
+    },
+    {
+      "Pos": "186",
+      "P+": "+6",
+      "Artist": "Miyagi",
+      "Points": "257",
+      "Apple M": "172",
+      "Spotify": "38",
+      "iTunes": "4",
+      "YouTube": "25",
+      "Shazam": "17",
+      "Deezer": "1",
+      "Top Country": "Russia",
+      "#": "33",
+      "artist_ids": [
+        "miyagi"
+      ]
+    },
+    {
+      "Pos": "187",
+      "P+": "-33",
+      "Artist": "Lenin Ramírez",
+      "Points": "256",
+      "Apple M": "13",
+      "Spotify": "112",
+      "iTunes": "4",
+      "YouTube": "105",
+      "Shazam": "13",
+      "Deezer": "9",
+      "Top Country": "Mexico",
+      "#": "13",
+      "artist_ids": [
+        "leninramirez"
+      ]
+    },
+    {
+      "Pos": "188",
+      "P+": "+12",
+      "Artist": "Arcángel",
+      "Points": "254",
+      "Apple M": "132",
+      "Spotify": "117",
+      "iTunes": "1",
+      "YouTube": "0",
+      "Shazam": "4",
+      "Deezer": "0",
+      "Top Country": "Colombia",
+      "#": "20",
+      "artist_ids": [
+        "arcangel"
+      ]
+    },
+    {
+      "Pos": "189",
+      "P+": "-3",
+      "Artist": "Ramy Sabry",
+      "Points": "253",
+      "Apple M": "80",
+      "Spotify": "54",
+      "iTunes": "1",
+      "YouTube": "103",
+      "Shazam": "14",
+      "Deezer": "0",
+      "Top Country": "Egypt",
+      "#": "16",
+      "artist_ids": [
+        "ramysabry"
+      ]
+    },
+    {
+      "Pos": "190",
+      "P+": "-9",
+      "Artist": "Motive",
+      "Points": "250",
+      "Apple M": "87",
+      "Spotify": "138",
+      "iTunes": "11",
       "YouTube": "12",
       "Shazam": "1",
       "Deezer": "0",
@@ -3046,233 +3233,148 @@
       ]
     },
     {
-      "Pos": "180",
-      "P+": "-2",
-      "Artist": "ROSALÍA",
-      "Points": "271",
-      "Apple M": "148",
-      "Spotify": "81",
-      "iTunes": "11",
-      "YouTube": "20",
-      "Shazam": "3",
-      "Deezer": "7",
-      "Top Country": "Spain",
-      "#": "38",
-      "artist_ids": [
-        "rosalia"
-      ]
-    },
-    {
-      "Pos": "181",
-      "P+": "-4",
-      "Artist": "Radiohead",
-      "Points": "270",
-      "Apple M": "109",
-      "Spotify": "64",
-      "iTunes": "55",
-      "YouTube": "8",
-      "Shazam": "10",
-      "Deezer": "24",
-      "Top Country": "Indonesia",
-      "#": "78",
-      "artist_ids": [
-        "radiohead"
-      ]
-    },
-    {
-      "Pos": "182",
-      "P+": "-7",
-      "Artist": "Maluma",
-      "Points": "269",
-      "Apple M": "71",
-      "Spotify": "126",
-      "iTunes": "5",
-      "YouTube": "57",
-      "Shazam": "6",
-      "Deezer": "5",
-      "Top Country": "Colombia",
-      "#": "27",
-      "artist_ids": [
-        "maluma"
-      ]
-    },
-    {
-      "Pos": "183",
-      "P+": "-1",
-      "Artist": "Raim Laode",
-      "Points": "265",
-      "Apple M": "33",
-      "Spotify": "172",
-      "iTunes": "17",
-      "YouTube": "37",
-      "Shazam": "5",
+      "Pos": "191",
+      "P+": "+3",
+      "Artist": "Valiant",
+      "Points": "250",
+      "Apple M": "192",
+      "Spotify": "0",
+      "iTunes": "3",
+      "YouTube": "51",
+      "Shazam": "4",
       "Deezer": "0",
-      "Top Country": "Indonesia",
-      "#": "4",
+      "Top Country": "Belize",
+      "#": "23",
       "artist_ids": [
-        "raimlaode"
+        "valiant"
       ]
     },
     {
-      "Pos": "184",
-      "P+": "-11",
+      "Pos": "192",
+      "P+": "-8",
       "Artist": "Frank Ocean",
-      "Points": "265",
-      "Apple M": "179",
-      "Spotify": "78",
+      "Points": "249",
+      "Apple M": "156",
+      "Spotify": "82",
       "iTunes": "5",
       "YouTube": "0",
       "Shazam": "1",
-      "Deezer": "3",
+      "Deezer": "5",
       "Top Country": "United States",
-      "#": "96",
+      "#": "92",
       "artist_ids": [
         "frankocean"
       ]
     },
     {
-      "Pos": "185",
-      "P+": "+14",
-      "Artist": "Ñengo Flow",
-      "Points": "263",
-      "Apple M": "62",
-      "Spotify": "159",
-      "iTunes": "0",
-      "YouTube": "26",
-      "Shazam": "12",
-      "Deezer": "3",
-      "Top Country": "Spain",
-      "#": "20",
+      "Pos": "193",
+      "P+": "-18",
+      "Artist": "Jennifer Lopez",
+      "Points": "249",
+      "Apple M": "42",
+      "Spotify": "93",
+      "iTunes": "16",
+      "YouTube": "65",
+      "Shazam": "22",
+      "Deezer": "11",
+      "Top Country": "Germany",
+      "#": "71",
       "artist_ids": [
-        "nengoflow"
+        "jenniferlopez"
       ]
     },
     {
-      "Pos": "186",
-      "P+": "=",
-      "Artist": "Ramy Sabry",
-      "Points": "262",
-      "Apple M": "90",
-      "Spotify": "52",
-      "iTunes": "2",
-      "YouTube": "103",
-      "Shazam": "14",
-      "Deezer": "1",
-      "Top Country": "Egypt",
-      "#": "18",
+      "Pos": "194",
+      "P+": "+5",
+      "Artist": "Grupo Firme",
+      "Points": "247",
+      "Apple M": "19",
+      "Spotify": "68",
+      "iTunes": "9",
+      "YouTube": "126",
+      "Shazam": "11",
+      "Deezer": "14",
+      "Top Country": "Mexico",
+      "#": "9",
       "artist_ids": [
-        "ramysabry"
+        "grupofirme"
       ]
     },
     {
-      "Pos": "187",
-      "P+": "+29",
-      "Artist": "CORTIS",
-      "Points": "262",
-      "Apple M": "114",
-      "Spotify": "47",
-      "iTunes": "47",
-      "YouTube": "48",
-      "Shazam": "3",
-      "Deezer": "3",
-      "Top Country": "South Korea",
-      "#": "32",
-      "artist_ids": [
-        "cortis"
-      ]
-    },
-    {
-      "Pos": "188",
-      "P+": "-12",
-      "Artist": "J. Cole",
-      "Points": "260",
-      "Apple M": "207",
-      "Spotify": "27",
-      "iTunes": "19",
-      "YouTube": "6",
-      "Shazam": "0",
+      "Pos": "195",
+      "P+": "+16",
+      "Artist": "Blumengarten",
+      "Points": "246",
+      "Apple M": "36",
+      "Spotify": "16",
+      "iTunes": "44",
+      "YouTube": "40",
+      "Shazam": "109",
       "Deezer": "0",
-      "Top Country": "South Africa",
-      "#": "79",
+      "Top Country": "Germany",
+      "#": "77",
       "artist_ids": [
-        "jcole"
+        "blumengarten"
       ]
     },
     {
-      "Pos": "189",
+      "Pos": "196",
+      "P+": "+11",
+      "Artist": "Panda",
+      "Points": "245",
+      "Apple M": "20",
+      "Spotify": "144",
+      "iTunes": "1",
+      "YouTube": "72",
+      "Shazam": "0",
+      "Deezer": "7",
+      "Top Country": "Brazil",
+      "#": "2",
+      "artist_ids": [
+        "panda"
+      ]
+    },
+    {
+      "Pos": "197",
       "P+": "=",
-      "Artist": "Kris R.",
-      "Points": "260",
-      "Apple M": "103",
-      "Spotify": "101",
+      "Artist": "The Neighbourhood",
+      "Points": "244",
+      "Apple M": "48",
+      "Spotify": "185",
       "iTunes": "4",
+      "YouTube": "0",
+      "Shazam": "1",
+      "Deezer": "7",
+      "Top Country": "Germany",
+      "#": "60",
+      "artist_ids": [
+        "theneighbourhood"
+      ]
+    },
+    {
+      "Pos": "198",
+      "P+": "-10",
+      "Artist": "Kris R.",
+      "Points": "243",
+      "Apple M": "95",
+      "Spotify": "98",
+      "iTunes": "1",
       "YouTube": "47",
       "Shazam": "3",
-      "Deezer": "1",
+      "Deezer": "0",
       "Top Country": "Colombia",
-      "#": "19",
+      "#": "18",
       "artist_ids": [
         "krisr"
       ]
     },
     {
-      "Pos": "190",
-      "P+": "-3",
-      "Artist": "Shawn Mendes",
-      "Points": "259",
-      "Apple M": "30",
-      "Spotify": "220",
-      "iTunes": "3",
-      "YouTube": "0",
-      "Shazam": "3",
-      "Deezer": "4",
-      "Top Country": "Indonesia",
-      "#": "68",
-      "artist_ids": [
-        "shawnmendes"
-      ]
-    },
-    {
-      "Pos": "191",
-      "P+": "-1",
-      "Artist": "Miyagi",
-      "Points": "257",
-      "Apple M": "171",
-      "Spotify": "39",
-      "iTunes": "6",
-      "YouTube": "25",
-      "Shazam": "17",
-      "Deezer": "0",
-      "Top Country": "Russia",
-      "#": "32",
-      "artist_ids": [
-        "miyagi"
-      ]
-    },
-    {
-      "Pos": "192",
-      "P+": "+2",
-      "Artist": "Shaboozey",
-      "Points": "257",
-      "Apple M": "72",
-      "Spotify": "59",
-      "iTunes": "53",
-      "YouTube": "7",
-      "Shazam": "2",
-      "Deezer": "66",
-      "Top Country": "Canada",
-      "#": "33",
-      "artist_ids": [
-        "shaboozey"
-      ]
-    },
-    {
-      "Pos": "193",
-      "P+": "=",
+      "Pos": "199",
+      "P+": "-4",
       "Artist": "MC 張天賦",
-      "Points": "254",
-      "Apple M": "209",
-      "Spotify": "42",
+      "Points": "243",
+      "Apple M": "197",
+      "Spotify": "43",
       "iTunes": "3",
       "YouTube": "0",
       "Shazam": "0",
@@ -3284,84 +3386,16 @@
       ]
     },
     {
-      "Pos": "194",
-      "P+": "-20",
-      "Artist": "Zivert",
-      "Points": "254",
-      "Apple M": "186",
-      "Spotify": "8",
-      "iTunes": "19",
-      "YouTube": "24",
-      "Shazam": "17",
-      "Deezer": "0",
-      "Top Country": "Russia",
-      "#": "22",
-      "artist_ids": [
-        "zivert"
-      ]
-    },
-    {
-      "Pos": "195",
-      "P+": "+2",
-      "Artist": "Valiant",
-      "Points": "252",
-      "Apple M": "192",
-      "Spotify": "0",
-      "iTunes": "3",
-      "YouTube": "51",
-      "Shazam": "4",
-      "Deezer": "2",
-      "Top Country": "Belize",
-      "#": "22",
-      "artist_ids": [
-        "valiant"
-      ]
-    },
-    {
-      "Pos": "196",
-      "P+": "+10",
-      "Artist": "Kabza De Small",
-      "Points": "251",
-      "Apple M": "198",
-      "Spotify": "13",
-      "iTunes": "30",
-      "YouTube": "0",
-      "Shazam": "10",
-      "Deezer": "0",
-      "Top Country": "South Africa",
-      "#": "14",
-      "artist_ids": [
-        "kabzadesmall"
-      ]
-    },
-    {
-      "Pos": "197",
-      "P+": "+14",
-      "Artist": "The Neighbourhood",
-      "Points": "250",
-      "Apple M": "44",
-      "Spotify": "192",
-      "iTunes": "10",
-      "YouTube": "0",
-      "Shazam": "1",
-      "Deezer": "3",
-      "Top Country": "Germany",
-      "#": "60",
-      "artist_ids": [
-        "theneighbourhood"
-      ]
-    },
-    {
-      "Pos": "198",
-      "P+": "=",
+      "Pos": "200",
+      "P+": "-2",
       "Artist": "Grupo Frontera",
-      "Points": "250",
-      "Apple M": "89",
-      "Spotify": "142",
-      "iTunes": "3",
+      "Points": "239",
+      "Apple M": "79",
+      "Spotify": "139",
+      "iTunes": "4",
       "YouTube": "12",
       "Shazam": "0",
-      "Deezer": "4",
+      "Deezer": "6",
       "Top Country": "Mexico",
       "#": "20",
       "artist_ids": [
@@ -3369,64 +3403,47 @@
       ]
     },
     {
-      "Pos": "199",
-      "P+": "-15",
-      "Artist": "Grupo Firme",
-      "Points": "248",
-      "Apple M": "17",
-      "Spotify": "70",
-      "iTunes": "15",
-      "YouTube": "126",
-      "Shazam": "11",
-      "Deezer": "9",
-      "Top Country": "Mexico",
-      "#": "9",
-      "artist_ids": [
-        "grupofirme"
-      ]
-    },
-    {
-      "Pos": "200",
-      "P+": "+24",
-      "Artist": "Arcángel",
-      "Points": "246",
-      "Apple M": "130",
-      "Spotify": "109",
-      "iTunes": "2",
-      "YouTube": "0",
-      "Shazam": "5",
-      "Deezer": "0",
-      "Top Country": "Colombia",
-      "#": "18",
-      "artist_ids": [
-        "arcangel"
-      ]
-    },
-    {
       "Pos": "201",
       "P+": "-",
-      "Artist": "MIA BOYKA",
-      "Points": "245",
-      "Apple M": "55",
-      "Spotify": "13",
-      "iTunes": "3",
-      "YouTube": "76",
-      "Shazam": "97",
-      "Deezer": "1",
-      "Top Country": "Russia",
-      "#": "65",
+      "Artist": "J. Cole",
+      "Points": "239",
+      "Apple M": "186",
+      "Spotify": "27",
+      "iTunes": "19",
+      "YouTube": "6",
+      "Shazam": "0",
+      "Deezer": "0",
+      "Top Country": "South Africa",
+      "#": "70",
       "artist_ids": [
-        "miaboyka"
+        "jcole"
       ]
     },
     {
       "Pos": "202",
       "P+": "+",
+      "Artist": "Bonnie Tyler",
+      "Points": "238",
+      "Apple M": "2",
+      "Spotify": "15",
+      "iTunes": "50",
+      "YouTube": "125",
+      "Shazam": "41",
+      "Deezer": "6",
+      "Top Country": "United Kingdom",
+      "#": "55",
+      "artist_ids": [
+        "bonnietyler"
+      ]
+    },
+    {
+      "Pos": "203",
+      "P+": "-",
       "Artist": "Thatohatsi",
-      "Points": "244",
-      "Apple M": "183",
+      "Points": "237",
+      "Apple M": "188",
       "Spotify": "19",
-      "iTunes": "14",
+      "iTunes": "3",
       "YouTube": "6",
       "Shazam": "22",
       "Deezer": "0",
@@ -3437,13 +3454,115 @@
       ]
     },
     {
-      "Pos": "203",
+      "Pos": "204",
+      "P+": "NEW",
+      "Artist": "Cardi B",
+      "Points": "235",
+      "Apple M": "40",
+      "Spotify": "3",
+      "iTunes": "190",
+      "YouTube": "0",
+      "Shazam": "0",
+      "Deezer": "2",
+      "Top Country": "United States",
+      "#": "64",
+      "artist_ids": [
+        "cardib"
+      ]
+    },
+    {
+      "Pos": "205",
+      "P+": "-",
+      "Artist": "The Frames",
+      "Points": "234",
+      "Apple M": "108",
+      "Spotify": "11",
+      "iTunes": "97",
+      "YouTube": "0",
+      "Shazam": "8",
+      "Deezer": "10",
+      "Top Country": "Ireland",
+      "#": "10",
+      "artist_ids": [
+        "theframes"
+      ]
+    },
+    {
+      "Pos": "206",
+      "P+": "+",
+      "Artist": "Shirin David",
+      "Points": "233",
+      "Apple M": "34",
+      "Spotify": "16",
+      "iTunes": "34",
+      "YouTube": "40",
+      "Shazam": "109",
+      "Deezer": "0",
+      "Top Country": "Germany",
+      "#": "77",
+      "artist_ids": [
+        "shirindavid"
+      ]
+    },
+    {
+      "Pos": "207",
+      "P+": "-",
+      "Artist": "Saja Boys",
+      "Points": "233",
+      "Apple M": "218",
+      "Spotify": "0",
+      "iTunes": "13",
+      "YouTube": "0",
+      "Shazam": "0",
+      "Deezer": "2",
+      "Top Country": "Australia",
+      "#": "74",
+      "artist_ids": [
+        "sajaboys"
+      ]
+    },
+    {
+      "Pos": "208",
+      "P+": "NEW",
+      "Artist": "SACHA",
+      "Points": "232",
+      "Apple M": "0",
+      "Spotify": "0",
+      "iTunes": "232",
+      "YouTube": "0",
+      "Shazam": "0",
+      "Deezer": "0",
+      "Top Country": "Belgium",
+      "#": "33",
+      "artist_ids": [
+        "sacha"
+      ]
+    },
+    {
+      "Pos": "209",
+      "P+": "+",
+      "Artist": "Rod Wave",
+      "Points": "231",
+      "Apple M": "221",
+      "Spotify": "0",
+      "iTunes": "6",
+      "YouTube": "3",
+      "Shazam": "1",
+      "Deezer": "0",
+      "Top Country": "United States",
+      "#": "37",
+      "artist_ids": [
+        "rodwave"
+      ]
+    },
+    {
+      "Pos": "210",
       "P+": "-",
       "Artist": "Sfera Ebbasta",
-      "Points": "243",
-      "Apple M": "97",
+      "Points": "231",
+      "Apple M": "89",
       "Spotify": "123",
-      "iTunes": "3",
+      "iTunes": "0",
       "YouTube": "18",
       "Shazam": "1",
       "Deezer": "0",
@@ -3454,79 +3573,11 @@
       ]
     },
     {
-      "Pos": "204",
-      "P+": "+",
-      "Artist": "ATEEZ",
-      "Points": "240",
-      "Apple M": "89",
-      "Spotify": "26",
-      "iTunes": "70",
-      "YouTube": "42",
-      "Shazam": "10",
-      "Deezer": "3",
-      "Top Country": "Taiwan",
-      "#": "27",
-      "artist_ids": [
-        "ateez"
-      ]
-    },
-    {
-      "Pos": "205",
+      "Pos": "211",
       "P+": "-",
-      "Artist": "Saja Boys",
-      "Points": "238",
-      "Apple M": "229",
-      "Spotify": "0",
-      "iTunes": "9",
-      "YouTube": "0",
-      "Shazam": "0",
-      "Deezer": "0",
-      "Top Country": "Australia",
-      "#": "76",
-      "artist_ids": [
-        "sajaboys"
-      ]
-    },
-    {
-      "Pos": "206",
-      "P+": "+",
-      "Artist": "Karan Aujla",
-      "Points": "236",
-      "Apple M": "156",
-      "Spotify": "40",
-      "iTunes": "8",
-      "YouTube": "31",
-      "Shazam": "1",
-      "Deezer": "0",
-      "Top Country": "India",
-      "#": "7",
-      "artist_ids": [
-        "karanaujla"
-      ]
-    },
-    {
-      "Pos": "207",
-      "P+": "-",
-      "Artist": "Panda",
-      "Points": "236",
-      "Apple M": "15",
-      "Spotify": "141",
-      "iTunes": "0",
-      "YouTube": "72",
-      "Shazam": "0",
-      "Deezer": "8",
-      "Top Country": "Brazil",
-      "#": "2",
-      "artist_ids": [
-        "panda"
-      ]
-    },
-    {
-      "Pos": "208",
-      "P+": "=",
       "Artist": "Damso",
-      "Points": "234",
-      "Apple M": "174",
+      "Points": "231",
+      "Apple M": "170",
       "Spotify": "59",
       "iTunes": "0",
       "YouTube": "0",
@@ -3539,84 +3590,220 @@
       ]
     },
     {
-      "Pos": "209",
-      "P+": "=",
-      "Artist": "Wisin",
-      "Points": "233",
-      "Apple M": "38",
-      "Spotify": "173",
-      "iTunes": "1",
-      "YouTube": "7",
-      "Shazam": "13",
-      "Deezer": "1",
-      "Top Country": "Chile",
-      "#": "22",
-      "artist_ids": [
-        "wisin"
-      ]
-    },
-    {
-      "Pos": "210",
-      "P+": "-",
-      "Artist": "Shirin David",
-      "Points": "232",
-      "Apple M": "37",
-      "Spotify": "17",
-      "iTunes": "28",
-      "YouTube": "40",
-      "Shazam": "110",
-      "Deezer": "0",
-      "Top Country": "Germany",
-      "#": "78",
-      "artist_ids": [
-        "shirindavid"
-      ]
-    },
-    {
-      "Pos": "211",
-      "P+": "-",
-      "Artist": "Blumengarten",
-      "Points": "232",
-      "Apple M": "37",
-      "Spotify": "17",
-      "iTunes": "28",
-      "YouTube": "40",
-      "Shazam": "110",
-      "Deezer": "0",
-      "Top Country": "Germany",
-      "#": "78",
-      "artist_ids": [
-        "blumengarten"
-      ]
-    },
-    {
       "Pos": "212",
       "P+": "-",
-      "Artist": "Djo",
+      "Artist": "Karan Aujla",
+      "Points": "231",
+      "Apple M": "154",
+      "Spotify": "39",
+      "iTunes": "5",
+      "YouTube": "31",
+      "Shazam": "1",
+      "Deezer": "0",
+      "Top Country": "India",
+      "#": "7",
+      "artist_ids": [
+        "karanaujla"
+      ]
+    },
+    {
+      "Pos": "213",
+      "P+": "+",
+      "Artist": "The Rolling Stones",
+      "Points": "229",
+      "Apple M": "128",
+      "Spotify": "0",
+      "iTunes": "95",
+      "YouTube": "0",
+      "Shazam": "5",
+      "Deezer": "1",
+      "Top Country": "Brazil",
+      "#": "52",
+      "artist_ids": [
+        "therollingstones"
+      ]
+    },
+    {
+      "Pos": "214",
+      "P+": "NEW",
+      "Artist": "Five Finger Death Punch",
+      "Points": "227",
+      "Apple M": "147",
+      "Spotify": "0",
+      "iTunes": "80",
+      "YouTube": "0",
+      "Shazam": "0",
+      "Deezer": "0",
+      "Top Country": "Germany",
+      "#": "44",
+      "artist_ids": [
+        "fivefingerdeathpunch"
+      ]
+    },
+    {
+      "Pos": "215",
+      "P+": "-",
+      "Artist": "Radiohead",
       "Points": "225",
-      "Apple M": "39",
-      "Spotify": "142",
-      "iTunes": "13",
+      "Apple M": "91",
+      "Spotify": "66",
+      "iTunes": "27",
+      "YouTube": "8",
+      "Shazam": "9",
+      "Deezer": "24",
+      "Top Country": "Australia",
+      "#": "74",
+      "artist_ids": [
+        "radiohead"
+      ]
+    },
+    {
+      "Pos": "216",
+      "P+": "+",
+      "Artist": "ROSÉ",
+      "Points": "221",
+      "Apple M": "97",
+      "Spotify": "52",
+      "iTunes": "12",
+      "YouTube": "38",
+      "Shazam": "0",
+      "Deezer": "21",
+      "Top Country": "Taiwan",
+      "#": "50",
+      "artist_ids": [
+        "rose"
+      ]
+    },
+    {
+      "Pos": "217",
+      "P+": "+",
+      "Artist": "ABBA",
+      "Points": "220",
+      "Apple M": "92",
+      "Spotify": "12",
+      "iTunes": "101",
+      "YouTube": "2",
+      "Shazam": "6",
+      "Deezer": "7",
+      "Top Country": "Mexico",
+      "#": "104",
+      "artist_ids": [
+        "abba"
+      ]
+    },
+    {
+      "Pos": "218",
+      "P+": "NEW",
+      "Artist": "Slayyyter",
+      "Points": "219",
+      "Apple M": "125",
+      "Spotify": "0",
+      "iTunes": "52",
+      "YouTube": "0",
+      "Shazam": "40",
+      "Deezer": "3",
+      "Top Country": "Brazil",
+      "#": "69",
+      "artist_ids": [
+        "slayyyter"
+      ]
+    },
+    {
+      "Pos": "219",
+      "P+": "-",
+      "Artist": "Djo",
+      "Points": "218",
+      "Apple M": "29",
+      "Spotify": "152",
+      "iTunes": "9",
       "YouTube": "0",
       "Shazam": "13",
-      "Deezer": "18",
+      "Deezer": "14",
       "Top Country": "Germany",
-      "#": "62",
+      "#": "64",
       "artist_ids": [
         "djo"
       ]
     },
     {
-      "Pos": "213",
+      "Pos": "220",
+      "P+": "+",
+      "Artist": "Jung Kook",
+      "Points": "218",
+      "Apple M": "79",
+      "Spotify": "92",
+      "iTunes": "41",
+      "YouTube": "0",
+      "Shazam": "1",
+      "Deezer": "6",
+      "Top Country": "Myanmar",
+      "#": "63",
+      "artist_ids": [
+        "jungkook"
+      ]
+    },
+    {
+      "Pos": "221",
+      "P+": "+",
+      "Artist": "Aventura",
+      "Points": "217",
+      "Apple M": "32",
+      "Spotify": "149",
+      "iTunes": "4",
+      "YouTube": "21",
+      "Shazam": "6",
+      "Deezer": "4",
+      "Top Country": "Dominican Republic",
+      "#": "32",
+      "artist_ids": [
+        "aventura"
+      ]
+    },
+    {
+      "Pos": "222",
+      "P+": "-",
+      "Artist": "Anirudh Ravichander",
+      "Points": "215",
+      "Apple M": "120",
+      "Spotify": "32",
+      "iTunes": "37",
+      "YouTube": "16",
+      "Shazam": "10",
+      "Deezer": "0",
+      "Top Country": "India",
+      "#": "10",
+      "artist_ids": [
+        "anirudhravichander"
+      ]
+    },
+    {
+      "Pos": "223",
+      "P+": "-",
+      "Artist": "Tory Lanez",
+      "Points": "215",
+      "Apple M": "199",
+      "Spotify": "12",
+      "iTunes": "3",
+      "YouTube": "0",
+      "Shazam": "0",
+      "Deezer": "1",
+      "Top Country": "Canada",
+      "#": "77",
+      "artist_ids": [
+        "torylanez"
+      ]
+    },
+    {
+      "Pos": "224",
       "P+": "-",
       "Artist": "Yzomandias",
-      "Points": "223",
-      "Apple M": "100",
+      "Points": "215",
+      "Apple M": "93",
       "Spotify": "109",
       "iTunes": "0",
       "YouTube": "11",
       "Shazam": "1",
-      "Deezer": "1",
+      "Deezer": "2",
       "Top Country": "Czech Republic",
       "#": "2",
       "artist_ids": [
@@ -3624,421 +3811,13 @@
       ]
     },
     {
-      "Pos": "214",
-      "P+": "+",
-      "Artist": "PinkPantheress",
-      "Points": "221",
-      "Apple M": "72",
-      "Spotify": "97",
-      "iTunes": "11",
-      "YouTube": "0",
-      "Shazam": "3",
-      "Deezer": "39",
-      "Top Country": "Sweden",
-      "#": "56",
-      "artist_ids": [
-        "pinkpantheress"
-      ]
-    },
-    {
-      "Pos": "215",
-      "P+": "-",
-      "Artist": "EJAE",
-      "Points": "219",
-      "Apple M": "117",
-      "Spotify": "36",
-      "iTunes": "44",
-      "YouTube": "0",
-      "Shazam": "22",
-      "Deezer": "0",
-      "Top Country": "Australia",
-      "#": "56",
-      "artist_ids": [
-        "ejae"
-      ]
-    },
-    {
-      "Pos": "216",
-      "P+": "-",
-      "Artist": "System Of A Down",
-      "Points": "218",
-      "Apple M": "96",
-      "Spotify": "63",
-      "iTunes": "30",
-      "YouTube": "17",
-      "Shazam": "0",
-      "Deezer": "12",
-      "Top Country": "Australia",
-      "#": "46",
-      "artist_ids": [
-        "systemofadown"
-      ]
-    },
-    {
-      "Pos": "217",
-      "P+": "+",
-      "Artist": "Farruko",
-      "Points": "218",
-      "Apple M": "38",
-      "Spotify": "75",
-      "iTunes": "27",
-      "YouTube": "29",
-      "Shazam": "41",
-      "Deezer": "7",
-      "Top Country": "Spain",
-      "#": "29",
-      "artist_ids": [
-        "farruko"
-      ]
-    },
-    {
-      "Pos": "218",
-      "P+": "-",
-      "Artist": "The Rolling Stones",
-      "Points": "217",
-      "Apple M": "131",
-      "Spotify": "3",
-      "iTunes": "79",
-      "YouTube": "0",
-      "Shazam": "4",
-      "Deezer": "0",
-      "Top Country": "Netherlands",
-      "#": "45",
-      "artist_ids": [
-        "therollingstones"
-      ]
-    },
-    {
-      "Pos": "219",
-      "P+": "-",
-      "Artist": "Sia",
-      "Points": "217",
-      "Apple M": "20",
-      "Spotify": "40",
-      "iTunes": "53",
-      "YouTube": "96",
-      "Shazam": "4",
-      "Deezer": "3",
-      "Top Country": "United Kingdom",
-      "#": "89",
-      "artist_ids": [
-        "sia"
-      ]
-    },
-    {
-      "Pos": "220",
-      "P+": "-",
-      "Artist": "ROSÉ",
-      "Points": "216",
-      "Apple M": "103",
-      "Spotify": "48",
-      "iTunes": "18",
-      "YouTube": "38",
-      "Shazam": "0",
-      "Deezer": "9",
-      "Top Country": "Taiwan",
-      "#": "48",
-      "artist_ids": [
-        "rose"
-      ]
-    },
-    {
-      "Pos": "221",
-      "P+": "+",
-      "Artist": "DJ Honda",
-      "Points": "215",
-      "Apple M": "82",
-      "Spotify": "87",
-      "iTunes": "9",
-      "YouTube": "0",
-      "Shazam": "38",
-      "Deezer": "0",
-      "Top Country": "Spain",
-      "#": "25",
-      "artist_ids": [
-        "djhonda"
-      ]
-    },
-    {
-      "Pos": "222",
-      "P+": "-",
-      "Artist": "Bonnie Tyler",
-      "Points": "215",
-      "Apple M": "2",
-      "Spotify": "15",
-      "iTunes": "26",
-      "YouTube": "125",
-      "Shazam": "41",
-      "Deezer": "7",
-      "Top Country": "United Kingdom",
-      "#": "57",
-      "artist_ids": [
-        "bonnietyler"
-      ]
-    },
-    {
-      "Pos": "223",
-      "P+": "+",
-      "Artist": "Rey Tony",
-      "Points": "215",
-      "Apple M": "82",
-      "Spotify": "87",
-      "iTunes": "9",
-      "YouTube": "0",
-      "Shazam": "38",
-      "Deezer": "0",
-      "Top Country": "Spain",
-      "#": "25",
-      "artist_ids": [
-        "reytony"
-      ]
-    },
-    {
-      "Pos": "224",
-      "P+": "+",
-      "Artist": "Helabusador",
-      "Points": "215",
-      "Apple M": "82",
-      "Spotify": "87",
-      "iTunes": "9",
-      "YouTube": "0",
-      "Shazam": "38",
-      "Deezer": "0",
-      "Top Country": "Spain",
-      "#": "25",
-      "artist_ids": [
-        "helabusador"
-      ]
-    },
-    {
       "Pos": "225",
-      "P+": "-",
-      "Artist": "Mavo",
-      "Points": "214",
-      "Apple M": "146",
-      "Spotify": "47",
-      "iTunes": "0",
-      "YouTube": "12",
-      "Shazam": "10",
-      "Deezer": "0",
-      "Top Country": "Nigeria",
-      "#": "26",
-      "artist_ids": [
-        "mavo"
-      ]
-    },
-    {
-      "Pos": "226",
-      "P+": "+",
-      "Artist": "ASTI",
-      "Points": "214",
-      "Apple M": "148",
-      "Spotify": "19",
-      "iTunes": "4",
-      "YouTube": "6",
-      "Shazam": "37",
-      "Deezer": "0",
-      "Top Country": "Russia",
-      "#": "28",
-      "artist_ids": [
-        "asti"
-      ]
-    },
-    {
-      "Pos": "227",
-      "P+": "+",
-      "Artist": "ARTIK",
-      "Points": "214",
-      "Apple M": "148",
-      "Spotify": "19",
-      "iTunes": "4",
-      "YouTube": "6",
-      "Shazam": "37",
-      "Deezer": "0",
-      "Top Country": "Russia",
-      "#": "28",
-      "artist_ids": [
-        "artik"
-      ]
-    },
-    {
-      "Pos": "228",
-      "P+": "+",
-      "Artist": "pupsies",
-      "Points": "214",
-      "Apple M": "2",
-      "Spotify": "101",
-      "iTunes": "0",
-      "YouTube": "80",
-      "Shazam": "29",
-      "Deezer": "2",
-      "Top Country": "United States",
-      "#": "47",
-      "artist_ids": [
-        "pupsies"
-      ]
-    },
-    {
-      "Pos": "229",
-      "P+": "-",
-      "Artist": "Zach Bryan",
-      "Points": "213",
-      "Apple M": "94",
-      "Spotify": "115",
-      "iTunes": "4",
-      "YouTube": "0",
-      "Shazam": "0",
-      "Deezer": "0",
-      "Top Country": "Canada",
-      "#": "12",
-      "artist_ids": [
-        "zachbryan"
-      ]
-    },
-    {
-      "Pos": "230",
-      "P+": "-",
-      "Artist": "De La Rose",
-      "Points": "213",
-      "Apple M": "109",
-      "Spotify": "98",
-      "iTunes": "1",
-      "YouTube": "0",
-      "Shazam": "4",
-      "Deezer": "1",
-      "Top Country": "Colombia",
-      "#": "19",
-      "artist_ids": [
-        "delarose"
-      ]
-    },
-    {
-      "Pos": "231",
-      "P+": "-",
-      "Artist": "Victony",
-      "Points": "213",
-      "Apple M": "119",
-      "Spotify": "17",
-      "iTunes": "6",
-      "YouTube": "19",
-      "Shazam": "47",
-      "Deezer": "5",
-      "Top Country": "Nigeria",
-      "#": "54",
-      "artist_ids": [
-        "victony"
-      ]
-    },
-    {
-      "Pos": "232",
-      "P+": "-",
-      "Artist": "AUDREY NUNA",
-      "Points": "213",
-      "Apple M": "116",
-      "Spotify": "36",
-      "iTunes": "44",
-      "YouTube": "0",
-      "Shazam": "18",
-      "Deezer": "0",
-      "Top Country": "Australia",
-      "#": "53",
-      "artist_ids": [
-        "audreynuna"
-      ]
-    },
-    {
-      "Pos": "233",
-      "P+": "-",
-      "Artist": "REI AMI",
-      "Points": "213",
-      "Apple M": "116",
-      "Spotify": "36",
-      "iTunes": "44",
-      "YouTube": "0",
-      "Shazam": "18",
-      "Deezer": "0",
-      "Top Country": "Australia",
-      "#": "53",
-      "artist_ids": [
-        "reiami"
-      ]
-    },
-    {
-      "Pos": "234",
-      "P+": "+",
-      "Artist": "ROA",
-      "Points": "212",
-      "Apple M": "56",
-      "Spotify": "128",
-      "iTunes": "1",
-      "YouTube": "24",
-      "Shazam": "3",
-      "Deezer": "0",
-      "Top Country": "Spain",
-      "#": "20",
-      "artist_ids": [
-        "roa"
-      ]
-    },
-    {
-      "Pos": "235",
-      "P+": "-",
-      "Artist": "ANNA",
-      "Points": "212",
-      "Apple M": "81",
-      "Spotify": "88",
-      "iTunes": "6",
-      "YouTube": "35",
-      "Shazam": "1",
-      "Deezer": "0",
-      "Top Country": "Italy",
-      "#": "5",
-      "artist_ids": [
-        "anna"
-      ]
-    },
-    {
-      "Pos": "236",
-      "P+": "+",
-      "Artist": "Sherine",
-      "Points": "210",
-      "Apple M": "75",
-      "Spotify": "11",
-      "iTunes": "7",
-      "YouTube": "108",
-      "Shazam": "6",
-      "Deezer": "3",
-      "Top Country": "Yemen",
-      "#": "23",
-      "artist_ids": [
-        "sherine"
-      ]
-    },
-    {
-      "Pos": "237",
-      "P+": "-",
-      "Artist": "Jung Kook",
-      "Points": "210",
-      "Apple M": "77",
-      "Spotify": "89",
-      "iTunes": "42",
-      "YouTube": "0",
-      "Shazam": "1",
-      "Deezer": "1",
-      "Top Country": "Myanmar",
-      "#": "58",
-      "artist_ids": [
-        "jungkook"
-      ]
-    },
-    {
-      "Pos": "238",
       "P+": "+",
       "Artist": "Henrique & Juliano",
-      "Points": "208",
-      "Apple M": "25",
-      "Spotify": "153",
-      "iTunes": "3",
+      "Points": "213",
+      "Apple M": "30",
+      "Spotify": "148",
+      "iTunes": "7",
       "YouTube": "20",
       "Shazam": "0",
       "Deezer": "8",
@@ -4049,13 +3828,200 @@
       ]
     },
     {
-      "Pos": "239",
+      "Pos": "226",
+      "P+": "-",
+      "Artist": "ATEEZ",
+      "Points": "213",
+      "Apple M": "82",
+      "Spotify": "27",
+      "iTunes": "51",
+      "YouTube": "42",
+      "Shazam": "10",
+      "Deezer": "1",
+      "Top Country": "Taiwan",
+      "#": "27",
+      "artist_ids": [
+        "ateez"
+      ]
+    },
+    {
+      "Pos": "227",
+      "P+": "+",
+      "Artist": "SABI",
+      "Points": "212",
+      "Apple M": "18",
+      "Spotify": "3",
+      "iTunes": "10",
+      "YouTube": "77",
+      "Shazam": "97",
+      "Deezer": "7",
+      "Top Country": "Russia",
+      "#": "69",
+      "artist_ids": [
+        "sabi"
+      ]
+    },
+    {
+      "Pos": "228",
+      "P+": "-",
+      "Artist": "ASTI",
+      "Points": "212",
+      "Apple M": "140",
+      "Spotify": "22",
+      "iTunes": "3",
+      "YouTube": "6",
+      "Shazam": "38",
+      "Deezer": "3",
+      "Top Country": "Russia",
+      "#": "28",
+      "artist_ids": [
+        "asti"
+      ]
+    },
+    {
+      "Pos": "229",
+      "P+": "-",
+      "Artist": "ARTIK",
+      "Points": "212",
+      "Apple M": "140",
+      "Spotify": "22",
+      "iTunes": "3",
+      "YouTube": "6",
+      "Shazam": "38",
+      "Deezer": "3",
+      "Top Country": "Russia",
+      "#": "28",
+      "artist_ids": [
+        "artik"
+      ]
+    },
+    {
+      "Pos": "230",
+      "P+": "-",
+      "Artist": "EJAE",
+      "Points": "211",
+      "Apple M": "105",
+      "Spotify": "36",
+      "iTunes": "49",
+      "YouTube": "0",
+      "Shazam": "21",
+      "Deezer": "0",
+      "Top Country": "Australia",
+      "#": "50",
+      "artist_ids": [
+        "ejae"
+      ]
+    },
+    {
+      "Pos": "231",
+      "P+": "-",
+      "Artist": "DJ Honda",
+      "Points": "210",
+      "Apple M": "81",
+      "Spotify": "86",
+      "iTunes": "5",
+      "YouTube": "0",
+      "Shazam": "38",
+      "Deezer": "0",
+      "Top Country": "Spain",
+      "#": "25",
+      "artist_ids": [
+        "djhonda"
+      ]
+    },
+    {
+      "Pos": "232",
+      "P+": "-",
+      "Artist": "Rey Tony",
+      "Points": "209",
+      "Apple M": "81",
+      "Spotify": "86",
+      "iTunes": "5",
+      "YouTube": "0",
+      "Shazam": "38",
+      "Deezer": "0",
+      "Top Country": "Spain",
+      "#": "25",
+      "artist_ids": [
+        "reytony"
+      ]
+    },
+    {
+      "Pos": "233",
+      "P+": "-",
+      "Artist": "Helabusador",
+      "Points": "209",
+      "Apple M": "81",
+      "Spotify": "86",
+      "iTunes": "5",
+      "YouTube": "0",
+      "Shazam": "38",
+      "Deezer": "0",
+      "Top Country": "Spain",
+      "#": "25",
+      "artist_ids": [
+        "helabusador"
+      ]
+    },
+    {
+      "Pos": "234",
+      "P+": "-",
+      "Artist": "pupsies",
+      "Points": "207",
+      "Apple M": "0",
+      "Spotify": "97",
+      "iTunes": "0",
+      "YouTube": "80",
+      "Shazam": "27",
+      "Deezer": "3",
+      "Top Country": "United States",
+      "#": "48",
+      "artist_ids": [
+        "pupsies"
+      ]
+    },
+    {
+      "Pos": "235",
+      "P+": "-",
+      "Artist": "Sia",
+      "Points": "206",
+      "Apple M": "13",
+      "Spotify": "45",
+      "iTunes": "42",
+      "YouTube": "96",
+      "Shazam": "4",
+      "Deezer": "5",
+      "Top Country": "United Kingdom",
+      "#": "90",
+      "artist_ids": [
+        "sia"
+      ]
+    },
+    {
+      "Pos": "236",
+      "P+": "+",
+      "Artist": "Separ",
+      "Points": "205",
+      "Apple M": "74",
+      "Spotify": "108",
+      "iTunes": "2",
+      "YouTube": "9",
+      "Shazam": "0",
+      "Deezer": "12",
+      "Top Country": "Slovakia",
+      "#": "2",
+      "artist_ids": [
+        "separ"
+      ]
+    },
+    {
+      "Pos": "237",
       "P+": "+",
       "Artist": "Sai Abhyankkar",
-      "Points": "207",
-      "Apple M": "71",
-      "Spotify": "67",
-      "iTunes": "13",
+      "Points": "205",
+      "Apple M": "73",
+      "Spotify": "66",
+      "iTunes": "9",
       "YouTube": "45",
       "Shazam": "12",
       "Deezer": "0",
@@ -4066,50 +4032,16 @@
       ]
     },
     {
-      "Pos": "240",
+      "Pos": "238",
       "P+": "+",
-      "Artist": "Alyssa Grace",
-      "Points": "207",
-      "Apple M": "74",
-      "Spotify": "85",
-      "iTunes": "4",
-      "YouTube": "20",
-      "Shazam": "20",
-      "Deezer": "5",
-      "Top Country": "Australia",
-      "#": "38",
-      "artist_ids": [
-        "alyssagrace"
-      ]
-    },
-    {
-      "Pos": "241",
-      "P+": "+",
-      "Artist": "Metallica",
-      "Points": "207",
-      "Apple M": "62",
-      "Spotify": "38",
-      "iTunes": "97",
-      "YouTube": "3",
-      "Shazam": "0",
-      "Deezer": "6",
-      "Top Country": "Ireland",
-      "#": "58",
-      "artist_ids": [
-        "metallica"
-      ]
-    },
-    {
-      "Pos": "242",
-      "P+": "-",
       "Artist": "Masicka",
-      "Points": "206",
-      "Apple M": "192",
+      "Points": "205",
+      "Apple M": "189",
       "Spotify": "0",
-      "iTunes": "3",
+      "iTunes": "4",
       "YouTube": "8",
       "Shazam": "2",
-      "Deezer": "1",
+      "Deezer": "2",
       "Top Country": "Saint Kitts and Nevis",
       "#": "24",
       "artist_ids": [
@@ -4117,114 +4049,148 @@
       ]
     },
     {
+      "Pos": "239",
+      "P+": "-",
+      "Artist": "AUDREY NUNA",
+      "Points": "204",
+      "Apple M": "103",
+      "Spotify": "36",
+      "iTunes": "49",
+      "YouTube": "0",
+      "Shazam": "17",
+      "Deezer": "0",
+      "Top Country": "Australia",
+      "#": "46",
+      "artist_ids": [
+        "audreynuna"
+      ]
+    },
+    {
+      "Pos": "240",
+      "P+": "-",
+      "Artist": "REI AMI",
+      "Points": "204",
+      "Apple M": "103",
+      "Spotify": "36",
+      "iTunes": "49",
+      "YouTube": "0",
+      "Shazam": "17",
+      "Deezer": "0",
+      "Top Country": "Australia",
+      "#": "46",
+      "artist_ids": [
+        "reiami"
+      ]
+    },
+    {
+      "Pos": "241",
+      "P+": "-",
+      "Artist": "PinkPantheress",
+      "Points": "204",
+      "Apple M": "63",
+      "Spotify": "93",
+      "iTunes": "6",
+      "YouTube": "0",
+      "Shazam": "3",
+      "Deezer": "40",
+      "Top Country": "Sweden",
+      "#": "56",
+      "artist_ids": [
+        "pinkpantheress"
+      ]
+    },
+    {
+      "Pos": "242",
+      "P+": "+",
+      "Artist": "V",
+      "Points": "203",
+      "Apple M": "15",
+      "Spotify": "31",
+      "iTunes": "26",
+      "YouTube": "0",
+      "Shazam": "3",
+      "Deezer": "128",
+      "Top Country": "Jordan",
+      "#": "27",
+      "artist_ids": [
+        "v"
+      ]
+    },
+    {
       "Pos": "243",
       "P+": "-",
-      "Artist": "Calle 24",
-      "Points": "205",
-      "Apple M": "47",
-      "Spotify": "115",
-      "iTunes": "3",
-      "YouTube": "35",
-      "Shazam": "2",
-      "Deezer": "3",
-      "Top Country": "Mexico",
-      "#": "15",
+      "Artist": "Sherine",
+      "Points": "203",
+      "Apple M": "64",
+      "Spotify": "13",
+      "iTunes": "8",
+      "YouTube": "108",
+      "Shazam": "5",
+      "Deezer": "5",
+      "Top Country": "Yemen",
+      "#": "24",
       "artist_ids": [
-        "calle24"
+        "sherine"
       ]
     },
     {
       "Pos": "244",
-      "P+": "+",
-      "Artist": "Aventura",
-      "Points": "205",
-      "Apple M": "34",
-      "Spotify": "139",
-      "iTunes": "3",
-      "YouTube": "21",
-      "Shazam": "6",
-      "Deezer": "3",
-      "Top Country": "Dominican Republic",
-      "#": "30",
+      "P+": "-",
+      "Artist": "Victony",
+      "Points": "202",
+      "Apple M": "103",
+      "Spotify": "16",
+      "iTunes": "10",
+      "YouTube": "19",
+      "Shazam": "47",
+      "Deezer": "7",
+      "Top Country": "Nigeria",
+      "#": "51",
       "artist_ids": [
-        "aventura"
+        "victony"
       ]
     },
     {
       "Pos": "245",
       "P+": "-",
-      "Artist": "Bella Kay",
-      "Points": "203",
-      "Apple M": "60",
-      "Spotify": "124",
-      "iTunes": "0",
-      "YouTube": "8",
-      "Shazam": "2",
-      "Deezer": "9",
-      "Top Country": "Australia",
-      "#": "25",
+      "Artist": "Farruko",
+      "Points": "202",
+      "Apple M": "38",
+      "Spotify": "77",
+      "iTunes": "13",
+      "YouTube": "29",
+      "Shazam": "42",
+      "Deezer": "5",
+      "Top Country": "Spain",
+      "#": "27",
       "artist_ids": [
-        "bellakay"
+        "farruko"
       ]
     },
     {
       "Pos": "246",
-      "P+": "=",
-      "Artist": "The Second Voice",
+      "P+": "-",
+      "Artist": "Zach Bryan",
       "Points": "201",
-      "Apple M": "54",
-      "Spotify": "0",
-      "iTunes": "63",
-      "YouTube": "40",
-      "Shazam": "45",
+      "Apple M": "82",
+      "Spotify": "117",
+      "iTunes": "2",
+      "YouTube": "0",
+      "Shazam": "0",
       "Deezer": "0",
-      "Top Country": "France",
-      "#": "77",
+      "Top Country": "Canada",
+      "#": "12",
       "artist_ids": [
-        "thesecondvoice"
+        "zachbryan"
       ]
     },
     {
       "Pos": "247",
-      "P+": "=",
-      "Artist": "Separ",
-      "Points": "200",
-      "Apple M": "76",
-      "Spotify": "109",
-      "iTunes": "1",
-      "YouTube": "9",
-      "Shazam": "0",
-      "Deezer": "5",
-      "Top Country": "Slovakia",
-      "#": "2",
-      "artist_ids": [
-        "separ"
-      ]
-    },
-    {
-      "Pos": "248",
       "P+": "+",
-      "Artist": "OMAH LAY",
-      "Points": "200",
-      "Apple M": "155",
-      "Spotify": "23",
-      "iTunes": "4",
-      "YouTube": "9",
-      "Shazam": "6",
-      "Deezer": "3",
-      "Top Country": "Nigeria",
-      "#": "35",
-      "artist_ids": [
-        "omahlay"
-      ]
-    },
-    {
-      "Pos": "249",
-      "P+": "-",
       "Artist": "Emmanuel Cortes",
       "Points": "199",
       "Apple M": "2",
-      "Spotify": "98",
+      "Spotify": "97",
       "iTunes": "0",
       "YouTube": "96",
       "Shazam": "3",
@@ -4236,166 +4202,98 @@
       ]
     },
     {
-      "Pos": "250",
+      "Pos": "248",
       "P+": "-",
+      "Artist": "Calle 24",
+      "Points": "198",
+      "Apple M": "42",
+      "Spotify": "115",
+      "iTunes": "0",
+      "YouTube": "35",
+      "Shazam": "2",
+      "Deezer": "5",
+      "Top Country": "Mexico",
+      "#": "14",
+      "artist_ids": [
+        "calle24"
+      ]
+    },
+    {
+      "Pos": "249",
+      "P+": "+",
       "Artist": "Jósean Log",
       "Points": "198",
-      "Apple M": "16",
-      "Spotify": "90",
-      "iTunes": "2",
+      "Apple M": "13",
+      "Spotify": "87",
+      "iTunes": "8",
       "YouTube": "72",
       "Shazam": "12",
-      "Deezer": "7",
+      "Deezer": "6",
       "Top Country": "Mexico",
-      "#": "16",
+      "#": "17",
       "artist_ids": [
         "joseanlog"
       ]
     },
     {
-      "Pos": "251",
+      "Pos": "250",
       "P+": "-",
-      "Artist": "Skippa",
+      "Artist": "Alyssa Grace",
       "Points": "198",
-      "Apple M": "185",
-      "Spotify": "0",
-      "iTunes": "5",
-      "YouTube": "7",
-      "Shazam": "0",
-      "Deezer": "1",
-      "Top Country": "Jamaica",
-      "#": "18",
+      "Apple M": "60",
+      "Spotify": "87",
+      "iTunes": "0",
+      "YouTube": "20",
+      "Shazam": "20",
+      "Deezer": "10",
+      "Top Country": "Australia",
+      "#": "40",
       "artist_ids": [
-        "skippa"
+        "alyssagrace"
+      ]
+    },
+    {
+      "Pos": "251",
+      "P+": "NEW",
+      "Artist": "Riley Green",
+      "Points": "197",
+      "Apple M": "28",
+      "Spotify": "31",
+      "iTunes": "125",
+      "YouTube": "0",
+      "Shazam": "0",
+      "Deezer": "13",
+      "Top Country": "United States",
+      "#": "11",
+      "artist_ids": [
+        "rileygreen"
       ]
     },
     {
       "Pos": "252",
-      "P+": "+",
-      "Artist": "Popcaan",
-      "Points": "198",
-      "Apple M": "177",
-      "Spotify": "0",
-      "iTunes": "9",
-      "YouTube": "8",
-      "Shazam": "1",
-      "Deezer": "4",
-      "Top Country": "Dominica",
-      "#": "24",
+      "P+": "-",
+      "Artist": "ANNA",
+      "Points": "197",
+      "Apple M": "70",
+      "Spotify": "83",
+      "iTunes": "8",
+      "YouTube": "35",
+      "Shazam": "2",
+      "Deezer": "0",
+      "Top Country": "Italy",
+      "#": "3",
       "artist_ids": [
-        "popcaan"
+        "anna"
       ]
     },
     {
       "Pos": "253",
-      "P+": "-",
-      "Artist": "陳奕迅",
-      "Points": "197",
-      "Apple M": "196",
-      "Spotify": "0",
-      "iTunes": "1",
-      "YouTube": "0",
-      "Shazam": "0",
-      "Deezer": "0",
-      "Top Country": "Hong Kong",
-      "#": "3",
-      "artist_ids": [
-        "E999B3E5A595E8BF85"
-      ]
-    },
-    {
-      "Pos": "254",
-      "P+": "-",
-      "Artist": "ABBA",
-      "Points": "197",
-      "Apple M": "86",
-      "Spotify": "11",
-      "iTunes": "83",
-      "YouTube": "2",
-      "Shazam": "6",
-      "Deezer": "9",
-      "Top Country": "Switzerland",
-      "#": "98",
-      "artist_ids": [
-        "abba"
-      ]
-    },
-    {
-      "Pos": "255",
-      "P+": "-",
-      "Artist": "SABI",
-      "Points": "196",
-      "Apple M": "16",
-      "Spotify": "3",
-      "iTunes": "1",
-      "YouTube": "77",
-      "Shazam": "92",
-      "Deezer": "6",
-      "Top Country": "Russia",
-      "#": "63",
-      "artist_ids": [
-        "sabi"
-      ]
-    },
-    {
-      "Pos": "256",
-      "P+": "-",
-      "Artist": "Patricio Rey y sus Redonditos de Ricota",
-      "Points": "194",
-      "Apple M": "11",
-      "Spotify": "178",
-      "iTunes": "0",
-      "YouTube": "0",
-      "Shazam": "0",
-      "Deezer": "5",
-      "Top Country": "Argentina",
-      "#": "2",
-      "artist_ids": [
-        "patricioreyysusredonditosderic..."
-      ]
-    },
-    {
-      "Pos": "257",
       "P+": "+",
-      "Artist": "Lil Naay",
-      "Points": "193",
-      "Apple M": "28",
-      "Spotify": "65",
-      "iTunes": "0",
-      "YouTube": "97",
-      "Shazam": "2",
-      "Deezer": "1",
-      "Top Country": "Dominican Republic",
-      "#": "16",
-      "artist_ids": [
-        "lilnaay"
-      ]
-    },
-    {
-      "Pos": "258",
-      "P+": "-",
-      "Artist": "Irshad Kamil",
-      "Points": "192",
-      "Apple M": "144",
-      "Spotify": "41",
-      "iTunes": "5",
-      "YouTube": "0",
-      "Shazam": "1",
-      "Deezer": "0",
-      "Top Country": "India",
-      "#": "15",
-      "artist_ids": [
-        "irshadkamil"
-      ]
-    },
-    {
-      "Pos": "259",
-      "P+": "-",
       "Artist": "Prince Swanny",
-      "Points": "192",
-      "Apple M": "190",
+      "Points": "197",
+      "Apple M": "195",
       "Spotify": "0",
-      "iTunes": "2",
+      "iTunes": "1",
       "YouTube": "0",
       "Shazam": "0",
       "Deezer": "0",
@@ -4406,67 +4304,118 @@
       ]
     },
     {
-      "Pos": "260",
+      "Pos": "254",
       "P+": "-",
-      "Artist": "TRK.",
-      "Points": "191",
-      "Apple M": "155",
-      "Spotify": "4",
-      "iTunes": "0",
-      "YouTube": "6",
-      "Shazam": "6",
-      "Deezer": "19",
-      "Top Country": "Côte d'Ivoire",
-      "#": "10",
+      "Artist": "ROA",
+      "Points": "196",
+      "Apple M": "48",
+      "Spotify": "122",
+      "iTunes": "1",
+      "YouTube": "24",
+      "Shazam": "2",
+      "Deezer": "0",
+      "Top Country": "Spain",
+      "#": "18",
       "artist_ids": [
-        "trk"
+        "roa"
       ]
     },
     {
-      "Pos": "261",
+      "Pos": "255",
       "P+": "-",
+      "Artist": "Popcaan",
+      "Points": "195",
+      "Apple M": "175",
+      "Spotify": "0",
+      "iTunes": "11",
+      "YouTube": "8",
+      "Shazam": "1",
+      "Deezer": "0",
+      "Top Country": "Dominica",
+      "#": "24",
+      "artist_ids": [
+        "popcaan"
+      ]
+    },
+    {
+      "Pos": "256",
+      "P+": "+",
+      "Artist": "PNL",
+      "Points": "194",
+      "Apple M": "126",
+      "Spotify": "65",
+      "iTunes": "0",
+      "YouTube": "0",
+      "Shazam": "2",
+      "Deezer": "1",
+      "Top Country": "France",
+      "#": "14",
+      "artist_ids": [
+        "pnl"
+      ]
+    },
+    {
+      "Pos": "257",
+      "P+": "+",
       "Artist": "Rema",
-      "Points": "190",
-      "Apple M": "81",
+      "Points": "193",
+      "Apple M": "77",
       "Spotify": "16",
-      "iTunes": "12",
+      "iTunes": "10",
       "YouTube": "69",
       "Shazam": "2",
-      "Deezer": "10",
+      "Deezer": "19",
       "Top Country": "Nigeria",
-      "#": "60",
+      "#": "66",
       "artist_ids": [
         "rema"
       ]
     },
     {
-      "Pos": "262",
-      "P+": "-",
-      "Artist": "Sam Deep",
-      "Points": "189",
-      "Apple M": "132",
-      "Spotify": "19",
-      "iTunes": "4",
-      "YouTube": "25",
-      "Shazam": "9",
+      "Pos": "258",
+      "P+": "=",
+      "Artist": "Lil Naay",
+      "Points": "193",
+      "Apple M": "28",
+      "Spotify": "66",
+      "iTunes": "0",
+      "YouTube": "97",
+      "Shazam": "2",
       "Deezer": "0",
-      "Top Country": "South Africa",
-      "#": "9",
+      "Top Country": "Dominican Republic",
+      "#": "16",
       "artist_ids": [
-        "samdeep"
+        "lilnaay"
       ]
     },
     {
-      "Pos": "263",
+      "Pos": "259",
+      "P+": "-",
+      "Artist": "Irshad Kamil",
+      "Points": "192",
+      "Apple M": "140",
+      "Spotify": "42",
+      "iTunes": "9",
+      "YouTube": "0",
+      "Shazam": "1",
+      "Deezer": "0",
+      "Top Country": "India",
+      "#": "13",
+      "artist_ids": [
+        "irshadkamil"
+      ]
+    },
+    {
+      "Pos": "260",
       "P+": "+",
       "Artist": "W Sound",
-      "Points": "189",
-      "Apple M": "41",
-      "Spotify": "103",
+      "Points": "191",
+      "Apple M": "39",
+      "Spotify": "107",
       "iTunes": "0",
       "YouTube": "27",
       "Shazam": "4",
-      "Deezer": "13",
+      "Deezer": "14",
       "Top Country": "Colombia",
       "#": "22",
       "artist_ids": [
@@ -4474,250 +4423,284 @@
       ]
     },
     {
-      "Pos": "264",
+      "Pos": "261",
       "P+": "-",
-      "Artist": "RnBoi",
-      "Points": "188",
-      "Apple M": "62",
-      "Spotify": "82",
-      "iTunes": "0",
-      "YouTube": "31",
-      "Shazam": "2",
-      "Deezer": "10",
-      "Top Country": "France",
-      "#": "18",
+      "Artist": "System Of A Down",
+      "Points": "190",
+      "Apple M": "81",
+      "Spotify": "53",
+      "iTunes": "31",
+      "YouTube": "17",
+      "Shazam": "0",
+      "Deezer": "8",
+      "Top Country": "New Zealand",
+      "#": "46",
       "artist_ids": [
-        "rnboi"
+        "systemofadown"
+      ]
+    },
+    {
+      "Pos": "262",
+      "P+": "-",
+      "Artist": "De La Rose",
+      "Points": "190",
+      "Apple M": "98",
+      "Spotify": "86",
+      "iTunes": "1",
+      "YouTube": "0",
+      "Shazam": "4",
+      "Deezer": "0",
+      "Top Country": "Colombia",
+      "#": "19",
+      "artist_ids": [
+        "delarose"
+      ]
+    },
+    {
+      "Pos": "263",
+      "P+": "-",
+      "Artist": "The Second Voice",
+      "Points": "190",
+      "Apple M": "49",
+      "Spotify": "0",
+      "iTunes": "56",
+      "YouTube": "40",
+      "Shazam": "44",
+      "Deezer": "0",
+      "Top Country": "France",
+      "#": "79",
+      "artist_ids": [
+        "thesecondvoice"
+      ]
+    },
+    {
+      "Pos": "264",
+      "P+": "+",
+      "Artist": "Prospa",
+      "Points": "187",
+      "Apple M": "35",
+      "Spotify": "69",
+      "iTunes": "38",
+      "YouTube": "8",
+      "Shazam": "31",
+      "Deezer": "6",
+      "Top Country": "Netherlands",
+      "#": "40",
+      "artist_ids": [
+        "prospa"
       ]
     },
     {
       "Pos": "265",
-      "P+": "+",
-      "Artist": "UZI",
-      "Points": "188",
-      "Apple M": "73",
-      "Spotify": "111",
-      "iTunes": "3",
-      "YouTube": "0",
-      "Shazam": "0",
+      "P+": "-",
+      "Artist": "Mavo",
+      "Points": "187",
+      "Apple M": "113",
+      "Spotify": "50",
+      "iTunes": "1",
+      "YouTube": "12",
+      "Shazam": "10",
       "Deezer": "0",
-      "Top Country": "Turkey",
-      "#": "4",
+      "Top Country": "Nigeria",
+      "#": "21",
       "artist_ids": [
-        "uzi"
+        "mavo"
       ]
     },
     {
       "Pos": "266",
       "P+": "-",
-      "Artist": "PLK",
-      "Points": "187",
-      "Apple M": "54",
-      "Spotify": "114",
-      "iTunes": "0",
-      "YouTube": "14",
+      "Artist": "Skippa",
+      "Points": "186",
+      "Apple M": "174",
+      "Spotify": "0",
+      "iTunes": "5",
+      "YouTube": "7",
       "Shazam": "0",
-      "Deezer": "5",
-      "Top Country": "France",
-      "#": "10",
+      "Deezer": "0",
+      "Top Country": "Jamaica",
+      "#": "17",
       "artist_ids": [
-        "plk"
+        "skippa"
       ]
     },
     {
       "Pos": "267",
       "P+": "-",
-      "Artist": "PARTYNEXTDOOR",
-      "Points": "186",
-      "Apple M": "185",
-      "Spotify": "0",
-      "iTunes": "1",
-      "YouTube": "0",
-      "Shazam": "0",
-      "Deezer": "0",
+      "Artist": "Sam Deep",
+      "Points": "184",
+      "Apple M": "126",
+      "Spotify": "19",
+      "iTunes": "4",
+      "YouTube": "25",
+      "Shazam": "8",
+      "Deezer": "1",
       "Top Country": "South Africa",
-      "#": "64",
+      "#": "10",
       "artist_ids": [
-        "partynextdoor"
+        "samdeep"
       ]
     },
     {
       "Pos": "268",
-      "P+": "NEW",
-      "Artist": "Armanii",
+      "P+": "-",
+      "Artist": "PLK",
       "Points": "183",
-      "Apple M": "166",
-      "Spotify": "0",
-      "iTunes": "3",
-      "YouTube": "5",
-      "Shazam": "4",
+      "Apple M": "51",
+      "Spotify": "113",
+      "iTunes": "0",
+      "YouTube": "14",
+      "Shazam": "0",
       "Deezer": "5",
-      "Top Country": "Jamaica",
-      "#": "21",
+      "Top Country": "France",
+      "#": "9",
       "artist_ids": [
-        "armanii"
+        "plk"
       ]
     },
     {
       "Pos": "269",
-      "P+": "+",
-      "Artist": "Rod Wave",
-      "Points": "182",
-      "Apple M": "175",
-      "Spotify": "1",
-      "iTunes": "2",
-      "YouTube": "3",
-      "Shazam": "0",
-      "Deezer": "0",
-      "Top Country": "The Bahamas",
-      "#": "31",
+      "P+": "-",
+      "Artist": "Omah Lay",
+      "Points": "183",
+      "Apple M": "138",
+      "Spotify": "21",
+      "iTunes": "3",
+      "YouTube": "9",
+      "Shazam": "6",
+      "Deezer": "6",
+      "Top Country": "Nigeria",
+      "#": "37",
       "artist_ids": [
-        "rodwave"
+        "omahlay"
       ]
     },
     {
       "Pos": "270",
-      "P+": "+",
-      "Artist": "V",
-      "Points": "181",
-      "Apple M": "25",
-      "Spotify": "35",
-      "iTunes": "25",
+      "P+": "-",
+      "Artist": "陳奕迅",
+      "Points": "182",
+      "Apple M": "182",
+      "Spotify": "0",
+      "iTunes": "0",
       "YouTube": "0",
-      "Shazam": "3",
-      "Deezer": "94",
-      "Top Country": "Jordan",
-      "#": "28",
+      "Shazam": "0",
+      "Deezer": "0",
+      "Top Country": "Hong Kong",
+      "#": "3",
       "artist_ids": [
-        "v"
+        "E999B3E5A595E8BF85"
       ]
     },
     {
       "Pos": "271",
       "P+": "-",
-      "Artist": "Maroon 5",
-      "Points": "181",
-      "Apple M": "30",
-      "Spotify": "117",
-      "iTunes": "26",
-      "YouTube": "0",
-      "Shazam": "4",
-      "Deezer": "4",
-      "Top Country": "Philippines",
-      "#": "75",
+      "Artist": "TRK.",
+      "Points": "182",
+      "Apple M": "150",
+      "Spotify": "0",
+      "iTunes": "0",
+      "YouTube": "6",
+      "Shazam": "6",
+      "Deezer": "20",
+      "Top Country": "Côte d'Ivoire",
+      "#": "8",
       "artist_ids": [
-        "maroon5"
+        "trk"
       ]
     },
     {
       "Pos": "272",
-      "P+": "+",
-      "Artist": "Cheema Y",
+      "P+": "-",
+      "Artist": "Bella Kay",
       "Points": "181",
-      "Apple M": "121",
-      "Spotify": "34",
-      "iTunes": "5",
-      "YouTube": "20",
+      "Apple M": "59",
+      "Spotify": "103",
+      "iTunes": "0",
+      "YouTube": "8",
       "Shazam": "2",
-      "Deezer": "0",
-      "Top Country": "India",
-      "#": "8",
+      "Deezer": "9",
+      "Top Country": "Australia",
+      "#": "23",
       "artist_ids": [
-        "cheemay"
+        "bellakay"
       ]
     },
     {
       "Pos": "273",
-      "P+": "NEW",
-      "Artist": "BNXN",
+      "P+": "-",
+      "Artist": "RnBoi",
       "Points": "180",
-      "Apple M": "126",
-      "Spotify": "39",
-      "iTunes": "3",
-      "YouTube": "0",
-      "Shazam": "6",
+      "Apple M": "57",
+      "Spotify": "82",
+      "iTunes": "0",
+      "YouTube": "31",
+      "Shazam": "2",
       "Deezer": "6",
-      "Top Country": "Nigeria",
-      "#": "22",
+      "Top Country": "France",
+      "#": "13",
       "artist_ids": [
-        "bnxn"
+        "rnboi"
       ]
     },
     {
       "Pos": "274",
-      "P+": "-",
-      "Artist": "Ultimo",
-      "Points": "179",
-      "Apple M": "59",
-      "Spotify": "83",
-      "iTunes": "12",
-      "YouTube": "23",
-      "Shazam": "1",
-      "Deezer": "0",
-      "Top Country": "Italy",
-      "#": "4",
-      "artist_ids": [
-        "ultimo"
-      ]
-    },
-    {
-      "Pos": "275",
-      "P+": "-",
-      "Artist": "Alleh",
-      "Points": "178",
-      "Apple M": "42",
-      "Spotify": "102",
-      "iTunes": "0",
-      "YouTube": "16",
-      "Shazam": "6",
-      "Deezer": "12",
-      "Top Country": "Spain",
-      "#": "19",
-      "artist_ids": [
-        "alleh"
-      ]
-    },
-    {
-      "Pos": "276",
-      "P+": "-",
-      "Artist": "Ayra Starr",
-      "Points": "178",
-      "Apple M": "126",
-      "Spotify": "13",
-      "iTunes": "9",
-      "YouTube": "10",
-      "Shazam": "19",
-      "Deezer": "2",
-      "Top Country": "Nigeria",
-      "#": "42",
-      "artist_ids": [
-        "ayrastarr"
-      ]
-    },
-    {
-      "Pos": "277",
-      "P+": "-",
+      "P+": "+",
       "Artist": "PUN",
       "Points": "178",
-      "Apple M": "128",
-      "Spotify": "33",
-      "iTunes": "13",
+      "Apple M": "127",
+      "Spotify": "32",
+      "iTunes": "15",
       "YouTube": "0",
       "Shazam": "4",
       "Deezer": "0",
       "Top Country": "Thailand",
-      "#": "3",
+      "#": "4",
       "artist_ids": [
         "pun"
       ]
     },
     {
-      "Pos": "278",
+      "Pos": "275",
+      "P+": "-",
+      "Artist": "Cheema Y",
+      "Points": "178",
+      "Apple M": "122",
+      "Spotify": "33",
+      "iTunes": "1",
+      "YouTube": "20",
+      "Shazam": "2",
+      "Deezer": "0",
+      "Top Country": "India",
+      "#": "6",
+      "artist_ids": [
+        "cheemay"
+      ]
+    },
+    {
+      "Pos": "276",
+      "P+": "+",
+      "Artist": "Vance Joy",
+      "Points": "177",
+      "Apple M": "21",
+      "Spotify": "144",
+      "iTunes": "3",
+      "YouTube": "0",
+      "Shazam": "1",
+      "Deezer": "8",
+      "Top Country": "Australia",
+      "#": "39",
+      "artist_ids": [
+        "vancejoy"
+      ]
+    },
+    {
+      "Pos": "277",
       "P+": "+",
       "Artist": "Mc Lele JP",
-      "Points": "178",
-      "Apple M": "18",
-      "Spotify": "123",
+      "Points": "177",
+      "Apple M": "19",
+      "Spotify": "121",
       "iTunes": "0",
       "YouTube": "26",
       "Shazam": "10",
@@ -4729,16 +4712,322 @@
       ]
     },
     {
+      "Pos": "278",
+      "P+": "-",
+      "Artist": "Patricio Rey y sus Redonditos de Ricota",
+      "Points": "177",
+      "Apple M": "10",
+      "Spotify": "163",
+      "iTunes": "1",
+      "YouTube": "0",
+      "Shazam": "0",
+      "Deezer": "3",
+      "Top Country": "Argentina",
+      "#": "2",
+      "artist_ids": [
+        "patricioreyysusredonditosderic..."
+      ]
+    },
+    {
       "Pos": "279",
+      "P+": "NEW",
+      "Artist": "Arca",
+      "Points": "176",
+      "Apple M": "168",
+      "Spotify": "0",
+      "iTunes": "8",
+      "YouTube": "0",
+      "Shazam": "0",
+      "Deezer": "0",
+      "Top Country": "Brazil",
+      "#": "71",
+      "artist_ids": [
+        "arca"
+      ]
+    },
+    {
+      "Pos": "280",
+      "P+": "+",
+      "Artist": "White 2115",
+      "Points": "176",
+      "Apple M": "8",
+      "Spotify": "131",
+      "iTunes": "0",
+      "YouTube": "35",
+      "Shazam": "1",
+      "Deezer": "0",
+      "Top Country": "Poland",
+      "#": "1",
+      "artist_ids": [
+        "white2115"
+      ]
+    },
+    {
+      "Pos": "281",
+      "P+": "-",
+      "Artist": "UZI",
+      "Points": "175",
+      "Apple M": "63",
+      "Spotify": "109",
+      "iTunes": "3",
+      "YouTube": "0",
+      "Shazam": "0",
+      "Deezer": "0",
+      "Top Country": "Turkey",
+      "#": "5",
+      "artist_ids": [
+        "uzi"
+      ]
+    },
+    {
+      "Pos": "282",
+      "P+": "-",
+      "Artist": "Ayra Starr",
+      "Points": "175",
+      "Apple M": "116",
+      "Spotify": "12",
+      "iTunes": "15",
+      "YouTube": "10",
+      "Shazam": "19",
+      "Deezer": "4",
+      "Top Country": "Nigeria",
+      "#": "47",
+      "artist_ids": [
+        "ayrastarr"
+      ]
+    },
+    {
+      "Pos": "283",
+      "P+": "-",
+      "Artist": "Desh",
+      "Points": "175",
+      "Apple M": "54",
+      "Spotify": "68",
+      "iTunes": "2",
+      "YouTube": "36",
+      "Shazam": "4",
+      "Deezer": "11",
+      "Top Country": "Hungary",
+      "#": "2",
+      "artist_ids": [
+        "desh"
+      ]
+    },
+    {
+      "Pos": "284",
+      "P+": "NEW",
+      "Artist": "Thukuthela",
+      "Points": "175",
+      "Apple M": "150",
+      "Spotify": "5",
+      "iTunes": "5",
+      "YouTube": "0",
+      "Shazam": "14",
+      "Deezer": "0",
+      "Top Country": "South Africa",
+      "#": "15",
+      "artist_ids": [
+        "thukuthela"
+      ]
+    },
+    {
+      "Pos": "285",
+      "P+": "+",
+      "Artist": "Eminem",
+      "Points": "174",
+      "Apple M": "64",
+      "Spotify": "44",
+      "iTunes": "47",
+      "YouTube": "4",
+      "Shazam": "5",
+      "Deezer": "9",
+      "Top Country": "New Zealand",
+      "#": "95",
+      "artist_ids": [
+        "eminem"
+      ]
+    },
+    {
+      "Pos": "286",
+      "P+": "-",
+      "Artist": "BNXN",
+      "Points": "174",
+      "Apple M": "118",
+      "Spotify": "39",
+      "iTunes": "4",
+      "YouTube": "0",
+      "Shazam": "8",
+      "Deezer": "6",
+      "Top Country": "Nigeria",
+      "#": "19",
+      "artist_ids": [
+        "bnxn"
+      ]
+    },
+    {
+      "Pos": "287",
+      "P+": "=",
+      "Artist": "Chappell Roan",
+      "Points": "174",
+      "Apple M": "43",
+      "Spotify": "45",
+      "iTunes": "17",
+      "YouTube": "0",
+      "Shazam": "3",
+      "Deezer": "67",
+      "Top Country": "United Kingdom",
+      "#": "30",
+      "artist_ids": [
+        "chappellroan"
+      ]
+    },
+    {
+      "Pos": "288",
+      "P+": "-",
+      "Artist": "Maroon 5",
+      "Points": "174",
+      "Apple M": "31",
+      "Spotify": "112",
+      "iTunes": "23",
+      "YouTube": "0",
+      "Shazam": "4",
+      "Deezer": "3",
+      "Top Country": "Philippines",
+      "#": "74",
+      "artist_ids": [
+        "maroon5"
+      ]
+    },
+    {
+      "Pos": "289",
+      "P+": "-",
+      "Artist": "Alleh",
+      "Points": "173",
+      "Apple M": "38",
+      "Spotify": "102",
+      "iTunes": "0",
+      "YouTube": "16",
+      "Shazam": "6",
+      "Deezer": "10",
+      "Top Country": "Spain",
+      "#": "19",
+      "artist_ids": [
+        "alleh"
+      ]
+    },
+    {
+      "Pos": "290",
+      "P+": "+",
+      "Artist": "Leto",
+      "Points": "173",
+      "Apple M": "99",
+      "Spotify": "26",
+      "iTunes": "0",
+      "YouTube": "25",
+      "Shazam": "6",
+      "Deezer": "17",
+      "Top Country": "France",
+      "#": "19",
+      "artist_ids": [
+        "leto"
+      ]
+    },
+    {
+      "Pos": "291",
+      "P+": "NEW",
+      "Artist": "BABYMONSTER",
+      "Points": "173",
+      "Apple M": "77",
+      "Spotify": "23",
+      "iTunes": "44",
+      "YouTube": "21",
+      "Shazam": "4",
+      "Deezer": "4",
+      "Top Country": "Taiwan",
+      "#": "16",
+      "artist_ids": [
+        "babymonster"
+      ]
+    },
+    {
+      "Pos": "292",
+      "P+": "-",
+      "Artist": "Metallica",
+      "Points": "172",
+      "Apple M": "65",
+      "Spotify": "38",
+      "iTunes": "63",
+      "YouTube": "3",
+      "Shazam": "0",
+      "Deezer": "3",
+      "Top Country": "Russia",
+      "#": "58",
+      "artist_ids": [
+        "metallica"
+      ]
+    },
+    {
+      "Pos": "293",
+      "P+": "-",
+      "Artist": "Hindia",
+      "Points": "171",
+      "Apple M": "54",
+      "Spotify": "112",
+      "iTunes": "4",
+      "YouTube": "0",
+      "Shazam": "1",
+      "Deezer": "1",
+      "Top Country": "Indonesia",
+      "#": "2",
+      "artist_ids": [
+        "hindia"
+      ]
+    },
+    {
+      "Pos": "294",
+      "P+": "+",
+      "Artist": "Bouss",
+      "Points": "171",
+      "Apple M": "85",
+      "Spotify": "68",
+      "iTunes": "2",
+      "YouTube": "10",
+      "Shazam": "5",
+      "Deezer": "1",
+      "Top Country": "France",
+      "#": "16",
+      "artist_ids": [
+        "bouss"
+      ]
+    },
+    {
+      "Pos": "295",
+      "P+": "-",
+      "Artist": "Omer Adam",
+      "Points": "171",
+      "Apple M": "58",
+      "Spotify": "79",
+      "iTunes": "6",
+      "YouTube": "14",
+      "Shazam": "1",
+      "Deezer": "14",
+      "Top Country": "Israel",
+      "#": "2",
+      "artist_ids": [
+        "omeradam"
+      ]
+    },
+    {
+      "Pos": "296",
       "P+": "-",
       "Artist": "Yeison Jimenez",
-      "Points": "178",
-      "Apple M": "6",
-      "Spotify": "21",
-      "iTunes": "1",
+      "Points": "170",
+      "Apple M": "5",
+      "Spotify": "15",
+      "iTunes": "2",
       "YouTube": "144",
       "Shazam": "3",
-      "Deezer": "3",
+      "Deezer": "1",
       "Top Country": "Colombia",
       "#": "2",
       "artist_ids": [
@@ -4746,12 +5035,29 @@
       ]
     },
     {
-      "Pos": "280",
+      "Pos": "297",
+      "P+": "-",
+      "Artist": "PARTYNEXTDOOR",
+      "Points": "170",
+      "Apple M": "167",
+      "Spotify": "1",
+      "iTunes": "1",
+      "YouTube": "0",
+      "Shazam": "0",
+      "Deezer": "1",
+      "Top Country": "South Africa",
+      "#": "66",
+      "artist_ids": [
+        "partynextdoor"
+      ]
+    },
+    {
+      "Pos": "298",
       "P+": "-",
       "Artist": "TOQUEL",
-      "Points": "177",
-      "Apple M": "79",
-      "Spotify": "95",
+      "Points": "169",
+      "Apple M": "73",
+      "Spotify": "93",
       "iTunes": "0",
       "YouTube": "0",
       "Shazam": "3",
@@ -4763,343 +5069,37 @@
       ]
     },
     {
-      "Pos": "281",
-      "P+": "-",
-      "Artist": "Desh",
-      "Points": "177",
-      "Apple M": "56",
-      "Spotify": "66",
-      "iTunes": "2",
-      "YouTube": "36",
-      "Shazam": "4",
-      "Deezer": "13",
-      "Top Country": "Hungary",
-      "#": "2",
-      "artist_ids": [
-        "desh"
-      ]
-    },
-    {
-      "Pos": "282",
-      "P+": "+",
-      "Artist": "Gareth.T",
-      "Points": "176",
-      "Apple M": "122",
-      "Spotify": "29",
-      "iTunes": "10",
-      "YouTube": "12",
-      "Shazam": "3",
-      "Deezer": "0",
-      "Top Country": "Hong Kong",
-      "#": "6",
-      "artist_ids": [
-        "garetht"
-      ]
-    },
-    {
-      "Pos": "283",
+      "Pos": "299",
       "P+": "-",
       "Artist": "Ati242",
-      "Points": "175",
-      "Apple M": "66",
-      "Spotify": "82",
-      "iTunes": "24",
+      "Points": "168",
+      "Apple M": "57",
+      "Spotify": "81",
+      "iTunes": "27",
       "YouTube": "0",
       "Shazam": "3",
       "Deezer": "0",
       "Top Country": "Turkey",
-      "#": "5",
+      "#": "8",
       "artist_ids": [
         "ati242"
       ]
     },
     {
-      "Pos": "284",
-      "P+": "-",
-      "Artist": "Hindia",
-      "Points": "175",
-      "Apple M": "57",
-      "Spotify": "113",
-      "iTunes": "5",
-      "YouTube": "0",
-      "Shazam": "1",
-      "Deezer": "0",
-      "Top Country": "Indonesia",
-      "#": "2",
-      "artist_ids": [
-        "hindia"
-      ]
-    },
-    {
-      "Pos": "285",
-      "P+": "-",
-      "Artist": "White 2115",
-      "Points": "174",
-      "Apple M": "10",
-      "Spotify": "127",
-      "iTunes": "0",
-      "YouTube": "35",
-      "Shazam": "1",
-      "Deezer": "1",
-      "Top Country": "Poland",
-      "#": "1",
-      "artist_ids": [
-        "white2115"
-      ]
-    },
-    {
-      "Pos": "286",
-      "P+": "+",
-      "Artist": "Chappell Roan",
-      "Points": "173",
-      "Apple M": "50",
-      "Spotify": "44",
-      "iTunes": "18",
-      "YouTube": "0",
-      "Shazam": "3",
-      "Deezer": "59",
-      "Top Country": "Australia",
-      "#": "31",
-      "artist_ids": [
-        "chappellroan"
-      ]
-    },
-    {
-      "Pos": "287",
-      "P+": "-",
-      "Artist": "Vance Joy",
-      "Points": "173",
-      "Apple M": "20",
-      "Spotify": "145",
-      "iTunes": "1",
-      "YouTube": "0",
-      "Shazam": "1",
-      "Deezer": "6",
-      "Top Country": "Australia",
-      "#": "40",
-      "artist_ids": [
-        "vancejoy"
-      ]
-    },
-    {
-      "Pos": "288",
-      "P+": "-",
-      "Artist": "Mariah the Scientist",
-      "Points": "172",
-      "Apple M": "156",
-      "Spotify": "4",
-      "iTunes": "1",
-      "YouTube": "0",
-      "Shazam": "0",
-      "Deezer": "10",
-      "Top Country": "The Bahamas",
-      "#": "42",
-      "artist_ids": [
-        "mariahthescientist"
-      ]
-    },
-    {
-      "Pos": "289",
-      "P+": "NEW",
-      "Artist": "Omer Adam",
-      "Points": "172",
-      "Apple M": "58",
-      "Spotify": "77",
-      "iTunes": "1",
-      "YouTube": "14",
-      "Shazam": "1",
-      "Deezer": "21",
-      "Top Country": "Israel",
-      "#": "1",
-      "artist_ids": [
-        "omeradam"
-      ]
-    },
-    {
-      "Pos": "290",
-      "P+": "-",
-      "Artist": "Cris MJ",
-      "Points": "171",
-      "Apple M": "47",
-      "Spotify": "101",
-      "iTunes": "2",
-      "YouTube": "11",
-      "Shazam": "9",
-      "Deezer": "1",
-      "Top Country": "Chile",
-      "#": "33",
-      "artist_ids": [
-        "crismj"
-      ]
-    },
-    {
-      "Pos": "291",
-      "P+": "+",
-      "Artist": "DJ Japa NK",
-      "Points": "171",
-      "Apple M": "18",
-      "Spotify": "85",
-      "iTunes": "0",
-      "YouTube": "58",
-      "Shazam": "4",
-      "Deezer": "5",
-      "Top Country": "Brazil",
-      "#": "6",
-      "artist_ids": [
-        "djjapank"
-      ]
-    },
-    {
-      "Pos": "292",
-      "P+": "NEW",
-      "Artist": "Prospa",
-      "Points": "171",
-      "Apple M": "42",
-      "Spotify": "66",
-      "iTunes": "20",
-      "YouTube": "8",
-      "Shazam": "30",
-      "Deezer": "5",
-      "Top Country": "Netherlands",
-      "#": "41",
-      "artist_ids": [
-        "prospa"
-      ]
-    },
-    {
-      "Pos": "293",
-      "P+": "NEW",
-      "Artist": "Leto",
-      "Points": "168",
-      "Apple M": "98",
-      "Spotify": "28",
-      "iTunes": "0",
-      "YouTube": "25",
-      "Shazam": "6",
-      "Deezer": "12",
-      "Top Country": "France",
-      "#": "20",
-      "artist_ids": [
-        "leto"
-      ]
-    },
-    {
-      "Pos": "294",
-      "P+": "-",
-      "Artist": "Eminem",
-      "Points": "168",
-      "Apple M": "67",
-      "Spotify": "46",
-      "iTunes": "34",
-      "YouTube": "4",
-      "Shazam": "5",
-      "Deezer": "12",
-      "Top Country": "Russia",
-      "#": "92",
-      "artist_ids": [
-        "eminem"
-      ]
-    },
-    {
-      "Pos": "295",
-      "P+": "-",
-      "Artist": "Bouss",
-      "Points": "167",
-      "Apple M": "88",
-      "Spotify": "64",
-      "iTunes": "0",
-      "YouTube": "10",
-      "Shazam": "5",
-      "Deezer": "0",
-      "Top Country": "France",
-      "#": "15",
-      "artist_ids": [
-        "bouss"
-      ]
-    },
-    {
-      "Pos": "296",
-      "P+": "-",
-      "Artist": "LOS DOS DE TAMAULIPAS",
-      "Points": "167",
-      "Apple M": "20",
-      "Spotify": "89",
-      "iTunes": "0",
-      "YouTube": "48",
-      "Shazam": "4",
-      "Deezer": "5",
-      "Top Country": "Mexico",
-      "#": "7",
-      "artist_ids": [
-        "losdosdetamaulipas"
-      ]
-    },
-    {
-      "Pos": "297",
-      "P+": "NEW",
-      "Artist": "PNL",
-      "Points": "167",
-      "Apple M": "95",
-      "Spotify": "61",
-      "iTunes": "0",
-      "YouTube": "0",
-      "Shazam": "2",
-      "Deezer": "8",
-      "Top Country": "France",
-      "#": "15",
-      "artist_ids": [
-        "pnl"
-      ]
-    },
-    {
-      "Pos": "298",
-      "P+": "-",
-      "Artist": "Pink Floyd",
-      "Points": "167",
-      "Apple M": "91",
-      "Spotify": "2",
-      "iTunes": "66",
-      "YouTube": "0",
-      "Shazam": "1",
-      "Deezer": "6",
-      "Top Country": "New Zealand",
-      "#": "76",
-      "artist_ids": [
-        "pinkfloyd"
-      ]
-    },
-    {
-      "Pos": "299",
-      "P+": "NEW",
-      "Artist": "Kelvin Momo",
-      "Points": "165",
-      "Apple M": "145",
-      "Spotify": "12",
-      "iTunes": "6",
-      "YouTube": "0",
-      "Shazam": "1",
-      "Deezer": "0",
-      "Top Country": "South Africa",
-      "#": "7",
-      "artist_ids": [
-        "kelvinmomo"
-      ]
-    },
-    {
       "Pos": "300",
       "P+": "NEW",
-      "Artist": "Isac Elliot",
-      "Points": "164",
-      "Apple M": "47",
-      "Spotify": "81",
-      "iTunes": "1",
-      "YouTube": "15",
-      "Shazam": "0",
-      "Deezer": "21",
-      "Top Country": "Finland",
-      "#": "1",
+      "Artist": "Empire Of The Sun",
+      "Points": "168",
+      "Apple M": "29",
+      "Spotify": "80",
+      "iTunes": "15",
+      "YouTube": "0",
+      "Shazam": "39",
+      "Deezer": "5",
+      "Top Country": "Germany",
+      "#": "72",
       "artist_ids": [
-        "isacelliot"
+        "empireofthesun"
       ]
     }
   ]
