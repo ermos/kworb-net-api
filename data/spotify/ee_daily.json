@@ -1,19 +1,19 @@
 {
   "source": "https://kworb.net/spotify/country/ee_daily.html",
-  "title": "Spotify Daily Chart - Estonia - 2026/08/20",
+  "title": "Spotify Daily Chart - Estonia - 2026/08/21",
   "chart": [
     {
       "Pos": "1",
-      "P+": "NEW",
+      "P+": "=",
       "Artist and Title": "SADU - l a u l u . s e e s t . v ä l j a . e i . s a a",
-      "Days": "1",
+      "Days": "2",
       "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "12,139",
-      "Streams+": "",
-      "7Day": "12,139",
-      "7Day+": "+12,139",
-      "Total": "12,139",
+      "(x?)": "(x2)",
+      "Streams": "11,128",
+      "Streams+": "-1,011",
+      "7Day": "23,267",
+      "7Day+": "+11,128",
+      "Total": "23,267",
       "track_id": "3RdzYxZQn8wfxomq7l5WpR",
       "artist_ids": [
         "15lwjkERMR7PNuyja5wX5K"
@@ -21,16 +21,16 @@
     },
     {
       "Pos": "2",
-      "P+": "-1",
+      "P+": "=",
       "Artist and Title": "nublu - lainte laul (w/ TIEF CITY 44)",
-      "Days": "49",
+      "Days": "50",
       "Pk": "1",
       "(x?)": "(x46)",
-      "Streams": "7,438",
-      "Streams+": "-10",
-      "7Day": "48,698",
-      "7Day+": "+1,329",
-      "Total": "447,821",
+      "Streams": "7,571",
+      "Streams+": "+133",
+      "7Day": "48,705",
+      "7Day+": "+7",
+      "Total": "455,392",
       "track_id": "4UHSjO56yPy1KLO39fZ0as",
       "artist_ids": [
         "2cNMMulo6S2a0tHrwX2s6i",
@@ -39,16 +39,16 @@
     },
     {
       "Pos": "3",
-      "P+": "-1",
+      "P+": "=",
       "Artist and Title": "SADU - Igavene",
-      "Days": "366",
+      "Days": "367",
       "Pk": "1",
       "(x?)": "(x59)",
-      "Streams": "6,747",
-      "Streams+": "+674",
-      "7Day": "38,661",
-      "7Day+": "+2,316",
-      "Total": "2,300,249",
+      "Streams": "6,969",
+      "Streams+": "+222",
+      "7Day": "40,178",
+      "7Day+": "+1,517",
+      "Total": "2,307,218",
       "track_id": "0JAplnL7Ef2TlqR4N43ro3",
       "artist_ids": [
         "15lwjkERMR7PNuyja5wX5K"
@@ -56,16 +56,16 @@
     },
     {
       "Pos": "4",
-      "P+": "-1",
+      "P+": "=",
       "Artist and Title": "nublu - kesselaid (w/ TIEF CITY 44)",
-      "Days": "188",
+      "Days": "189",
       "Pk": "1",
       "(x?)": "(x46)",
-      "Streams": "5,977",
-      "Streams+": "+139",
-      "7Day": "40,729",
-      "7Day+": "+396",
-      "Total": "2,056,258",
+      "Streams": "6,335",
+      "Streams+": "+358",
+      "7Day": "40,630",
+      "7Day+": "-99",
+      "Total": "2,062,593",
       "track_id": "1uMPjLjqazWiaPrk5oohaG",
       "artist_ids": [
         "2cNMMulo6S2a0tHrwX2s6i",
@@ -76,14 +76,14 @@
       "Pos": "5",
       "P+": "=",
       "Artist and Title": "SADU - p õ u d",
-      "Days": "84",
+      "Days": "85",
       "Pk": "1",
       "(x?)": "(x13)",
-      "Streams": "5,883",
-      "Streams+": "+688",
-      "7Day": "35,439",
-      "7Day+": "+1,413",
-      "Total": "677,130",
+      "Streams": "6,147",
+      "Streams+": "+264",
+      "7Day": "36,451",
+      "7Day+": "+1,012",
+      "Total": "683,277",
       "track_id": "2TG8DEKaADkMENQPmLetvt",
       "artist_ids": [
         "15lwjkERMR7PNuyja5wX5K"
@@ -92,32 +92,15 @@
     {
       "Pos": "6",
       "P+": "+1",
-      "Artist and Title": "säm - esmaspäev",
-      "Days": "77",
-      "Pk": "2",
-      "(x?)": "(x7)",
-      "Streams": "5,009",
-      "Streams+": "-62",
-      "7Day": "33,841",
-      "7Day+": "+485",
-      "Total": "502,484",
-      "track_id": "3ZX3J83WPmbmoq70Al0Eqo",
-      "artist_ids": [
-        "6kvEy25jX5e1RtdFn1Eo3X"
-      ]
-    },
-    {
-      "Pos": "7",
-      "P+": "-3",
       "Artist and Title": "villemdrillem - mr. atškoo (w/ triibupasta)",
-      "Days": "71",
+      "Days": "72",
       "Pk": "1",
       "(x?)": "(x22)",
-      "Streams": "4,879",
-      "Streams+": "-672",
-      "7Day": "35,373",
-      "7Day+": "-259",
-      "Total": "613,210",
+      "Streams": "5,647",
+      "Streams+": "+768",
+      "7Day": "35,223",
+      "7Day+": "-150",
+      "Total": "618,857",
       "track_id": "2dZLX4zN7hvCnzZAZbebJq",
       "artist_ids": [
         "5nZADoZFWVB90dHpk5zvXy",
@@ -125,17 +108,34 @@
       ]
     },
     {
+      "Pos": "7",
+      "P+": "-1",
+      "Artist and Title": "säm - esmaspäev",
+      "Days": "78",
+      "Pk": "2",
+      "(x?)": "(x7)",
+      "Streams": "5,236",
+      "Streams+": "+227",
+      "7Day": "33,784",
+      "7Day+": "-57",
+      "Total": "507,720",
+      "track_id": "3ZX3J83WPmbmoq70Al0Eqo",
+      "artist_ids": [
+        "6kvEy25jX5e1RtdFn1Eo3X"
+      ]
+    },
+    {
       "Pos": "8",
-      "P+": "+1",
+      "P+": "=",
       "Artist and Title": "SADU - Luukered",
-      "Days": "420",
+      "Days": "421",
       "Pk": "2",
       "(x?)": "(x13)",
-      "Streams": "4,790",
-      "Streams+": "+470",
-      "7Day": "28,554",
-      "7Day+": "+1,520",
-      "Total": "1,680,426",
+      "Streams": "5,146",
+      "Streams+": "+356",
+      "7Day": "29,594",
+      "7Day+": "+1,040",
+      "Total": "1,685,572",
       "track_id": "5egnjZzhZLuNXluoMmEC6t",
       "artist_ids": [
         "15lwjkERMR7PNuyja5wX5K"
@@ -143,16 +143,16 @@
     },
     {
       "Pos": "9",
-      "P+": "-3",
+      "P+": "=",
       "Artist and Title": "Kermo Murel - Vaadi hele (chug chug)",
-      "Days": "28",
+      "Days": "29",
       "Pk": "2",
       "(x?)": "(x13)",
-      "Streams": "4,324",
-      "Streams+": "-782",
-      "7Day": "32,073",
-      "7Day+": "-619",
-      "Total": "172,906",
+      "Streams": "4,768",
+      "Streams+": "+444",
+      "7Day": "31,342",
+      "7Day+": "-731",
+      "Total": "177,674",
       "track_id": "0neOGgUXx8onOu46hlXKNc",
       "artist_ids": [
         "5L5CvCkNlaUISVFjUicdEf"
@@ -160,16 +160,51 @@
     },
     {
       "Pos": "10",
-      "P+": "=",
+      "P+": "+1",
+      "Artist and Title": "SADU - Kolmest soovist viimane",
+      "Days": "332",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "4,380",
+      "Streams+": "+281",
+      "7Day": "25,014",
+      "7Day+": "+1,014",
+      "Total": "1,012,426",
+      "track_id": "1L5mFtFhrOae6PCBoEOQUz",
+      "artist_ids": [
+        "15lwjkERMR7PNuyja5wX5K"
+      ]
+    },
+    {
+      "Pos": "11",
+      "P+": "+1",
+      "Artist and Title": "nublu - LAUSU TÕTT (w/ Vaiko Eplik)",
+      "Days": "449",
+      "Pk": "1",
+      "(x?)": "(x10)",
+      "Streams": "4,142",
+      "Streams+": "+111",
+      "7Day": "27,882",
+      "7Day+": "-265",
+      "Total": "2,591,912",
+      "track_id": "5EDMOu7PXIbybCGF8vpgbL",
+      "artist_ids": [
+        "2cNMMulo6S2a0tHrwX2s6i",
+        "4bUkC2pVAl1Hk0uXok7W1t"
+      ]
+    },
+    {
+      "Pos": "12",
+      "P+": "-2",
       "Artist and Title": "nublu - arbuusisuvi (w/ TIEF CITY 44, Evelin Võigemast)",
-      "Days": "49",
+      "Days": "50",
       "Pk": "3",
       "(x?)": "(x2)",
-      "Streams": "4,239",
-      "Streams+": "+66",
-      "7Day": "28,211",
-      "7Day+": "+720",
-      "Total": "283,310",
+      "Streams": "4,138",
+      "Streams+": "-101",
+      "7Day": "28,123",
+      "7Day+": "-88",
+      "Total": "287,448",
       "track_id": "4tGHrJclfzJTrCE6cUJfEI",
       "artist_ids": [
         "2cNMMulo6S2a0tHrwX2s6i",
@@ -178,52 +213,17 @@
       ]
     },
     {
-      "Pos": "11",
-      "P+": "+3",
-      "Artist and Title": "SADU - Kolmest soovist viimane",
-      "Days": "331",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "4,099",
-      "Streams+": "+529",
-      "7Day": "24,000",
-      "7Day+": "+1,278",
-      "Total": "1,008,046",
-      "track_id": "1L5mFtFhrOae6PCBoEOQUz",
-      "artist_ids": [
-        "15lwjkERMR7PNuyja5wX5K"
-      ]
-    },
-    {
-      "Pos": "12",
-      "P+": "-1",
-      "Artist and Title": "nublu - LAUSU TÕTT (w/ Vaiko Eplik)",
-      "Days": "448",
-      "Pk": "1",
-      "(x?)": "(x10)",
-      "Streams": "4,031",
-      "Streams+": "+6",
-      "7Day": "28,147",
-      "7Day+": "+364",
-      "Total": "2,587,770",
-      "track_id": "5EDMOu7PXIbybCGF8vpgbL",
-      "artist_ids": [
-        "2cNMMulo6S2a0tHrwX2s6i",
-        "4bUkC2pVAl1Hk0uXok7W1t"
-      ]
-    },
-    {
       "Pos": "13",
-      "P+": "-1",
+      "P+": "=",
       "Artist and Title": "Arg Part - Emotikon (w/ säm)",
-      "Days": "19",
+      "Days": "20",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "3,649",
-      "Streams+": "-168",
-      "7Day": "25,998",
-      "7Day+": "-288",
-      "Total": "84,404",
+      "Streams": "4,100",
+      "Streams+": "+451",
+      "7Day": "25,829",
+      "7Day+": "-169",
+      "Total": "88,504",
       "track_id": "3Y9TzAZ201AfunnPJlFWit",
       "artist_ids": [
         "7ptB41iMNEx7qqZE80aTLw",
@@ -232,50 +232,16 @@
     },
     {
       "Pos": "14",
-      "P+": "+10",
-      "Artist and Title": "SADU - Uueks hommikul",
-      "Days": "287",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "3,493",
-      "Streams+": "+616",
-      "7Day": "20,524",
-      "7Day+": "+1,139",
-      "Total": "784,220",
-      "track_id": "1a7A3FoOogzD0HnViWe1DU",
-      "artist_ids": [
-        "15lwjkERMR7PNuyja5wX5K"
-      ]
-    },
-    {
-      "Pos": "15",
-      "P+": "+10",
-      "Artist and Title": "SADU - Eks sa ise otsusta",
-      "Days": "330",
-      "Pk": "15",
-      "(x?)": "",
-      "Streams": "3,492",
-      "Streams+": "+651",
-      "7Day": "19,125",
-      "7Day+": "+1,276",
-      "Total": "674,454",
-      "track_id": "6H185nWC1FcihgEbRKsphB",
-      "artist_ids": [
-        "15lwjkERMR7PNuyja5wX5K"
-      ]
-    },
-    {
-      "Pos": "16",
-      "P+": "-8",
+      "P+": "+2",
       "Artist and Title": "HUGEL - Movin' To The Sun (w/ Imael Angel, Ultra Naté)",
-      "Days": "71",
+      "Days": "72",
       "Pk": "8",
       "(x?)": "",
-      "Streams": "3,487",
-      "Streams+": "-920",
-      "7Day": "27,071",
-      "7Day+": "-467",
-      "Total": "209,747",
+      "Streams": "4,085",
+      "Streams+": "+598",
+      "7Day": "26,749",
+      "7Day+": "-322",
+      "Total": "213,832",
       "track_id": "4vTsKN15Kqo3Geo9r7FhAN",
       "artist_ids": [
         "5PlfkPxwCpRRWQJBxCa0By",
@@ -284,17 +250,17 @@
       ]
     },
     {
-      "Pos": "17",
-      "P+": "-2",
+      "Pos": "15",
+      "P+": "+2",
       "Artist and Title": "säm - kissitavad silmad (w/ ALIKA)",
-      "Days": "35",
+      "Days": "36",
       "Pk": "2",
       "(x?)": "(x1)",
-      "Streams": "3,365",
-      "Streams+": "-146",
-      "7Day": "23,269",
-      "7Day+": "-314",
-      "Total": "172,640",
+      "Streams": "3,726",
+      "Streams+": "+361",
+      "7Day": "23,191",
+      "7Day+": "-78",
+      "Total": "176,366",
       "track_id": "5ZWgjqA6lUcRxZLxHnwSzM",
       "artist_ids": [
         "6kvEy25jX5e1RtdFn1Eo3X",
@@ -302,17 +268,51 @@
       ]
     },
     {
+      "Pos": "16",
+      "P+": "-1",
+      "Artist and Title": "SADU - Eks sa ise otsusta",
+      "Days": "331",
+      "Pk": "15",
+      "(x?)": "",
+      "Streams": "3,609",
+      "Streams+": "+117",
+      "7Day": "20,119",
+      "7Day+": "+994",
+      "Total": "678,063",
+      "track_id": "6H185nWC1FcihgEbRKsphB",
+      "artist_ids": [
+        "15lwjkERMR7PNuyja5wX5K"
+      ]
+    },
+    {
+      "Pos": "17",
+      "P+": "-3",
+      "Artist and Title": "SADU - Uueks hommikul",
+      "Days": "288",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "3,553",
+      "Streams+": "+60",
+      "7Day": "21,223",
+      "7Day+": "+699",
+      "Total": "787,773",
+      "track_id": "1a7A3FoOogzD0HnViWe1DU",
+      "artist_ids": [
+        "15lwjkERMR7PNuyja5wX5K"
+      ]
+    },
+    {
       "Pos": "18",
-      "P+": "-5",
+      "P+": "=",
       "Artist and Title": "Shakira - Dai Dai (w/ Burna Boy)",
-      "Days": "86",
+      "Days": "87",
       "Pk": "2",
       "(x?)": "(x3)",
-      "Streams": "3,316",
-      "Streams+": "-406",
-      "7Day": "25,742",
-      "7Day+": "-476",
-      "Total": "319,036",
+      "Streams": "3,477",
+      "Streams+": "+161",
+      "7Day": "25,031",
+      "7Day+": "-711",
+      "Total": "322,513",
       "track_id": "0kosUz0jePvjiz4ctmR6wL",
       "artist_ids": [
         "0EmeFodog0BfCgMzAIvKQp",
@@ -321,16 +321,33 @@
     },
     {
       "Pos": "19",
-      "P+": "-2",
+      "P+": "+1",
+      "Artist and Title": "säm - kanuu",
+      "Days": "394",
+      "Pk": "1",
+      "(x?)": "(x73)",
+      "Streams": "3,432",
+      "Streams+": "+374",
+      "7Day": "22,984",
+      "7Day+": "-412",
+      "Total": "2,271,841",
+      "track_id": "1DYnCz8lfVmSCiDZLl0AsH",
+      "artist_ids": [
+        "6kvEy25jX5e1RtdFn1Eo3X"
+      ]
+    },
+    {
+      "Pos": "20",
+      "P+": "-1",
       "Artist and Title": "nublu - TIPUS ULUB TUUL (w/ Vaiko Eplik)",
-      "Days": "447",
+      "Days": "448",
       "Pk": "1",
       "(x?)": "(x2)",
-      "Streams": "3,243",
-      "Streams+": "+26",
-      "7Day": "22,730",
-      "7Day+": "+315",
-      "Total": "1,779,712",
+      "Streams": "3,383",
+      "Streams+": "+140",
+      "7Day": "22,578",
+      "7Day+": "-152",
+      "Total": "1,783,095",
       "track_id": "0DGsLP0TvRcU23zCme7zR2",
       "artist_ids": [
         "2cNMMulo6S2a0tHrwX2s6i",
@@ -338,120 +355,34 @@
       ]
     },
     {
-      "Pos": "20",
-      "P+": "-4",
-      "Artist and Title": "säm - kanuu",
-      "Days": "393",
-      "Pk": "1",
-      "(x?)": "(x73)",
-      "Streams": "3,058",
-      "Streams+": "-169",
-      "7Day": "23,396",
-      "7Day+": "-309",
-      "Total": "2,268,409",
-      "track_id": "1DYnCz8lfVmSCiDZLl0AsH",
-      "artist_ids": [
-        "6kvEy25jX5e1RtdFn1Eo3X"
-      ]
-    },
-    {
       "Pos": "21",
-      "P+": "+11",
-      "Artist and Title": "SADU - Mustrid",
-      "Days": "372",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "2,984",
-      "Streams+": "+583",
-      "7Day": "15,501",
-      "7Day+": "+1,344",
-      "Total": "972,230",
-      "track_id": "4tOHWbl6q8ZYnspnbsb8nf",
-      "artist_ids": [
-        "15lwjkERMR7PNuyja5wX5K"
-      ]
-    },
-    {
-      "Pos": "22",
-      "P+": "+9",
-      "Artist and Title": "SADU - Igavuse teisel pool",
-      "Days": "329",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "2,958",
-      "Streams+": "+543",
-      "7Day": "15,519",
-      "7Day+": "+1,309",
-      "Total": "682,743",
-      "track_id": "19UjxZfTUUPTBTvADICXKw",
-      "artist_ids": [
-        "15lwjkERMR7PNuyja5wX5K"
-      ]
-    },
-    {
-      "Pos": "23",
-      "P+": "+14",
-      "Artist and Title": "SADU - Nälg",
-      "Days": "368",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "2,831",
-      "Streams+": "+522",
-      "7Day": "15,180",
-      "7Day+": "+1,263",
-      "Total": "866,115",
-      "track_id": "2pCih9J1SLfoYF8KyWKqdE",
-      "artist_ids": [
-        "15lwjkERMR7PNuyja5wX5K"
-      ]
-    },
-    {
-      "Pos": "24",
-      "P+": "-4",
+      "P+": "+3",
       "Artist and Title": "säm - maolensinu",
-      "Days": "147",
+      "Days": "148",
       "Pk": "1",
       "(x?)": "(x17)",
-      "Streams": "2,806",
-      "Streams+": "-283",
-      "7Day": "19,820",
-      "7Day+": "+84",
-      "Total": "857,411",
+      "Streams": "3,181",
+      "Streams+": "+375",
+      "7Day": "19,917",
+      "7Day+": "+97",
+      "Total": "860,592",
       "track_id": "12YCLxofqkR6KZJpAqWxR5",
       "artist_ids": [
         "6kvEy25jX5e1RtdFn1Eo3X"
       ]
     },
     {
-      "Pos": "25",
-      "P+": "-7",
-      "Artist and Title": "triibupasta - vaksalis (w/ Merilin Mälk)",
-      "Days": "119",
-      "Pk": "1",
-      "(x?)": "(x12)",
-      "Streams": "2,738",
-      "Streams+": "-366",
-      "7Day": "21,829",
-      "7Day+": "-503",
-      "Total": "658,852",
-      "track_id": "1N5mA3T4RyjrBBoo5pevYl",
-      "artist_ids": [
-        "2a8z7MVhEtvZXFbgEE9ihL",
-        "42fl0Ghjtvn7qaEfasZO5z"
-      ]
-    },
-    {
-      "Pos": "26",
-      "P+": "-7",
+      "Pos": "22",
+      "P+": "+4",
       "Artist and Title": "kanapoeg - vastu puud (w/ Kermo Murel, kohver, kurvad uudised)",
-      "Days": "106",
+      "Days": "107",
       "Pk": "1",
       "(x?)": "(x13)",
-      "Streams": "2,732",
-      "Streams+": "-371",
-      "7Day": "20,546",
-      "7Day+": "-206",
-      "Total": "563,656",
+      "Streams": "3,153",
+      "Streams+": "+421",
+      "7Day": "20,251",
+      "7Day+": "-295",
+      "Total": "566,809",
       "track_id": "3gx2AJdz4o5kqb2HUdyf61",
       "artist_ids": [
         "4DcfUd6vtd91yzX7F5FA83",
@@ -461,17 +392,86 @@
       ]
     },
     {
+      "Pos": "23",
+      "P+": "-1",
+      "Artist and Title": "SADU - Igavuse teisel pool",
+      "Days": "330",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "3,123",
+      "Streams+": "+165",
+      "7Day": "16,744",
+      "7Day+": "+1,225",
+      "Total": "685,866",
+      "track_id": "19UjxZfTUUPTBTvADICXKw",
+      "artist_ids": [
+        "15lwjkERMR7PNuyja5wX5K"
+      ]
+    },
+    {
+      "Pos": "24",
+      "P+": "-3",
+      "Artist and Title": "SADU - Mustrid",
+      "Days": "373",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "3,121",
+      "Streams+": "+137",
+      "7Day": "16,621",
+      "7Day+": "+1,120",
+      "Total": "975,351",
+      "track_id": "4tOHWbl6q8ZYnspnbsb8nf",
+      "artist_ids": [
+        "15lwjkERMR7PNuyja5wX5K"
+      ]
+    },
+    {
+      "Pos": "25",
+      "P+": "=",
+      "Artist and Title": "triibupasta - vaksalis (w/ Merilin Mälk)",
+      "Days": "120",
+      "Pk": "1",
+      "(x?)": "(x12)",
+      "Streams": "3,045",
+      "Streams+": "+307",
+      "7Day": "21,141",
+      "7Day+": "-688",
+      "Total": "661,897",
+      "track_id": "1N5mA3T4RyjrBBoo5pevYl",
+      "artist_ids": [
+        "2a8z7MVhEtvZXFbgEE9ihL",
+        "42fl0Ghjtvn7qaEfasZO5z"
+      ]
+    },
+    {
+      "Pos": "26",
+      "P+": "-3",
+      "Artist and Title": "SADU - Nälg",
+      "Days": "369",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "3,036",
+      "Streams+": "+205",
+      "7Day": "16,275",
+      "7Day+": "+1,095",
+      "Total": "869,151",
+      "track_id": "2pCih9J1SLfoYF8KyWKqdE",
+      "artist_ids": [
+        "15lwjkERMR7PNuyja5wX5K"
+      ]
+    },
+    {
       "Pos": "27",
-      "P+": "-5",
+      "P+": "=",
       "Artist and Title": "KATSEYE - Hootie Frutti",
-      "Days": "7",
+      "Days": "8",
       "Pk": "18",
       "(x?)": "",
-      "Streams": "2,688",
-      "Streams+": "-194",
-      "7Day": "20,346",
-      "7Day+": "+2,688",
-      "Total": "20,346",
+      "Streams": "3,001",
+      "Streams+": "+313",
+      "7Day": "19,899",
+      "7Day+": "-447",
+      "Total": "23,347",
       "track_id": "6oUUmBcUbZa5O48V5pjgAD",
       "artist_ids": [
         "3c0gDdb9lhnHGFtP4prQpn"
@@ -479,16 +479,16 @@
     },
     {
       "Pos": "28",
-      "P+": "-7",
+      "P+": "=",
       "Artist and Title": "Tame Impala - Loser",
-      "Days": "25",
+      "Days": "26",
       "Pk": "15",
       "(x?)": "",
-      "Streams": "2,648",
-      "Streams+": "-314",
-      "7Day": "20,430",
-      "7Day+": "-324",
-      "Total": "56,779",
+      "Streams": "2,953",
+      "Streams+": "+305",
+      "7Day": "20,336",
+      "7Day+": "-94",
+      "Total": "59,732",
       "track_id": "7bxaFZ1O3cHkgLKMsdC3xR",
       "artist_ids": [
         "5INjqkS1o8h1imAzPqGZBb"
@@ -496,51 +496,16 @@
     },
     {
       "Pos": "29",
-      "P+": "-6",
-      "Artist and Title": "pupsies - misery.",
-      "Days": "58",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "2,582",
-      "Streams+": "-295",
-      "7Day": "19,133",
-      "7Day+": "-122",
-      "Total": "199,326",
-      "track_id": "6De8sirPzVyAoBDlQpcutY",
-      "artist_ids": [
-        "0Uo0W0Vfq9ZOLCFngwxOLm"
-      ]
-    },
-    {
-      "Pos": "30",
-      "P+": "+9",
-      "Artist and Title": "nublu - SÜGISTUULED (w/ Vaiko Eplik)",
-      "Days": "119",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "2,570",
-      "Streams+": "+278",
-      "7Day": "15,594",
-      "7Day+": "+695",
-      "Total": "253,492",
-      "track_id": "5sYCKJRuGlTBaf3ytklIfm",
-      "artist_ids": [
-        "2cNMMulo6S2a0tHrwX2s6i",
-        "4bUkC2pVAl1Hk0uXok7W1t"
-      ]
-    },
-    {
-      "Pos": "31",
-      "P+": "-5",
+      "P+": "+2",
       "Artist and Title": "nublu - Paraadna (w/ gameboy tetris, Raul Ojamaa)",
-      "Days": "1823",
+      "Days": "1824",
       "Pk": "1",
       "(x?)": "(x16)",
-      "Streams": "2,544",
-      "Streams+": "-226",
-      "7Day": "19,042",
-      "7Day+": "-30",
-      "Total": "3,255,913",
+      "Streams": "2,679",
+      "Streams+": "+135",
+      "7Day": "18,689",
+      "7Day+": "-353",
+      "Total": "3,258,592",
       "track_id": "5VEZQNZWsZaKb1Y2jB8SWJ",
       "artist_ids": [
         "2cNMMulo6S2a0tHrwX2s6i",
@@ -549,190 +514,34 @@
       ]
     },
     {
-      "Pos": "32",
-      "P+": "-2",
-      "Artist and Title": "nublu - WAIKUSE VALGE UDU (w/ Vaiko Eplik)",
-      "Days": "440",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "2,473",
-      "Streams+": "+47",
-      "7Day": "16,499",
-      "7Day+": "+483",
-      "Total": "1,115,690",
-      "track_id": "3m7hl9t6lEogbc36JOtQMb",
-      "artist_ids": [
-        "2cNMMulo6S2a0tHrwX2s6i",
-        "4bUkC2pVAl1Hk0uXok7W1t"
-      ]
-    },
-    {
-      "Pos": "33",
-      "P+": "+20",
+      "Pos": "30",
+      "P+": "+3",
       "Artist and Title": "SADU - Läbi roosipõõsate",
-      "Days": "301",
+      "Days": "302",
       "Pk": "17",
       "(x?)": "",
-      "Streams": "2,402",
-      "Streams+": "+336",
-      "7Day": "12,983",
-      "7Day+": "+986",
-      "Total": "534,052",
+      "Streams": "2,674",
+      "Streams+": "+272",
+      "7Day": "14,026",
+      "7Day+": "+1,043",
+      "Total": "536,726",
       "track_id": "4oCqS0d1y53LOD20AbuO77",
       "artist_ids": [
         "15lwjkERMR7PNuyja5wX5K"
       ]
     },
     {
-      "Pos": "34",
-      "P+": "-6",
-      "Artist and Title": "Küberünnak & Karmo - Lämmi",
-      "Days": "1710",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "2,386",
-      "Streams+": "-198",
-      "7Day": "18,501",
-      "7Day+": "-214",
-      "Total": "3,834,496",
-      "track_id": "03dUoht4jmfAZmpgCvOIkT",
-      "artist_ids": [
-        "55I7E3FxDsnuRqr0sQSrMf"
-      ]
-    },
-    {
-      "Pos": "35",
-      "P+": "+13",
-      "Artist and Title": "Smilers - Ainult unustamiseks",
-      "Days": "834",
-      "Pk": "22",
-      "(x?)": "",
-      "Streams": "2,372",
-      "Streams+": "+255",
-      "7Day": "16,058",
-      "7Day+": "+273",
-      "Total": "1,314,058",
-      "track_id": "7KLuj2JJaEnnO6ldrwPSw2",
-      "artist_ids": [
-        "3gDHpjemovd3LuV3tHgjOq"
-      ]
-    },
-    {
-      "Pos": "36",
-      "P+": "-7",
-      "Artist and Title": "ANOTR - Talk To You (ft. 54 Ultra) (w/ 54 Ultra)",
-      "Days": "3",
-      "Pk": "29",
-      "(x?)": "",
-      "Streams": "2,330",
-      "Streams+": "-247",
-      "7Day": "7,065",
-      "7Day+": "+2,330",
-      "Total": "7,065",
-      "track_id": "0eUP3XYOCAj7lGoz4LOhyQ",
-      "artist_ids": [
-        "4p5WgeiPSPpqPDs7T6OkWf",
-        "6X5L6rmyvrWWu60Gx6exiZ"
-      ]
-    },
-    {
-      "Pos": "37",
-      "P+": "+19",
-      "Artist and Title": "SADU - Mihklipäev",
-      "Days": "311",
-      "Pk": "17",
-      "(x?)": "",
-      "Streams": "2,283",
-      "Streams+": "+311",
-      "7Day": "13,492",
-      "7Day+": "+809",
-      "Total": "557,364",
-      "track_id": "4zFEuJe8ftDDsYnnYgSOWj",
-      "artist_ids": [
-        "15lwjkERMR7PNuyja5wX5K"
-      ]
-    },
-    {
-      "Pos": "38",
-      "P+": "+14",
-      "Artist and Title": "Smilers - Mojito",
-      "Days": "647",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "2,257",
-      "Streams+": "+165",
-      "7Day": "13,999",
-      "7Day+": "+488",
-      "Total": "1,019,383",
-      "track_id": "5c7Mswm6Ueq0nKlgH3rTwQ",
-      "artist_ids": [
-        "3gDHpjemovd3LuV3tHgjOq"
-      ]
-    },
-    {
-      "Pos": "39",
-      "P+": "-5",
-      "Artist and Title": "KATSEYE - Animal",
-      "Days": "28",
-      "Pk": "19",
-      "(x?)": "",
-      "Streams": "2,241",
-      "Streams+": "-121",
-      "7Day": "17,673",
-      "7Day+": "-397",
-      "Total": "75,090",
-      "track_id": "3ouNEk0tv5TTi8VWMe1xbX",
-      "artist_ids": [
-        "3c0gDdb9lhnHGFtP4prQpn"
-      ]
-    },
-    {
-      "Pos": "40",
-      "P+": "-13",
-      "Artist and Title": "Temper City - Self Aware",
-      "Days": "153",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "2,235",
-      "Streams+": "-525",
-      "7Day": "17,142",
-      "7Day+": "-247",
-      "Total": "397,426",
-      "track_id": "4qW3BbQAwZsrnu8a3ZRdyT",
-      "artist_ids": [
-        "5mHUmlJWkcoOk1NbjfrXWz"
-      ]
-    },
-    {
-      "Pos": "41",
-      "P+": "-3",
-      "Artist and Title": "nublu - push it (w/ maria kallastu)",
-      "Days": "812",
-      "Pk": "1",
-      "(x?)": "(x97)",
-      "Streams": "2,216",
-      "Streams+": "-80",
-      "7Day": "18,051",
-      "7Day+": "-270",
-      "Total": "3,513,718",
-      "track_id": "7AleqJvqrVBeQitkWntUUc",
-      "artist_ids": [
-        "2cNMMulo6S2a0tHrwX2s6i",
-        "6kSiYWWt4597uZNH0Cpjig"
-      ]
-    },
-    {
-      "Pos": "42",
-      "P+": "+7",
+      "Pos": "31",
+      "P+": "+11",
       "Artist and Title": "nublu - tšastuška (w/ TIEF CITY 44, Curly Strings)",
-      "Days": "49",
+      "Days": "50",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "2,213",
-      "Streams+": "+98",
-      "7Day": "14,963",
-      "7Day+": "+223",
-      "Total": "178,458",
+      "Streams": "2,654",
+      "Streams+": "+441",
+      "7Day": "15,221",
+      "7Day+": "+258",
+      "Total": "181,112",
       "track_id": "6GOu5qFVrkDMlMH7B7hCXD",
       "artist_ids": [
         "2cNMMulo6S2a0tHrwX2s6i",
@@ -741,34 +550,173 @@
       ]
     },
     {
-      "Pos": "43",
-      "P+": "-10",
-      "Artist and Title": "LEGEND - Miniseelik",
-      "Days": "35",
-      "Pk": "21",
+      "Pos": "32",
+      "P+": "=",
+      "Artist and Title": "nublu - WAIKUSE VALGE UDU (w/ Vaiko Eplik)",
+      "Days": "441",
+      "Pk": "7",
       "(x?)": "",
-      "Streams": "2,153",
-      "Streams+": "-235",
-      "7Day": "16,312",
-      "7Day+": "-457",
-      "Total": "94,820",
-      "track_id": "1c2IsgJcyt2k2SMlBXLY9X",
+      "Streams": "2,614",
+      "Streams+": "+141",
+      "7Day": "16,537",
+      "7Day+": "+38",
+      "Total": "1,118,304",
+      "track_id": "3m7hl9t6lEogbc36JOtQMb",
       "artist_ids": [
-        "3blKy1JFcGJzhAHQmxApSM"
+        "2cNMMulo6S2a0tHrwX2s6i",
+        "4bUkC2pVAl1Hk0uXok7W1t"
       ]
     },
     {
-      "Pos": "44",
-      "P+": "-9",
+      "Pos": "33",
+      "P+": "-4",
+      "Artist and Title": "pupsies - misery.",
+      "Days": "59",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "2,610",
+      "Streams+": "+28",
+      "7Day": "18,921",
+      "7Day+": "-212",
+      "Total": "201,936",
+      "track_id": "6De8sirPzVyAoBDlQpcutY",
+      "artist_ids": [
+        "0Uo0W0Vfq9ZOLCFngwxOLm"
+      ]
+    },
+    {
+      "Pos": "34",
+      "P+": "=",
+      "Artist and Title": "Küberünnak & Karmo - Lämmi",
+      "Days": "1711",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "2,594",
+      "Streams+": "+208",
+      "7Day": "18,075",
+      "7Day+": "-426",
+      "Total": "3,837,090",
+      "track_id": "03dUoht4jmfAZmpgCvOIkT",
+      "artist_ids": [
+        "55I7E3FxDsnuRqr0sQSrMf"
+      ]
+    },
+    {
+      "Pos": "35",
+      "P+": "-5",
+      "Artist and Title": "nublu - SÜGISTUULED (w/ Vaiko Eplik)",
+      "Days": "120",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "2,548",
+      "Streams+": "-22",
+      "7Day": "16,012",
+      "7Day+": "+418",
+      "Total": "256,040",
+      "track_id": "5sYCKJRuGlTBaf3ytklIfm",
+      "artist_ids": [
+        "2cNMMulo6S2a0tHrwX2s6i",
+        "4bUkC2pVAl1Hk0uXok7W1t"
+      ]
+    },
+    {
+      "Pos": "36",
+      "P+": "+1",
+      "Artist and Title": "SADU - Mihklipäev",
+      "Days": "312",
+      "Pk": "17",
+      "(x?)": "",
+      "Streams": "2,504",
+      "Streams+": "+221",
+      "7Day": "14,214",
+      "7Day+": "+722",
+      "Total": "559,868",
+      "track_id": "4zFEuJe8ftDDsYnnYgSOWj",
+      "artist_ids": [
+        "15lwjkERMR7PNuyja5wX5K"
+      ]
+    },
+    {
+      "Pos": "37",
+      "P+": "+3",
+      "Artist and Title": "Temper City - Self Aware",
+      "Days": "154",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "2,487",
+      "Streams+": "+252",
+      "7Day": "17,035",
+      "7Day+": "-107",
+      "Total": "399,913",
+      "track_id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "artist_ids": [
+        "5mHUmlJWkcoOk1NbjfrXWz"
+      ]
+    },
+    {
+      "Pos": "38",
+      "P+": "=",
+      "Artist and Title": "Smilers - Mojito",
+      "Days": "648",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "2,437",
+      "Streams+": "+180",
+      "7Day": "14,452",
+      "7Day+": "+453",
+      "Total": "1,021,820",
+      "track_id": "5c7Mswm6Ueq0nKlgH3rTwQ",
+      "artist_ids": [
+        "3gDHpjemovd3LuV3tHgjOq"
+      ]
+    },
+    {
+      "Pos": "39",
+      "P+": "-4",
+      "Artist and Title": "Smilers - Ainult unustamiseks",
+      "Days": "835",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "2,432",
+      "Streams+": "+60",
+      "7Day": "15,838",
+      "7Day+": "-220",
+      "Total": "1,316,490",
+      "track_id": "7KLuj2JJaEnnO6ldrwPSw2",
+      "artist_ids": [
+        "3gDHpjemovd3LuV3tHgjOq"
+      ]
+    },
+    {
+      "Pos": "40",
+      "P+": "-4",
+      "Artist and Title": "ANOTR - Talk To You (ft. 54 Ultra) (w/ 54 Ultra)",
+      "Days": "4",
+      "Pk": "29",
+      "(x?)": "",
+      "Streams": "2,403",
+      "Streams+": "+73",
+      "7Day": "9,468",
+      "7Day+": "+2,403",
+      "Total": "9,468",
+      "track_id": "0eUP3XYOCAj7lGoz4LOhyQ",
+      "artist_ids": [
+        "4p5WgeiPSPpqPDs7T6OkWf",
+        "6X5L6rmyvrWWu60Gx6exiZ"
+      ]
+    },
+    {
+      "Pos": "41",
+      "P+": "+3",
       "Artist and Title": "triibupasta - viinaingel (w/ An-Marlen)",
-      "Days": "476",
+      "Days": "477",
       "Pk": "2",
       "(x?)": "(x3)",
-      "Streams": "2,085",
-      "Streams+": "-256",
-      "7Day": "16,439",
-      "7Day+": "-391",
-      "Total": "2,115,884",
+      "Streams": "2,370",
+      "Streams+": "+285",
+      "7Day": "15,909",
+      "7Day+": "-530",
+      "Total": "2,118,254",
       "track_id": "3llyYmTWZDBGCZH76jF4ck",
       "artist_ids": [
         "2a8z7MVhEtvZXFbgEE9ihL",
@@ -776,35 +724,86 @@
       ]
     },
     {
-      "Pos": "45",
-      "P+": "+2",
-      "Artist and Title": "Buckshot - Fever (w/ fakemink)",
-      "Days": "323",
-      "Pk": "10",
+      "Pos": "42",
+      "P+": "+6",
+      "Artist and Title": "Agent M - Shokolaad",
+      "Days": "111",
+      "Pk": "4",
       "(x?)": "",
-      "Streams": "2,069",
-      "Streams+": "-95",
-      "7Day": "14,311",
-      "7Day+": "+53",
-      "Total": "825,233",
-      "track_id": "09xhawlPUifhftf8zuie7w",
+      "Streams": "2,366",
+      "Streams+": "+323",
+      "7Day": "13,753",
+      "7Day+": "+192",
+      "Total": "362,017",
+      "track_id": "6sz5KfeiBWSIPClpmOoKi8",
       "artist_ids": [
-        "0HPG2EIdGCP6gjXW0KzrJq",
-        "0qc4BFxcwRFZfevTck4fOi"
+        "5zk9Aqw5yy3W87rKtOCecP"
+      ]
+    },
+    {
+      "Pos": "43",
+      "P+": "NEW",
+      "Artist and Title": "Clicherik - Musita (w/ miauf)",
+      "Days": "1",
+      "Pk": "43",
+      "(x?)": "",
+      "Streams": "2,366",
+      "Streams+": "",
+      "7Day": "2,366",
+      "7Day+": "+2,366",
+      "Total": "2,366",
+      "track_id": "0dbI2ksA2zrr44I2v0w3xY",
+      "artist_ids": [
+        "5fKKHZpDVCWNEvhJs08NDj",
+        "2Uq86R8GVp6ZattuSXZI0n"
+      ]
+    },
+    {
+      "Pos": "44",
+      "P+": "-5",
+      "Artist and Title": "KATSEYE - Animal",
+      "Days": "29",
+      "Pk": "19",
+      "(x?)": "",
+      "Streams": "2,312",
+      "Streams+": "+71",
+      "7Day": "16,883",
+      "7Day+": "-790",
+      "Total": "77,402",
+      "track_id": "3ouNEk0tv5TTi8VWMe1xbX",
+      "artist_ids": [
+        "3c0gDdb9lhnHGFtP4prQpn"
+      ]
+    },
+    {
+      "Pos": "45",
+      "P+": "-2",
+      "Artist and Title": "LEGEND - Miniseelik",
+      "Days": "36",
+      "Pk": "21",
+      "(x?)": "",
+      "Streams": "2,300",
+      "Streams+": "+147",
+      "7Day": "15,962",
+      "7Day+": "-350",
+      "Total": "97,120",
+      "track_id": "1c2IsgJcyt2k2SMlBXLY9X",
+      "artist_ids": [
+        "3blKy1JFcGJzhAHQmxApSM"
       ]
     },
     {
       "Pos": "46",
-      "P+": "+4",
+      "P+": "=",
       "Artist and Title": "Michael Jackson - Billie Jean",
-      "Days": "122",
+      "Days": "123",
       "Pk": "9",
       "(x?)": "",
-      "Streams": "2,054",
-      "Streams+": "-60",
-      "7Day": "14,595",
-      "7Day+": "+66",
-      "Total": "380,032",
+      "Streams": "2,288",
+      "Streams+": "+234",
+      "7Day": "14,608",
+      "7Day+": "+13",
+      "Total": "382,320",
       "track_id": "7J1uxwnxfQLu4APicE5Rnj",
       "artist_ids": [
         "3fMbdgg4jU18AjLCKBhRSm"
@@ -812,16 +811,51 @@
     },
     {
       "Pos": "47",
-      "P+": "-11",
+      "P+": "+4",
+      "Artist and Title": "triibupasta - LLC",
+      "Days": "478",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "2,288",
+      "Streams+": "+312",
+      "7Day": "15,935",
+      "7Day+": "-691",
+      "Total": "2,030,889",
+      "track_id": "5JhljRLzNxMRHho5AoQzAM",
+      "artist_ids": [
+        "2a8z7MVhEtvZXFbgEE9ihL"
+      ]
+    },
+    {
+      "Pos": "48",
+      "P+": "-7",
+      "Artist and Title": "nublu - push it (w/ maria kallastu)",
+      "Days": "813",
+      "Pk": "1",
+      "(x?)": "(x97)",
+      "Streams": "2,277",
+      "Streams+": "+61",
+      "7Day": "17,302",
+      "7Day+": "-749",
+      "Total": "3,515,995",
+      "track_id": "7AleqJvqrVBeQitkWntUUc",
+      "artist_ids": [
+        "2cNMMulo6S2a0tHrwX2s6i",
+        "6kSiYWWt4597uZNH0Cpjig"
+      ]
+    },
+    {
+      "Pos": "49",
+      "P+": "-2",
       "Artist and Title": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj)",
-      "Days": "134",
+      "Days": "135",
       "Pk": "2",
       "(x?)": "(x1)",
-      "Streams": "2,050",
-      "Streams+": "-270",
-      "7Day": "15,721",
-      "7Day+": "-214",
-      "Total": "487,091",
+      "Streams": "2,265",
+      "Streams+": "+215",
+      "7Day": "15,551",
+      "7Day+": "-170",
+      "Total": "489,356",
       "track_id": "6QFCMUUq1T2Vf5sFUXcuQ7",
       "artist_ids": [
         "1uNFoZAHBGtllmzznpCI3s",
@@ -829,86 +863,17 @@
       ]
     },
     {
-      "Pos": "48",
-      "P+": "-4",
-      "Artist and Title": "Agent M - Shokolaad",
-      "Days": "110",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "2,043",
-      "Streams+": "-159",
-      "7Day": "13,561",
-      "7Day+": "+157",
-      "Total": "359,651",
-      "track_id": "6sz5KfeiBWSIPClpmOoKi8",
-      "artist_ids": [
-        "5zk9Aqw5yy3W87rKtOCecP"
-      ]
-    },
-    {
-      "Pos": "49",
-      "P+": "-4",
-      "Artist and Title": "Malcolm Todd - Earrings",
-      "Days": "139",
-      "Pk": "24",
-      "(x?)": "",
-      "Streams": "2,028",
-      "Streams+": "-173",
-      "7Day": "13,481",
-      "7Day+": "-11",
-      "Total": "289,298",
-      "track_id": "0eAuGrXyGFYwur9ARUe7LJ",
-      "artist_ids": [
-        "7eKkW1zo5uzW8kUntiiBvz"
-      ]
-    },
-    {
       "Pos": "50",
-      "P+": "-10",
-      "Artist and Title": "ALIKA - parasiit (w/ säm)",
-      "Days": "455",
-      "Pk": "1",
-      "(x?)": "(x8)",
-      "Streams": "2,022",
-      "Streams+": "-236",
-      "7Day": "15,744",
-      "7Day+": "-281",
-      "Total": "1,886,229",
-      "track_id": "2qW8hfxkbyrDYowSKMCMMv",
-      "artist_ids": [
-        "0k7PxyzK6aIWSzmC3522c4",
-        "6kvEy25jX5e1RtdFn1Eo3X"
-      ]
-    },
-    {
-      "Pos": "51",
-      "P+": "-8",
-      "Artist and Title": "triibupasta - LLC",
-      "Days": "477",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "1,976",
-      "Streams+": "-237",
-      "7Day": "16,626",
-      "7Day+": "-556",
-      "Total": "2,028,601",
-      "track_id": "5JhljRLzNxMRHho5AoQzAM",
-      "artist_ids": [
-        "2a8z7MVhEtvZXFbgEE9ihL"
-      ]
-    },
-    {
-      "Pos": "52",
-      "P+": "-10",
+      "P+": "+2",
       "Artist and Title": "An-Marlen - Tähtede eest (w/ Kermo Murel)",
-      "Days": "84",
+      "Days": "85",
       "Pk": "2",
       "(x?)": "(x1)",
-      "Streams": "1,955",
-      "Streams+": "-260",
-      "7Day": "14,948",
-      "7Day+": "-247",
-      "Total": "292,114",
+      "Streams": "2,259",
+      "Streams+": "+304",
+      "7Day": "14,512",
+      "7Day+": "-436",
+      "Total": "294,373",
       "track_id": "4PtTBY7WI6fLot8TpXhENb",
       "artist_ids": [
         "4Ej2jIiPJF0VL1F92mwmOx",
@@ -916,52 +881,86 @@
       ]
     },
     {
-      "Pos": "53",
-      "P+": "+2",
-      "Artist and Title": "5MIINUST - Aluspükse (w/ nublu)",
-      "Days": "2418",
-      "Pk": "1",
-      "(x?)": "(x37)",
-      "Streams": "1,916",
-      "Streams+": "-68",
-      "7Day": "13,576",
-      "7Day+": "+176",
-      "Total": "5,102,115",
-      "track_id": "2xtLPeeUmIzM1hFw2qeH4U",
+      "Pos": "51",
+      "P+": "-2",
+      "Artist and Title": "Malcolm Todd - Earrings",
+      "Days": "140",
+      "Pk": "24",
+      "(x?)": "",
+      "Streams": "2,204",
+      "Streams+": "+176",
+      "7Day": "13,634",
+      "7Day+": "+153",
+      "Total": "291,502",
+      "track_id": "0eAuGrXyGFYwur9ARUe7LJ",
       "artist_ids": [
-        "6acByqWJeuaM0TX5VoY6an",
-        "2cNMMulo6S2a0tHrwX2s6i"
+        "7eKkW1zo5uzW8kUntiiBvz"
       ]
     },
     {
-      "Pos": "54",
-      "P+": "-13",
+      "Pos": "52",
+      "P+": "-2",
+      "Artist and Title": "ALIKA - parasiit (w/ säm)",
+      "Days": "456",
+      "Pk": "1",
+      "(x?)": "(x8)",
+      "Streams": "2,198",
+      "Streams+": "+176",
+      "7Day": "15,424",
+      "7Day+": "-320",
+      "Total": "1,888,427",
+      "track_id": "2qW8hfxkbyrDYowSKMCMMv",
+      "artist_ids": [
+        "0k7PxyzK6aIWSzmC3522c4",
+        "6kvEy25jX5e1RtdFn1Eo3X"
+      ]
+    },
+    {
+      "Pos": "53",
+      "P+": "+1",
       "Artist and Title": "The Killers - Mr. Brightside",
-      "Days": "248",
+      "Days": "249",
       "Pk": "32",
       "(x?)": "",
-      "Streams": "1,913",
-      "Streams+": "-319",
-      "7Day": "14,437",
-      "7Day+": "-223",
-      "Total": "410,854",
+      "Streams": "2,090",
+      "Streams+": "+177",
+      "7Day": "14,219",
+      "7Day+": "-218",
+      "Total": "412,944",
       "track_id": "003vvx7Niy0yvhvHt4a68B",
       "artist_ids": [
         "0C0XlULifJtAgn6ZNCW2eu"
       ]
     },
     {
+      "Pos": "54",
+      "P+": "+2",
+      "Artist and Title": "PRODIGYBOYS - TIIGER",
+      "Days": "64",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "2,078",
+      "Streams+": "+197",
+      "7Day": "14,116",
+      "7Day+": "-464",
+      "Total": "224,445",
+      "track_id": "3CZkADjuAGtge8amQMtETa",
+      "artist_ids": [
+        "31iPwhyJeGRard5sLii6qf"
+      ]
+    },
+    {
       "Pos": "55",
-      "P+": "-9",
+      "P+": "=",
       "Artist and Title": "Clicherik & Mäx - Lihtsalt kaaslane (w/ An-Marlen)",
-      "Days": "308",
+      "Days": "309",
       "Pk": "7",
       "(x?)": "",
-      "Streams": "1,911",
-      "Streams+": "-260",
-      "7Day": "14,650",
-      "7Day+": "-209",
-      "Total": "830,969",
+      "Streams": "2,075",
+      "Streams+": "+164",
+      "7Day": "14,189",
+      "7Day+": "-461",
+      "Total": "833,044",
       "track_id": "0StAgispgjih4elmadtyRY",
       "artist_ids": [
         "2K5ujJoG9L4INBflflfxtk",
@@ -970,205 +969,69 @@
     },
     {
       "Pos": "56",
-      "P+": "-5",
-      "Artist and Title": "PRODIGYBOYS - TIIGER",
-      "Days": "63",
-      "Pk": "5",
+      "P+": "-11",
+      "Artist and Title": "Buckshot - Fever (w/ fakemink)",
+      "Days": "324",
+      "Pk": "10",
       "(x?)": "",
-      "Streams": "1,881",
-      "Streams+": "-224",
-      "7Day": "14,580",
-      "7Day+": "-253",
-      "Total": "222,367",
-      "track_id": "3CZkADjuAGtge8amQMtETa",
+      "Streams": "2,021",
+      "Streams+": "-48",
+      "7Day": "14,199",
+      "7Day+": "-112",
+      "Total": "827,254",
+      "track_id": "09xhawlPUifhftf8zuie7w",
       "artist_ids": [
-        "31iPwhyJeGRard5sLii6qf"
+        "0HPG2EIdGCP6gjXW0KzrJq",
+        "0qc4BFxcwRFZfevTck4fOi"
       ]
     },
     {
       "Pos": "57",
-      "P+": "+8",
-      "Artist and Title": "Terminaator - Kuutõbine",
-      "Days": "824",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "1,847",
-      "Streams+": "+58",
-      "7Day": "11,551",
-      "7Day+": "+406",
-      "Total": "1,115,122",
-      "track_id": "58vQFuBhIktiBzXVgOu9Ue",
+      "P+": "-4",
+      "Artist and Title": "5MIINUST - Aluspükse (w/ nublu)",
+      "Days": "2419",
+      "Pk": "1",
+      "(x?)": "(x37)",
+      "Streams": "2,013",
+      "Streams+": "+97",
+      "7Day": "13,700",
+      "7Day+": "+124",
+      "Total": "5,104,128",
+      "track_id": "2xtLPeeUmIzM1hFw2qeH4U",
       "artist_ids": [
-        "1e69U0tUjsnT5qhuXkIMqH"
+        "6acByqWJeuaM0TX5VoY6an",
+        "2cNMMulo6S2a0tHrwX2s6i"
       ]
     },
     {
       "Pos": "58",
-      "P+": "+33",
-      "Artist and Title": "Smilers - Armastan ma luuserit",
-      "Days": "575",
-      "Pk": "16",
-      "(x?)": "",
-      "Streams": "1,828",
-      "Streams+": "+269",
-      "7Day": "11,691",
-      "7Day+": "+210",
-      "Total": "867,857",
-      "track_id": "5rjbaNNIAMTulWMipobmHh",
-      "artist_ids": [
-        "3gDHpjemovd3LuV3tHgjOq"
-      ]
-    },
-    {
-      "Pos": "59",
-      "P+": "+7",
-      "Artist and Title": "Põhja-Tallinn - Petteid Loon'd",
-      "Days": "501",
-      "Pk": "40",
-      "(x?)": "",
-      "Streams": "1,808",
-      "Streams+": "+60",
-      "7Day": "12,565",
-      "7Day+": "+45",
-      "Total": "758,573",
-      "track_id": "4LXJpmffJvloalMWQJVKMB",
-      "artist_ids": [
-        "3KI8jioJMzeN2aiJUMDbCs"
-      ]
-    },
-    {
-      "Pos": "60",
-      "P+": "+48",
-      "Artist and Title": "NOËP - Tuulte Sõnad (w/ Duo Ruut)",
-      "Days": "223",
-      "Pk": "31",
-      "(x?)": "",
-      "Streams": "1,797",
-      "Streams+": "+340",
-      "7Day": "6,881",
-      "7Day+": "+1,797",
-      "Total": "305,619",
-      "track_id": "7xqfnlZaBL9qDZSvaNgoNA",
-      "artist_ids": [
-        "0SjnenkLIpqRE9SUzogeOp",
-        "72h84OqPul8946qCx2zDcZ"
-      ]
-    },
-    {
-      "Pos": "61",
-      "P+": "+20",
-      "Artist and Title": "nublu - BACH/BRUNNER (w/ Vaiko Eplik)",
-      "Days": "172",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "1,757",
-      "Streams+": "+132",
-      "7Day": "5,847",
-      "7Day+": "+1,757",
-      "Total": "483,940",
-      "track_id": "4dsK7UQYhTU7UmW6h73EbN",
-      "artist_ids": [
-        "2cNMMulo6S2a0tHrwX2s6i",
-        "4bUkC2pVAl1Hk0uXok7W1t"
-      ]
-    },
-    {
-      "Pos": "62",
-      "P+": "-8",
+      "P+": "+4",
       "Artist and Title": "villemdrillem - oliver",
-      "Days": "446",
+      "Days": "447",
       "Pk": "2",
       "(x?)": "(x2)",
-      "Streams": "1,747",
-      "Streams+": "-306",
-      "7Day": "12,759",
-      "7Day+": "-92",
-      "Total": "1,016,316",
+      "Streams": "1,998",
+      "Streams+": "+251",
+      "7Day": "12,690",
+      "7Day+": "-69",
+      "Total": "1,018,314",
       "track_id": "4oZfPQ6YL3j4YOaqMBxwcs",
       "artist_ids": [
         "5nZADoZFWVB90dHpk5zvXy"
       ]
     },
     {
-      "Pos": "63",
-      "P+": "+47",
-      "Artist and Title": "SADU - See pole see",
-      "Days": "253",
-      "Pk": "19",
-      "(x?)": "",
-      "Streams": "1,721",
-      "Streams+": "+264",
-      "7Day": "9,742",
-      "7Day+": "+1,721",
-      "Total": "404,083",
-      "track_id": "1odMgTx7hnGKx84hSSdT0X",
-      "artist_ids": [
-        "15lwjkERMR7PNuyja5wX5K"
-      ]
-    },
-    {
-      "Pos": "64",
-      "P+": "=",
-      "Artist and Title": "Põhja-Tallinn - Nii lihtsalt ei saa",
-      "Days": "52",
-      "Pk": "64",
-      "(x?)": "",
-      "Streams": "1,712",
-      "Streams+": "-109",
-      "7Day": "4,691",
-      "7Day+": "+1,712",
-      "Total": "71,525",
-      "track_id": "5DgZexAzeen9W3ZhXA7F7r",
-      "artist_ids": [
-        "3KI8jioJMzeN2aiJUMDbCs"
-      ]
-    },
-    {
-      "Pos": "65",
-      "P+": "+11",
-      "Artist and Title": "Arg Part - Nagu Filmis",
-      "Days": "47",
-      "Pk": "55",
-      "(x?)": "",
-      "Streams": "1,692",
-      "Streams+": "+33",
-      "7Day": "11,491",
-      "7Day+": "+44",
-      "Total": "69,563",
-      "track_id": "3TrU01Yjs8ViuIkPh8eSpu",
-      "artist_ids": [
-        "7ptB41iMNEx7qqZE80aTLw"
-      ]
-    },
-    {
-      "Pos": "66",
-      "P+": "-5",
-      "Artist and Title": "Empire Of The Sun - We Are The People",
-      "Days": "746",
-      "Pk": "15",
-      "(x?)": "",
-      "Streams": "1,675",
-      "Streams+": "-223",
-      "7Day": "14,075",
-      "7Day+": "-526",
-      "Total": "1,375,859",
-      "track_id": "3zEN0ii6s4DHHBpnTp3RP7",
-      "artist_ids": [
-        "67hb7towEyKvt5Z8Bx306c"
-      ]
-    },
-    {
-      "Pos": "67",
-      "P+": "-10",
+      "Pos": "59",
+      "P+": "+8",
       "Artist and Title": "An-Marlen - 100 roosi (w/ boipepperoni)",
-      "Days": "651",
+      "Days": "652",
       "Pk": "2",
       "(x?)": "(x6)",
-      "Streams": "1,674",
-      "Streams+": "-292",
-      "7Day": "14,388",
-      "7Day+": "-537",
-      "Total": "2,002,032",
+      "Streams": "1,964",
+      "Streams+": "+290",
+      "7Day": "13,896",
+      "7Day+": "-492",
+      "Total": "2,003,996",
       "track_id": "56ygCy6bOYAOTSdi6nRjQa",
       "artist_ids": [
         "4Ej2jIiPJF0VL1F92mwmOx",
@@ -1176,188 +1039,136 @@
       ]
     },
     {
-      "Pos": "68",
-      "P+": "-1",
+      "Pos": "60",
+      "P+": "-2",
+      "Artist and Title": "Smilers - Armastan ma luuserit",
+      "Days": "576",
+      "Pk": "16",
+      "(x?)": "",
+      "Streams": "1,933",
+      "Streams+": "+105",
+      "7Day": "11,822",
+      "7Day+": "+131",
+      "Total": "869,790",
+      "track_id": "5rjbaNNIAMTulWMipobmHh",
+      "artist_ids": [
+        "3gDHpjemovd3LuV3tHgjOq"
+      ]
+    },
+    {
+      "Pos": "61",
+      "P+": "+7",
       "Artist and Title": "Clicherik & Mäx - Käsipagasis",
-      "Days": "42",
+      "Days": "43",
       "Pk": "8",
       "(x?)": "",
-      "Streams": "1,659",
-      "Streams+": "-82",
-      "7Day": "11,735",
-      "7Day+": "-184",
-      "Total": "104,853",
+      "Streams": "1,920",
+      "Streams+": "+261",
+      "7Day": "11,803",
+      "7Day+": "+68",
+      "Total": "106,773",
       "track_id": "4X2oUX2NP6cTNXr2nZplQx",
       "artist_ids": [
         "2K5ujJoG9L4INBflflfxtk"
       ]
     },
     {
-      "Pos": "69",
-      "P+": "+20",
-      "Artist and Title": "Põhja-Tallinn - Küsin Endalt Nõu",
-      "Days": "31",
-      "Pk": "69",
+      "Pos": "62",
+      "P+": "+22",
+      "Artist and Title": "gameboy tetris - Incognito",
+      "Days": "251",
+      "Pk": "6",
       "(x?)": "",
-      "Streams": "1,637",
-      "Streams+": "+75",
-      "7Day": "8,065",
-      "7Day+": "+1,637",
-      "Total": "39,696",
-      "track_id": "2tzab1Cb0yQQOsGdEllzyj",
+      "Streams": "1,917",
+      "Streams+": "+434",
+      "7Day": "11,154",
+      "7Day+": "+186",
+      "Total": "502,301",
+      "track_id": "1xTFpnwtAB56vb8KqySM1d",
+      "artist_ids": [
+        "5LWs2DNQhJXiG6X2o4XUpQ"
+      ]
+    },
+    {
+      "Pos": "63",
+      "P+": "-4",
+      "Artist and Title": "Põhja-Tallinn - Petteid Loon'd",
+      "Days": "502",
+      "Pk": "40",
+      "(x?)": "",
+      "Streams": "1,893",
+      "Streams+": "+85",
+      "7Day": "12,505",
+      "7Day+": "-60",
+      "Total": "760,466",
+      "track_id": "4LXJpmffJvloalMWQJVKMB",
       "artist_ids": [
         "3KI8jioJMzeN2aiJUMDbCs"
       ]
     },
     {
-      "Pos": "70",
-      "P+": "+28",
-      "Artist and Title": "Terminaator - See Ei Ole Saladus",
-      "Days": "287",
-      "Pk": "16",
+      "Pos": "64",
+      "P+": "-1",
+      "Artist and Title": "SADU - See pole see",
+      "Days": "254",
+      "Pk": "19",
       "(x?)": "",
-      "Streams": "1,607",
-      "Streams+": "+122",
-      "7Day": "4,385",
-      "7Day+": "+1,607",
-      "Total": "368,454",
-      "track_id": "7M1rbHkSiSUK6yp0C71hgT",
+      "Streams": "1,884",
+      "Streams+": "+163",
+      "7Day": "10,281",
+      "7Day+": "+539",
+      "Total": "405,967",
+      "track_id": "1odMgTx7hnGKx84hSSdT0X",
+      "artist_ids": [
+        "15lwjkERMR7PNuyja5wX5K"
+      ]
+    },
+    {
+      "Pos": "65",
+      "P+": "-1",
+      "Artist and Title": "Põhja-Tallinn - Nii lihtsalt ei saa",
+      "Days": "53",
+      "Pk": "64",
+      "(x?)": "",
+      "Streams": "1,871",
+      "Streams+": "+159",
+      "7Day": "6,562",
+      "7Day+": "+1,871",
+      "Total": "73,396",
+      "track_id": "5DgZexAzeen9W3ZhXA7F7r",
+      "artist_ids": [
+        "3KI8jioJMzeN2aiJUMDbCs"
+      ]
+    },
+    {
+      "Pos": "66",
+      "P+": "-9",
+      "Artist and Title": "Terminaator - Kuutõbine",
+      "Days": "825",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "1,859",
+      "Streams+": "+12",
+      "7Day": "11,614",
+      "7Day+": "+63",
+      "Total": "1,116,981",
+      "track_id": "58vQFuBhIktiBzXVgOu9Ue",
       "artist_ids": [
         "1e69U0tUjsnT5qhuXkIMqH"
       ]
     },
     {
-      "Pos": "71",
-      "P+": "+1",
-      "Artist and Title": "triibupasta - hugo toom",
-      "Days": "477",
-      "Pk": "1",
-      "(x?)": "(x44)",
-      "Streams": "1,607",
-      "Streams+": "-94",
-      "7Day": "11,872",
-      "7Day+": "-60",
-      "Total": "2,384,940",
-      "track_id": "47GAYk6gq9ZE6Ij9WWYdGP",
-      "artist_ids": [
-        "2a8z7MVhEtvZXFbgEE9ihL"
-      ]
-    },
-    {
-      "Pos": "72",
-      "P+": "-12",
-      "Artist and Title": "Dominic Fike - Babydoll",
-      "Days": "281",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "1,601",
-      "Streams+": "-316",
-      "7Day": "12,208",
-      "7Day+": "-197",
-      "Total": "787,931",
-      "track_id": "7yNf9YjeO5JXUE3JEBgnYc",
-      "artist_ids": [
-        "6USv9qhCn6zfxlBQIYJ9qs"
-      ]
-    },
-    {
-      "Pos": "73",
-      "P+": "+33",
-      "Artist and Title": "Dagö - Muusik",
-      "Days": "231",
-      "Pk": "34",
-      "(x?)": "",
-      "Streams": "1,585",
-      "Streams+": "+121",
-      "7Day": "9,703",
-      "7Day+": "+361",
-      "Total": "322,968",
-      "track_id": "6OxvI4d9Yf6OTTNoBmpDWi",
-      "artist_ids": [
-        "2UM53OcIf3rZISqx8IubNT"
-      ]
-    },
-    {
-      "Pos": "74",
-      "P+": "-5",
-      "Artist and Title": "Oasis - Wonderwall - Remastered",
-      "Days": "57",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "1,581",
-      "Streams+": "-140",
-      "7Day": "11,433",
-      "7Day+": "-247",
-      "Total": "130,373",
-      "track_id": "5qqabIl2vWzo9ApSC317sa",
-      "artist_ids": [
-        "2DaxqgrOhkeH0fpeiQq2f4"
-      ]
-    },
-    {
-      "Pos": "75",
-      "P+": "-13",
-      "Artist and Title": "Fixupboy - tesla - slowed electro mix",
-      "Days": "36",
-      "Pk": "49",
-      "(x?)": "",
-      "Streams": "1,559",
-      "Streams+": "-281",
-      "7Day": "12,032",
-      "7Day+": "-161",
-      "Total": "63,313",
-      "track_id": "7l6GqlQeKhLoERK0rDzvvm",
-      "artist_ids": [
-        "6wZXpugmBbTg3lqKupAEEX"
-      ]
-    },
-    {
-      "Pos": "76",
-      "P+": "-17",
-      "Artist and Title": "ADÉLA - Ain't In LA",
-      "Days": "28",
-      "Pk": "46",
-      "(x?)": "",
-      "Streams": "1,545",
-      "Streams+": "-383",
-      "7Day": "12,110",
-      "7Day+": "-121",
-      "Total": "46,702",
-      "track_id": "02HyFYmpzt02VJ8k0CqxKj",
-      "artist_ids": [
-        "2qanRMyA5bNuTvz1dK45OP"
-      ]
-    },
-    {
-      "Pos": "77",
-      "P+": "+7",
-      "Artist and Title": "Epp Kõiv - Linn on minu - Original (w/ Cino)",
-      "Days": "427",
-      "Pk": "49",
-      "(x?)": "",
-      "Streams": "1,544",
-      "Streams+": "-64",
-      "7Day": "10,825",
-      "7Day+": "+89",
-      "Total": "621,367",
-      "track_id": "21ey3uci99KyEczg32DE7p",
-      "artist_ids": [
-        "7yI5PNuwVA9YMrIglo00gm",
-        "1piDrCivMq7IXprrT0pbrS"
-      ]
-    },
-    {
-      "Pos": "78",
-      "P+": "-10",
+      "Pos": "67",
+      "P+": "+11",
       "Artist and Title": "Clicherik & Mäx - Palavaks (w/ triibupasta)",
-      "Days": "442",
+      "Days": "443",
       "Pk": "3",
       "(x?)": "(x1)",
-      "Streams": "1,534",
-      "Streams+": "-195",
-      "7Day": "13,334",
-      "7Day+": "-715",
-      "Total": "1,513,263",
+      "Streams": "1,854",
+      "Streams+": "+320",
+      "7Day": "12,738",
+      "7Day+": "-596",
+      "Total": "1,515,117",
       "track_id": "5sEzQnpzigAaZRxfSLbZcy",
       "artist_ids": [
         "2K5ujJoG9L4INBflflfxtk",
@@ -1365,34 +1176,224 @@
       ]
     },
     {
-      "Pos": "79",
-      "P+": "+56",
-      "Artist and Title": "Smilers - Käime katuseid mööda",
-      "Days": "90",
-      "Pk": "29",
+      "Pos": "68",
+      "P+": "+4",
+      "Artist and Title": "Dominic Fike - Babydoll",
+      "Days": "282",
+      "Pk": "4",
       "(x?)": "",
-      "Streams": "1,531",
-      "Streams+": "+185",
-      "7Day": "4,282",
-      "7Day+": "+1,531",
-      "Total": "125,790",
-      "track_id": "3mUnNCnlxennpXN88LoQv3",
+      "Streams": "1,842",
+      "Streams+": "+241",
+      "7Day": "12,312",
+      "7Day+": "+104",
+      "Total": "789,773",
+      "track_id": "7yNf9YjeO5JXUE3JEBgnYc",
       "artist_ids": [
-        "3gDHpjemovd3LuV3tHgjOq"
+        "6USv9qhCn6zfxlBQIYJ9qs"
+      ]
+    },
+    {
+      "Pos": "69",
+      "P+": "-4",
+      "Artist and Title": "Arg Part - Nagu Filmis",
+      "Days": "48",
+      "Pk": "55",
+      "(x?)": "",
+      "Streams": "1,827",
+      "Streams+": "+135",
+      "7Day": "11,594",
+      "7Day+": "+103",
+      "Total": "71,390",
+      "track_id": "3TrU01Yjs8ViuIkPh8eSpu",
+      "artist_ids": [
+        "7ptB41iMNEx7qqZE80aTLw"
+      ]
+    },
+    {
+      "Pos": "70",
+      "P+": "+4",
+      "Artist and Title": "Oasis - Wonderwall - Remastered",
+      "Days": "58",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "1,787",
+      "Streams+": "+206",
+      "7Day": "11,448",
+      "7Day+": "+15",
+      "Total": "132,160",
+      "track_id": "5qqabIl2vWzo9ApSC317sa",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ]
+    },
+    {
+      "Pos": "71",
+      "P+": "+6",
+      "Artist and Title": "Epp Kõiv - Linn on minu - Original (w/ Cino)",
+      "Days": "428",
+      "Pk": "49",
+      "(x?)": "",
+      "Streams": "1,786",
+      "Streams+": "+242",
+      "7Day": "11,061",
+      "7Day+": "+236",
+      "Total": "623,153",
+      "track_id": "21ey3uci99KyEczg32DE7p",
+      "artist_ids": [
+        "7yI5PNuwVA9YMrIglo00gm",
+        "1piDrCivMq7IXprrT0pbrS"
+      ]
+    },
+    {
+      "Pos": "72",
+      "P+": "+14",
+      "Artist and Title": "35maffia - TARHUNN",
+      "Days": "78",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "1,783",
+      "Streams+": "+326",
+      "7Day": "10,037",
+      "7Day+": "+243",
+      "Total": "225,112",
+      "track_id": "06N4ViKaXq3X3bai5OD1yS",
+      "artist_ids": [
+        "6InNzKJKxvz26iIUyk0Eq7"
+      ]
+    },
+    {
+      "Pos": "73",
+      "P+": "+3",
+      "Artist and Title": "ADÉLA - Ain't In LA",
+      "Days": "29",
+      "Pk": "46",
+      "(x?)": "",
+      "Streams": "1,759",
+      "Streams+": "+214",
+      "7Day": "12,054",
+      "7Day+": "-56",
+      "Total": "48,461",
+      "track_id": "02HyFYmpzt02VJ8k0CqxKj",
+      "artist_ids": [
+        "2qanRMyA5bNuTvz1dK45OP"
+      ]
+    },
+    {
+      "Pos": "74",
+      "P+": "+14",
+      "Artist and Title": "HUGEL - Jamaican (Bam Bam) (w/ SOLTO (FR))",
+      "Days": "37",
+      "Pk": "67",
+      "(x?)": "",
+      "Streams": "1,750",
+      "Streams+": "+312",
+      "7Day": "10,838",
+      "7Day+": "-137",
+      "Total": "56,934",
+      "track_id": "7e4zDInS6tA2jwzphvs2Ay",
+      "artist_ids": [
+        "5PlfkPxwCpRRWQJBxCa0By",
+        "0F3tUZeb9dLNEpxCpzEBQt"
+      ]
+    },
+    {
+      "Pos": "75",
+      "P+": "-4",
+      "Artist and Title": "triibupasta - hugo toom",
+      "Days": "478",
+      "Pk": "1",
+      "(x?)": "(x44)",
+      "Streams": "1,749",
+      "Streams+": "+142",
+      "7Day": "11,733",
+      "7Day+": "-139",
+      "Total": "2,386,689",
+      "track_id": "47GAYk6gq9ZE6Ij9WWYdGP",
+      "artist_ids": [
+        "2a8z7MVhEtvZXFbgEE9ihL"
+      ]
+    },
+    {
+      "Pos": "76",
+      "P+": "-16",
+      "Artist and Title": "NOËP - Tuulte Sõnad (w/ Duo Ruut)",
+      "Days": "224",
+      "Pk": "31",
+      "(x?)": "",
+      "Streams": "1,731",
+      "Streams+": "-66",
+      "7Day": "7,315",
+      "7Day+": "+434",
+      "Total": "307,350",
+      "track_id": "7xqfnlZaBL9qDZSvaNgoNA",
+      "artist_ids": [
+        "0SjnenkLIpqRE9SUzogeOp",
+        "72h84OqPul8946qCx2zDcZ"
+      ]
+    },
+    {
+      "Pos": "77",
+      "P+": "+16",
+      "Artist and Title": "nublu - peagi saabun...",
+      "Days": "631",
+      "Pk": "1",
+      "(x?)": "(x7)",
+      "Streams": "1,703",
+      "Streams+": "+301",
+      "7Day": "10,733",
+      "7Day+": "-15",
+      "Total": "1,936,258",
+      "track_id": "5qih3ineeZsuEgr5TlyeaZ",
+      "artist_ids": [
+        "2cNMMulo6S2a0tHrwX2s6i"
+      ]
+    },
+    {
+      "Pos": "78",
+      "P+": "-12",
+      "Artist and Title": "Empire Of The Sun - We Are The People",
+      "Days": "747",
+      "Pk": "15",
+      "(x?)": "",
+      "Streams": "1,692",
+      "Streams+": "+17",
+      "7Day": "13,444",
+      "7Day+": "-631",
+      "Total": "1,377,551",
+      "track_id": "3zEN0ii6s4DHHBpnTp3RP7",
+      "artist_ids": [
+        "67hb7towEyKvt5Z8Bx306c"
+      ]
+    },
+    {
+      "Pos": "79",
+      "P+": "+16",
+      "Artist and Title": "Zara Larsson - Lush Life",
+      "Days": "678",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "1,687",
+      "Streams+": "+297",
+      "7Day": "11,001",
+      "7Day+": "-132",
+      "Total": "1,338,031",
+      "track_id": "1rIKgCH4H52lrvDcz50hS8",
+      "artist_ids": [
+        "1Xylc3o4UrD53lo9CvFvVg"
       ]
     },
     {
       "Pos": "80",
-      "P+": "+5",
+      "P+": "=",
       "Artist and Title": "Olivia Rodrigo - the cure",
-      "Days": "90",
+      "Days": "91",
       "Pk": "11",
       "(x?)": "",
-      "Streams": "1,522",
-      "Streams+": "-85",
-      "7Day": "11,308",
-      "7Day+": "-174",
-      "Total": "183,508",
+      "Streams": "1,676",
+      "Streams+": "+154",
+      "7Day": "11,380",
+      "7Day+": "+72",
+      "Total": "185,184",
       "track_id": "55pBIZO1cqoldeqpp5WR7H",
       "artist_ids": [
         "1McMsnEElThX1knmY4oliG"
@@ -1400,33 +1401,53 @@
     },
     {
       "Pos": "81",
-      "P+": "-8",
-      "Artist and Title": "Clicherik & Mäx - Keerleb",
-      "Days": "503",
-      "Pk": "1",
-      "(x?)": "(x24)",
-      "Streams": "1,509",
-      "Streams+": "-178",
-      "7Day": "11,967",
-      "7Day+": "-364",
-      "Total": "1,460,929",
-      "track_id": "4URODx8BrDkLRFmfYrREL2",
+      "P+": "-20",
+      "Artist and Title": "nublu - BACH/BRUNNER (w/ Vaiko Eplik)",
+      "Days": "173",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "1,671",
+      "Streams+": "-86",
+      "7Day": "7,518",
+      "7Day+": "+1,671",
+      "Total": "485,611",
+      "track_id": "4dsK7UQYhTU7UmW6h73EbN",
       "artist_ids": [
-        "2K5ujJoG9L4INBflflfxtk"
+        "2cNMMulo6S2a0tHrwX2s6i",
+        "4bUkC2pVAl1Hk0uXok7W1t"
       ]
     },
     {
       "Pos": "82",
-      "P+": "=",
+      "P+": "+8",
+      "Artist and Title": "säm - armastan, ei armasta (w/ Emily J, dj lumi)",
+      "Days": "323",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "1,664",
+      "Streams+": "+239",
+      "7Day": "9,961",
+      "7Day+": "+62",
+      "Total": "928,648",
+      "track_id": "7gy6n6xauco1dttxquR39d",
+      "artist_ids": [
+        "6kvEy25jX5e1RtdFn1Eo3X",
+        "5ChprbFpHquoq5pkUUdY0v",
+        "2kGPFQTM6iZcSBTur8ste4"
+      ]
+    },
+    {
+      "Pos": "83",
+      "P+": "-1",
       "Artist and Title": "villemdrillem - soolane värska (w/ gameboy tetris)",
-      "Days": "419",
+      "Days": "420",
       "Pk": "2",
       "(x?)": "(x4)",
-      "Streams": "1,499",
-      "Streams+": "-125",
-      "7Day": "10,908",
-      "7Day+": "-24",
-      "Total": "723,608",
+      "Streams": "1,655",
+      "Streams+": "+156",
+      "7Day": "10,815",
+      "7Day+": "-93",
+      "Total": "725,263",
       "track_id": "6e8woXAZJO7CNxahQ35dQR",
       "artist_ids": [
         "5nZADoZFWVB90dHpk5zvXy",
@@ -1434,86 +1455,17 @@
       ]
     },
     {
-      "Pos": "83",
-      "P+": "-3",
-      "Artist and Title": "gameboy tetris - tabuuu",
-      "Days": "207",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "1,493",
-      "Streams+": "-138",
-      "7Day": "12,862",
-      "7Day+": "-549",
-      "Total": "632,674",
-      "track_id": "1MyTCLYyJ547w6FLSjb3om",
-      "artist_ids": [
-        "5LWs2DNQhJXiG6X2o4XUpQ"
-      ]
-    },
-    {
       "Pos": "84",
-      "P+": "-14",
-      "Artist and Title": "gameboy tetris - Incognito",
-      "Days": "250",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "1,483",
-      "Streams+": "-220",
-      "7Day": "10,968",
-      "7Day+": "-113",
-      "Total": "500,384",
-      "track_id": "1xTFpnwtAB56vb8KqySM1d",
-      "artist_ids": [
-        "5LWs2DNQhJXiG6X2o4XUpQ"
-      ]
-    },
-    {
-      "Pos": "85",
-      "P+": "+89",
-      "Artist and Title": "loenddd - Igavene - loenddd remix (w/ SADU)",
-      "Days": "61",
-      "Pk": "29",
-      "(x?)": "",
-      "Streams": "1,478",
-      "Streams+": "+228",
-      "7Day": "5,054",
-      "7Day+": "+1,478",
-      "Total": "85,323",
-      "track_id": "2vwpDXIcN14W6K2ZQ9JoEZ",
-      "artist_ids": [
-        "2FEt40DdyCyIhAhlJIR2aj",
-        "15lwjkERMR7PNuyja5wX5K"
-      ]
-    },
-    {
-      "Pos": "86",
-      "P+": "-23",
-      "Artist and Title": "35maffia - TARHUNN",
-      "Days": "77",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "1,457",
-      "Streams+": "-375",
-      "7Day": "9,794",
-      "7Day+": "+131",
-      "Total": "223,329",
-      "track_id": "06N4ViKaXq3X3bai5OD1yS",
-      "artist_ids": [
-        "6InNzKJKxvz26iIUyk0Eq7"
-      ]
-    },
-    {
-      "Pos": "87",
-      "P+": "-12",
+      "P+": "+3",
       "Artist and Title": "Pitbull - Give Me Everything (w/ Ne-Yo, AFROJACK, Nayer)",
-      "Days": "757",
+      "Days": "758",
       "Pk": "25",
       "(x?)": "",
-      "Streams": "1,445",
-      "Streams+": "-219",
-      "7Day": "10,570",
-      "7Day+": "+3",
-      "Total": "1,049,500",
+      "Streams": "1,654",
+      "Streams+": "+209",
+      "7Day": "10,474",
+      "7Day+": "-96",
+      "Total": "1,051,154",
       "track_id": "4QNpBfC0zvjKqPJcyqBy9W",
       "artist_ids": [
         "0TnOYISbd1XYRBk9myaseg",
@@ -1523,35 +1475,103 @@
       ]
     },
     {
-      "Pos": "88",
-      "P+": "-14",
-      "Artist and Title": "HUGEL - Jamaican (Bam Bam) (w/ SOLTO (FR))",
-      "Days": "36",
-      "Pk": "67",
+      "Pos": "85",
+      "P+": "-10",
+      "Artist and Title": "Fixupboy - tesla - slowed electro mix",
+      "Days": "37",
+      "Pk": "49",
       "(x?)": "",
-      "Streams": "1,438",
-      "Streams+": "-246",
-      "7Day": "10,975",
-      "7Day+": "-117",
-      "Total": "55,184",
-      "track_id": "7e4zDInS6tA2jwzphvs2Ay",
+      "Streams": "1,648",
+      "Streams+": "+89",
+      "7Day": "11,876",
+      "7Day+": "-156",
+      "Total": "64,961",
+      "track_id": "7l6GqlQeKhLoERK0rDzvvm",
       "artist_ids": [
-        "5PlfkPxwCpRRWQJBxCa0By",
-        "0F3tUZeb9dLNEpxCpzEBQt"
+        "6wZXpugmBbTg3lqKupAEEX"
+      ]
+    },
+    {
+      "Pos": "86",
+      "P+": "-17",
+      "Artist and Title": "Põhja-Tallinn - Küsin Endalt Nõu",
+      "Days": "32",
+      "Pk": "69",
+      "(x?)": "",
+      "Streams": "1,648",
+      "Streams+": "+11",
+      "7Day": "9,713",
+      "7Day+": "+1,648",
+      "Total": "41,344",
+      "track_id": "2tzab1Cb0yQQOsGdEllzyj",
+      "artist_ids": [
+        "3KI8jioJMzeN2aiJUMDbCs"
+      ]
+    },
+    {
+      "Pos": "87",
+      "P+": "+34",
+      "Artist and Title": "triibupasta - eurokraav",
+      "Days": "177",
+      "Pk": "2",
+      "(x?)": "(x2)",
+      "Streams": "1,587",
+      "Streams+": "+344",
+      "7Day": "10,129",
+      "7Day+": "-259",
+      "Total": "543,743",
+      "track_id": "78wbmf6GvpnohrMP9HXESq",
+      "artist_ids": [
+        "2a8z7MVhEtvZXFbgEE9ihL"
+      ]
+    },
+    {
+      "Pos": "88",
+      "P+": "+10",
+      "Artist and Title": "Michael Jackson - Beat It",
+      "Days": "120",
+      "Pk": "15",
+      "(x?)": "",
+      "Streams": "1,577",
+      "Streams+": "+196",
+      "7Day": "10,835",
+      "7Day+": "-221",
+      "Total": "307,170",
+      "track_id": "3BovdzfaX4jb5KFQwoPfAw",
+      "artist_ids": [
+        "3fMbdgg4jU18AjLCKBhRSm"
       ]
     },
     {
       "Pos": "89",
-      "P+": "-18",
+      "P+": "+18",
+      "Artist and Title": "Don Omar - Danza Kuduro (w/ Lucenzo)",
+      "Days": "825",
+      "Pk": "25",
+      "(x?)": "",
+      "Streams": "1,572",
+      "Streams+": "+245",
+      "7Day": "10,502",
+      "7Day+": "-292",
+      "Total": "1,158,807",
+      "track_id": "2a1o6ZejUi8U3wzzOtCOYw",
+      "artist_ids": [
+        "33ScadVnbm2X8kkUqOkC6Z",
+        "5bv5RplEOwdCvhq0EILh9E"
+      ]
+    },
+    {
+      "Pos": "90",
+      "P+": "-1",
       "Artist and Title": "5MIINUST - kõrvetab (w/ nublu, NEXUS)",
-      "Days": "1113",
+      "Days": "1114",
       "Pk": "1",
       "(x?)": "(x12)",
-      "Streams": "1,428",
-      "Streams+": "-273",
-      "7Day": "11,180",
-      "7Day+": "-307",
-      "Total": "2,811,645",
+      "Streams": "1,566",
+      "Streams+": "+138",
+      "7Day": "10,997",
+      "7Day+": "-183",
+      "Total": "2,813,211",
       "track_id": "7KgxiaRk8eshwZ7ThsJFoG",
       "artist_ids": [
         "6acByqWJeuaM0TX5VoY6an",
@@ -1560,138 +1580,34 @@
       ]
     },
     {
-      "Pos": "90",
-      "P+": "-2",
-      "Artist and Title": "säm - armastan, ei armasta (w/ Emily J, dj lumi)",
-      "Days": "322",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "1,425",
-      "Streams+": "-143",
-      "7Day": "9,899",
-      "7Day+": "+145",
-      "Total": "926,984",
-      "track_id": "7gy6n6xauco1dttxquR39d",
-      "artist_ids": [
-        "6kvEy25jX5e1RtdFn1Eo3X",
-        "5ChprbFpHquoq5pkUUdY0v",
-        "2kGPFQTM6iZcSBTur8ste4"
-      ]
-    },
-    {
       "Pos": "91",
-      "P+": "+13",
-      "Artist and Title": "nublu - Chiri Biri Binn",
-      "Days": "407",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "1,418",
-      "Streams+": "-47",
-      "7Day": "9,569",
-      "7Day+": "+219",
-      "Total": "664,850",
-      "track_id": "3uKvL9ZSerdmQsuVd5yerY",
+      "P+": "-8",
+      "Artist and Title": "gameboy tetris - tabuuu",
+      "Days": "208",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "1,565",
+      "Streams+": "+72",
+      "7Day": "12,194",
+      "7Day+": "-668",
+      "Total": "634,239",
+      "track_id": "1MyTCLYyJ547w6FLSjb3om",
       "artist_ids": [
-        "2cNMMulo6S2a0tHrwX2s6i"
+        "5LWs2DNQhJXiG6X2o4XUpQ"
       ]
     },
     {
       "Pos": "92",
-      "P+": "+36",
-      "Artist and Title": "Smilers - Tee mis sa tahad",
-      "Days": "388",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "1,410",
-      "Streams+": "+33",
-      "7Day": "2,787",
-      "7Day+": "+1,410",
-      "Total": "605,796",
-      "track_id": "6vzXc5nsa0JTMfAtWrZkIN",
-      "artist_ids": [
-        "3gDHpjemovd3LuV3tHgjOq"
-      ]
-    },
-    {
-      "Pos": "93",
-      "P+": "+2",
-      "Artist and Title": "nublu - peagi saabun...",
-      "Days": "630",
-      "Pk": "1",
-      "(x?)": "(x7)",
-      "Streams": "1,402",
-      "Streams+": "-106",
-      "7Day": "10,748",
-      "7Day+": "-164",
-      "Total": "1,934,555",
-      "track_id": "5qih3ineeZsuEgr5TlyeaZ",
-      "artist_ids": [
-        "2cNMMulo6S2a0tHrwX2s6i"
-      ]
-    },
-    {
-      "Pos": "94",
-      "P+": "+72",
-      "Artist and Title": "Mr. Happyman - Las Mina Proovin Siis Ka (Originaal)",
-      "Days": "313",
-      "Pk": "15",
-      "(x?)": "",
-      "Streams": "1,392",
-      "Streams+": "+114",
-      "7Day": "4,050",
-      "7Day+": "+1,392",
-      "Total": "438,306",
-      "track_id": "1Pjo9Nf25RgBByaafcXeBz",
-      "artist_ids": [
-        "48ot3YRwh464oFqFDT12Nb"
-      ]
-    },
-    {
-      "Pos": "95",
-      "P+": "-9",
-      "Artist and Title": "Zara Larsson - Lush Life",
-      "Days": "677",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "1,390",
-      "Streams+": "-217",
-      "7Day": "11,133",
-      "7Day+": "-181",
-      "Total": "1,336,344",
-      "track_id": "1rIKgCH4H52lrvDcz50hS8",
-      "artist_ids": [
-        "1Xylc3o4UrD53lo9CvFvVg"
-      ]
-    },
-    {
-      "Pos": "96",
-      "P+": "-2",
-      "Artist and Title": "Põhja-Tallinn - Lähen ja tulen - Studio version",
-      "Days": "387",
-      "Pk": "35",
-      "(x?)": "",
-      "Streams": "1,390",
-      "Streams+": "-126",
-      "7Day": "11,493",
-      "7Day+": "-282",
-      "Total": "572,099",
-      "track_id": "0xu7Ys3XoQMpfAOsLNcdUT",
-      "artist_ids": [
-        "3KI8jioJMzeN2aiJUMDbCs"
-      ]
-    },
-    {
-      "Pos": "97",
-      "P+": "-7",
+      "P+": "+5",
       "Artist and Title": "Calvin Harris - Outside (w/ Ellie Goulding)",
-      "Days": "649",
+      "Days": "650",
       "Pk": "1",
       "(x?)": "(x4)",
-      "Streams": "1,384",
-      "Streams+": "-177",
-      "7Day": "10,144",
-      "7Day+": "-91",
-      "Total": "900,962",
+      "Streams": "1,560",
+      "Streams+": "+176",
+      "7Day": "10,083",
+      "7Day+": "-61",
+      "Total": "902,522",
       "track_id": "7MmG8p0F9N3C4AXdK6o6Eb",
       "artist_ids": [
         "7CajNmpbOovFoOoasH2HaY",
@@ -1699,34 +1615,68 @@
       ]
     },
     {
-      "Pos": "98",
-      "P+": "-6",
-      "Artist and Title": "Michael Jackson - Beat It",
-      "Days": "119",
-      "Pk": "15",
+      "Pos": "93",
+      "P+": "NEW",
+      "Artist and Title": "PARTYNEXTDOOR - Some of Your Love",
+      "Days": "1",
+      "Pk": "93",
       "(x?)": "",
-      "Streams": "1,381",
-      "Streams+": "-145",
-      "7Day": "11,056",
-      "7Day+": "-237",
-      "Total": "305,593",
-      "track_id": "3BovdzfaX4jb5KFQwoPfAw",
+      "Streams": "1,556",
+      "Streams+": "",
+      "7Day": "1,556",
+      "7Day+": "+1,556",
+      "Total": "1,556",
+      "track_id": "554p4ro2rs7dHqGPwQX67H",
       "artist_ids": [
-        "3fMbdgg4jU18AjLCKBhRSm"
+        "2HPaUgqeutzr3jx5a9WyDV"
       ]
     },
     {
-      "Pos": "99",
-      "P+": "-21",
+      "Pos": "94",
+      "P+": "-24",
+      "Artist and Title": "Terminaator - See Ei Ole Saladus",
+      "Days": "288",
+      "Pk": "16",
+      "(x?)": "",
+      "Streams": "1,553",
+      "Streams+": "-54",
+      "7Day": "5,938",
+      "7Day+": "+1,553",
+      "Total": "370,007",
+      "track_id": "7M1rbHkSiSUK6yp0C71hgT",
+      "artist_ids": [
+        "1e69U0tUjsnT5qhuXkIMqH"
+      ]
+    },
+    {
+      "Pos": "95",
+      "P+": "+6",
+      "Artist and Title": "Ravyn Lenae - Love Me Not",
+      "Days": "539",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "1,542",
+      "Streams+": "+179",
+      "7Day": "10,449",
+      "7Day+": "-141",
+      "Total": "1,140,019",
+      "track_id": "4WFgvKVfEhb3IUAFGrutTR",
+      "artist_ids": [
+        "5RTLRtXjbXI2lSXc6jxlAz"
+      ]
+    },
+    {
+      "Pos": "96",
+      "P+": "+3",
       "Artist and Title": "Calvin Harris - I Need Your Love (w/ Ellie Goulding)",
-      "Days": "17",
+      "Days": "18",
       "Pk": "50",
       "(x?)": "",
-      "Streams": "1,378",
-      "Streams+": "-262",
-      "7Day": "11,497",
-      "7Day+": "-523",
-      "Total": "27,621",
+      "Streams": "1,536",
+      "Streams+": "+158",
+      "7Day": "11,049",
+      "7Day+": "-448",
+      "Total": "29,157",
       "track_id": "05SBRd4fXgn8FX7bf8BCAE",
       "artist_ids": [
         "7CajNmpbOovFoOoasH2HaY",
@@ -1734,17 +1684,242 @@
       ]
     },
     {
+      "Pos": "97",
+      "P+": "-16",
+      "Artist and Title": "Clicherik & Mäx - Keerleb",
+      "Days": "504",
+      "Pk": "1",
+      "(x?)": "(x24)",
+      "Streams": "1,533",
+      "Streams+": "+24",
+      "7Day": "11,526",
+      "7Day+": "-441",
+      "Total": "1,462,462",
+      "track_id": "4URODx8BrDkLRFmfYrREL2",
+      "artist_ids": [
+        "2K5ujJoG9L4INBflflfxtk"
+      ]
+    },
+    {
+      "Pos": "98",
+      "P+": "+22",
+      "Artist and Title": "Prospa - Free Your Mind (w/ Cloonee)",
+      "Days": "48",
+      "Pk": "87",
+      "(x?)": "",
+      "Streams": "1,525",
+      "Streams+": "+275",
+      "7Day": "9,822",
+      "7Day+": "-194",
+      "Total": "66,491",
+      "track_id": "39hHUnYBmyMwprzRaPODCX",
+      "artist_ids": [
+        "6HabM2PUM519iIxervGWSb",
+        "7MdlXmq2HViAJWo9cf30sR"
+      ]
+    },
+    {
+      "Pos": "99",
+      "P+": "+7",
+      "Artist and Title": "Katy Perry - The One That Got Away",
+      "Days": "115",
+      "Pk": "50",
+      "(x?)": "",
+      "Streams": "1,524",
+      "Streams+": "+183",
+      "7Day": "11,031",
+      "7Day+": "-287",
+      "Total": "193,661",
+      "track_id": "6hkOqJ5mE093AQf2lbZnsG",
+      "artist_ids": [
+        "6jJ0s89eD6GaHleKKya26X"
+      ]
+    },
+    {
       "Pos": "100",
-      "P+": "-3",
+      "P+": "+10",
+      "Artist and Title": "Rihanna - Don't Stop The Music",
+      "Days": "421",
+      "Pk": "68",
+      "(x?)": "",
+      "Streams": "1,510",
+      "Streams+": "+200",
+      "7Day": "10,547",
+      "7Day+": "-179",
+      "Total": "560,354",
+      "track_id": "1Jo0Zg7XlrA6z0mFTZVdkn",
+      "artist_ids": [
+        "5pKCCKE2ajJHZ9KAiaK11H"
+      ]
+    },
+    {
+      "Pos": "101",
+      "P+": "-22",
+      "Artist and Title": "Smilers - Käime katuseid mööda",
+      "Days": "91",
+      "Pk": "29",
+      "(x?)": "",
+      "Streams": "1,506",
+      "Streams+": "-25",
+      "7Day": "5,788",
+      "7Day+": "+1,506",
+      "Total": "127,296",
+      "track_id": "3mUnNCnlxennpXN88LoQv3",
+      "artist_ids": [
+        "3gDHpjemovd3LuV3tHgjOq"
+      ]
+    },
+    {
+      "Pos": "102",
+      "P+": "+32",
+      "Artist and Title": "PinkPantheress - Stateside + Zara Larsson (w/ Zara Larsson)",
+      "Days": "244",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "1,495",
+      "Streams+": "+288",
+      "7Day": "9,267",
+      "7Day+": "+19",
+      "Total": "680,015",
+      "track_id": "1DwscornXpj8fmOmYVlqZt",
+      "artist_ids": [
+        "78rUTD7y6Cy67W1RVzYs7t",
+        "1Xylc3o4UrD53lo9CvFvVg"
+      ]
+    },
+    {
+      "Pos": "103",
+      "P+": "-7",
+      "Artist and Title": "Põhja-Tallinn - Lähen ja tulen - Studio version",
+      "Days": "388",
+      "Pk": "35",
+      "(x?)": "",
+      "Streams": "1,488",
+      "Streams+": "+98",
+      "7Day": "11,224",
+      "7Day+": "-269",
+      "Total": "573,587",
+      "track_id": "0xu7Ys3XoQMpfAOsLNcdUT",
+      "artist_ids": [
+        "3KI8jioJMzeN2aiJUMDbCs"
+      ]
+    },
+    {
+      "Pos": "104",
+      "P+": "-13",
+      "Artist and Title": "nublu - Chiri Biri Binn",
+      "Days": "408",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "1,485",
+      "Streams+": "+67",
+      "7Day": "9,628",
+      "7Day+": "+59",
+      "Total": "666,335",
+      "track_id": "3uKvL9ZSerdmQsuVd5yerY",
+      "artist_ids": [
+        "2cNMMulo6S2a0tHrwX2s6i"
+      ]
+    },
+    {
+      "Pos": "105",
+      "P+": "+6",
+      "Artist and Title": "Chrystal - The Days - NOTION Remix (w/ NOTION)",
+      "Days": "626",
+      "Pk": "1",
+      "(x?)": "(x36)",
+      "Streams": "1,466",
+      "Streams+": "+162",
+      "7Day": "9,991",
+      "7Day+": "-312",
+      "Total": "1,888,896",
+      "track_id": "2FAZskT9yRjp2Oow9szJD8",
+      "artist_ids": [
+        "5bQ3wFgekuIMIcWJuxkqLK",
+        "1uRVM0wBdtyEuU582EeKJM"
+      ]
+    },
+    {
+      "Pos": "106",
+      "P+": "-21",
+      "Artist and Title": "loenddd - Igavene - loenddd remix (w/ SADU)",
+      "Days": "62",
+      "Pk": "29",
+      "(x?)": "",
+      "Streams": "1,464",
+      "Streams+": "-14",
+      "7Day": "6,518",
+      "7Day+": "+1,464",
+      "Total": "86,787",
+      "track_id": "2vwpDXIcN14W6K2ZQ9JoEZ",
+      "artist_ids": [
+        "2FEt40DdyCyIhAhlJIR2aj",
+        "15lwjkERMR7PNuyja5wX5K"
+      ]
+    },
+    {
+      "Pos": "107",
+      "P+": "+32",
+      "Artist and Title": "Smilers - Minu, Pets, Margus ja Priit",
+      "Days": "16",
+      "Pk": "76",
+      "(x?)": "",
+      "Streams": "1,462",
+      "Streams+": "+263",
+      "7Day": "3,844",
+      "7Day+": "+1,462",
+      "Total": "21,472",
+      "track_id": "3hCh6nKvx3ofxN6YNYMgyN",
+      "artist_ids": [
+        "3gDHpjemovd3LuV3tHgjOq"
+      ]
+    },
+    {
+      "Pos": "108",
+      "P+": "NEW",
+      "Artist and Title": "ENHYPEN - Bloody Paradise",
+      "Days": "1",
+      "Pk": "108",
+      "(x?)": "",
+      "Streams": "1,461",
+      "Streams+": "",
+      "7Day": "1,461",
+      "7Day+": "+1,461",
+      "Total": "1,461",
+      "track_id": "0lkDoxNvtLUNZcWnm9f8lF",
+      "artist_ids": [
+        "5t5FqBwTcgKTaWmfEbwQY9"
+      ]
+    },
+    {
+      "Pos": "109",
+      "P+": "+40",
+      "Artist and Title": "triibupasta - 6llekas",
+      "Days": "726",
+      "Pk": "3",
+      "(x?)": "(x2)",
+      "Streams": "1,455",
+      "Streams+": "+278",
+      "7Day": "9,497",
+      "7Day+": "-302",
+      "Total": "1,993,424",
+      "track_id": "42L8fRwgmWXnNcq1R5QsJr",
+      "artist_ids": [
+        "2a8z7MVhEtvZXFbgEE9ihL"
+      ]
+    },
+    {
+      "Pos": "110",
+      "P+": "-10",
       "Artist and Title": "nublu - Tamburiin (w/ gameboy tetris, Buck Fuddi)",
-      "Days": "559",
+      "Days": "560",
       "Pk": "2",
       "(x?)": "(x4)",
-      "Streams": "1,376",
-      "Streams+": "-110",
-      "7Day": "10,387",
-      "7Day+": "-80",
-      "Total": "1,022,306",
+      "Streams": "1,454",
+      "Streams+": "+78",
+      "7Day": "10,155",
+      "7Day+": "-232",
+      "Total": "1,023,760",
       "track_id": "3TKhfQOOHtA7QNtoju4cXn",
       "artist_ids": [
         "2cNMMulo6S2a0tHrwX2s6i",
@@ -1753,292 +1928,51 @@
       ]
     },
     {
-      "Pos": "101",
-      "P+": "-18",
-      "Artist and Title": "Ravyn Lenae - Love Me Not",
-      "Days": "538",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "1,363",
-      "Streams+": "-249",
-      "7Day": "10,590",
-      "7Day+": "-106",
-      "Total": "1,138,477",
-      "track_id": "4WFgvKVfEhb3IUAFGrutTR",
-      "artist_ids": [
-        "5RTLRtXjbXI2lSXc6jxlAz"
-      ]
-    },
-    {
-      "Pos": "102",
-      "P+": "+25",
-      "Artist and Title": "Childish Gambino - Heartbeat",
-      "Days": "554",
-      "Pk": "50",
-      "(x?)": "",
-      "Streams": "1,348",
-      "Streams+": "-31",
-      "7Day": "9,746",
-      "7Day+": "-168",
-      "Total": "692,098",
-      "track_id": "5AGQSF0ytihJyt96K5vW9d",
-      "artist_ids": [
-        "73sIBHcqh3Z3NyqHKZ7FOL"
-      ]
-    },
-    {
-      "Pos": "103",
-      "P+": "+35",
-      "Artist and Title": "Liis Lemsalu - Münt (w/ Lauri Saatpalu)",
-      "Days": "263",
-      "Pk": "1",
-      "(x?)": "(x8)",
-      "Streams": "1,347",
-      "Streams+": "+17",
-      "7Day": "7,570",
-      "7Day+": "+165",
-      "Total": "658,574",
-      "track_id": "6UoVyn8YeCaHoYvigwqqaJ",
-      "artist_ids": [
-        "2rdUWyphqOltYR6zPaMPrU",
-        "0teZDGivRVrcIf28rs9xVw"
-      ]
-    },
-    {
-      "Pos": "104",
-      "P+": "-11",
-      "Artist and Title": "Cuntsniffer - Meant To Be",
-      "Days": "61",
-      "Pk": "58",
-      "(x?)": "",
-      "Streams": "1,347",
-      "Streams+": "-178",
-      "7Day": "10,298",
-      "7Day+": "-121",
-      "Total": "102,678",
-      "track_id": "1g8u5MTX5ojGxovGP2kXQ6",
-      "artist_ids": [
-        "3NkJXmkbysV8LnsI2ast6U"
-      ]
-    },
-    {
-      "Pos": "105",
-      "P+": "-4",
-      "Artist and Title": "Vance Joy - Riptide",
-      "Days": "1126",
-      "Pk": "22",
-      "(x?)": "",
-      "Streams": "1,344",
-      "Streams+": "-134",
-      "7Day": "9,534",
-      "7Day+": "+34",
-      "Total": "1,461,906",
-      "track_id": "7yq4Qj7cqayVTp3FF9CWbm",
-      "artist_ids": [
-        "10exVja0key0uqUkk6LJRT"
-      ]
-    },
-    {
-      "Pos": "106",
-      "P+": "-27",
-      "Artist and Title": "Katy Perry - The One That Got Away",
-      "Days": "114",
-      "Pk": "50",
-      "(x?)": "",
-      "Streams": "1,341",
-      "Streams+": "-294",
-      "7Day": "11,318",
-      "7Day+": "-390",
-      "Total": "192,137",
-      "track_id": "6hkOqJ5mE093AQf2lbZnsG",
-      "artist_ids": [
-        "6jJ0s89eD6GaHleKKya26X"
-      ]
-    },
-    {
-      "Pos": "107",
-      "P+": "-30",
-      "Artist and Title": "Don Omar - Danza Kuduro (w/ Lucenzo)",
-      "Days": "824",
-      "Pk": "25",
-      "(x?)": "",
-      "Streams": "1,327",
-      "Streams+": "-330",
-      "7Day": "10,794",
-      "7Day+": "-237",
-      "Total": "1,157,235",
-      "track_id": "2a1o6ZejUi8U3wzzOtCOYw",
-      "artist_ids": [
-        "33ScadVnbm2X8kkUqOkC6Z",
-        "5bv5RplEOwdCvhq0EILh9E"
-      ]
-    },
-    {
-      "Pos": "108",
-      "P+": "+33",
-      "Artist and Title": "Clicherik & Mäx - Jolly Roger",
-      "Days": "260",
-      "Pk": "1",
-      "(x?)": "(x7)",
-      "Streams": "1,321",
-      "Streams+": "-4",
-      "7Day": "9,392",
-      "7Day+": "-134",
-      "Total": "812,120",
-      "track_id": "1sfLRNnzXOtQAJ612TCiWh",
-      "artist_ids": [
-        "2K5ujJoG9L4INBflflfxtk"
-      ]
-    },
-    {
-      "Pos": "109",
-      "P+": "+5",
+      "Pos": "111",
+      "P+": "-2",
       "Artist and Title": "säm - Kajakad",
-      "Days": "400",
+      "Days": "401",
       "Pk": "28",
       "(x?)": "",
-      "Streams": "1,311",
-      "Streams+": "-118",
-      "7Day": "10,877",
-      "7Day+": "-338",
-      "Total": "621,445",
+      "Streams": "1,443",
+      "Streams+": "+132",
+      "7Day": "10,426",
+      "7Day+": "-451",
+      "Total": "622,888",
       "track_id": "39FZkSipVTBbEmEdThXRXl",
       "artist_ids": [
         "6kvEy25jX5e1RtdFn1Eo3X"
       ]
     },
     {
-      "Pos": "110",
-      "P+": "-8",
-      "Artist and Title": "Rihanna - Don't Stop The Music",
-      "Days": "420",
-      "Pk": "68",
-      "(x?)": "",
-      "Streams": "1,310",
-      "Streams+": "-160",
-      "7Day": "10,726",
-      "7Day+": "-235",
-      "Total": "558,844",
-      "track_id": "1Jo0Zg7XlrA6z0mFTZVdkn",
-      "artist_ids": [
-        "5pKCCKE2ajJHZ9KAiaK11H"
-      ]
-    },
-    {
-      "Pos": "111",
-      "P+": "-8",
-      "Artist and Title": "Chrystal - The Days - NOTION Remix (w/ NOTION)",
-      "Days": "625",
-      "Pk": "1",
-      "(x?)": "(x36)",
-      "Streams": "1,304",
-      "Streams+": "-162",
-      "7Day": "10,303",
-      "7Day+": "-232",
-      "Total": "1,887,430",
-      "track_id": "2FAZskT9yRjp2Oow9szJD8",
-      "artist_ids": [
-        "5bQ3wFgekuIMIcWJuxkqLK",
-        "1uRVM0wBdtyEuU582EeKJM"
-      ]
-    },
-    {
       "Pos": "112",
-      "P+": "=",
-      "Artist and Title": "Nirvana - Smells Like Teen Spirit - Remastered",
-      "Days": "548",
-      "Pk": "57",
+      "P+": "-39",
+      "Artist and Title": "Dagö - Muusik",
+      "Days": "232",
+      "Pk": "34",
       "(x?)": "",
-      "Streams": "1,293",
-      "Streams+": "-143",
-      "7Day": "9,582",
-      "7Day+": "-107",
-      "Total": "633,675",
-      "track_id": "0gucTLf7trAf37Ua1uAyAu",
+      "Streams": "1,440",
+      "Streams+": "-145",
+      "7Day": "9,798",
+      "7Day+": "+95",
+      "Total": "324,408",
+      "track_id": "6OxvI4d9Yf6OTTNoBmpDWi",
       "artist_ids": [
-        "6olE6TJLqED3rqDCT0FyPh"
+        "2UM53OcIf3rZISqx8IubNT"
       ]
     },
     {
       "Pos": "113",
-      "P+": "+12",
-      "Artist and Title": "Steve Lacy - oh yeah?",
-      "Days": "10",
-      "Pk": "94",
-      "(x?)": "",
-      "Streams": "1,283",
-      "Streams+": "-103",
-      "7Day": "9,152",
-      "7Day+": "-144",
-      "Total": "13,074",
-      "track_id": "22NHkFYbgxB2Zirj29Gbp8",
-      "artist_ids": [
-        "57vWImR43h4CaDao012Ofp"
-      ]
-    },
-    {
-      "Pos": "114",
-      "P+": "-9",
-      "Artist and Title": "Rihanna - S&M",
-      "Days": "476",
-      "Pk": "76",
-      "(x?)": "",
-      "Streams": "1,281",
-      "Streams+": "-183",
-      "7Day": "9,501",
-      "7Day+": "-52",
-      "Total": "597,756",
-      "track_id": "7ySUcLPVX7KudhnmNcgY2D",
-      "artist_ids": [
-        "5pKCCKE2ajJHZ9KAiaK11H"
-      ]
-    },
-    {
-      "Pos": "115",
-      "P+": "+1",
-      "Artist and Title": "The Neighbourhood - Sweater Weather",
-      "Days": "2136",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "1,274",
-      "Streams+": "-138",
-      "7Day": "9,903",
-      "7Day+": "-226",
-      "Total": "3,711,249",
-      "track_id": "2QjOHCTQ1Jl3zawyYOpxh6",
-      "artist_ids": [
-        "77SW9BnxLY8rJ0RciFqkHh"
-      ]
-    },
-    {
-      "Pos": "116",
-      "P+": "-17",
-      "Artist and Title": "Küberünnak & Karmo - Suvepalavik",
-      "Days": "779",
-      "Pk": "2",
-      "(x?)": "(x3)",
-      "Streams": "1,273",
-      "Streams+": "-210",
-      "7Day": "10,906",
-      "7Day+": "-432",
-      "Total": "1,770,257",
-      "track_id": "1fySIg6QY2qyDgvChQv6la",
-      "artist_ids": [
-        "55I7E3FxDsnuRqr0sQSrMf"
-      ]
-    },
-    {
-      "Pos": "117",
       "P+": "+4",
       "Artist and Title": "Mac Miller - Cinderella (w/ Ty Dolla $ign)",
-      "Days": "86",
+      "Days": "87",
       "Pk": "54",
       "(x?)": "",
-      "Streams": "1,266",
-      "Streams+": "-132",
-      "7Day": "9,514",
-      "7Day+": "-305",
-      "Total": "139,975",
+      "Streams": "1,430",
+      "Streams+": "+164",
+      "7Day": "9,539",
+      "7Day+": "+25",
+      "Total": "141,405",
       "track_id": "2lpygKqzPFtItQ4ss3cgfb",
       "artist_ids": [
         "4LLpKhyESsyAXpc4laK94U",
@@ -2046,103 +1980,172 @@
       ]
     },
     {
-      "Pos": "118",
-      "P+": "+67",
+      "Pos": "114",
+      "P+": "+66",
+      "Artist and Title": "EiK 2509 - HEAD VAIMUD (w/ Mari Jürjens)",
+      "Days": "3",
+      "Pk": "58",
+      "(x?)": "",
+      "Streams": "1,427",
+      "Streams+": "+315",
+      "7Day": "4,493",
+      "7Day+": "+1,427",
+      "Total": "4,493",
+      "track_id": "4c5HWLAQUi31ZHi0sU7kSG",
+      "artist_ids": [
+        "3U0NdaCegcpzmmrIFradRB",
+        "0Lu67wIRXiogdq3vslX2Fz"
+      ]
+    },
+    {
+      "Pos": "115",
+      "P+": "-23",
+      "Artist and Title": "Smilers - Tee mis sa tahad",
+      "Days": "389",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "1,422",
+      "Streams+": "+12",
+      "7Day": "4,209",
+      "7Day+": "+1,422",
+      "Total": "607,218",
+      "track_id": "6vzXc5nsa0JTMfAtWrZkIN",
+      "artist_ids": [
+        "3gDHpjemovd3LuV3tHgjOq"
+      ]
+    },
+    {
+      "Pos": "116",
+      "P+": "+2",
       "Artist and Title": "villemdrillem - rändaja",
-      "Days": "696",
+      "Days": "697",
       "Pk": "5",
       "(x?)": "",
-      "Streams": "1,263",
-      "Streams+": "+56",
-      "7Day": "9,767",
-      "7Day+": "-160",
-      "Total": "997,546",
+      "Streams": "1,418",
+      "Streams+": "+155",
+      "7Day": "9,580",
+      "7Day+": "-187",
+      "Total": "998,964",
       "track_id": "3XCCqyBCVbR6gK5gHcDIHV",
       "artist_ids": [
         "5nZADoZFWVB90dHpk5zvXy"
       ]
     },
     {
-      "Pos": "119",
-      "P+": "RE",
-      "Artist and Title": "Genialistid - Leekiv Armastus",
-      "Days": "217",
-      "Pk": "28",
+      "Pos": "117",
+      "P+": "+25",
+      "Artist and Title": "Disco Lines - No Broke Boys (w/ Tinashe)",
+      "Days": "436",
+      "Pk": "6",
       "(x?)": "",
-      "Streams": "1,252",
-      "Streams+": "",
-      "7Day": "5,070",
-      "7Day+": "+81",
-      "Total": "290,496",
-      "track_id": "7Bw7gwUyiaDDXWkRm3dLDU",
+      "Streams": "1,417",
+      "Streams+": "+229",
+      "7Day": "9,138",
+      "7Day+": "-182",
+      "Total": "1,029,459",
+      "track_id": "3cZajhyr8LmtPfHZ9296tj",
       "artist_ids": [
-        "5vVPR1DWYXhNPfqUXkBbgU"
+        "5Kmr0b3ip8g9P2i0dLTC3Z",
+        "0NIIxcxNHmOoyBx03SfTCD"
+      ]
+    },
+    {
+      "Pos": "118",
+      "P+": "-24",
+      "Artist and Title": "Mr. Happyman - Las Mina Proovin Siis Ka (Originaal)",
+      "Days": "314",
+      "Pk": "15",
+      "(x?)": "",
+      "Streams": "1,410",
+      "Streams+": "+18",
+      "7Day": "5,460",
+      "7Day+": "+1,410",
+      "Total": "439,716",
+      "track_id": "1Pjo9Nf25RgBByaafcXeBz",
+      "artist_ids": [
+        "48ot3YRwh464oFqFDT12Nb"
+      ]
+    },
+    {
+      "Pos": "119",
+      "P+": "+12",
+      "Artist and Title": "villemdrillem - leekiv armastus",
+      "Days": "1156",
+      "Pk": "1",
+      "(x?)": "(x47)",
+      "Streams": "1,408",
+      "Streams+": "+183",
+      "7Day": "10,263",
+      "7Day+": "-464",
+      "Total": "2,802,092",
+      "track_id": "00hNKV1irlhbazTD3p7Uea",
+      "artist_ids": [
+        "5nZADoZFWVB90dHpk5zvXy"
       ]
     },
     {
       "Pos": "120",
-      "P+": "-33",
-      "Artist and Title": "Prospa - Free Your Mind (w/ Cloonee)",
-      "Days": "47",
-      "Pk": "87",
-      "(x?)": "",
-      "Streams": "1,250",
-      "Streams+": "-343",
-      "7Day": "10,016",
-      "7Day+": "-107",
-      "Total": "64,966",
-      "track_id": "39hHUnYBmyMwprzRaPODCX",
-      "artist_ids": [
-        "6HabM2PUM519iIxervGWSb",
-        "7MdlXmq2HViAJWo9cf30sR"
-      ]
-    },
-    {
-      "Pos": "121",
-      "P+": "-25",
-      "Artist and Title": "triibupasta - eurokraav",
-      "Days": "176",
-      "Pk": "2",
-      "(x?)": "(x2)",
-      "Streams": "1,243",
-      "Streams+": "-261",
-      "7Day": "10,388",
-      "7Day+": "-337",
-      "Total": "542,156",
-      "track_id": "78wbmf6GvpnohrMP9HXESq",
-      "artist_ids": [
-        "2a8z7MVhEtvZXFbgEE9ihL"
-      ]
-    },
-    {
-      "Pos": "122",
-      "P+": "=",
+      "P+": "+2",
       "Artist and Title": "Kermo Murel - Ebapopulaarne",
-      "Days": "547",
+      "Days": "548",
       "Pk": "1",
       "(x?)": "(x39)",
-      "Streams": "1,242",
-      "Streams+": "-153",
-      "7Day": "9,371",
-      "7Day+": "-121",
-      "Total": "2,212,178",
+      "Streams": "1,404",
+      "Streams+": "+162",
+      "7Day": "9,210",
+      "7Day+": "-161",
+      "Total": "2,213,582",
       "track_id": "4nnBWEm9NoFOxYl453b2XJ",
       "artist_ids": [
         "5L5CvCkNlaUISVFjUicdEf"
       ]
     },
     {
+      "Pos": "121",
+      "P+": "-5",
+      "Artist and Title": "Küberünnak & Karmo - Suvepalavik",
+      "Days": "780",
+      "Pk": "2",
+      "(x?)": "(x3)",
+      "Streams": "1,404",
+      "Streams+": "+131",
+      "7Day": "10,318",
+      "7Day+": "-588",
+      "Total": "1,771,661",
+      "track_id": "1fySIg6QY2qyDgvChQv6la",
+      "artist_ids": [
+        "55I7E3FxDsnuRqr0sQSrMf"
+      ]
+    },
+    {
+      "Pos": "122",
+      "P+": "-7",
+      "Artist and Title": "The Neighbourhood - Sweater Weather",
+      "Days": "2137",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "1,400",
+      "Streams+": "+126",
+      "7Day": "9,867",
+      "7Day+": "-36",
+      "Total": "3,712,649",
+      "track_id": "2QjOHCTQ1Jl3zawyYOpxh6",
+      "artist_ids": [
+        "77SW9BnxLY8rJ0RciFqkHh"
+      ]
+    },
+    {
       "Pos": "123",
-      "P+": "-6",
+      "P+": "=",
       "Artist and Title": "Maxtract - Tuuleiil (w/ Karmel)",
-      "Days": "502",
+      "Days": "503",
       "Pk": "42",
       "(x?)": "",
-      "Streams": "1,235",
-      "Streams+": "-175",
-      "7Day": "9,544",
-      "7Day+": "-184",
-      "Total": "717,894",
+      "Streams": "1,398",
+      "Streams+": "+163",
+      "7Day": "9,337",
+      "7Day+": "-207",
+      "Total": "719,292",
       "track_id": "5y630sZ2rHH1O5kHsGLLVm",
       "artist_ids": [
         "2zlXTz0YfSCyR6cgF807S1",
@@ -2151,16 +2154,138 @@
     },
     {
       "Pos": "124",
-      "P+": "-4",
+      "P+": "+29",
+      "Artist and Title": "Aitch - RMB (Ring My Bell)",
+      "Days": "25",
+      "Pk": "83",
+      "(x?)": "",
+      "Streams": "1,397",
+      "Streams+": "+223",
+      "7Day": "9,142",
+      "7Day+": "-162",
+      "Total": "34,141",
+      "track_id": "3z1qPPLWf0ytO4NyHS8pqS",
+      "artist_ids": [
+        "2PJEagPIxaBugeMjIyKVXF"
+      ]
+    },
+    {
+      "Pos": "125",
+      "P+": "+3",
+      "Artist and Title": "Bad Bunny - DtMF",
+      "Days": "335",
+      "Pk": "1",
+      "(x?)": "(x5)",
+      "Streams": "1,396",
+      "Streams+": "+168",
+      "7Day": "9,487",
+      "7Day+": "-231",
+      "Total": "776,718",
+      "track_id": "3sK8wGT43QFpWrvNQsrQya",
+      "artist_ids": [
+        "4q3ewBCX7sLwd24euuV69X"
+      ]
+    },
+    {
+      "Pos": "126",
+      "P+": "+30",
+      "Artist and Title": "MiyaGi & Endspiel - I Got Love (w/ Rem Digga)",
+      "Days": "1996",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "1,394",
+      "Streams+": "+235",
+      "7Day": "9,341",
+      "7Day+": "-131",
+      "Total": "2,605,243",
+      "track_id": "43wgyQXc2M9KmTDUqVzugM",
+      "artist_ids": [
+        "6L5bLEtpxwd0KOdOr3gtW4",
+        "2R1OELuSJzXjRm8lc8FjPC"
+      ]
+    },
+    {
+      "Pos": "127",
+      "P+": "+55",
+      "Artist and Title": "Clicherik & Mäx - Ujula (w/ triibupasta)",
+      "Days": "221",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "1,393",
+      "Streams+": "+288",
+      "7Day": "7,251",
+      "7Day+": "+125",
+      "Total": "491,101",
+      "track_id": "3HhxwiSRLA6R1WEmNt0E87",
+      "artist_ids": [
+        "2K5ujJoG9L4INBflflfxtk",
+        "2a8z7MVhEtvZXFbgEE9ihL"
+      ]
+    },
+    {
+      "Pos": "128",
+      "P+": "-2",
+      "Artist and Title": "The Goo Goo Dolls - Iris",
+      "Days": "641",
+      "Pk": "72",
+      "(x?)": "",
+      "Streams": "1,379",
+      "Streams+": "+147",
+      "7Day": "7,369",
+      "7Day+": "+111",
+      "Total": "840,151",
+      "track_id": "6Qyc6fS4DsZjB2mRW9DsQs",
+      "artist_ids": [
+        "2sil8z5kiy4r76CRTXxBCA"
+      ]
+    },
+    {
+      "Pos": "129",
+      "P+": "-15",
+      "Artist and Title": "Rihanna - S&M",
+      "Days": "477",
+      "Pk": "76",
+      "(x?)": "",
+      "Streams": "1,376",
+      "Streams+": "+95",
+      "7Day": "9,391",
+      "7Day+": "-110",
+      "Total": "599,132",
+      "track_id": "7ySUcLPVX7KudhnmNcgY2D",
+      "artist_ids": [
+        "5pKCCKE2ajJHZ9KAiaK11H"
+      ]
+    },
+    {
+      "Pos": "130",
+      "P+": "-27",
+      "Artist and Title": "Liis Lemsalu - Münt (w/ Lauri Saatpalu)",
+      "Days": "264",
+      "Pk": "1",
+      "(x?)": "(x8)",
+      "Streams": "1,373",
+      "Streams+": "+26",
+      "7Day": "7,586",
+      "7Day+": "+16",
+      "Total": "659,947",
+      "track_id": "6UoVyn8YeCaHoYvigwqqaJ",
+      "artist_ids": [
+        "2rdUWyphqOltYR6zPaMPrU",
+        "0teZDGivRVrcIf28rs9xVw"
+      ]
+    },
+    {
+      "Pos": "131",
+      "P+": "-7",
       "Artist and Title": "Drake - One Dance (w/ Wizkid, Kyla)",
-      "Days": "800",
+      "Days": "801",
       "Pk": "1",
       "(x?)": "(x84)",
-      "Streams": "1,234",
-      "Streams+": "-166",
-      "7Day": "9,346",
-      "7Day+": "-228",
-      "Total": "1,437,472",
+      "Streams": "1,369",
+      "Streams+": "+135",
+      "7Day": "9,247",
+      "7Day+": "-99",
+      "Total": "1,438,841",
       "track_id": "1zi7xx7UVEFkmKfv06H8x0",
       "artist_ids": [
         "3TVXtAsR1Inumwj472S9r4",
@@ -2169,365 +2294,240 @@
       ]
     },
     {
-      "Pos": "125",
-      "P+": "+27",
-      "Artist and Title": "Kermo Murel - Rahvalaul",
-      "Days": "463",
-      "Pk": "1",
-      "(x?)": "(x7)",
-      "Streams": "1,233",
-      "Streams+": "-69",
-      "7Day": "9,266",
-      "7Day+": "-34",
-      "Total": "1,943,389",
-      "track_id": "6pLUlgilUe0ky5UU6x5qH9",
-      "artist_ids": [
-        "5L5CvCkNlaUISVFjUicdEf"
-      ]
-    },
-    {
-      "Pos": "126",
-      "P+": "+3",
-      "Artist and Title": "The Goo Goo Dolls - Iris",
-      "Days": "640",
-      "Pk": "72",
-      "(x?)": "",
-      "Streams": "1,232",
-      "Streams+": "-141",
-      "7Day": "7,258",
-      "7Day+": "+44",
-      "Total": "838,772",
-      "track_id": "6Qyc6fS4DsZjB2mRW9DsQs",
-      "artist_ids": [
-        "2sil8z5kiy4r76CRTXxBCA"
-      ]
-    },
-    {
-      "Pos": "127",
-      "P+": "+26",
-      "Artist and Title": "Drake - Janice STFU",
-      "Days": "98",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "1,229",
-      "Streams+": "-71",
-      "7Day": "9,573",
-      "7Day+": "-368",
-      "Total": "216,741",
-      "track_id": "514joG57v4yKTsfQmz7stz",
-      "artist_ids": [
-        "3TVXtAsR1Inumwj472S9r4"
-      ]
-    },
-    {
-      "Pos": "128",
-      "P+": "-28",
-      "Artist and Title": "Bad Bunny - DtMF",
-      "Days": "334",
-      "Pk": "1",
-      "(x?)": "(x5)",
-      "Streams": "1,228",
-      "Streams+": "-250",
-      "7Day": "9,718",
-      "7Day+": "-243",
-      "Total": "775,322",
-      "track_id": "3sK8wGT43QFpWrvNQsrQya",
-      "artist_ids": [
-        "4q3ewBCX7sLwd24euuV69X"
-      ]
-    },
-    {
-      "Pos": "129",
-      "P+": "+20",
-      "Artist and Title": "nublu - für Oksana (w/ gameboy tetris)",
-      "Days": "1547",
-      "Pk": "1",
-      "(x?)": "(x49)",
-      "Streams": "1,227",
-      "Streams+": "-81",
-      "7Day": "9,140",
-      "7Day+": "-6",
-      "Total": "3,088,804",
-      "track_id": "3ZNv0P70XQX5FoQAUw3bLg",
-      "artist_ids": [
-        "2cNMMulo6S2a0tHrwX2s6i",
-        "5LWs2DNQhJXiG6X2o4XUpQ"
-      ]
-    },
-    {
-      "Pos": "130",
-      "P+": "=",
-      "Artist and Title": "5MIINUST - Paaristõuked (w/ villemdrillem)",
-      "Days": "1573",
-      "Pk": "1",
-      "(x?)": "(x32)",
-      "Streams": "1,226",
-      "Streams+": "-134",
-      "7Day": "9,952",
-      "7Day+": "-103",
-      "Total": "2,617,736",
-      "track_id": "5fhn8aAo9FAl1pVLsMPOPk",
-      "artist_ids": [
-        "6acByqWJeuaM0TX5VoY6an",
-        "5nZADoZFWVB90dHpk5zvXy"
-      ]
-    },
-    {
-      "Pos": "131",
-      "P+": "-18",
-      "Artist and Title": "villemdrillem - leekiv armastus",
-      "Days": "1155",
-      "Pk": "1",
-      "(x?)": "(x47)",
-      "Streams": "1,225",
-      "Streams+": "-205",
-      "7Day": "10,727",
-      "7Day+": "-472",
-      "Total": "2,800,684",
-      "track_id": "00hNKV1irlhbazTD3p7Uea",
-      "artist_ids": [
-        "5nZADoZFWVB90dHpk5zvXy"
-      ]
-    },
-    {
       "Pos": "132",
-      "P+": "+7",
-      "Artist and Title": "Hu? - Absoluutselt",
-      "Days": "113",
-      "Pk": "50",
+      "P+": "-27",
+      "Artist and Title": "Vance Joy - Riptide",
+      "Days": "1127",
+      "Pk": "22",
       "(x?)": "",
-      "Streams": "1,213",
-      "Streams+": "-116",
-      "7Day": "8,871",
-      "7Day+": "-150",
-      "Total": "156,263",
-      "track_id": "6Z4zncoP4MOWiUcoCO3RSD",
+      "Streams": "1,368",
+      "Streams+": "+24",
+      "7Day": "9,546",
+      "7Day+": "+12",
+      "Total": "1,463,274",
+      "track_id": "7yq4Qj7cqayVTp3FF9CWbm",
       "artist_ids": [
-        "0hIbW2p6F3fXMdK2nXHiqW"
+        "10exVja0key0uqUkk6LJRT"
       ]
     },
     {
       "Pos": "133",
-      "P+": "+18",
+      "P+": "-25",
+      "Artist and Title": "Clicherik & Mäx - Jolly Roger",
+      "Days": "261",
+      "Pk": "1",
+      "(x?)": "(x7)",
+      "Streams": "1,363",
+      "Streams+": "+42",
+      "7Day": "9,205",
+      "7Day+": "-187",
+      "Total": "813,483",
+      "track_id": "1sfLRNnzXOtQAJ612TCiWh",
+      "artist_ids": [
+        "2K5ujJoG9L4INBflflfxtk"
+      ]
+    },
+    {
+      "Pos": "134",
+      "P+": "+66",
+      "Artist and Title": "triibupasta - parti piipol",
+      "Days": "77",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "1,360",
+      "Streams+": "+305",
+      "7Day": "8,226",
+      "7Day+": "+65",
+      "Total": "131,973",
+      "track_id": "0NVPydALeLxxFM4LnZ4tnu",
+      "artist_ids": [
+        "2a8z7MVhEtvZXFbgEE9ihL"
+      ]
+    },
+    {
+      "Pos": "135",
+      "P+": "RE",
+      "Artist and Title": "5MIINUST - Tsirkus (w/ nublu, PLUUTO)",
+      "Days": "686",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "1,359",
+      "Streams+": "",
+      "7Day": "2,532",
+      "7Day+": "+1,359",
+      "Total": "1,104,210",
+      "track_id": "0x4cbwsF2NN3BwmQRgkljV",
+      "artist_ids": [
+        "6acByqWJeuaM0TX5VoY6an",
+        "2cNMMulo6S2a0tHrwX2s6i",
+        "2YgZ4oBzjXtxPbvZPeuvaD"
+      ]
+    },
+    {
+      "Pos": "136",
+      "P+": "-3",
       "Artist and Title": "35maffia - sydames",
-      "Days": "165",
+      "Days": "166",
       "Pk": "1",
       "(x?)": "(x10)",
-      "Streams": "1,208",
-      "Streams+": "-96",
-      "7Day": "4,715",
-      "7Day+": "+1,208",
-      "Total": "746,845",
+      "Streams": "1,356",
+      "Streams+": "+148",
+      "7Day": "6,071",
+      "7Day+": "+1,356",
+      "Total": "748,201",
       "track_id": "35wO47C8oSbQ0hGdZxpGb9",
       "artist_ids": [
         "6InNzKJKxvz26iIUyk0Eq7"
       ]
     },
     {
-      "Pos": "134",
-      "P+": "-23",
-      "Artist and Title": "PinkPantheress - Stateside + Zara Larsson (w/ Zara Larsson)",
-      "Days": "243",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "1,207",
-      "Streams+": "-249",
-      "7Day": "9,248",
-      "7Day+": "-173",
-      "Total": "678,520",
-      "track_id": "1DwscornXpj8fmOmYVlqZt",
-      "artist_ids": [
-        "78rUTD7y6Cy67W1RVzYs7t",
-        "1Xylc3o4UrD53lo9CvFvVg"
-      ]
-    },
-    {
-      "Pos": "135",
-      "P+": "-11",
-      "Artist and Title": "PIXY - LEGACY",
-      "Days": "174",
-      "Pk": "38",
-      "(x?)": "",
-      "Streams": "1,206",
-      "Streams+": "-187",
-      "7Day": "9,607",
-      "7Day+": "-162",
-      "Total": "282,952",
-      "track_id": "2jwpT2tPlP8HYVpFXfZMqM",
-      "artist_ids": [
-        "5AGVMquElW7QIas7i21Xmz"
-      ]
-    },
-    {
-      "Pos": "136",
-      "P+": "NEW",
-      "Artist and Title": "2hollis - crush",
-      "Days": "1",
-      "Pk": "136",
-      "(x?)": "",
-      "Streams": "1,203",
-      "Streams+": "",
-      "7Day": "1,203",
-      "7Day+": "+1,203",
-      "Total": "1,203",
-      "track_id": "2h7vLf7jv2KsRb7fV77w5H",
-      "artist_ids": [
-        "72NhFAGG5Pt91VbheJeEPG"
-      ]
-    },
-    {
       "Pos": "137",
-      "P+": "+20",
-      "Artist and Title": "gameboy tetris - KUHU KADUS STEN? (w/ nublu)",
-      "Days": "1177",
-      "Pk": "1",
-      "(x?)": "(x13)",
-      "Streams": "1,202",
-      "Streams+": "-90",
-      "7Day": "9,583",
-      "7Day+": "-35",
-      "Total": "2,528,305",
-      "track_id": "63YH4W1jfTXbuS9LNSCTXB",
+      "P+": "+39",
+      "Artist and Title": "villemdrillem - kuruta",
+      "Days": "765",
+      "Pk": "2",
+      "(x?)": "(x3)",
+      "Streams": "1,352",
+      "Streams+": "+238",
+      "7Day": "8,482",
+      "7Day+": "-65",
+      "Total": "1,532,630",
+      "track_id": "6XPANimHsxSvrJUmcTHDeW",
       "artist_ids": [
-        "5LWs2DNQhJXiG6X2o4XUpQ",
-        "2cNMMulo6S2a0tHrwX2s6i"
+        "5nZADoZFWVB90dHpk5zvXy"
       ]
     },
     {
       "Pos": "138",
-      "P+": "+5",
-      "Artist and Title": "Kanye West - Flashing Lights (w/ Dwele)",
-      "Days": "917",
-      "Pk": "22",
-      "(x?)": "",
-      "Streams": "1,201",
-      "Streams+": "-119",
-      "7Day": "9,243",
-      "7Day+": "-168",
-      "Total": "1,236,699",
-      "track_id": "5TRPicyLGbAF2LGBFbHGvO",
-      "artist_ids": [
-        "5K4W6rqBFWDnAN6FQUkS6x",
-        "7u6LfVyYpEzMpHLL7jTyvU"
-      ]
-    },
-    {
-      "Pos": "139",
-      "P+": "RE",
-      "Artist and Title": "Smilers - Minu, Pets, Margus ja Priit",
-      "Days": "15",
-      "Pk": "76",
-      "(x?)": "",
-      "Streams": "1,199",
-      "Streams+": "",
-      "7Day": "2,382",
-      "7Day+": "+1,199",
-      "Total": "20,010",
-      "track_id": "3hCh6nKvx3ofxN6YNYMgyN",
-      "artist_ids": [
-        "3gDHpjemovd3LuV3tHgjOq"
-      ]
-    },
-    {
-      "Pos": "140",
-      "P+": "RE",
+      "P+": "+2",
       "Artist and Title": "Smilers - Kõik mängu",
-      "Days": "19",
+      "Days": "20",
       "Pk": "63",
       "(x?)": "",
-      "Streams": "1,191",
-      "Streams+": "",
-      "7Day": "1,191",
-      "7Day+": "+1,191",
-      "Total": "25,184",
+      "Streams": "1,352",
+      "Streams+": "+161",
+      "7Day": "2,543",
+      "7Day+": "+1,352",
+      "Total": "26,536",
       "track_id": "1i9xRr6ZPHKX67sfGDUNws",
       "artist_ids": [
         "3gDHpjemovd3LuV3tHgjOq"
       ]
     },
     {
-      "Pos": "141",
-      "P+": "+22",
-      "Artist and Title": "Shakira - Hips Don't Lie (w/ Wyclef Jean)",
-      "Days": "167",
-      "Pk": "64",
+      "Pos": "139",
+      "P+": "-35",
+      "Artist and Title": "Cuntsniffer - Meant To Be",
+      "Days": "62",
+      "Pk": "58",
       "(x?)": "",
-      "Streams": "1,189",
-      "Streams+": "-91",
-      "7Day": "8,454",
-      "7Day+": "+18",
-      "Total": "219,049",
-      "track_id": "3d0WouFnFmr0K3kjeza3fF",
+      "Streams": "1,352",
+      "Streams+": "+5",
+      "7Day": "10,131",
+      "7Day+": "-167",
+      "Total": "104,030",
+      "track_id": "1g8u5MTX5ojGxovGP2kXQ6",
       "artist_ids": [
-        "0EmeFodog0BfCgMzAIvKQp",
-        "7aBzpmFXB4WWpPl2F7RjBe"
+        "3NkJXmkbysV8LnsI2ast6U"
+      ]
+    },
+    {
+      "Pos": "140",
+      "P+": "-28",
+      "Artist and Title": "Nirvana - Smells Like Teen Spirit - Remastered",
+      "Days": "549",
+      "Pk": "57",
+      "(x?)": "",
+      "Streams": "1,350",
+      "Streams+": "+57",
+      "7Day": "9,393",
+      "7Day+": "-189",
+      "Total": "635,025",
+      "track_id": "0gucTLf7trAf37Ua1uAyAu",
+      "artist_ids": [
+        "6olE6TJLqED3rqDCT0FyPh"
+      ]
+    },
+    {
+      "Pos": "141",
+      "P+": "-9",
+      "Artist and Title": "Hu? - Absoluutselt",
+      "Days": "114",
+      "Pk": "50",
+      "(x?)": "",
+      "Streams": "1,349",
+      "Streams+": "+136",
+      "7Day": "8,801",
+      "7Day+": "-70",
+      "Total": "157,612",
+      "track_id": "6Z4zncoP4MOWiUcoCO3RSD",
+      "artist_ids": [
+        "0hIbW2p6F3fXMdK2nXHiqW"
       ]
     },
     {
       "Pos": "142",
-      "P+": "-24",
-      "Artist and Title": "Disco Lines - No Broke Boys (w/ Tinashe)",
-      "Days": "435",
-      "Pk": "6",
+      "P+": "+10",
+      "Artist and Title": "Terminaator - Carmen",
+      "Days": "258",
+      "Pk": "33",
       "(x?)": "",
-      "Streams": "1,188",
-      "Streams+": "-221",
-      "7Day": "9,320",
-      "7Day+": "-188",
-      "Total": "1,028,042",
-      "track_id": "3cZajhyr8LmtPfHZ9296tj",
-      "artist_ids": [
-        "5Kmr0b3ip8g9P2i0dLTC3Z",
-        "0NIIxcxNHmOoyBx03SfTCD"
-      ]
-    },
-    {
-      "Pos": "143",
-      "P+": "+30",
-      "Artist and Title": "Post Malone - Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee)",
-      "Days": "474",
-      "Pk": "1",
-      "(x?)": "(x2)",
-      "Streams": "1,188",
-      "Streams+": "-68",
-      "7Day": "9,129",
-      "7Day+": "-184",
-      "Total": "799,005",
-      "track_id": "0RiRZpuVRbi7oqRdSMwhQY",
-      "artist_ids": [
-        "246dkjvS1zLTtiykXe5h60",
-        "1zNqQNIdeOUZHb8zbZRFMX"
-      ]
-    },
-    {
-      "Pos": "144",
-      "P+": "RE",
-      "Artist and Title": "Terminaator - Juulikuu lumi",
-      "Days": "46",
-      "Pk": "48",
-      "(x?)": "",
-      "Streams": "1,186",
-      "Streams+": "",
-      "7Day": "2,595",
-      "7Day+": "+1,186",
-      "Total": "65,096",
-      "track_id": "3aMmngJz3oEP0Ua5ttzNHi",
+      "Streams": "1,344",
+      "Streams+": "+170",
+      "7Day": "4,937",
+      "7Day+": "+1,344",
+      "Total": "318,143",
+      "track_id": "48DVrfucAcDapqYuf1SlPV",
       "artist_ids": [
         "1e69U0tUjsnT5qhuXkIMqH"
       ]
     },
     {
+      "Pos": "143",
+      "P+": "+16",
+      "Artist and Title": "Rihanna - Only Girl (In The World)",
+      "Days": "294",
+      "Pk": "103",
+      "(x?)": "",
+      "Streams": "1,342",
+      "Streams+": "+186",
+      "7Day": "9,348",
+      "7Day+": "-265",
+      "Total": "365,671",
+      "track_id": "2ENexcMEMsYk0rVJigVD3i",
+      "artist_ids": [
+        "5pKCCKE2ajJHZ9KAiaK11H"
+      ]
+    },
+    {
+      "Pos": "144",
+      "P+": "-17",
+      "Artist and Title": "Drake - Janice STFU",
+      "Days": "99",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "1,334",
+      "Streams+": "+105",
+      "7Day": "9,273",
+      "7Day+": "-300",
+      "Total": "218,075",
+      "track_id": "514joG57v4yKTsfQmz7stz",
+      "artist_ids": [
+        "3TVXtAsR1Inumwj472S9r4"
+      ]
+    },
+    {
       "Pos": "145",
-      "P+": "+9",
+      "P+": "=",
       "Artist and Title": "triibupasta - ulakas kaunitar (w/ Maiduk)",
-      "Days": "477",
+      "Days": "478",
       "Pk": "2",
       "(x?)": "(x5)",
-      "Streams": "1,186",
-      "Streams+": "-114",
-      "7Day": "9,753",
-      "7Day+": "-345",
-      "Total": "1,926,002",
+      "Streams": "1,326",
+      "Streams+": "+140",
+      "7Day": "9,404",
+      "7Day+": "-349",
+      "Total": "1,927,328",
       "track_id": "0jcJEcK0eX5acLVU1VYmbd",
       "artist_ids": [
         "2a8z7MVhEtvZXFbgEE9ihL",
@@ -2536,294 +2536,224 @@
     },
     {
       "Pos": "146",
-      "P+": "+41",
-      "Artist and Title": "Kosmikud - Kuidas Tuli Pimedus Mu Tuppa",
-      "Days": "2",
-      "Pk": "146",
+      "P+": "+47",
+      "Artist and Title": "Zara Larsson - Midnight Sun",
+      "Days": "238",
+      "Pk": "70",
       "(x?)": "",
-      "Streams": "1,183",
-      "Streams+": "-23",
-      "7Day": "2,389",
-      "7Day+": "+1,183",
-      "Total": "2,389",
-      "track_id": "7sxuP475pBOARaEUWlnTVE",
+      "Streams": "1,322",
+      "Streams+": "+243",
+      "7Day": "8,603",
+      "7Day+": "-123",
+      "Total": "345,486",
+      "track_id": "1qRV1dKLOfH1s00b9J2LUQ",
       "artist_ids": [
-        "1OjUIn4gI3FFaL7X9xosbH"
+        "1Xylc3o4UrD53lo9CvFvVg"
       ]
     },
     {
       "Pos": "147",
-      "P+": "RE",
-      "Artist and Title": "Smilers - Tantsin sinuga taevas",
-      "Days": "85",
-      "Pk": "37",
-      "(x?)": "",
-      "Streams": "1,183",
-      "Streams+": "",
-      "7Day": "1,183",
-      "7Day+": "+1,183",
-      "Total": "118,679",
-      "track_id": "62b8IpvhU1PYiOFtMv28zt",
+      "P+": "-17",
+      "Artist and Title": "5MIINUST - Paaristõuked (w/ villemdrillem)",
+      "Days": "1574",
+      "Pk": "1",
+      "(x?)": "(x32)",
+      "Streams": "1,320",
+      "Streams+": "+94",
+      "7Day": "9,755",
+      "7Day+": "-197",
+      "Total": "2,619,056",
+      "track_id": "5fhn8aAo9FAl1pVLsMPOPk",
       "artist_ids": [
-        "3gDHpjemovd3LuV3tHgjOq"
+        "6acByqWJeuaM0TX5VoY6an",
+        "5nZADoZFWVB90dHpk5zvXy"
       ]
     },
     {
       "Pos": "148",
-      "P+": "+14",
-      "Artist and Title": "A$AP Rocky - I Smoked Away My Brain (I'm God x Demons Mashup) (w/ Imogen Heap, Clams Casino)",
-      "Days": "1041",
-      "Pk": "5",
+      "P+": "-13",
+      "Artist and Title": "PIXY - LEGACY",
+      "Days": "175",
+      "Pk": "38",
       "(x?)": "",
-      "Streams": "1,183",
-      "Streams+": "-97",
-      "7Day": "4,768",
-      "7Day+": "-77",
-      "Total": "2,381,339",
-      "track_id": "3ZaEs1O8BG581qYPHpQ8d6",
+      "Streams": "1,317",
+      "Streams+": "+111",
+      "7Day": "9,434",
+      "7Day+": "-173",
+      "Total": "284,269",
+      "track_id": "2jwpT2tPlP8HYVpFXfZMqM",
       "artist_ids": [
-        "13ubrt8QOOCPljQ2FL1Kca",
-        "6Xb4ezwoAQC4516kI89nWz",
-        "5vSQUyT33qxr1xAX2Tkf3A"
+        "5AGVMquElW7QIas7i21Xmz"
       ]
     },
     {
       "Pos": "149",
-      "P+": "-9",
-      "Artist and Title": "triibupasta - 6llekas",
-      "Days": "725",
-      "Pk": "3",
-      "(x?)": "(x2)",
-      "Streams": "1,177",
-      "Streams+": "-151",
-      "7Day": "9,799",
-      "7Day+": "-319",
-      "Total": "1,991,969",
-      "track_id": "42L8fRwgmWXnNcq1R5QsJr",
+      "P+": "-13",
+      "Artist and Title": "2hollis - crush",
+      "Days": "2",
+      "Pk": "136",
+      "(x?)": "",
+      "Streams": "1,315",
+      "Streams+": "+112",
+      "7Day": "2,518",
+      "7Day+": "+1,315",
+      "Total": "2,518",
+      "track_id": "2h7vLf7jv2KsRb7fV77w5H",
       "artist_ids": [
-        "2a8z7MVhEtvZXFbgEE9ihL"
+        "72NhFAGG5Pt91VbheJeEPG"
       ]
     },
     {
       "Pos": "150",
-      "P+": "-17",
-      "Artist and Title": "sombr - back to friends",
-      "Days": "530",
-      "Pk": "8",
+      "P+": "+19",
+      "Artist and Title": "Arop - Täna",
+      "Days": "432",
+      "Pk": "55",
       "(x?)": "",
-      "Streams": "1,176",
-      "Streams+": "-174",
-      "7Day": "9,132",
-      "7Day+": "-147",
-      "Total": "1,341,465",
-      "track_id": "7qjZnBKE73H4Oxkopwulqe",
+      "Streams": "1,313",
+      "Streams+": "+183",
+      "7Day": "8,353",
+      "7Day+": "+38",
+      "Total": "555,649",
+      "track_id": "1OUuj6qXlyRsAZoH0eDVeM",
       "artist_ids": [
-        "4G9NDjRyZFDlJKMRL8hx3S"
+        "61Qtg6OSjyOGYjv5cpXl40"
       ]
     },
     {
       "Pos": "151",
-      "P+": "+18",
-      "Artist and Title": "Childish Gambino - Les",
+      "P+": "-22",
+      "Artist and Title": "nublu - für Oksana (w/ gameboy tetris)",
+      "Days": "1548",
+      "Pk": "1",
+      "(x?)": "(x49)",
+      "Streams": "1,303",
+      "Streams+": "+76",
+      "7Day": "8,986",
+      "7Day+": "-154",
+      "Total": "3,090,107",
+      "track_id": "3ZNv0P70XQX5FoQAUw3bLg",
+      "artist_ids": [
+        "2cNMMulo6S2a0tHrwX2s6i",
+        "5LWs2DNQhJXiG6X2o4XUpQ"
+      ]
+    },
+    {
+      "Pos": "152",
+      "P+": "-50",
+      "Artist and Title": "Childish Gambino - Heartbeat",
       "Days": "555",
-      "Pk": "43",
+      "Pk": "50",
       "(x?)": "",
-      "Streams": "1,176",
-      "Streams+": "-89",
-      "7Day": "8,864",
-      "7Day+": "-236",
-      "Total": "712,035",
-      "track_id": "7ghKr0pCYyPPyp7t1FH8k4",
+      "Streams": "1,300",
+      "Streams+": "-48",
+      "7Day": "9,499",
+      "7Day+": "-247",
+      "Total": "693,398",
+      "track_id": "5AGQSF0ytihJyt96K5vW9d",
       "artist_ids": [
         "73sIBHcqh3Z3NyqHKZ7FOL"
       ]
     },
     {
-      "Pos": "152",
-      "P+": "RE",
-      "Artist and Title": "Terminaator - Carmen",
-      "Days": "257",
-      "Pk": "33",
-      "(x?)": "",
-      "Streams": "1,174",
-      "Streams+": "",
-      "7Day": "3,593",
-      "7Day+": "+1,174",
-      "Total": "316,799",
-      "track_id": "48DVrfucAcDapqYuf1SlPV",
-      "artist_ids": [
-        "1e69U0tUjsnT5qhuXkIMqH"
-      ]
-    },
-    {
       "Pos": "153",
-      "P+": "-44",
-      "Artist and Title": "Aitch - RMB (Ring My Bell)",
-      "Days": "24",
-      "Pk": "83",
+      "P+": "+28",
+      "Artist and Title": "Black Eyed Peas - I Gotta Feeling",
+      "Days": "88",
+      "Pk": "15",
       "(x?)": "",
-      "Streams": "1,174",
-      "Streams+": "-283",
-      "7Day": "9,304",
-      "7Day+": "-261",
-      "Total": "32,744",
-      "track_id": "3z1qPPLWf0ytO4NyHS8pqS",
+      "Streams": "1,299",
+      "Streams+": "+190",
+      "7Day": "8,560",
+      "7Day+": "-229",
+      "Total": "123,255",
+      "track_id": "4kLLWz7srcuLKA7Et40PQR",
       "artist_ids": [
-        "2PJEagPIxaBugeMjIyKVXF"
+        "1yxSLGMDHlW21z4YXirZDS"
       ]
     },
     {
       "Pos": "154",
-      "P+": "-9",
-      "Artist and Title": "Djo - End of Beginning",
-      "Days": "698",
-      "Pk": "2",
-      "(x?)": "(x13)",
-      "Streams": "1,166",
-      "Streams+": "-148",
-      "7Day": "4,781",
-      "7Day+": "-21",
-      "Total": "1,650,114",
-      "track_id": "3qhlB30KknSejmIvZZLjOD",
-      "artist_ids": [
-        "5p9HO3XC5P3BLxJs5Mtrhm"
-      ]
-    },
-    {
-      "Pos": "155",
-      "P+": "+42",
-      "Artist and Title": "5MIINUST - Peo lõpp",
-      "Days": "886",
-      "Pk": "1",
-      "(x?)": "(x16)",
-      "Streams": "1,161",
-      "Streams+": "-15",
-      "7Day": "6,212",
-      "7Day+": "+21",
-      "Total": "1,799,893",
-      "track_id": "3s8MM2twymVva7oi9EP5GX",
-      "artist_ids": [
-        "6acByqWJeuaM0TX5VoY6an"
-      ]
-    },
-    {
-      "Pos": "156",
-      "P+": "-37",
-      "Artist and Title": "MiyaGi & Endspiel - I Got Love (w/ Rem Digga)",
-      "Days": "1995",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "1,159",
-      "Streams+": "-244",
-      "7Day": "9,472",
-      "7Day+": "-241",
-      "Total": "2,603,849",
-      "track_id": "43wgyQXc2M9KmTDUqVzugM",
-      "artist_ids": [
-        "6L5bLEtpxwd0KOdOr3gtW4",
-        "2R1OELuSJzXjRm8lc8FjPC"
-      ]
-    },
-    {
-      "Pos": "157",
-      "P+": "RE",
-      "Artist and Title": "Terminaator - Kaitseta",
-      "Days": "135",
-      "Pk": "72",
-      "(x?)": "",
-      "Streams": "1,158",
-      "Streams+": "",
-      "7Day": "4,931",
-      "7Day+": "-53",
-      "Total": "178,029",
-      "track_id": "7d39qOliEaCoodLJbo0n8G",
-      "artist_ids": [
-        "1e69U0tUjsnT5qhuXkIMqH"
-      ]
-    },
-    {
-      "Pos": "158",
-      "P+": "RE",
-      "Artist and Title": "LE SSERAFIM - ICONIC BY MISTAKE (w/ ILLIT, KATSEYE)",
-      "Days": "67",
-      "Pk": "22",
-      "(x?)": "",
-      "Streams": "1,156",
-      "Streams+": "",
-      "7Day": "6,039",
-      "7Day+": "-63",
-      "Total": "120,216",
-      "track_id": "6fl4Gu0lJm5hc8FM5JzCZD",
-      "artist_ids": [
-        "4SpbR6yFEvexJuaBpgAU5p",
-        "36cgvBn0aadzOijnjjwqMN",
-        "3c0gDdb9lhnHGFtP4prQpn"
-      ]
-    },
-    {
-      "Pos": "159",
-      "P+": "-27",
-      "Artist and Title": "Rihanna - Only Girl (In The World)",
-      "Days": "293",
-      "Pk": "103",
-      "(x?)": "",
-      "Streams": "1,156",
-      "Streams+": "-195",
-      "7Day": "9,613",
-      "7Day+": "-225",
-      "Total": "364,329",
-      "track_id": "2ENexcMEMsYk0rVJigVD3i",
-      "artist_ids": [
-        "5pKCCKE2ajJHZ9KAiaK11H"
-      ]
-    },
-    {
-      "Pos": "160",
-      "P+": "+16",
-      "Artist and Title": "Rae Sremmurd - Black Beatles (w/ Gucci Mane)",
-      "Days": "292",
-      "Pk": "1",
-      "(x?)": "(x3)",
-      "Streams": "1,154",
-      "Streams+": "-91",
-      "7Day": "8,934",
-      "7Day+": "-166",
-      "Total": "447,927",
-      "track_id": "4SgRoETpc8GEkVgBh5OrZs",
-      "artist_ids": [
-        "7iZtZyCzp3LItcw1wtPI3D",
-        "13y7CgLHjMVRMDqxdx0Xdo"
-      ]
-    },
-    {
-      "Pos": "161",
-      "P+": "-38",
+      "P+": "+7",
       "Artist and Title": "Maxtract - Katamaraaanid",
-      "Days": "4",
+      "Days": "5",
       "Pk": "84",
       "(x?)": "",
-      "Streams": "1,146",
-      "Streams+": "-249",
-      "7Day": "2,541",
-      "7Day+": "+1,146",
-      "Total": "5,586",
+      "Streams": "1,299",
+      "Streams+": "+153",
+      "7Day": "3,840",
+      "7Day+": "+1,299",
+      "Total": "6,885",
       "track_id": "3ZmwkSMnvOIZ4FX2wKvBrs",
       "artist_ids": [
         "2zlXTz0YfSCyR6cgF807S1"
       ]
     },
     {
-      "Pos": "162",
-      "P+": "-47",
-      "Artist and Title": "Rihanna - We Found Love (w/ Calvin Harris)",
-      "Days": "262",
+      "Pos": "155",
+      "P+": "-12",
+      "Artist and Title": "Post Malone - Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee)",
+      "Days": "475",
+      "Pk": "1",
+      "(x?)": "(x2)",
+      "Streams": "1,299",
+      "Streams+": "+111",
+      "7Day": "9,021",
+      "7Day+": "-108",
+      "Total": "800,304",
+      "track_id": "0RiRZpuVRbi7oqRdSMwhQY",
+      "artist_ids": [
+        "246dkjvS1zLTtiykXe5h60",
+        "1zNqQNIdeOUZHb8zbZRFMX"
+      ]
+    },
+    {
+      "Pos": "156",
+      "P+": "+8",
+      "Artist and Title": "Tove Lo - Talking Body",
+      "Days": "76",
       "Pk": "12",
       "(x?)": "",
-      "Streams": "1,146",
-      "Streams+": "-270",
-      "7Day": "8,958",
-      "7Day+": "-253",
-      "Total": "324,126",
+      "Streams": "1,296",
+      "Streams+": "+154",
+      "7Day": "7,303",
+      "7Day+": "+1,296",
+      "Total": "90,031",
+      "track_id": "7cgu4JBW3hq1GwTM1ilkKQ",
+      "artist_ids": [
+        "4NHQUGzhtTLFvgF5SZesLK"
+      ]
+    },
+    {
+      "Pos": "157",
+      "P+": "-20",
+      "Artist and Title": "gameboy tetris - KUHU KADUS STEN? (w/ nublu)",
+      "Days": "1178",
+      "Pk": "1",
+      "(x?)": "(x13)",
+      "Streams": "1,293",
+      "Streams+": "+91",
+      "7Day": "9,382",
+      "7Day+": "-201",
+      "Total": "2,529,598",
+      "track_id": "63YH4W1jfTXbuS9LNSCTXB",
+      "artist_ids": [
+        "5LWs2DNQhJXiG6X2o4XUpQ",
+        "2cNMMulo6S2a0tHrwX2s6i"
+      ]
+    },
+    {
+      "Pos": "158",
+      "P+": "+4",
+      "Artist and Title": "Rihanna - We Found Love (w/ Calvin Harris)",
+      "Days": "263",
+      "Pk": "12",
+      "(x?)": "",
+      "Streams": "1,291",
+      "Streams+": "+145",
+      "7Day": "8,732",
+      "7Day+": "-226",
+      "Total": "325,417",
       "track_id": "1zv3WFUbZ5vPxFq9I2jAU1",
       "artist_ids": [
         "5pKCCKE2ajJHZ9KAiaK11H",
@@ -2831,470 +2761,328 @@
       ]
     },
     {
-      "Pos": "163",
-      "P+": "-29",
-      "Artist and Title": "VILLIAN - ДИНАСТИЯ (w/ madk1d)",
-      "Days": "22",
-      "Pk": "101",
-      "(x?)": "",
-      "Streams": "1,145",
-      "Streams+": "-204",
-      "7Day": "8,368",
-      "7Day+": "-170",
-      "Total": "28,953",
-      "track_id": "6MtUSSf9h4s2lKkkkXdu5J",
-      "artist_ids": [
-        "4UsmVGTdKwCWC0B86P6N7L",
-        "1Q5COYHgA7ch0y3HqCNgwt"
-      ]
-    },
-    {
-      "Pos": "164",
-      "P+": "-38",
-      "Artist and Title": "Tove Lo - Talking Body",
-      "Days": "75",
-      "Pk": "12",
-      "(x?)": "",
-      "Streams": "1,142",
-      "Streams+": "-243",
-      "7Day": "6,007",
-      "7Day+": "+1,142",
-      "Total": "88,735",
-      "track_id": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "artist_ids": [
-        "4NHQUGzhtTLFvgF5SZesLK"
-      ]
-    },
-    {
-      "Pos": "165",
-      "P+": "-28",
-      "Artist and Title": "Tame Impala - Dracula",
-      "Days": "328",
-      "Pk": "17",
-      "(x?)": "",
-      "Streams": "1,139",
-      "Streams+": "-203",
-      "7Day": "8,693",
-      "7Day+": "-63",
-      "Total": "671,079",
-      "track_id": "1NXbNEAcPvY5G1xvfN57aA",
-      "artist_ids": [
-        "5INjqkS1o8h1imAzPqGZBb"
-      ]
-    },
-    {
-      "Pos": "166",
-      "P+": "-35",
-      "Artist and Title": "Jennifer Lopez - On The Floor (w/ Pitbull)",
-      "Days": "96",
-      "Pk": "29",
-      "(x?)": "",
-      "Streams": "1,138",
-      "Streams+": "-217",
-      "7Day": "9,670",
-      "7Day+": "-326",
-      "Total": "164,489",
-      "track_id": "3C0nOe05EIt1390bVABLyN",
-      "artist_ids": [
-        "2DlGxzQSjYe5N6G9nkYghR",
-        "0TnOYISbd1XYRBk9myaseg"
-      ]
-    },
-    {
-      "Pos": "167",
-      "P+": "-60",
-      "Artist and Title": "lightprey - целоваться",
-      "Days": "28",
-      "Pk": "85",
-      "(x?)": "",
-      "Streams": "1,136",
-      "Streams+": "-323",
-      "7Day": "9,248",
-      "7Day+": "-306",
-      "Total": "38,537",
-      "track_id": "2UqlmIBAURsHt13ArF16YI",
-      "artist_ids": [
-        "1Z0sJgBY5vP651KUWJTbjh"
-      ]
-    },
-    {
-      "Pos": "168",
-      "P+": "-13",
-      "Artist and Title": "Gigi Perez - Sailor Song",
-      "Days": "732",
+      "Pos": "159",
+      "P+": "-4",
+      "Artist and Title": "5MIINUST - Peo lõpp",
+      "Days": "887",
       "Pk": "1",
-      "(x?)": "(x8)",
-      "Streams": "1,136",
-      "Streams+": "-158",
-      "7Day": "8,816",
-      "7Day+": "-262",
-      "Total": "1,783,540",
-      "track_id": "21IYMdzTrzSe191Cy5eMap",
+      "(x?)": "(x16)",
+      "Streams": "1,290",
+      "Streams+": "+129",
+      "7Day": "6,159",
+      "7Day+": "-53",
+      "Total": "1,801,183",
+      "track_id": "3s8MM2twymVva7oi9EP5GX",
       "artist_ids": [
-        "1iCnM8foFssWlPRLfAbIwo"
+        "6acByqWJeuaM0TX5VoY6an"
       ]
     },
     {
-      "Pos": "169",
-      "P+": "+29",
-      "Artist and Title": "Arop - Täna",
-      "Days": "431",
-      "Pk": "55",
-      "(x?)": "",
-      "Streams": "1,130",
-      "Streams+": "-46",
-      "7Day": "8,315",
-      "7Day+": "-124",
-      "Total": "554,336",
-      "track_id": "1OUuj6qXlyRsAZoH0eDVeM",
-      "artist_ids": [
-        "61Qtg6OSjyOGYjv5cpXl40"
-      ]
-    },
-    {
-      "Pos": "170",
-      "P+": "-9",
-      "Artist and Title": "F3miii - NOBLE",
-      "Days": "120",
-      "Pk": "44",
-      "(x?)": "",
-      "Streams": "1,128",
-      "Streams+": "-157",
-      "7Day": "9,286",
-      "7Day+": "-267",
-      "Total": "184,653",
-      "track_id": "4Jsus7N4d8hFB2G9gcRdBv",
-      "artist_ids": [
-        "0gmx7cndNJbFM0DAO7fT0s"
-      ]
-    },
-    {
-      "Pos": "171",
-      "P+": "+10",
-      "Artist and Title": "Shawn Mendes - Treat You Better",
-      "Days": "185",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "1,125",
-      "Streams+": "-101",
-      "7Day": "7,203",
-      "7Day+": "-47",
-      "Total": "332,442",
-      "track_id": "3QGsuHI8jO1Rx4JWLUh9jd",
-      "artist_ids": [
-        "7n2wHs1TKAczGzO7Dd2rGr"
-      ]
-    },
-    {
-      "Pos": "172",
-      "P+": "RE",
-      "Artist and Title": "NOËP - Days Like This",
-      "Days": "152",
-      "Pk": "3",
-      "(x?)": "(x3)",
-      "Streams": "1,120",
-      "Streams+": "",
-      "7Day": "1,120",
-      "7Day+": "+1,120",
-      "Total": "323,941",
-      "track_id": "4vCQhoUwXMOLuk0LUBH9vF",
-      "artist_ids": [
-        "0SjnenkLIpqRE9SUzogeOp"
-      ]
-    },
-    {
-      "Pos": "173",
-      "P+": "-1",
-      "Artist and Title": "Macklemore & Ryan Lewis - Can't Hold Us (w/ Macklemore, Ryan Lewis, Ray Dalton)",
-      "Days": "840",
-      "Pk": "48",
-      "(x?)": "",
-      "Streams": "1,119",
-      "Streams+": "-137",
-      "7Day": "2,375",
-      "7Day+": "+1,119",
-      "Total": "1,032,365",
-      "track_id": "22skzmqfdWrjJylampe0kt",
-      "artist_ids": [
-        "5BcAKTbp20cv7tC5VqPFoC",
-        "3JhNCzhSMTxs9WLGJJxWOY",
-        "4myTppRgh0rojLxx8RycOp",
-        "4e0nWw2r4BoQSKPQ2zpU13"
-      ]
-    },
-    {
-      "Pos": "174",
-      "P+": "-32",
-      "Artist and Title": "Ariana Grande - hate that i made you love me",
-      "Days": "82",
-      "Pk": "20",
-      "(x?)": "",
-      "Streams": "1,118",
-      "Streams+": "-205",
-      "7Day": "9,132",
-      "7Day+": "-294",
-      "Total": "166,288",
-      "track_id": "20jbSiX29FDX4oQxBXyUEi",
-      "artist_ids": [
-        "66CXWjxzNUsdJxJ2JdwvnR"
-      ]
-    },
-    {
-      "Pos": "175",
-      "P+": "-31",
-      "Artist and Title": "The Police - Every Breath You Take",
-      "Days": "597",
-      "Pk": "27",
-      "(x?)": "",
-      "Streams": "1,116",
-      "Streams+": "-203",
-      "7Day": "8,606",
-      "7Day+": "-218",
-      "Total": "858,818",
-      "track_id": "1JSTJqkT5qHq8MDJnJbRE1",
-      "artist_ids": [
-        "5NGO30tJxFlKixkPSgXcFE"
-      ]
-    },
-    {
-      "Pos": "176",
-      "P+": "+6",
-      "Artist and Title": "villemdrillem - kuruta",
-      "Days": "764",
-      "Pk": "2",
-      "(x?)": "(x3)",
-      "Streams": "1,114",
-      "Streams+": "-109",
-      "7Day": "8,547",
-      "7Day+": "-173",
-      "Total": "1,531,278",
-      "track_id": "6XPANimHsxSvrJUmcTHDeW",
-      "artist_ids": [
-        "5nZADoZFWVB90dHpk5zvXy"
-      ]
-    },
-    {
-      "Pos": "177",
-      "P+": "RE",
-      "Artist and Title": "nublu - MEELDIVAD TYDRUKUD (w/ Vaiko Eplik, Orelipoiss)",
-      "Days": "49",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "1,114",
-      "Streams+": "",
-      "7Day": "2,592",
-      "7Day+": "+1,114",
-      "Total": "81,261",
-      "track_id": "64KM30CBf2fHbVBz3YptZy",
-      "artist_ids": [
-        "2cNMMulo6S2a0tHrwX2s6i",
-        "4bUkC2pVAl1Hk0uXok7W1t",
-        "65CuayrKYxHvj0WKdoHvkJ"
-      ]
-    },
-    {
-      "Pos": "178",
-      "P+": "+14",
-      "Artist and Title": "Alyssa Grace - bloodstream",
-      "Days": "25",
-      "Pk": "101",
-      "(x?)": "",
-      "Streams": "1,113",
-      "Streams+": "-78",
-      "7Day": "5,772",
-      "7Day+": "-112",
-      "Total": "31,600",
-      "track_id": "2oWFJJW9d1bIra3zHjR6GO",
-      "artist_ids": [
-        "4eZer1QvRM8Pna0rLToV1K"
-      ]
-    },
-    {
-      "Pos": "179",
-      "P+": "-29",
+      "Pos": "160",
+      "P+": "+19",
       "Artist and Title": "Calvin Harris - Feel So Close",
-      "Days": "189",
+      "Days": "190",
       "Pk": "74",
       "(x?)": "",
-      "Streams": "1,113",
-      "Streams+": "-195",
-      "7Day": "8,500",
-      "7Day+": "-51",
-      "Total": "266,540",
+      "Streams": "1,285",
+      "Streams+": "+172",
+      "7Day": "8,390",
+      "7Day+": "-110",
+      "Total": "267,825",
       "track_id": "1gihuPhrLraKYrJMAEONyc",
       "artist_ids": [
         "7CajNmpbOovFoOoasH2HaY"
       ]
     },
     {
-      "Pos": "180",
-      "P+": "-122",
-      "Artist and Title": "EiK 2509 - HEAD VAIMUD (w/ Mari Jürjens)",
-      "Days": "2",
-      "Pk": "58",
+      "Pos": "161",
+      "P+": "NEW",
+      "Artist and Title": "margiiela - Pole Enam Kaugel (w/ Chillin)",
+      "Days": "1",
+      "Pk": "161",
       "(x?)": "",
-      "Streams": "1,112",
-      "Streams+": "-842",
-      "7Day": "3,066",
-      "7Day+": "+1,112",
-      "Total": "3,066",
-      "track_id": "4c5HWLAQUi31ZHi0sU7kSG",
+      "Streams": "1,282",
+      "Streams+": "",
+      "7Day": "1,282",
+      "7Day+": "+1,282",
+      "Total": "1,282",
+      "track_id": "3RAwFIdgpiaHtnuqX3tH2B",
       "artist_ids": [
-        "3U0NdaCegcpzmmrIFradRB",
-        "0Lu67wIRXiogdq3vslX2Fz"
+        "0k4DsAQchmnvZRtA6j7O1R",
+        "4XmYUKB6WKRGeatspAcUGx"
       ]
     },
     {
-      "Pos": "181",
-      "P+": "-33",
-      "Artist and Title": "Black Eyed Peas - I Gotta Feeling",
-      "Days": "87",
+      "Pos": "162",
+      "P+": "-24",
+      "Artist and Title": "Kanye West - Flashing Lights (w/ Dwele)",
+      "Days": "918",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "1,281",
+      "Streams+": "+80",
+      "7Day": "9,092",
+      "7Day+": "-151",
+      "Total": "1,237,980",
+      "track_id": "5TRPicyLGbAF2LGBFbHGvO",
+      "artist_ids": [
+        "5K4W6rqBFWDnAN6FQUkS6x",
+        "7u6LfVyYpEzMpHLL7jTyvU"
+      ]
+    },
+    {
+      "Pos": "163",
+      "P+": "-9",
+      "Artist and Title": "Djo - End of Beginning",
+      "Days": "699",
+      "Pk": "2",
+      "(x?)": "(x13)",
+      "Streams": "1,280",
+      "Streams+": "+114",
+      "7Day": "6,061",
+      "7Day+": "+1,280",
+      "Total": "1,651,394",
+      "track_id": "3qhlB30KknSejmIvZZLjOD",
+      "artist_ids": [
+        "5p9HO3XC5P3BLxJs5Mtrhm"
+      ]
+    },
+    {
+      "Pos": "164",
+      "P+": "-39",
+      "Artist and Title": "Kermo Murel - Rahvalaul",
+      "Days": "464",
+      "Pk": "1",
+      "(x?)": "(x7)",
+      "Streams": "1,273",
+      "Streams+": "+40",
+      "7Day": "8,975",
+      "7Day+": "-291",
+      "Total": "1,944,662",
+      "track_id": "6pLUlgilUe0ky5UU6x5qH9",
+      "artist_ids": [
+        "5L5CvCkNlaUISVFjUicdEf"
+      ]
+    },
+    {
+      "Pos": "165",
+      "P+": "-52",
+      "Artist and Title": "Steve Lacy - oh yeah?",
+      "Days": "11",
+      "Pk": "94",
+      "(x?)": "",
+      "Streams": "1,272",
+      "Streams+": "-11",
+      "7Day": "9,044",
+      "7Day+": "-108",
+      "Total": "14,346",
+      "track_id": "22NHkFYbgxB2Zirj29Gbp8",
+      "artist_ids": [
+        "57vWImR43h4CaDao012Ofp"
+      ]
+    },
+    {
+      "Pos": "166",
+      "P+": "+1",
+      "Artist and Title": "lightprey - целоваться",
+      "Days": "29",
+      "Pk": "85",
+      "(x?)": "",
+      "Streams": "1,268",
+      "Streams+": "+132",
+      "7Day": "9,158",
+      "7Day+": "-90",
+      "Total": "39,805",
+      "track_id": "2UqlmIBAURsHt13ArF16YI",
+      "artist_ids": [
+        "1Z0sJgBY5vP651KUWJTbjh"
+      ]
+    },
+    {
+      "Pos": "167",
+      "P+": "RE",
+      "Artist and Title": "Sean Paul - (When You Gonna) Give It Up to Me (w/ Keyshia Cole)",
+      "Days": "226",
       "Pk": "15",
       "(x?)": "",
-      "Streams": "1,109",
-      "Streams+": "-201",
-      "7Day": "8,789",
-      "7Day+": "-234",
-      "Total": "121,956",
-      "track_id": "4kLLWz7srcuLKA7Et40PQR",
-      "artist_ids": [
-        "1yxSLGMDHlW21z4YXirZDS"
-      ]
-    },
-    {
-      "Pos": "182",
-      "P+": "-46",
-      "Artist and Title": "Clicherik & Mäx - Ujula (w/ triibupasta)",
-      "Days": "220",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "1,105",
-      "Streams+": "-237",
-      "7Day": "7,126",
-      "7Day+": "-144",
-      "Total": "489,708",
-      "track_id": "3HhxwiSRLA6R1WEmNt0E87",
-      "artist_ids": [
-        "2K5ujJoG9L4INBflflfxtk",
-        "2a8z7MVhEtvZXFbgEE9ihL"
-      ]
-    },
-    {
-      "Pos": "183",
-      "P+": "-6",
-      "Artist and Title": "Fat Papi - FREAKED OUT (w/ prodshushy)",
-      "Days": "58",
-      "Pk": "39",
-      "(x?)": "",
-      "Streams": "1,102",
-      "Streams+": "-141",
-      "7Day": "8,433",
-      "7Day+": "-170",
-      "Total": "95,845",
-      "track_id": "7pBzCp7qNLlsH6rzEFkSwN",
-      "artist_ids": [
-        "6bemHySK6oqDAPZZzt61ov",
-        "6aQnbm7k0VsmUqfU9cfwoA"
-      ]
-    },
-    {
-      "Pos": "184",
-      "P+": "-26",
-      "Artist and Title": "Olivia Rodrigo - stupid song",
-      "Days": "69",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "1,100",
-      "Streams+": "-190",
-      "7Day": "7,508",
-      "7Day+": "-240",
-      "Total": "126,517",
-      "track_id": "49j6SvuvWfbEKZKzsHCdLJ",
-      "artist_ids": [
-        "1McMsnEElThX1knmY4oliG"
-      ]
-    },
-    {
-      "Pos": "185",
-      "P+": "+9",
-      "Artist and Title": "Linkin Park - In the End",
-      "Days": "775",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "1,094",
-      "Streams+": "-90",
-      "7Day": "4,767",
-      "7Day+": "-105",
-      "Total": "984,572",
-      "track_id": "60a0Rd6pjrkxjPbaKzXjfq",
-      "artist_ids": [
-        "6XyY86QOPPrYVGvF9ch6wz"
-      ]
-    },
-    {
-      "Pos": "186",
-      "P+": "RE",
-      "Artist and Title": "Dave - Raindance (w/ Tems)",
-      "Days": "266",
-      "Pk": "2",
-      "(x?)": "(x3)",
-      "Streams": "1,090",
+      "Streams": "1,267",
       "Streams+": "",
-      "7Day": "6,048",
-      "7Day+": "-220",
-      "Total": "617,172",
-      "track_id": "3oTuTpF1F3A7rEC6RKsMRz",
+      "7Day": "6,112",
+      "7Day+": "+1,267",
+      "Total": "490,527",
+      "track_id": "5nEdwtSv0qqeE0l4o1lR4q",
       "artist_ids": [
-        "6Ip8FS7vWT1uKkJSweANQK",
-        "687cZJR45JO7jhk1LHIbgq"
+        "3Isy6kedDrgPYoTS1dazA9",
+        "1vfezMIyCr4XUdYRaKIKi3"
       ]
     },
     {
-      "Pos": "187",
-      "P+": "RE",
-      "Artist and Title": "Arg Part - Kummipuru",
-      "Days": "11",
-      "Pk": "113",
+      "Pos": "168",
+      "P+": "-18",
+      "Artist and Title": "sombr - back to friends",
+      "Days": "531",
+      "Pk": "8",
       "(x?)": "",
-      "Streams": "1,089",
-      "Streams+": "",
-      "7Day": "1,089",
-      "7Day+": "+1,089",
-      "Total": "13,627",
-      "track_id": "34jbX5V4Ntf6iSjYjRxxov",
+      "Streams": "1,266",
+      "Streams+": "+90",
+      "7Day": "9,014",
+      "7Day+": "-118",
+      "Total": "1,342,731",
+      "track_id": "7qjZnBKE73H4Oxkopwulqe",
       "artist_ids": [
-        "7ptB41iMNEx7qqZE80aTLw"
+        "4G9NDjRyZFDlJKMRL8hx3S"
       ]
     },
     {
-      "Pos": "188",
-      "P+": "-21",
+      "Pos": "169",
+      "P+": "+19",
       "Artist and Title": "Qotid - Punased Bikiinid",
-      "Days": "448",
+      "Days": "449",
       "Pk": "5",
       "(x?)": "",
-      "Streams": "1,088",
-      "Streams+": "-187",
-      "7Day": "7,188",
-      "7Day+": "-190",
-      "Total": "1,348,360",
+      "Streams": "1,266",
+      "Streams+": "+178",
+      "7Day": "7,086",
+      "7Day+": "-102",
+      "Total": "1,349,626",
       "track_id": "6HTpxOpc6E3zvB4BZwEtqr",
       "artist_ids": [
         "1pssEG1vKMJhQfwwGhtbNa"
       ]
     },
     {
-      "Pos": "189",
-      "P+": "+7",
+      "Pos": "170",
+      "P+": "-13",
+      "Artist and Title": "Terminaator - Kaitseta",
+      "Days": "136",
+      "Pk": "72",
+      "(x?)": "",
+      "Streams": "1,264",
+      "Streams+": "+106",
+      "7Day": "6,195",
+      "7Day+": "+1,264",
+      "Total": "179,293",
+      "track_id": "7d39qOliEaCoodLJbo0n8G",
+      "artist_ids": [
+        "1e69U0tUjsnT5qhuXkIMqH"
+      ]
+    },
+    {
+      "Pos": "171",
+      "P+": "-24",
+      "Artist and Title": "Smilers - Tantsin sinuga taevas",
+      "Days": "86",
+      "Pk": "37",
+      "(x?)": "",
+      "Streams": "1,263",
+      "Streams+": "+80",
+      "7Day": "2,446",
+      "7Day+": "+1,263",
+      "Total": "119,942",
+      "track_id": "62b8IpvhU1PYiOFtMv28zt",
+      "artist_ids": [
+        "3gDHpjemovd3LuV3tHgjOq"
+      ]
+    },
+    {
+      "Pos": "172",
+      "P+": "-12",
+      "Artist and Title": "Rae Sremmurd - Black Beatles (w/ Gucci Mane)",
+      "Days": "293",
+      "Pk": "1",
+      "(x?)": "(x3)",
+      "Streams": "1,257",
+      "Streams+": "+103",
+      "7Day": "8,821",
+      "7Day+": "-113",
+      "Total": "449,184",
+      "track_id": "4SgRoETpc8GEkVgBh5OrZs",
+      "artist_ids": [
+        "7iZtZyCzp3LItcw1wtPI3D",
+        "13y7CgLHjMVRMDqxdx0Xdo"
+      ]
+    },
+    {
+      "Pos": "173",
+      "P+": "-32",
+      "Artist and Title": "Shakira - Hips Don't Lie (w/ Wyclef Jean)",
+      "Days": "168",
+      "Pk": "64",
+      "(x?)": "",
+      "Streams": "1,256",
+      "Streams+": "+67",
+      "7Day": "8,392",
+      "7Day+": "-62",
+      "Total": "220,305",
+      "track_id": "3d0WouFnFmr0K3kjeza3fF",
+      "artist_ids": [
+        "0EmeFodog0BfCgMzAIvKQp",
+        "7aBzpmFXB4WWpPl2F7RjBe"
+      ]
+    },
+    {
+      "Pos": "174",
+      "P+": "+21",
+      "Artist and Title": "5MIINUST - Erootika Pood",
+      "Days": "1274",
+      "Pk": "26",
+      "(x?)": "",
+      "Streams": "1,251",
+      "Streams+": "+179",
+      "7Day": "8,464",
+      "7Day+": "-133",
+      "Total": "1,739,428",
+      "track_id": "0irG7UHJP2APS0hul5MCat",
+      "artist_ids": [
+        "6acByqWJeuaM0TX5VoY6an"
+      ]
+    },
+    {
+      "Pos": "175",
+      "P+": "RE",
+      "Artist and Title": "Olivia Dean - Man I Need",
+      "Days": "352",
+      "Pk": "23",
+      "(x?)": "",
+      "Streams": "1,247",
+      "Streams+": "",
+      "7Day": "5,928",
+      "7Day+": "-143",
+      "Total": "656,026",
+      "track_id": "1qbmS6ep2hbBRaEZFpn7BX",
+      "artist_ids": [
+        "00x1fYSGhdqScXBRpSj3DW"
+      ]
+    },
+    {
+      "Pos": "176",
+      "P+": "-2",
+      "Artist and Title": "Ariana Grande - hate that i made you love me",
+      "Days": "83",
+      "Pk": "20",
+      "(x?)": "",
+      "Streams": "1,246",
+      "Streams+": "+128",
+      "7Day": "8,942",
+      "7Day+": "-190",
+      "Total": "167,534",
+      "track_id": "20jbSiX29FDX4oQxBXyUEi",
+      "artist_ids": [
+        "66CXWjxzNUsdJxJ2JdwvnR"
+      ]
+    },
+    {
+      "Pos": "177",
+      "P+": "+12",
       "Artist and Title": "nublu - Mina Ka (w/ Reket)",
-      "Days": "647",
+      "Days": "648",
       "Pk": "1",
       "(x?)": "(x40)",
-      "Streams": "1,085",
-      "Streams+": "-97",
-      "7Day": "8,620",
-      "7Day+": "+1,085",
-      "Total": "1,485,538",
+      "Streams": "1,243",
+      "Streams+": "+158",
+      "7Day": "8,537",
+      "7Day+": "-83",
+      "Total": "1,486,781",
       "track_id": "4WTIwGBQobHLNo320RhOWW",
       "artist_ids": [
         "2cNMMulo6S2a0tHrwX2s6i",
@@ -3302,120 +3090,227 @@
       ]
     },
     {
-      "Pos": "190",
-      "P+": "-26",
-      "Artist and Title": "Calvin Harris - Summer",
-      "Days": "252",
-      "Pk": "5",
+      "Pos": "178",
+      "P+": "RE",
+      "Artist and Title": "HUGEL - I Adore You (w/ Topic, Arash, Daecolm)",
+      "Days": "510",
+      "Pk": "27",
       "(x?)": "",
-      "Streams": "1,084",
-      "Streams+": "-194",
-      "7Day": "7,135",
-      "7Day+": "+1,084",
-      "Total": "325,257",
-      "track_id": "7b71WsDLb8gG0cSyDTFAEW",
+      "Streams": "1,242",
+      "Streams+": "",
+      "7Day": "6,134",
+      "7Day+": "-348",
+      "Total": "881,391",
+      "track_id": "5nPbKG04fhLkIAjcPFaZq7",
       "artist_ids": [
-        "7CajNmpbOovFoOoasH2HaY"
+        "5PlfkPxwCpRRWQJBxCa0By",
+        "0u6GtibW46tFX7koQ6uNJZ",
+        "7hQmAXAzWI6D350VTgkKTG",
+        "1IFAU4mznUcfPVP9z2c24N"
       ]
     },
     {
-      "Pos": "191",
-      "P+": "-2",
+      "Pos": "179",
+      "P+": "RE",
+      "Artist and Title": "sombr - 12 to 12",
+      "Days": "373",
+      "Pk": "17",
+      "(x?)": "",
+      "Streams": "1,240",
+      "Streams+": "",
+      "7Day": "4,869",
+      "7Day+": "-67",
+      "Total": "783,244",
+      "track_id": "05od2qm2MTSKCHxy1GBp5W",
+      "artist_ids": [
+        "4G9NDjRyZFDlJKMRL8hx3S"
+      ]
+    },
+    {
+      "Pos": "180",
+      "P+": "-10",
+      "Artist and Title": "F3miii - NOBLE",
+      "Days": "121",
+      "Pk": "44",
+      "(x?)": "",
+      "Streams": "1,238",
+      "Streams+": "+110",
+      "7Day": "9,109",
+      "7Day+": "-177",
+      "Total": "185,891",
+      "track_id": "4Jsus7N4d8hFB2G9gcRdBv",
+      "artist_ids": [
+        "0gmx7cndNJbFM0DAO7fT0s"
+      ]
+    },
+    {
+      "Pos": "181",
+      "P+": "-10",
+      "Artist and Title": "Shawn Mendes - Treat You Better",
+      "Days": "186",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "1,232",
+      "Streams+": "+107",
+      "7Day": "7,126",
+      "7Day+": "-77",
+      "Total": "333,674",
+      "track_id": "3QGsuHI8jO1Rx4JWLUh9jd",
+      "artist_ids": [
+        "7n2wHs1TKAczGzO7Dd2rGr"
+      ]
+    },
+    {
+      "Pos": "182",
+      "P+": "RE",
+      "Artist and Title": "By Индия - Шадэ (w/ Xcho, МОТ)",
+      "Days": "105",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "1,228",
+      "Streams+": "",
+      "7Day": "7,360",
+      "7Day+": "-222",
+      "Total": "283,399",
+      "track_id": "6GiiGC1f90eZdYwyg0NEJl",
+      "artist_ids": [
+        "0BPOpRKw4vLwPFp4LsFRpO",
+        "774od4b04zDMQMGxrJDeuB",
+        "6OTMjaRQ9kxdwoPRYTmyOM"
+      ]
+    },
+    {
+      "Pos": "183",
+      "P+": "+1",
+      "Artist and Title": "Olivia Rodrigo - stupid song",
+      "Days": "70",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "1,228",
+      "Streams+": "+128",
+      "7Day": "7,429",
+      "7Day+": "-79",
+      "Total": "127,745",
+      "track_id": "49j6SvuvWfbEKZKzsHCdLJ",
+      "artist_ids": [
+        "1McMsnEElThX1knmY4oliG"
+      ]
+    },
+    {
+      "Pos": "184",
+      "P+": "-18",
+      "Artist and Title": "Jennifer Lopez - On The Floor (w/ Pitbull)",
+      "Days": "97",
+      "Pk": "29",
+      "(x?)": "",
+      "Streams": "1,226",
+      "Streams+": "+88",
+      "7Day": "9,287",
+      "7Day+": "-383",
+      "Total": "165,715",
+      "track_id": "3C0nOe05EIt1390bVABLyN",
+      "artist_ids": [
+        "2DlGxzQSjYe5N6G9nkYghR",
+        "0TnOYISbd1XYRBk9myaseg"
+      ]
+    },
+    {
+      "Pos": "185",
+      "P+": "-39",
+      "Artist and Title": "Kosmikud - Kuidas Tuli Pimedus Mu Tuppa",
+      "Days": "3",
+      "Pk": "146",
+      "(x?)": "",
+      "Streams": "1,225",
+      "Streams+": "+42",
+      "7Day": "3,614",
+      "7Day+": "+1,225",
+      "Total": "3,614",
+      "track_id": "7sxuP475pBOARaEUWlnTVE",
+      "artist_ids": [
+        "1OjUIn4gI3FFaL7X9xosbH"
+      ]
+    },
+    {
+      "Pos": "186",
+      "P+": "+5",
       "Artist and Title": "triibupasta - trampoliino",
-      "Days": "610",
+      "Days": "611",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "1,082",
-      "Streams+": "-121",
-      "7Day": "3,546",
-      "7Day+": "+1,082",
-      "Total": "1,308,105",
+      "Streams": "1,225",
+      "Streams+": "+143",
+      "7Day": "3,510",
+      "7Day+": "-36",
+      "Total": "1,309,330",
       "track_id": "1PaVrZirju9QgP7cvjG1MZ",
       "artist_ids": [
         "2a8z7MVhEtvZXFbgEE9ihL"
       ]
     },
     {
-      "Pos": "192",
-      "P+": "-27",
-      "Artist and Title": "ONYX - linnonminu (w/ Lil Till)",
-      "Days": "7",
-      "Pk": "35",
+      "Pos": "187",
+      "P+": "-12",
+      "Artist and Title": "The Police - Every Breath You Take",
+      "Days": "598",
+      "Pk": "27",
       "(x?)": "",
-      "Streams": "1,081",
-      "Streams+": "-197",
-      "7Day": "10,805",
-      "7Day+": "+1,081",
-      "Total": "10,805",
-      "track_id": "5LWuG1gowyJLTRXaK2hohK",
+      "Streams": "1,223",
+      "Streams+": "+107",
+      "7Day": "8,446",
+      "7Day+": "-160",
+      "Total": "860,041",
+      "track_id": "1JSTJqkT5qHq8MDJnJbRE1",
       "artist_ids": [
-        "4zBQ2Zbwg84dtnPcogmoJU",
-        "20rxrauVfrXfc2vgZNvxot"
+        "5NGO30tJxFlKixkPSgXcFE"
       ]
     },
     {
-      "Pos": "193",
-      "P+": "-47",
-      "Artist and Title": "Zara Larsson - Midnight Sun",
-      "Days": "237",
-      "Pk": "70",
-      "(x?)": "",
-      "Streams": "1,079",
-      "Streams+": "-235",
-      "7Day": "8,726",
-      "7Day+": "+1,079",
-      "Total": "344,164",
-      "track_id": "1qRV1dKLOfH1s00b9J2LUQ",
-      "artist_ids": [
-        "1Xylc3o4UrD53lo9CvFvVg"
-      ]
-    },
-    {
-      "Pos": "194",
-      "P+": "RE",
-      "Artist and Title": "nublu - kastehein",
-      "Days": "1005",
+      "Pos": "188",
+      "P+": "-20",
+      "Artist and Title": "Gigi Perez - Sailor Song",
+      "Days": "733",
       "Pk": "1",
-      "(x?)": "(x39)",
-      "Streams": "1,076",
-      "Streams+": "",
-      "7Day": "4,856",
-      "7Day+": "+1,076",
-      "Total": "2,215,269",
-      "track_id": "41XLcwECxYj7tokaF2a7sA",
+      "(x?)": "(x8)",
+      "Streams": "1,216",
+      "Streams+": "+80",
+      "7Day": "8,628",
+      "7Day+": "-188",
+      "Total": "1,784,756",
+      "track_id": "21IYMdzTrzSe191Cy5eMap",
       "artist_ids": [
-        "2cNMMulo6S2a0tHrwX2s6i"
+        "1iCnM8foFssWlPRLfAbIwo"
       ]
     },
     {
-      "Pos": "195",
-      "P+": "-27",
-      "Artist and Title": "5MIINUST - Erootika Pood",
-      "Days": "1273",
-      "Pk": "26",
+      "Pos": "189",
+      "P+": "-24",
+      "Artist and Title": "Tame Impala - Dracula",
+      "Days": "329",
+      "Pk": "17",
       "(x?)": "",
-      "Streams": "1,072",
-      "Streams+": "-196",
-      "7Day": "8,597",
-      "7Day+": "-115",
-      "Total": "1,738,177",
-      "track_id": "0irG7UHJP2APS0hul5MCat",
+      "Streams": "1,216",
+      "Streams+": "+77",
+      "7Day": "8,639",
+      "7Day+": "-54",
+      "Total": "672,295",
+      "track_id": "1NXbNEAcPvY5G1xvfN57aA",
       "artist_ids": [
-        "6acByqWJeuaM0TX5VoY6an"
+        "5INjqkS1o8h1imAzPqGZBb"
       ]
     },
     {
-      "Pos": "196",
-      "P+": "-18",
+      "Pos": "190",
+      "P+": "+6",
       "Artist and Title": "jooseppro - BRIGITTA (w/ Lennu)",
-      "Days": "341",
+      "Days": "342",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "1,070",
-      "Streams+": "-171",
-      "7Day": "8,669",
-      "7Day+": "-211",
-      "Total": "1,011,397",
+      "Streams": "1,211",
+      "Streams+": "+141",
+      "7Day": "8,463",
+      "7Day+": "-206",
+      "Total": "1,012,608",
       "track_id": "6fIpM6XFyKCQfrztsabxOF",
       "artist_ids": [
         "7gOV81gizKQeukzb4ZOlaz",
@@ -3423,71 +3318,177 @@
       ]
     },
     {
-      "Pos": "197",
-      "P+": "-22",
-      "Artist and Title": "Katy Perry - Hot N Cold",
-      "Days": "24",
-      "Pk": "154",
+      "Pos": "191",
+      "P+": "-4",
+      "Artist and Title": "Arg Part - Kummipuru",
+      "Days": "12",
+      "Pk": "113",
       "(x?)": "",
-      "Streams": "1,066",
-      "Streams+": "-184",
-      "7Day": "4,598",
-      "7Day+": "-74",
-      "Total": "27,896",
-      "track_id": "1ulXmqjktxSdrdT1bzc69H",
+      "Streams": "1,201",
+      "Streams+": "+112",
+      "7Day": "2,290",
+      "7Day+": "+1,201",
+      "Total": "14,828",
+      "track_id": "34jbX5V4Ntf6iSjYjRxxov",
       "artist_ids": [
-        "6jJ0s89eD6GaHleKKya26X"
+        "7ptB41iMNEx7qqZE80aTLw"
       ]
     },
     {
-      "Pos": "198",
+      "Pos": "192",
       "P+": "RE",
-      "Artist and Title": "Tanel Padar & The Sun - Nii Siis Jääbki",
-      "Days": "59",
-      "Pk": "58",
+      "Artist and Title": "Nelly Furtado - Promiscuous (w/ Timbaland)",
+      "Days": "116",
+      "Pk": "72",
       "(x?)": "",
-      "Streams": "1,063",
+      "Streams": "1,199",
       "Streams+": "",
-      "7Day": "1,063",
-      "7Day+": "+1,063",
-      "Total": "77,293",
-      "track_id": "0OAbWmQGnqmVSHeCn25pCC",
+      "7Day": "4,797",
+      "7Day+": "-53",
+      "Total": "139,874",
+      "track_id": "2gam98EZKrF9XuOkU13ApN",
       "artist_ids": [
-        "4hJQhuBqxqKxjNrjkz1Epz"
+        "2jw70GZXlAI8QzWeY2bgRc",
+        "5Y5TRrQiqgUO4S36tzjIRZ"
       ]
     },
     {
-      "Pos": "199",
-      "P+": "RE",
+      "Pos": "193",
+      "P+": "-30",
+      "Artist and Title": "VILLIAN - ДИНАСТИЯ (w/ madk1d)",
+      "Days": "23",
+      "Pk": "101",
+      "(x?)": "",
+      "Streams": "1,191",
+      "Streams+": "+46",
+      "7Day": "8,263",
+      "7Day+": "-105",
+      "Total": "30,144",
+      "track_id": "6MtUSSf9h4s2lKkkkXdu5J",
+      "artist_ids": [
+        "4UsmVGTdKwCWC0B86P6N7L",
+        "1Q5COYHgA7ch0y3HqCNgwt"
+      ]
+    },
+    {
+      "Pos": "194",
+      "P+": "+5",
       "Artist and Title": "nublu - öölaps!",
-      "Days": "821",
+      "Days": "822",
       "Pk": "1",
       "(x?)": "(x44)",
-      "Streams": "1,062",
-      "Streams+": "",
-      "7Day": "6,159",
-      "7Day+": "+1,062",
-      "Total": "1,702,291",
+      "Streams": "1,184",
+      "Streams+": "+122",
+      "7Day": "6,004",
+      "7Day+": "-155",
+      "Total": "1,703,475",
       "track_id": "7M9fQnBqpcc1pWOnccfqmd",
       "artist_ids": [
         "2cNMMulo6S2a0tHrwX2s6i"
       ]
     },
     {
-      "Pos": "200",
-      "P+": "-30",
-      "Artist and Title": "triibupasta - parti piipol",
-      "Days": "76",
-      "Pk": "7",
+      "Pos": "195",
+      "P+": "-17",
+      "Artist and Title": "Alyssa Grace - bloodstream",
+      "Days": "26",
+      "Pk": "101",
       "(x?)": "",
-      "Streams": "1,055",
-      "Streams+": "-206",
-      "7Day": "8,161",
-      "7Day+": "-113",
-      "Total": "130,613",
-      "track_id": "0NVPydALeLxxFM4LnZ4tnu",
+      "Streams": "1,177",
+      "Streams+": "+64",
+      "7Day": "6,949",
+      "7Day+": "+1,177",
+      "Total": "32,777",
+      "track_id": "2oWFJJW9d1bIra3zHjR6GO",
       "artist_ids": [
-        "2a8z7MVhEtvZXFbgEE9ihL"
+        "4eZer1QvRM8Pna0rLToV1K"
+      ]
+    },
+    {
+      "Pos": "196",
+      "P+": "-10",
+      "Artist and Title": "Dave - Raindance (w/ Tems)",
+      "Days": "267",
+      "Pk": "2",
+      "(x?)": "(x3)",
+      "Streams": "1,175",
+      "Streams+": "+85",
+      "7Day": "5,851",
+      "7Day+": "-197",
+      "Total": "618,347",
+      "track_id": "3oTuTpF1F3A7rEC6RKsMRz",
+      "artist_ids": [
+        "6Ip8FS7vWT1uKkJSweANQK",
+        "687cZJR45JO7jhk1LHIbgq"
+      ]
+    },
+    {
+      "Pos": "197",
+      "P+": "RE",
+      "Artist and Title": "Milky Chance - Stolen Dance",
+      "Days": "660",
+      "Pk": "2",
+      "(x?)": "(x15)",
+      "Streams": "1,174",
+      "Streams+": "",
+      "7Day": "3,408",
+      "7Day+": "+1,174",
+      "Total": "823,635",
+      "track_id": "7398yjipWAaoCGIl7ukaeX",
+      "artist_ids": [
+        "1hzfo8twXdOegF3xireCYs"
+      ]
+    },
+    {
+      "Pos": "198",
+      "P+": "-15",
+      "Artist and Title": "Fat Papi - FREAKED OUT (w/ prodshushy)",
+      "Days": "59",
+      "Pk": "39",
+      "(x?)": "",
+      "Streams": "1,169",
+      "Streams+": "+67",
+      "7Day": "8,272",
+      "7Day+": "-161",
+      "Total": "97,014",
+      "track_id": "7pBzCp7qNLlsH6rzEFkSwN",
+      "artist_ids": [
+        "6bemHySK6oqDAPZZzt61ov",
+        "6aQnbm7k0VsmUqfU9cfwoA"
+      ]
+    },
+    {
+      "Pos": "199",
+      "P+": "RE",
+      "Artist and Title": "Black Eyed Peas - Meet Me Halfway",
+      "Days": "280",
+      "Pk": "14",
+      "(x?)": "",
+      "Streams": "1,169",
+      "Streams+": "",
+      "7Day": "7,952",
+      "7Day+": "-427",
+      "Total": "370,125",
+      "track_id": "3F9ByoUqu31xU0I3G5xfVg",
+      "artist_ids": [
+        "1yxSLGMDHlW21z4YXirZDS"
+      ]
+    },
+    {
+      "Pos": "200",
+      "P+": "-10",
+      "Artist and Title": "Calvin Harris - Summer",
+      "Days": "253",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "1,168",
+      "Streams+": "+84",
+      "7Day": "7,038",
+      "7Day+": "-97",
+      "Total": "326,425",
+      "track_id": "7b71WsDLb8gG0cSyDTFAEW",
+      "artist_ids": [
+        "7CajNmpbOovFoOoasH2HaY"
       ]
     }
   ]
