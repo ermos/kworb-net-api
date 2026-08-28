@@ -1,19 +1,19 @@
 {
   "source": "https://kworb.net/spotify/country/my_daily.html",
-  "title": "Spotify Daily Chart - Malaysia - 2026/08/25",
+  "title": "Spotify Daily Chart - Malaysia - 2026/08/26",
   "chart": [
     {
       "Pos": "1",
       "P+": "=",
       "Artist and Title": "Tulus - Teh Hijau",
-      "Days": "53",
+      "Days": "54",
       "Pk": "1",
-      "(x?)": "(x38)",
-      "Streams": "169,124",
-      "Streams+": "+17,574",
-      "7Day": "1,152,231",
-      "7Day+": "+17,370",
-      "Total": "6,224,111",
+      "(x?)": "(x39)",
+      "Streams": "146,560",
+      "Streams+": "-22,564",
+      "7Day": "1,145,503",
+      "7Day+": "-6,728",
+      "Total": "6,370,671",
       "track_id": "4R9G7azXaZe93KTX65P9fU",
       "artist_ids": [
         "2iDVt6mFbtbDEZG5ax0dTi"
@@ -23,14 +23,14 @@
       "Pos": "2",
       "P+": "=",
       "Artist and Title": "Raim Laode - Iqro'",
-      "Days": "141",
+      "Days": "142",
       "Pk": "1",
       "(x?)": "(x4)",
-      "Streams": "90,837",
-      "Streams+": "+8,355",
-      "7Day": "605,206",
-      "7Day+": "+10,850",
-      "Total": "10,213,626",
+      "Streams": "79,436",
+      "Streams+": "-11,401",
+      "7Day": "603,606",
+      "7Day+": "-1,600",
+      "Total": "10,293,062",
       "track_id": "2ImWVGyYTRMi64861WCCcq",
       "artist_ids": [
         "5LcNPa8f8bRmZqELgoRFkN"
@@ -38,16 +38,33 @@
     },
     {
       "Pos": "3",
-      "P+": "=",
+      "P+": "+1",
+      "Artist and Title": "Katy Perry - The One That Got Away",
+      "Days": "314",
+      "Pk": "1",
+      "(x?)": "(x3)",
+      "Streams": "74,307",
+      "Streams+": "-6,873",
+      "7Day": "542,985",
+      "7Day+": "-1,231",
+      "Total": "14,111,832",
+      "track_id": "6hkOqJ5mE093AQf2lbZnsG",
+      "artist_ids": [
+        "6jJ0s89eD6GaHleKKya26X"
+      ]
+    },
+    {
+      "Pos": "4",
+      "P+": "-1",
       "Artist and Title": "Akbar Chalay - Astaga Bercanda (w/ Mingse)",
-      "Days": "47",
+      "Days": "48",
       "Pk": "3",
       "(x?)": "(x4)",
-      "Streams": "83,477",
-      "Streams+": "+5,671",
-      "7Day": "538,950",
-      "7Day+": "+14,445",
-      "Total": "3,012,131",
+      "Streams": "73,712",
+      "Streams+": "-9,765",
+      "7Day": "545,231",
+      "7Day+": "+6,281",
+      "Total": "3,085,843",
       "track_id": "03fkIoNyruY4N2Pa5CqTvv",
       "artist_ids": [
         "0dIJRlr9m4hUwdBYmKUTjW",
@@ -55,34 +72,17 @@
       ]
     },
     {
-      "Pos": "4",
-      "P+": "=",
-      "Artist and Title": "Katy Perry - The One That Got Away",
-      "Days": "313",
-      "Pk": "1",
-      "(x?)": "(x3)",
-      "Streams": "81,180",
-      "Streams+": "+6,969",
-      "7Day": "544,216",
-      "7Day+": "-862",
-      "Total": "14,037,525",
-      "track_id": "6hkOqJ5mE093AQf2lbZnsG",
-      "artist_ids": [
-        "6jJ0s89eD6GaHleKKya26X"
-      ]
-    },
-    {
       "Pos": "5",
       "P+": "=",
       "Artist and Title": "Raim Laode - Dunia Yang Nanti",
-      "Days": "76",
+      "Days": "77",
       "Pk": "5",
       "(x?)": "",
-      "Streams": "74,838",
-      "Streams+": "+6,651",
-      "7Day": "479,399",
-      "7Day+": "+21,731",
-      "Total": "3,276,972",
+      "Streams": "64,215",
+      "Streams+": "-10,623",
+      "7Day": "478,329",
+      "7Day+": "-1,070",
+      "Total": "3,341,187",
       "track_id": "1sVQuuvFDKu6vklPVeiUXT",
       "artist_ids": [
         "5LcNPa8f8bRmZqELgoRFkN"
@@ -90,16 +90,16 @@
     },
     {
       "Pos": "6",
-      "P+": "+1",
+      "P+": "=",
       "Artist and Title": "eńau - Sesi Potret (w/ Ari Lesmana)",
-      "Days": "82",
+      "Days": "83",
       "Pk": "6",
       "(x?)": "",
-      "Streams": "64,598",
-      "Streams+": "+5,088",
-      "7Day": "440,531",
-      "7Day+": "+3,272",
-      "Total": "3,735,319",
+      "Streams": "62,740",
+      "Streams+": "-1,858",
+      "7Day": "443,050",
+      "7Day+": "+2,519",
+      "Total": "3,798,059",
       "track_id": "4xoY4lZNoTjEuHsSmhgF1G",
       "artist_ids": [
         "0agUNq8PH1QSgm88EuhM1u",
@@ -109,151 +109,168 @@
     {
       "Pos": "7",
       "P+": "+2",
-      "Artist and Title": "Piche Kota - Bahagia Lagi",
-      "Days": "213",
-      "Pk": "2",
-      "(x?)": "(x8)",
-      "Streams": "63,258",
-      "Streams+": "+5,997",
-      "7Day": "422,070",
-      "7Day+": "+6,572",
-      "Total": "15,406,785",
-      "track_id": "5tZaKZPJtiHh6teQfVEHB5",
-      "artist_ids": [
-        "5zAYPlhV1TirCul0R4NKGM"
-      ]
-    },
-    {
-      "Pos": "8",
-      "P+": "=",
-      "Artist and Title": "Bruno Mars - Risk It All",
-      "Days": "180",
-      "Pk": "1",
-      "(x?)": "(x71)",
-      "Streams": "62,277",
-      "Streams+": "+3,784",
-      "7Day": "430,082",
-      "7Day+": "+6,356",
-      "Total": "18,601,590",
-      "track_id": "5y2ijHECwFYWqcAHKTZgzD",
-      "artist_ids": [
-        "0du5cEVh5yTK9QJze8zA0C"
-      ]
-    },
-    {
-      "Pos": "9",
-      "P+": "-3",
       "Artist and Title": "Naykilla - MMG (My Mine Gueh)",
-      "Days": "62",
+      "Days": "63",
       "Pk": "5",
       "(x?)": "",
-      "Streams": "62,202",
-      "Streams+": "+2,223",
-      "7Day": "436,336",
-      "7Day+": "+1,797",
-      "Total": "3,267,689",
+      "Streams": "56,933",
+      "Streams+": "-5,269",
+      "7Day": "433,949",
+      "7Day+": "-2,387",
+      "Total": "3,324,622",
       "track_id": "2AtJq58CHh4qBUqTpU75vU",
       "artist_ids": [
         "79omf4LgzaVAnXIRWPkJUq"
       ]
     },
     {
-      "Pos": "10",
+      "Pos": "8",
       "P+": "+3",
-      "Artist and Title": "Nadhif Basalamah - kota ini tak sama tanpamu",
-      "Days": "258",
-      "Pk": "1",
-      "(x?)": "(x37)",
-      "Streams": "58,343",
-      "Streams+": "+5,188",
-      "7Day": "385,848",
-      "7Day+": "+2,784",
-      "Total": "18,444,620",
-      "track_id": "13CwOTXUgBugeBByE9oIWb",
-      "artist_ids": [
-        "6UgERnTHmjk3qXM9x5vzyO"
-      ]
-    },
-    {
-      "Pos": "11",
-      "P+": "-1",
       "Artist and Title": "Ariana Grande - hate that i made you love me",
-      "Days": "88",
+      "Days": "89",
       "Pk": "1",
       "(x?)": "(x42)",
-      "Streams": "58,026",
-      "Streams+": "+1,177",
-      "7Day": "418,794",
-      "7Day+": "-3,813",
-      "Total": "7,789,325",
+      "Streams": "56,587",
+      "Streams+": "-1,439",
+      "7Day": "415,441",
+      "7Day+": "-3,353",
+      "Total": "7,845,912",
       "track_id": "20jbSiX29FDX4oQxBXyUEi",
       "artist_ids": [
         "66CXWjxzNUsdJxJ2JdwvnR"
       ]
     },
     {
-      "Pos": "12",
+      "Pos": "9",
       "P+": "-1",
+      "Artist and Title": "Bruno Mars - Risk It All",
+      "Days": "181",
+      "Pk": "1",
+      "(x?)": "(x71)",
+      "Streams": "56,430",
+      "Streams+": "-5,847",
+      "7Day": "427,607",
+      "7Day+": "-2,475",
+      "Total": "18,658,020",
+      "track_id": "5y2ijHECwFYWqcAHKTZgzD",
+      "artist_ids": [
+        "0du5cEVh5yTK9QJze8zA0C"
+      ]
+    },
+    {
+      "Pos": "10",
+      "P+": "-3",
+      "Artist and Title": "Piche Kota - Bahagia Lagi",
+      "Days": "214",
+      "Pk": "2",
+      "(x?)": "(x8)",
+      "Streams": "56,277",
+      "Streams+": "-6,981",
+      "7Day": "421,844",
+      "7Day+": "-226",
+      "Total": "15,463,062",
+      "track_id": "5tZaKZPJtiHh6teQfVEHB5",
+      "artist_ids": [
+        "5zAYPlhV1TirCul0R4NKGM"
+      ]
+    },
+    {
+      "Pos": "11",
+      "P+": "+1",
       "Artist and Title": "Nadhif Basalamah - bergema sampai selamanya",
-      "Days": "542",
+      "Days": "543",
       "Pk": "3",
       "(x?)": "(x48)",
-      "Streams": "57,886",
-      "Streams+": "+3,350",
-      "7Day": "389,493",
-      "7Day+": "+7,467",
-      "Total": "33,697,824",
+      "Streams": "53,299",
+      "Streams+": "-4,587",
+      "7Day": "388,999",
+      "7Day+": "-494",
+      "Total": "33,751,123",
       "track_id": "0ql6fgz8qk0pAEKrGeSppJ",
       "artist_ids": [
         "6UgERnTHmjk3qXM9x5vzyO"
       ]
     },
     {
-      "Pos": "13",
-      "P+": "+3",
-      "Artist and Title": "Shawn Mendes - Treat You Better",
-      "Days": "2326",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "57,397",
-      "Streams+": "+6,441",
-      "7Day": "378,212",
-      "7Day+": "+8,268",
-      "Total": "32,107,427",
-      "track_id": "3QGsuHI8jO1Rx4JWLUh9jd",
-      "artist_ids": [
-        "7n2wHs1TKAczGzO7Dd2rGr"
-      ]
-    },
-    {
-      "Pos": "14",
-      "P+": "=",
+      "Pos": "12",
+      "P+": "+2",
       "Artist and Title": "Sal Priadi - Ada titik-titik di ujung doa",
-      "Days": "195",
+      "Days": "196",
       "Pk": "5",
       "(x?)": "",
-      "Streams": "56,710",
-      "Streams+": "+3,741",
-      "7Day": "387,397",
-      "7Day+": "+2,871",
-      "Total": "11,820,962",
+      "Streams": "53,270",
+      "Streams+": "-3,440",
+      "7Day": "387,436",
+      "7Day+": "+39",
+      "Total": "11,874,232",
       "track_id": "1E7zLPDdqo0OvzVmGj5aoV",
       "artist_ids": [
         "1NjxFrpEGZTV2Ny0OJxeWu"
       ]
     },
     {
+      "Pos": "13",
+      "P+": "-3",
+      "Artist and Title": "Nadhif Basalamah - kota ini tak sama tanpamu",
+      "Days": "259",
+      "Pk": "1",
+      "(x?)": "(x37)",
+      "Streams": "52,477",
+      "Streams+": "-5,866",
+      "7Day": "386,146",
+      "7Day+": "+298",
+      "Total": "18,497,097",
+      "track_id": "13CwOTXUgBugeBByE9oIWb",
+      "artist_ids": [
+        "6UgERnTHmjk3qXM9x5vzyO"
+      ]
+    },
+    {
+      "Pos": "14",
+      "P+": "+2",
+      "Artist and Title": "Ifan Seventeen - Jangan Paksa Rindu - Beda",
+      "Days": "179",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "51,203",
+      "Streams+": "-2,207",
+      "7Day": "372,528",
+      "7Day+": "-115",
+      "Total": "9,626,097",
+      "track_id": "79tbBuciPV221EozY3RKQv",
+      "artist_ids": [
+        "2vbWy0ntJGJ2H1erLJFMZZ"
+      ]
+    },
+    {
       "Pos": "15",
-      "P+": "=",
+      "P+": "-2",
+      "Artist and Title": "Shawn Mendes - Treat You Better",
+      "Days": "2327",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "50,944",
+      "Streams+": "-6,453",
+      "7Day": "377,356",
+      "7Day+": "-856",
+      "Total": "32,158,371",
+      "track_id": "3QGsuHI8jO1Rx4JWLUh9jd",
+      "artist_ids": [
+        "7n2wHs1TKAczGzO7Dd2rGr"
+      ]
+    },
+    {
+      "Pos": "16",
+      "P+": "-1",
       "Artist and Title": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj)",
-      "Days": "432",
+      "Days": "433",
       "Pk": "1",
       "(x?)": "(x14)",
-      "Streams": "54,974",
-      "Streams+": "+2,458",
-      "7Day": "384,008",
-      "7Day+": "+1,524",
-      "Total": "15,985,326",
+      "Streams": "49,263",
+      "Streams+": "-5,711",
+      "7Day": "380,330",
+      "7Day+": "-3,678",
+      "Total": "16,034,589",
       "track_id": "6QFCMUUq1T2Vf5sFUXcuQ7",
       "artist_ids": [
         "1uNFoZAHBGtllmzznpCI3s",
@@ -261,51 +278,17 @@
       ]
     },
     {
-      "Pos": "16",
-      "P+": "-4",
-      "Artist and Title": "Ifan Seventeen - Jangan Paksa Rindu - Beda",
-      "Days": "178",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "53,410",
-      "Streams+": "+156",
-      "7Day": "372,643",
-      "7Day+": "+3,292",
-      "Total": "9,574,894",
-      "track_id": "79tbBuciPV221EozY3RKQv",
-      "artist_ids": [
-        "2vbWy0ntJGJ2H1erLJFMZZ"
-      ]
-    },
-    {
       "Pos": "17",
-      "P+": "+2",
-      "Artist and Title": "Sal Priadi - Foto kita blur",
-      "Days": "73",
-      "Pk": "17",
-      "(x?)": "",
-      "Streams": "51,660",
-      "Streams+": "+4,339",
-      "7Day": "343,140",
-      "7Day+": "+8,780",
-      "Total": "2,858,453",
-      "track_id": "5POrnkQAprvkordH0kB25O",
-      "artist_ids": [
-        "1NjxFrpEGZTV2Ny0OJxeWu"
-      ]
-    },
-    {
-      "Pos": "18",
-      "P+": "-1",
+      "P+": "+1",
       "Artist and Title": "Mac Miller - Cinderella (w/ Ty Dolla $ign)",
-      "Days": "44",
+      "Days": "45",
       "Pk": "17",
       "(x?)": "",
-      "Streams": "51,248",
-      "Streams+": "+3,436",
-      "7Day": "332,223",
-      "7Day+": "+8,476",
-      "Total": "1,469,942",
+      "Streams": "48,521",
+      "Streams+": "-2,727",
+      "7Day": "338,311",
+      "7Day+": "+6,088",
+      "Total": "1,518,463",
       "track_id": "2lpygKqzPFtItQ4ss3cgfb",
       "artist_ids": [
         "4LLpKhyESsyAXpc4laK94U",
@@ -313,68 +296,34 @@
       ]
     },
     {
-      "Pos": "19",
-      "P+": "-1",
+      "Pos": "18",
+      "P+": "+1",
       "Artist and Title": "Malcolm Todd - Earrings",
-      "Days": "142",
+      "Days": "143",
       "Pk": "13",
       "(x?)": "",
-      "Streams": "50,055",
-      "Streams+": "+2,514",
-      "7Day": "341,508",
-      "7Day+": "+8,814",
-      "Total": "5,619,326",
+      "Streams": "46,045",
+      "Streams+": "-4,010",
+      "7Day": "340,794",
+      "7Day+": "-714",
+      "Total": "5,665,371",
       "track_id": "0eAuGrXyGFYwur9ARUe7LJ",
       "artist_ids": [
         "7eKkW1zo5uzW8kUntiiBvz"
       ]
     },
     {
-      "Pos": "20",
-      "P+": "+1",
-      "Artist and Title": "Nuca - Masa ini, Nanti, dan Masa Indah Lainnya",
-      "Days": "217",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "49,740",
-      "Streams+": "+5,045",
-      "7Day": "336,135",
-      "7Day+": "+5,620",
-      "Total": "10,096,042",
-      "track_id": "3TTZfjYqhTowNALncAmY5v",
-      "artist_ids": [
-        "5x3nSujruZLuB6xBicI6Ai"
-      ]
-    },
-    {
-      "Pos": "21",
-      "P+": "-1",
-      "Artist and Title": "Overnight - Kita Lewati Berdua",
-      "Days": "55",
-      "Pk": "19",
-      "(x?)": "",
-      "Streams": "48,540",
-      "Streams+": "+3,518",
-      "7Day": "321,869",
-      "7Day+": "+4,521",
-      "Total": "2,173,115",
-      "track_id": "5Enpui55il1ZW0HgwRTSds",
-      "artist_ids": [
-        "0ZkNSRvBK767bNOCdXKeYK"
-      ]
-    },
-    {
-      "Pos": "22",
-      "P+": "=",
+      "Pos": "19",
+      "P+": "+3",
       "Artist and Title": "Lady Gaga - Die With A Smile (w/ Bruno Mars)",
-      "Days": "740",
+      "Days": "741",
       "Pk": "1",
       "(x?)": "(x91)",
-      "Streams": "45,758",
-      "Streams+": "+1,565",
-      "7Day": "314,653",
-      "7Day+": "-3,068",
-      "Total": "59,245,365",
+      "Streams": "44,942",
+      "Streams+": "-816",
+      "7Day": "315,689",
+      "7Day+": "+1,036",
+      "Total": "59,290,307",
       "track_id": "2plbrEY59IikOBgBGLjaoe",
       "artist_ids": [
         "1HY2Jd0NmPuamShAr6KMms",
@@ -382,17 +331,68 @@
       ]
     },
     {
+      "Pos": "20",
+      "P+": "=",
+      "Artist and Title": "Nuca - Masa ini, Nanti, dan Masa Indah Lainnya",
+      "Days": "218",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "44,828",
+      "Streams+": "-4,912",
+      "7Day": "334,137",
+      "7Day+": "-1,998",
+      "Total": "10,140,870",
+      "track_id": "3TTZfjYqhTowNALncAmY5v",
+      "artist_ids": [
+        "5x3nSujruZLuB6xBicI6Ai"
+      ]
+    },
+    {
+      "Pos": "21",
+      "P+": "=",
+      "Artist and Title": "Overnight - Kita Lewati Berdua",
+      "Days": "56",
+      "Pk": "19",
+      "(x?)": "",
+      "Streams": "44,605",
+      "Streams+": "-3,935",
+      "7Day": "324,235",
+      "7Day+": "+2,366",
+      "Total": "2,217,720",
+      "track_id": "5Enpui55il1ZW0HgwRTSds",
+      "artist_ids": [
+        "0ZkNSRvBK767bNOCdXKeYK"
+      ]
+    },
+    {
+      "Pos": "22",
+      "P+": "-5",
+      "Artist and Title": "Sal Priadi - Foto kita blur",
+      "Days": "74",
+      "Pk": "17",
+      "(x?)": "",
+      "Streams": "44,293",
+      "Streams+": "-7,367",
+      "7Day": "343,131",
+      "7Day+": "-9",
+      "Total": "2,902,746",
+      "track_id": "5POrnkQAprvkordH0kB25O",
+      "artist_ids": [
+        "1NjxFrpEGZTV2Ny0OJxeWu"
+      ]
+    },
+    {
       "Pos": "23",
       "P+": "=",
       "Artist and Title": "Fourtwnty - Mangu (w/ Charita Utami)",
-      "Days": "495",
+      "Days": "496",
       "Pk": "1",
       "(x?)": "(x23)",
-      "Streams": "45,276",
-      "Streams+": "+2,947",
-      "7Day": "306,117",
-      "7Day+": "+9,176",
-      "Total": "27,776,581",
+      "Streams": "41,810",
+      "Streams+": "-3,466",
+      "7Day": "306,320",
+      "7Day+": "+203",
+      "Total": "27,818,391",
       "track_id": "4e6TmHCC4PRUj75knNplNP",
       "artist_ids": [
         "46cVq2dwPgzPE3X1VR9TMj",
@@ -402,32 +402,15 @@
     {
       "Pos": "24",
       "P+": "+1",
-      "Artist and Title": "Nadhif Basalamah - penjaga hati",
-      "Days": "1048",
-      "Pk": "1",
-      "(x?)": "(x96)",
-      "Streams": "44,562",
-      "Streams+": "+4,035",
-      "7Day": "297,047",
-      "7Day+": "+6,106",
-      "Total": "51,713,865",
-      "track_id": "6i9Ci0IN1q1GcnhdbKU7kZ",
-      "artist_ids": [
-        "6UgERnTHmjk3qXM9x5vzyO"
-      ]
-    },
-    {
-      "Pos": "25",
-      "P+": "-1",
       "Artist and Title": "Post Malone - Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee)",
-      "Days": "1715",
+      "Days": "1716",
       "Pk": "1",
       "(x?)": "(x27)",
-      "Streams": "44,349",
-      "Streams+": "+3,368",
-      "7Day": "302,358",
-      "7Day+": "+7,983",
-      "Total": "27,737,208",
+      "Streams": "40,139",
+      "Streams+": "-4,210",
+      "7Day": "302,974",
+      "7Day+": "+616",
+      "Total": "27,777,347",
       "track_id": "0RiRZpuVRbi7oqRdSMwhQY",
       "artist_ids": [
         "246dkjvS1zLTtiykXe5h60",
@@ -435,323 +418,340 @@
       ]
     },
     {
-      "Pos": "26",
-      "P+": "+3",
-      "Artist and Title": "Ravyn Lenae - Love Me Not",
-      "Days": "490",
-      "Pk": "14",
-      "(x?)": "",
-      "Streams": "39,867",
-      "Streams+": "+2,877",
-      "7Day": "269,419",
-      "7Day+": "-1,089",
-      "Total": "15,785,591",
-      "track_id": "4WFgvKVfEhb3IUAFGrutTR",
-      "artist_ids": [
-        "5RTLRtXjbXI2lSXc6jxlAz"
-      ]
-    },
-    {
-      "Pos": "27",
-      "P+": "=",
+      "Pos": "25",
+      "P+": "+2",
       "Artist and Title": "Olivia Rodrigo - drop dead",
-      "Days": "131",
+      "Days": "132",
       "Pk": "7",
       "(x?)": "",
-      "Streams": "39,726",
-      "Streams+": "+1,786",
-      "7Day": "279,059",
-      "7Day+": "-1,631",
-      "Total": "6,449,725",
+      "Streams": "38,778",
+      "Streams+": "-948",
+      "7Day": "277,271",
+      "7Day+": "-1,788",
+      "Total": "6,488,503",
       "track_id": "3fRCAPMMZ8l8P9YKI6OCzD",
       "artist_ids": [
         "1McMsnEElThX1knmY4oliG"
       ]
     },
     {
-      "Pos": "28",
+      "Pos": "26",
       "P+": "-2",
-      "Artist and Title": "Alpha - P Ramlee Saloma",
-      "Days": "355",
+      "Artist and Title": "Nadhif Basalamah - penjaga hati",
+      "Days": "1049",
       "Pk": "1",
-      "(x?)": "(x30)",
-      "Streams": "39,222",
-      "Streams+": "+454",
-      "7Day": "270,972",
-      "7Day+": "+8,401",
-      "Total": "18,223,777",
-      "track_id": "7p2GUA0ShGenHoqeIhTg5i",
+      "(x?)": "(x96)",
+      "Streams": "38,674",
+      "Streams+": "-5,888",
+      "7Day": "294,179",
+      "7Day+": "-2,868",
+      "Total": "51,752,539",
+      "track_id": "6i9Ci0IN1q1GcnhdbKU7kZ",
       "artist_ids": [
-        "0s2MtYt7PZx0kP8CqLt38t"
+        "6UgERnTHmjk3qXM9x5vzyO"
       ]
     },
     {
-      "Pos": "29",
-      "P+": "-1",
-      "Artist and Title": "sombr - back to friends",
-      "Days": "519",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "39,058",
-      "Streams+": "+1,169",
-      "7Day": "268,324",
-      "7Day+": "+1,253",
-      "Total": "30,528,198",
-      "track_id": "7qjZnBKE73H4Oxkopwulqe",
-      "artist_ids": [
-        "4G9NDjRyZFDlJKMRL8hx3S"
-      ]
-    },
-    {
-      "Pos": "30",
-      "P+": "=",
-      "Artist and Title": "Raim Laode - Lesung Pipi",
-      "Days": "502",
-      "Pk": "23",
-      "(x?)": "",
-      "Streams": "38,935",
-      "Streams+": "+2,283",
-      "7Day": "262,578",
-      "7Day+": "+12,390",
-      "Total": "14,311,953",
-      "track_id": "2OxvanM5m1Na9OVlXyXmUp",
-      "artist_ids": [
-        "5LcNPa8f8bRmZqELgoRFkN"
-      ]
-    },
-    {
-      "Pos": "31",
-      "P+": "+19",
-      "Artist and Title": "CORTIS - REDRED",
-      "Days": "128",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "38,808",
-      "Streams+": "+8,799",
-      "7Day": "216,372",
-      "7Day+": "+9,921",
-      "Total": "5,444,798",
-      "track_id": "2fCwv2ppU5nTRTckomIGsd",
-      "artist_ids": [
-        "1ebt9HnXdyYA6KgLXr1n4P"
-      ]
-    },
-    {
-      "Pos": "32",
-      "P+": "=",
-      "Artist and Title": "Olivia Rodrigo - the cure",
-      "Days": "96",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "38,486",
-      "Streams+": "+2,029",
-      "7Day": "263,633",
-      "7Day+": "+1,946",
-      "Total": "3,772,829",
-      "track_id": "55pBIZO1cqoldeqpp5WR7H",
-      "artist_ids": [
-        "1McMsnEElThX1knmY4oliG"
-      ]
-    },
-    {
-      "Pos": "33",
-      "P+": "+4",
-      "Artist and Title": "Tulus - Jatuh Suka",
-      "Days": "38",
-      "Pk": "33",
-      "(x?)": "",
-      "Streams": "37,102",
-      "Streams+": "+2,887",
-      "7Day": "232,980",
-      "7Day+": "+7,770",
-      "Total": "964,800",
-      "track_id": "6PqWdGIYq5xdLaa4zCZfRp",
-      "artist_ids": [
-        "2iDVt6mFbtbDEZG5ax0dTi"
-      ]
-    },
-    {
-      "Pos": "34",
-      "P+": "+4",
-      "Artist and Title": "KATSEYE - Animal",
-      "Days": "33",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "36,877",
-      "Streams+": "+3,282",
-      "7Day": "257,069",
-      "7Day+": "+418",
-      "Total": "1,387,128",
-      "track_id": "3ouNEk0tv5TTi8VWMe1xbX",
-      "artist_ids": [
-        "3c0gDdb9lhnHGFtP4prQpn"
-      ]
-    },
-    {
-      "Pos": "35",
-      "P+": "=",
-      "Artist and Title": "ENHYPEN - Bloody Paradise",
-      "Days": "5",
-      "Pk": "35",
-      "(x?)": "",
-      "Streams": "36,210",
-      "Streams+": "+1,295",
-      "7Day": "171,273",
-      "7Day+": "+36,210",
-      "Total": "171,273",
-      "track_id": "5vlnF0r5xACeurZwjgn0Ij",
-      "artist_ids": [
-        "5t5FqBwTcgKTaWmfEbwQY9"
-      ]
-    },
-    {
-      "Pos": "36",
-      "P+": "-3",
-      "Artist and Title": "Billie Eilish - BIRDS OF A FEATHER",
-      "Days": "831",
-      "Pk": "1",
-      "(x?)": "(x60)",
-      "Streams": "36,181",
-      "Streams+": "+782",
-      "7Day": "249,837",
-      "7Day+": "+2,406",
-      "Total": "58,207,482",
-      "track_id": "6dOtVTDdiauQNBQEDOtlAB",
-      "artist_ids": [
-        "6qqNVTkY8uBg9cP3Jd7DAH"
-      ]
-    },
-    {
-      "Pos": "37",
-      "P+": "-6",
-      "Artist and Title": "Adira Suhaimi - Sayang Orang Sama",
-      "Days": "159",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "36,132",
-      "Streams+": "-371",
-      "7Day": "276,804",
-      "7Day+": "-1,860",
-      "Total": "8,077,623",
-      "track_id": "1pkemoTIuhFJrX3GLKGf9y",
-      "artist_ids": [
-        "3BwdkvUUHLP8pZj9hN4FiF"
-      ]
-    },
-    {
-      "Pos": "38",
-      "P+": "-2",
+      "Pos": "27",
+      "P+": "+11",
       "Artist and Title": "SIENNA SPIRO - Great Expectation",
-      "Days": "25",
-      "Pk": "36",
+      "Days": "26",
+      "Pk": "27",
       "(x?)": "",
-      "Streams": "35,745",
-      "Streams+": "+1,422",
-      "7Day": "236,511",
-      "7Day+": "+3,285",
-      "Total": "652,189",
+      "Streams": "37,989",
+      "Streams+": "+2,244",
+      "7Day": "241,661",
+      "7Day+": "+5,150",
+      "Total": "690,178",
       "track_id": "7ujApz6iFP3PmKIDGcaGbe",
       "artist_ids": [
         "02gSuSAWEdWa5UOvqzjX6v"
       ]
     },
     {
-      "Pos": "39",
-      "P+": "=",
+      "Pos": "28",
+      "P+": "+1",
+      "Artist and Title": "sombr - back to friends",
+      "Days": "520",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "37,746",
+      "Streams+": "-1,312",
+      "7Day": "268,740",
+      "7Day+": "+416",
+      "Total": "30,565,944",
+      "track_id": "7qjZnBKE73H4Oxkopwulqe",
+      "artist_ids": [
+        "4G9NDjRyZFDlJKMRL8hx3S"
+      ]
+    },
+    {
+      "Pos": "29",
+      "P+": "+3",
+      "Artist and Title": "Olivia Rodrigo - the cure",
+      "Days": "97",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "37,427",
+      "Streams+": "-1,059",
+      "7Day": "262,409",
+      "7Day+": "-1,224",
+      "Total": "3,810,256",
+      "track_id": "55pBIZO1cqoldeqpp5WR7H",
+      "artist_ids": [
+        "1McMsnEElThX1knmY4oliG"
+      ]
+    },
+    {
+      "Pos": "30",
+      "P+": "-2",
+      "Artist and Title": "Alpha - P Ramlee Saloma",
+      "Days": "356",
+      "Pk": "1",
+      "(x?)": "(x30)",
+      "Streams": "36,823",
+      "Streams+": "-2,399",
+      "7Day": "273,006",
+      "7Day+": "+2,034",
+      "Total": "18,260,600",
+      "track_id": "7p2GUA0ShGenHoqeIhTg5i",
+      "artist_ids": [
+        "0s2MtYt7PZx0kP8CqLt38t"
+      ]
+    },
+    {
+      "Pos": "31",
+      "P+": "+6",
+      "Artist and Title": "Adira Suhaimi - Sayang Orang Sama",
+      "Days": "160",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "36,510",
+      "Streams+": "+378",
+      "7Day": "272,560",
+      "7Day+": "-4,244",
+      "Total": "8,114,133",
+      "track_id": "1pkemoTIuhFJrX3GLKGf9y",
+      "artist_ids": [
+        "3BwdkvUUHLP8pZj9hN4FiF"
+      ]
+    },
+    {
+      "Pos": "32",
+      "P+": "-6",
+      "Artist and Title": "Ravyn Lenae - Love Me Not",
+      "Days": "491",
+      "Pk": "14",
+      "(x?)": "",
+      "Streams": "36,350",
+      "Streams+": "-3,517",
+      "7Day": "268,671",
+      "7Day+": "-748",
+      "Total": "15,821,941",
+      "track_id": "4WFgvKVfEhb3IUAFGrutTR",
+      "artist_ids": [
+        "5RTLRtXjbXI2lSXc6jxlAz"
+      ]
+    },
+    {
+      "Pos": "33",
+      "P+": "+3",
+      "Artist and Title": "Billie Eilish - BIRDS OF A FEATHER",
+      "Days": "832",
+      "Pk": "1",
+      "(x?)": "(x60)",
+      "Streams": "36,070",
+      "Streams+": "-111",
+      "7Day": "250,571",
+      "7Day+": "+734",
+      "Total": "58,243,552",
+      "track_id": "6dOtVTDdiauQNBQEDOtlAB",
+      "artist_ids": [
+        "6qqNVTkY8uBg9cP3Jd7DAH"
+      ]
+    },
+    {
+      "Pos": "34",
+      "P+": "-4",
+      "Artist and Title": "Raim Laode - Lesung Pipi",
+      "Days": "503",
+      "Pk": "23",
+      "(x?)": "",
+      "Streams": "35,175",
+      "Streams+": "-3,760",
+      "7Day": "263,590",
+      "7Day+": "+1,012",
+      "Total": "14,347,128",
+      "track_id": "2OxvanM5m1Na9OVlXyXmUp",
+      "artist_ids": [
+        "5LcNPa8f8bRmZqELgoRFkN"
+      ]
+    },
+    {
+      "Pos": "35",
+      "P+": "+4",
       "Artist and Title": "Billie Eilish - WILDFLOWER",
-      "Days": "831",
+      "Days": "832",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "35,450",
-      "Streams+": "+2,168",
-      "7Day": "241,246",
-      "7Day+": "-2,188",
-      "Total": "44,752,631",
+      "Streams": "34,327",
+      "Streams+": "-1,123",
+      "7Day": "241,202",
+      "7Day+": "-44",
+      "Total": "44,786,958",
       "track_id": "3QaPy1KgI7nu9FJEQUgn6h",
       "artist_ids": [
         "6qqNVTkY8uBg9cP3Jd7DAH"
       ]
     },
     {
-      "Pos": "40",
-      "P+": "+5",
-      "Artist and Title": "Raim Laode - Bersenja Gurau",
-      "Days": "155",
-      "Pk": "27",
-      "(x?)": "",
-      "Streams": "34,752",
-      "Streams+": "+2,884",
-      "7Day": "239,788",
-      "7Day+": "+3,955",
-      "Total": "4,838,666",
-      "track_id": "4DrJqdZgPBHoMNVG5iOLlG",
-      "artist_ids": [
-        "5LcNPa8f8bRmZqELgoRFkN"
-      ]
-    },
-    {
-      "Pos": "41",
-      "P+": "+1",
-      "Artist and Title": "Mojo - Romancinta",
-      "Days": "217",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "34,450",
-      "Streams+": "+2,263",
-      "7Day": "235,744",
-      "7Day+": "-1,077",
-      "Total": "8,800,303",
-      "track_id": "5XCNHa4uhsI3zYdbVHZaGE",
-      "artist_ids": [
-        "1nxfzZDDm0a0msuLz0W4lx"
-      ]
-    },
-    {
-      "Pos": "42",
-      "P+": "+1",
+      "Pos": "36",
+      "P+": "+6",
       "Artist and Title": "SIENNA SPIRO - Die On This Hill",
-      "Days": "260",
+      "Days": "261",
       "Pk": "1",
       "(x?)": "(x3)",
-      "Streams": "33,267",
-      "Streams+": "+1,145",
-      "7Day": "226,584",
-      "7Day+": "+711",
-      "Total": "12,872,949",
+      "Streams": "34,053",
+      "Streams+": "+786",
+      "7Day": "229,083",
+      "7Day+": "+2,499",
+      "Total": "12,907,002",
       "track_id": "2gYTC8DsplN3RNdpdBcCOQ",
       "artist_ids": [
         "02gSuSAWEdWa5UOvqzjX6v"
       ]
     },
     {
-      "Pos": "43",
+      "Pos": "37",
       "P+": "-2",
+      "Artist and Title": "ENHYPEN - Bloody Paradise",
+      "Days": "6",
+      "Pk": "35",
+      "(x?)": "",
+      "Streams": "33,734",
+      "Streams+": "-2,476",
+      "7Day": "205,007",
+      "7Day+": "+33,734",
+      "Total": "205,007",
+      "track_id": "5vlnF0r5xACeurZwjgn0Ij",
+      "artist_ids": [
+        "5t5FqBwTcgKTaWmfEbwQY9"
+      ]
+    },
+    {
+      "Pos": "38",
+      "P+": "+5",
       "Artist and Title": "Olivia Rodrigo - stupid song",
-      "Days": "75",
+      "Days": "76",
       "Pk": "9",
       "(x?)": "",
-      "Streams": "33,244",
-      "Streams+": "+600",
-      "7Day": "232,439",
-      "7Day+": "+54",
-      "Total": "3,102,953",
+      "Streams": "33,487",
+      "Streams+": "+243",
+      "7Day": "232,052",
+      "7Day+": "-387",
+      "Total": "3,136,440",
       "track_id": "49j6SvuvWfbEKZKzsHCdLJ",
       "artist_ids": [
         "1McMsnEElThX1knmY4oliG"
       ]
     },
     {
+      "Pos": "39",
+      "P+": "+8",
+      "Artist and Title": "Ariana Grande - we can't be friends (wait for your love)",
+      "Days": "902",
+      "Pk": "1",
+      "(x?)": "(x32)",
+      "Streams": "32,501",
+      "Streams+": "-270",
+      "7Day": "225,179",
+      "7Day+": "-103",
+      "Total": "44,942,198",
+      "track_id": "51ZQ1vr10ffzbwIjDCwqm4",
+      "artist_ids": [
+        "66CXWjxzNUsdJxJ2JdwvnR"
+      ]
+    },
+    {
+      "Pos": "40",
+      "P+": "-6",
+      "Artist and Title": "KATSEYE - Animal",
+      "Days": "34",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "32,468",
+      "Streams+": "-4,409",
+      "7Day": "251,750",
+      "7Day+": "-5,319",
+      "Total": "1,419,596",
+      "track_id": "3ouNEk0tv5TTi8VWMe1xbX",
+      "artist_ids": [
+        "3c0gDdb9lhnHGFtP4prQpn"
+      ]
+    },
+    {
+      "Pos": "41",
+      "P+": "-8",
+      "Artist and Title": "Tulus - Jatuh Suka",
+      "Days": "39",
+      "Pk": "33",
+      "(x?)": "",
+      "Streams": "32,299",
+      "Streams+": "-4,803",
+      "7Day": "236,040",
+      "7Day+": "+3,060",
+      "Total": "997,099",
+      "track_id": "6PqWdGIYq5xdLaa4zCZfRp",
+      "artist_ids": [
+        "2iDVt6mFbtbDEZG5ax0dTi"
+      ]
+    },
+    {
+      "Pos": "42",
+      "P+": "+3",
+      "Artist and Title": "Aisha Retno - Tak Adil",
+      "Days": "16",
+      "Pk": "33",
+      "(x?)": "",
+      "Streams": "31,947",
+      "Streams+": "-1,168",
+      "7Day": "239,346",
+      "7Day+": "-2,720",
+      "Total": "486,609",
+      "track_id": "71RXKBoFWiQu4v2o1geh1V",
+      "artist_ids": [
+        "1eizIry8svwmH0cSjLUEYy"
+      ]
+    },
+    {
+      "Pos": "43",
+      "P+": "+5",
+      "Artist and Title": "Pamungkas - Berapa Kali Kita Akan Saling Memaafkan",
+      "Days": "91",
+      "Pk": "25",
+      "(x?)": "",
+      "Streams": "31,875",
+      "Streams+": "-12",
+      "7Day": "223,422",
+      "7Day+": "+508",
+      "Total": "2,923,043",
+      "track_id": "7c03QS94XIfcetKSNDhUdd",
+      "artist_ids": [
+        "7d86ERlvO5UG44j7Va0Y0C"
+      ]
+    },
+    {
       "Pos": "44",
-      "P+": "-10",
+      "P+": "=",
       "Artist and Title": "Hyper Act - Hanya Aku",
-      "Days": "998",
+      "Days": "999",
       "Pk": "8",
       "(x?)": "",
-      "Streams": "33,154",
-      "Streams+": "-1,987",
-      "7Day": "226,969",
-      "7Day+": "+4,995",
-      "Total": "31,837,335",
+      "Streams": "31,527",
+      "Streams+": "-1,627",
+      "7Day": "229,508",
+      "7Day+": "+2,539",
+      "Total": "31,868,862",
       "track_id": "0hlZ8daapg8QHpHsDyaqbg",
       "artist_ids": [
         "0zo8fkOQyrawuBfIhy99jb"
@@ -760,168 +760,185 @@
     {
       "Pos": "45",
       "P+": "-5",
-      "Artist and Title": "Aisha Retno - Tak Adil",
-      "Days": "15",
-      "Pk": "33",
+      "Artist and Title": "Raim Laode - Bersenja Gurau",
+      "Days": "156",
+      "Pk": "27",
       "(x?)": "",
-      "Streams": "33,115",
-      "Streams+": "+202",
-      "7Day": "242,066",
-      "7Day+": "-2,866",
-      "Total": "454,662",
-      "track_id": "71RXKBoFWiQu4v2o1geh1V",
-      "artist_ids": [
-        "1eizIry8svwmH0cSjLUEYy"
-      ]
-    },
-    {
-      "Pos": "46",
-      "P+": "+2",
-      "Artist and Title": "Raim Laode - Komang",
-      "Days": "1093",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "33,093",
-      "Streams+": "+2,256",
-      "7Day": "218,435",
-      "7Day+": "+6,073",
-      "Total": "27,179,996",
-      "track_id": "654ZF6YNWjQS2NhwR3QnX7",
+      "Streams": "31,468",
+      "Streams+": "-3,284",
+      "7Day": "238,404",
+      "7Day+": "-1,384",
+      "Total": "4,870,134",
+      "track_id": "4DrJqdZgPBHoMNVG5iOLlG",
       "artist_ids": [
         "5LcNPa8f8bRmZqELgoRFkN"
       ]
     },
     {
-      "Pos": "47",
-      "P+": "=",
-      "Artist and Title": "Ariana Grande - we can't be friends (wait for your love)",
-      "Days": "901",
-      "Pk": "1",
-      "(x?)": "(x32)",
-      "Streams": "32,771",
-      "Streams+": "+1,046",
-      "7Day": "225,282",
-      "7Day+": "-3,169",
-      "Total": "44,909,697",
-      "track_id": "51ZQ1vr10ffzbwIjDCwqm4",
-      "artist_ids": [
-        "66CXWjxzNUsdJxJ2JdwvnR"
-      ]
-    },
-    {
-      "Pos": "48",
-      "P+": "-2",
-      "Artist and Title": "Pamungkas - Berapa Kali Kita Akan Saling Memaafkan",
-      "Days": "90",
-      "Pk": "25",
-      "(x?)": "",
-      "Streams": "31,887",
-      "Streams+": "+124",
-      "7Day": "222,914",
-      "7Day+": "+737",
-      "Total": "2,891,168",
-      "track_id": "7c03QS94XIfcetKSNDhUdd",
-      "artist_ids": [
-        "7d86ERlvO5UG44j7Va0Y0C"
-      ]
-    },
-    {
-      "Pos": "49",
-      "P+": "-5",
-      "Artist and Title": "Ammar Haikal - Gila Bayang",
-      "Days": "56",
-      "Pk": "31",
-      "(x?)": "",
-      "Streams": "31,676",
-      "Streams+": "-399",
-      "7Day": "230,156",
-      "7Day+": "+3,058",
-      "Total": "1,799,962",
-      "track_id": "2IuAckXwlp3GUOD812FDSC",
-      "artist_ids": [
-        "6vBShxc5LR2M7DS6YYk9Yh"
-      ]
-    },
-    {
-      "Pos": "50",
-      "P+": "+6",
-      "Artist and Title": "Insomniacks - Pulang",
-      "Days": "1739",
-      "Pk": "15",
-      "(x?)": "",
-      "Streams": "30,419",
-      "Streams+": "+2,960",
-      "7Day": "207,050",
-      "7Day+": "-764",
-      "Total": "29,247,641",
-      "track_id": "1DVHCvTwuwtZrpYDV4irH5",
-      "artist_ids": [
-        "3uSnvyMAFJTm7XkZJFo0xP"
-      ]
-    },
-    {
-      "Pos": "51",
-      "P+": "+10",
-      "Artist and Title": "Rahmat - Siapa Di Hatimu",
-      "Days": "172",
-      "Pk": "32",
-      "(x?)": "",
-      "Streams": "30,398",
-      "Streams+": "+3,872",
-      "7Day": "202,779",
-      "7Day+": "+5,684",
-      "Total": "4,793,606",
-      "track_id": "2NOWGQefu42AyhxIavqCZJ",
-      "artist_ids": [
-        "1yhQJRu5vlBqwwTrvYSg1L"
-      ]
-    },
-    {
-      "Pos": "52",
-      "P+": "-1",
-      "Artist and Title": "Olivia Rodrigo - honeybee",
-      "Days": "75",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "30,368",
-      "Streams+": "+536",
-      "7Day": "218,726",
-      "7Day+": "-2,786",
-      "Total": "2,903,726",
-      "track_id": "4kX7xkopoXZCfE1D6fNwl2",
-      "artist_ids": [
-        "1McMsnEElThX1knmY4oliG"
-      ]
-    },
-    {
-      "Pos": "53",
-      "P+": "-4",
+      "Pos": "46",
+      "P+": "+7",
       "Artist and Title": "Ariana Grande - petal",
-      "Days": "26",
+      "Days": "27",
       "Pk": "7",
       "(x?)": "",
-      "Streams": "30,306",
-      "Streams+": "-514",
-      "7Day": "232,427",
-      "7Day+": "-6,871",
-      "Total": "1,223,226",
+      "Streams": "31,406",
+      "Streams+": "+1,100",
+      "7Day": "227,965",
+      "7Day+": "-4,462",
+      "Total": "1,254,632",
       "track_id": "70pVCVMGjmIWPbWXDwf11e",
       "artist_ids": [
         "66CXWjxzNUsdJxJ2JdwvnR"
       ]
     },
     {
+      "Pos": "47",
+      "P+": "+5",
+      "Artist and Title": "Olivia Rodrigo - honeybee",
+      "Days": "76",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "31,087",
+      "Streams+": "+719",
+      "7Day": "217,187",
+      "7Day+": "-1,539",
+      "Total": "2,934,813",
+      "track_id": "4kX7xkopoXZCfE1D6fNwl2",
+      "artist_ids": [
+        "1McMsnEElThX1knmY4oliG"
+      ]
+    },
+    {
+      "Pos": "48",
+      "P+": "-17",
+      "Artist and Title": "CORTIS - REDRED",
+      "Days": "129",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "30,786",
+      "Streams+": "-8,022",
+      "7Day": "219,524",
+      "7Day+": "+3,152",
+      "Total": "5,475,584",
+      "track_id": "2fCwv2ppU5nTRTckomIGsd",
+      "artist_ids": [
+        "1ebt9HnXdyYA6KgLXr1n4P"
+      ]
+    },
+    {
+      "Pos": "49",
+      "P+": "-8",
+      "Artist and Title": "Mojo - Romancinta",
+      "Days": "218",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "30,030",
+      "Streams+": "-4,420",
+      "7Day": "234,069",
+      "7Day+": "-1,675",
+      "Total": "8,830,333",
+      "track_id": "5XCNHa4uhsI3zYdbVHZaGE",
+      "artist_ids": [
+        "1nxfzZDDm0a0msuLz0W4lx"
+      ]
+    },
+    {
+      "Pos": "50",
+      "P+": "-4",
+      "Artist and Title": "Raim Laode - Komang",
+      "Days": "1094",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "29,121",
+      "Streams+": "-3,972",
+      "7Day": "218,207",
+      "7Day+": "-228",
+      "Total": "27,209,117",
+      "track_id": "654ZF6YNWjQS2NhwR3QnX7",
+      "artist_ids": [
+        "5LcNPa8f8bRmZqELgoRFkN"
+      ]
+    },
+    {
+      "Pos": "51",
+      "P+": "-2",
+      "Artist and Title": "Ammar Haikal - Gila Bayang",
+      "Days": "57",
+      "Pk": "31",
+      "(x?)": "",
+      "Streams": "28,931",
+      "Streams+": "-2,745",
+      "7Day": "226,139",
+      "7Day+": "-4,017",
+      "Total": "1,828,893",
+      "track_id": "2IuAckXwlp3GUOD812FDSC",
+      "artist_ids": [
+        "6vBShxc5LR2M7DS6YYk9Yh"
+      ]
+    },
+    {
+      "Pos": "52",
+      "P+": "-1",
+      "Artist and Title": "Rahmat - Siapa Di Hatimu",
+      "Days": "173",
+      "Pk": "32",
+      "(x?)": "",
+      "Streams": "28,871",
+      "Streams+": "-1,527",
+      "7Day": "202,311",
+      "7Day+": "-468",
+      "Total": "4,822,477",
+      "track_id": "2NOWGQefu42AyhxIavqCZJ",
+      "artist_ids": [
+        "1yhQJRu5vlBqwwTrvYSg1L"
+      ]
+    },
+    {
+      "Pos": "53",
+      "P+": "+21",
+      "Artist and Title": "BTS - SWIM",
+      "Days": "160",
+      "Pk": "2",
+      "(x?)": "(x4)",
+      "Streams": "28,560",
+      "Streams+": "+2,397",
+      "7Day": "193,401",
+      "7Day+": "-1,042",
+      "Total": "8,018,752",
+      "track_id": "68lbSrXDORS51pmyjZv712",
+      "artist_ids": [
+        "3Nrfpe0tUJi4K4DXYWgMUX"
+      ]
+    },
+    {
       "Pos": "54",
-      "P+": "=",
+      "P+": "+6",
+      "Artist and Title": "Bruno Mars - Locked out of Heaven",
+      "Days": "828",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "28,006",
+      "Streams+": "-1,150",
+      "7Day": "203,900",
+      "7Day+": "-1,684",
+      "Total": "17,961,937",
+      "track_id": "5g7sDjBhZ4I3gcFIpkrLuI",
+      "artist_ids": [
+        "0du5cEVh5yTK9QJze8zA0C"
+      ]
+    },
+    {
+      "Pos": "55",
+      "P+": "-1",
       "Artist and Title": "Charlie Puth - We Don't Talk Anymore (w/ Selena Gomez)",
-      "Days": "2397",
+      "Days": "2398",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "29,908",
-      "Streams+": "+1,563",
-      "7Day": "207,373",
-      "7Day+": "-547",
-      "Total": "37,631,368",
+      "Streams": "27,997",
+      "Streams+": "-1,911",
+      "7Day": "206,763",
+      "7Day+": "-610",
+      "Total": "37,659,365",
       "track_id": "06KyNuuMOX1ROXRhj787tj",
       "artist_ids": [
         "6VuMaDnrHyPL1p4EHjYLi7",
@@ -929,34 +946,17 @@
       ]
     },
     {
-      "Pos": "55",
-      "P+": "+3",
-      "Artist and Title": "Pamungkas - Monolog",
-      "Days": "412",
-      "Pk": "22",
-      "(x?)": "",
-      "Streams": "29,706",
-      "Streams+": "+2,317",
-      "7Day": "192,790",
-      "7Day+": "+2,417",
-      "Total": "12,832,361",
-      "track_id": "1zu5ZpnrSArdoaT6Qq3yo9",
-      "artist_ids": [
-        "7d86ERlvO5UG44j7Va0Y0C"
-      ]
-    },
-    {
       "Pos": "56",
-      "P+": "+1",
+      "P+": "=",
       "Artist and Title": "Maroon 5 - Payphone (w/ Wiz Khalifa)",
-      "Days": "2004",
+      "Days": "2005",
       "Pk": "39",
       "(x?)": "",
-      "Streams": "29,640",
-      "Streams+": "+2,197",
-      "7Day": "199,421",
-      "7Day+": "-1,163",
-      "Total": "32,153,360",
+      "Streams": "27,967",
+      "Streams+": "-1,673",
+      "7Day": "200,271",
+      "7Day+": "+850",
+      "Total": "32,181,327",
       "track_id": "1XGmzt0PVuFgQYYnV2It7A",
       "artist_ids": [
         "04gDigrS5kc9YWfZHwBETP",
@@ -965,118 +965,101 @@
     },
     {
       "Pos": "57",
-      "P+": "+3",
-      "Artist and Title": "Gigi Perez - Sailor Song",
-      "Days": "702",
-      "Pk": "30",
-      "(x?)": "",
-      "Streams": "29,450",
-      "Streams+": "+2,855",
-      "7Day": "192,132",
-      "7Day+": "+2,176",
-      "Total": "18,574,766",
-      "track_id": "21IYMdzTrzSe191Cy5eMap",
-      "artist_ids": [
-        "1iCnM8foFssWlPRLfAbIwo"
-      ]
-    },
-    {
-      "Pos": "58",
-      "P+": "+5",
-      "Artist and Title": "Justin Bieber - That Should Be Me",
-      "Days": "135",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "29,430",
-      "Streams+": "+2,975",
-      "7Day": "196,097",
-      "7Day+": "+1,111",
-      "Total": "6,616,413",
-      "track_id": "0aPZbnkMoWJaJ5CNVLCj8S",
-      "artist_ids": [
-        "1uNFoZAHBGtllmzznpCI3s"
-      ]
-    },
-    {
-      "Pos": "59",
-      "P+": "-7",
+      "P+": "+2",
       "Artist and Title": "One Direction - Night Changes",
-      "Days": "2645",
+      "Days": "2646",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "29,256",
-      "Streams+": "+635",
-      "7Day": "203,492",
-      "7Day+": "+2,479",
-      "Total": "54,256,570",
+      "Streams": "27,913",
+      "Streams+": "-1,343",
+      "7Day": "202,994",
+      "7Day+": "-498",
+      "Total": "54,284,483",
       "track_id": "5O2P9iiztwhomNh8xkR9lJ",
       "artist_ids": [
         "4AK6F7OLvEQ5QYCBNiQWHq"
       ]
     },
     {
-      "Pos": "60",
-      "P+": "-5",
-      "Artist and Title": "Bruno Mars - Locked out of Heaven",
-      "Days": "827",
+      "Pos": "58",
+      "P+": "-3",
+      "Artist and Title": "Pamungkas - Monolog",
+      "Days": "413",
       "Pk": "22",
       "(x?)": "",
-      "Streams": "29,156",
-      "Streams+": "+927",
-      "7Day": "205,584",
-      "7Day+": "-2,812",
-      "Total": "17,933,931",
-      "track_id": "5g7sDjBhZ4I3gcFIpkrLuI",
+      "Streams": "27,521",
+      "Streams+": "-2,185",
+      "7Day": "193,761",
+      "7Day+": "+971",
+      "Total": "12,859,882",
+      "track_id": "1zu5ZpnrSArdoaT6Qq3yo9",
       "artist_ids": [
-        "0du5cEVh5yTK9QJze8zA0C"
+        "7d86ERlvO5UG44j7Va0Y0C"
       ]
     },
     {
-      "Pos": "61",
-      "P+": "-8",
+      "Pos": "59",
+      "P+": "+2",
       "Artist and Title": "KATSEYE - Hootie Frutti",
-      "Days": "9",
+      "Days": "10",
       "Pk": "53",
       "(x?)": "",
-      "Streams": "29,063",
-      "Streams+": "+651",
-      "7Day": "204,168",
-      "7Day+": "+2,358",
-      "Total": "251,024",
+      "Streams": "27,451",
+      "Streams+": "-1,612",
+      "7Day": "202,997",
+      "7Day+": "-1,171",
+      "Total": "278,475",
       "track_id": "6oUUmBcUbZa5O48V5pjgAD",
       "artist_ids": [
         "3c0gDdb9lhnHGFtP4prQpn"
       ]
     },
     {
-      "Pos": "62",
-      "P+": "+6",
-      "Artist and Title": "D’MASIV - Cinta Ini Membunuhku",
-      "Days": "1553",
-      "Pk": "25",
+      "Pos": "60",
+      "P+": "-3",
+      "Artist and Title": "Gigi Perez - Sailor Song",
+      "Days": "703",
+      "Pk": "30",
       "(x?)": "",
-      "Streams": "28,303",
-      "Streams+": "+2,834",
-      "7Day": "184,278",
-      "7Day+": "+820",
-      "Total": "31,940,165",
-      "track_id": "3jqOKTYh4XH9khpOXQp89Y",
+      "Streams": "27,407",
+      "Streams+": "-2,043",
+      "7Day": "192,336",
+      "7Day+": "+204",
+      "Total": "18,602,173",
+      "track_id": "21IYMdzTrzSe191Cy5eMap",
       "artist_ids": [
-        "1hioeMAsVwJ3bvcb9lxBpB"
+        "1iCnM8foFssWlPRLfAbIwo"
       ]
     },
     {
-      "Pos": "63",
-      "P+": "+14",
+      "Pos": "61",
+      "P+": "-11",
+      "Artist and Title": "Insomniacks - Pulang",
+      "Days": "1740",
+      "Pk": "15",
+      "(x?)": "",
+      "Streams": "26,579",
+      "Streams+": "-3,840",
+      "7Day": "204,748",
+      "7Day+": "-2,302",
+      "Total": "29,274,220",
+      "track_id": "1DVHCvTwuwtZrpYDV4irH5",
+      "artist_ids": [
+        "3uSnvyMAFJTm7XkZJFo0xP"
+      ]
+    },
+    {
+      "Pos": "62",
+      "P+": "+1",
       "Artist and Title": "Bazzi - Beautiful (w/ Camila Cabello)",
-      "Days": "851",
+      "Days": "852",
       "Pk": "1",
       "(x?)": "(x39)",
-      "Streams": "28,063",
-      "Streams+": "+3,560",
-      "7Day": "185,544",
-      "7Day+": "+5,351",
-      "Total": "14,047,136",
+      "Streams": "26,514",
+      "Streams+": "-1,549",
+      "7Day": "186,842",
+      "7Day+": "+1,298",
+      "Total": "14,073,650",
       "track_id": "4VUwkH455At9kENOfzTqmF",
       "artist_ids": [
         "4GvEc3ANtPPjt1ZJllr5Zl",
@@ -1084,68 +1067,17 @@
       ]
     },
     {
-      "Pos": "64",
-      "P+": "-5",
-      "Artist and Title": "Batas Senja - Nanti Kita Seperti Ini",
-      "Days": "897",
-      "Pk": "24",
-      "(x?)": "",
-      "Streams": "27,909",
-      "Streams+": "+1,298",
-      "7Day": "188,581",
-      "7Day+": "+3,003",
-      "Total": "20,140,230",
-      "track_id": "3y8RcMPYG22fRnrOi4oFJ1",
-      "artist_ids": [
-        "4AhHkaGz7W2bKKJK90IaV2"
-      ]
-    },
-    {
-      "Pos": "65",
-      "P+": "+8",
-      "Artist and Title": "Daniel Caesar - Who Knows",
-      "Days": "301",
-      "Pk": "15",
-      "(x?)": "",
-      "Streams": "27,657",
-      "Streams+": "+2,738",
-      "7Day": "180,056",
-      "7Day+": "+2,090",
-      "Total": "10,976,377",
-      "track_id": "6DH13QYXK7lKkYHSU88N48",
-      "artist_ids": [
-        "20wkVLutqVOYrc0kxFs7rA"
-      ]
-    },
-    {
-      "Pos": "66",
-      "P+": "-1",
-      "Artist and Title": "Temper City - Self Aware",
-      "Days": "98",
-      "Pk": "35",
-      "(x?)": "",
-      "Streams": "27,343",
-      "Streams+": "+1,245",
-      "7Day": "187,395",
-      "7Day+": "+438",
-      "Total": "2,418,376",
-      "track_id": "4qW3BbQAwZsrnu8a3ZRdyT",
-      "artist_ids": [
-        "5mHUmlJWkcoOk1NbjfrXWz"
-      ]
-    },
-    {
-      "Pos": "67",
-      "P+": "=",
+      "Pos": "63",
+      "P+": "+4",
       "Artist and Title": "The Weeknd - One Of The Girls (w/ JENNIE, Lily-Rose Depp)",
-      "Days": "1160",
+      "Days": "1161",
       "Pk": "1",
       "(x?)": "(x9)",
-      "Streams": "27,152",
-      "Streams+": "+1,144",
-      "7Day": "187,540",
-      "7Day+": "-6,843",
-      "Total": "55,660,749",
+      "Streams": "26,286",
+      "Streams+": "-866",
+      "7Day": "186,313",
+      "7Day+": "-1,227",
+      "Total": "55,687,035",
       "track_id": "7CyPwkp0oE8Ro9Dd5CUDjW",
       "artist_ids": [
         "1Xyo4u8uXC1ZmMpatF05PJ",
@@ -1154,256 +1086,289 @@
       ]
     },
     {
-      "Pos": "68",
+      "Pos": "64",
       "P+": "-2",
-      "Artist and Title": "Tulus - Hati-Hati di Jalan",
-      "Days": "533",
-      "Pk": "22",
+      "Artist and Title": "D’MASIV - Cinta Ini Membunuhku",
+      "Days": "1554",
+      "Pk": "25",
       "(x?)": "",
-      "Streams": "26,805",
-      "Streams+": "+771",
-      "7Day": "187,502",
-      "7Day+": "+2,393",
-      "Total": "9,382,311",
-      "track_id": "2hHeGD57S0BcopfVcmehdl",
+      "Streams": "26,262",
+      "Streams+": "-2,041",
+      "7Day": "184,887",
+      "7Day+": "+609",
+      "Total": "31,966,427",
+      "track_id": "3jqOKTYh4XH9khpOXQp89Y",
       "artist_ids": [
-        "2iDVt6mFbtbDEZG5ax0dTi"
+        "1hioeMAsVwJ3bvcb9lxBpB"
       ]
     },
     {
-      "Pos": "69",
-      "P+": "=",
-      "Artist and Title": "Djo - End of Beginning",
-      "Days": "841",
-      "Pk": "2",
-      "(x?)": "(x15)",
-      "Streams": "26,680",
-      "Streams+": "+1,268",
-      "7Day": "181,650",
-      "7Day+": "+3,289",
-      "Total": "33,918,260",
-      "track_id": "3qhlB30KknSejmIvZZLjOD",
-      "artist_ids": [
-        "5p9HO3XC5P3BLxJs5Mtrhm"
-      ]
-    },
-    {
-      "Pos": "70",
-      "P+": "+13",
-      "Artist and Title": "Noah - Separuh Aku",
-      "Days": "763",
-      "Pk": "54",
+      "Pos": "65",
+      "P+": "+1",
+      "Artist and Title": "Temper City - Self Aware",
+      "Days": "99",
+      "Pk": "35",
       "(x?)": "",
-      "Streams": "26,590",
-      "Streams+": "+2,697",
-      "7Day": "170,076",
-      "7Day+": "+825",
-      "Total": "13,743,860",
-      "track_id": "4sJmv194lQKWjytpaxH1Vj",
+      "Streams": "26,214",
+      "Streams+": "-1,129",
+      "7Day": "187,220",
+      "7Day+": "-175",
+      "Total": "2,444,590",
+      "track_id": "4qW3BbQAwZsrnu8a3ZRdyT",
       "artist_ids": [
-        "31aMmlq8isIAgojvmIwiS4"
+        "5mHUmlJWkcoOk1NbjfrXWz"
       ]
     },
     {
-      "Pos": "71",
-      "P+": "-1",
+      "Pos": "66",
+      "P+": "+5",
       "Artist and Title": "The Lantis - Bunga Maaf",
-      "Days": "613",
+      "Days": "614",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "26,563",
-      "Streams+": "+1,222",
-      "7Day": "175,346",
-      "7Day+": "-705",
-      "Total": "23,842,584",
+      "Streams": "25,965",
+      "Streams+": "-598",
+      "7Day": "177,321",
+      "7Day+": "+1,975",
+      "Total": "23,868,549",
       "track_id": "26KhLgFuPymkm1uiZkc6Rv",
       "artist_ids": [
         "1REvGGP2H7cFLGZgK2sStO"
       ]
     },
     {
-      "Pos": "72",
-      "P+": "=",
-      "Artist and Title": "Bruno Mars - Talking to the Moon",
-      "Days": "1971",
-      "Pk": "6",
+      "Pos": "67",
+      "P+": "-9",
+      "Artist and Title": "Justin Bieber - That Should Be Me",
+      "Days": "136",
+      "Pk": "4",
       "(x?)": "",
-      "Streams": "26,563",
-      "Streams+": "+1,390",
-      "7Day": "180,890",
-      "7Day+": "-1,438",
-      "Total": "37,300,637",
-      "track_id": "161DnLWsx1i3u1JT05lzqU",
+      "Streams": "25,888",
+      "Streams+": "-3,542",
+      "7Day": "195,107",
+      "7Day+": "-990",
+      "Total": "6,642,301",
+      "track_id": "0aPZbnkMoWJaJ5CNVLCj8S",
       "artist_ids": [
-        "0du5cEVh5yTK9QJze8zA0C"
+        "1uNFoZAHBGtllmzznpCI3s"
       ]
     },
     {
-      "Pos": "73",
-      "P+": "-9",
+      "Pos": "68",
+      "P+": "+5",
       "Artist and Title": "Taylor Swift - The Fate of Ophelia",
-      "Days": "327",
+      "Days": "328",
       "Pk": "1",
       "(x?)": "(x26)",
-      "Streams": "26,376",
-      "Streams+": "+227",
-      "7Day": "188,178",
-      "7Day+": "+567",
-      "Total": "18,431,326",
+      "Streams": "25,779",
+      "Streams+": "-597",
+      "7Day": "186,650",
+      "7Day+": "-1,528",
+      "Total": "18,457,105",
       "track_id": "53iuhJlwXhSER5J2IYYv1W",
       "artist_ids": [
         "06HL4z0CvFAxyc27GXpf02"
       ]
     },
     {
-      "Pos": "74",
-      "P+": "-12",
-      "Artist and Title": "BTS - SWIM",
-      "Days": "159",
-      "Pk": "2",
-      "(x?)": "(x4)",
-      "Streams": "26,163",
-      "Streams+": "-342",
-      "7Day": "194,443",
-      "7Day+": "-2,920",
-      "Total": "7,990,192",
-      "track_id": "68lbSrXDORS51pmyjZv712",
+      "Pos": "69",
+      "P+": "+3",
+      "Artist and Title": "Bruno Mars - Talking to the Moon",
+      "Days": "1972",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "25,651",
+      "Streams+": "-912",
+      "7Day": "181,087",
+      "7Day+": "+197",
+      "Total": "37,326,288",
+      "track_id": "161DnLWsx1i3u1JT05lzqU",
       "artist_ids": [
-        "3Nrfpe0tUJi4K4DXYWgMUX"
+        "0du5cEVh5yTK9QJze8zA0C"
       ]
     },
     {
-      "Pos": "75",
-      "P+": "-4",
+      "Pos": "70",
+      "P+": "+17",
+      "Artist and Title": "Taylor Swift - Blank Space",
+      "Days": "1514",
+      "Pk": "31",
+      "(x?)": "",
+      "Streams": "25,396",
+      "Streams+": "+953",
+      "7Day": "167,082",
+      "7Day+": "+2,857",
+      "Total": "22,444,206",
+      "track_id": "1u8c2t2Cy7UBoG4ArRcF5g",
+      "artist_ids": [
+        "06HL4z0CvFAxyc27GXpf02"
+      ]
+    },
+    {
+      "Pos": "71",
+      "P+": "-2",
+      "Artist and Title": "Djo - End of Beginning",
+      "Days": "842",
+      "Pk": "2",
+      "(x?)": "(x15)",
+      "Streams": "25,395",
+      "Streams+": "-1,285",
+      "7Day": "181,453",
+      "7Day+": "-197",
+      "Total": "33,943,655",
+      "track_id": "3qhlB30KknSejmIvZZLjOD",
+      "artist_ids": [
+        "5p9HO3XC5P3BLxJs5Mtrhm"
+      ]
+    },
+    {
+      "Pos": "72",
+      "P+": "+17",
+      "Artist and Title": "ADÉLA - Ain't In LA",
+      "Days": "22",
+      "Pk": "72",
+      "(x?)": "",
+      "Streams": "25,312",
+      "Streams+": "+885",
+      "7Day": "166,581",
+      "7Day+": "+3,067",
+      "Total": "476,558",
+      "track_id": "02HyFYmpzt02VJ8k0CqxKj",
+      "artist_ids": [
+        "2qanRMyA5bNuTvz1dK45OP"
+      ]
+    },
+    {
+      "Pos": "73",
+      "P+": "+2",
       "Artist and Title": "Bruno Mars - Just the Way You Are",
-      "Days": "3588",
+      "Days": "3589",
       "Pk": "17",
       "(x?)": "",
-      "Streams": "25,980",
-      "Streams+": "+679",
-      "7Day": "180,570",
-      "7Day+": "+1,559",
-      "Total": "45,601,099",
+      "Streams": "25,258",
+      "Streams+": "-722",
+      "7Day": "180,883",
+      "7Day+": "+313",
+      "Total": "45,626,357",
       "track_id": "7BqBn9nzAq8spo5e7cZ0dJ",
       "artist_ids": [
         "0du5cEVh5yTK9QJze8zA0C"
       ]
     },
     {
-      "Pos": "76",
-      "P+": "+3",
-      "Artist and Title": "Dave - Raindance (w/ Tems)",
-      "Days": "227",
-      "Pk": "14",
-      "(x?)": "",
-      "Streams": "25,662",
-      "Streams+": "+1,494",
-      "7Day": "173,648",
-      "7Day+": "+537",
-      "Total": "7,634,643",
-      "track_id": "3oTuTpF1F3A7rEC6RKsMRz",
-      "artist_ids": [
-        "6Ip8FS7vWT1uKkJSweANQK",
-        "687cZJR45JO7jhk1LHIbgq"
-      ]
-    },
-    {
-      "Pos": "77",
-      "P+": "+19",
-      "Artist and Title": "Hyper Act - Harapan",
-      "Days": "704",
-      "Pk": "43",
-      "(x?)": "",
-      "Streams": "25,419",
-      "Streams+": "+2,434",
-      "7Day": "161,461",
-      "7Day+": "+582",
-      "Total": "14,983,890",
-      "track_id": "6NexU0n0t8nlczyeoAfIwA",
-      "artist_ids": [
-        "0zo8fkOQyrawuBfIhy99jb"
-      ]
-    },
-    {
-      "Pos": "78",
-      "P+": "-3",
-      "Artist and Title": "Steve Lacy - oh yeah?",
-      "Days": "22",
-      "Pk": "38",
-      "(x?)": "",
-      "Streams": "25,357",
-      "Streams+": "+797",
-      "7Day": "183,808",
-      "7Day+": "-5,011",
-      "Total": "639,351",
-      "track_id": "22NHkFYbgxB2Zirj29Gbp8",
-      "artist_ids": [
-        "57vWImR43h4CaDao012Ofp"
-      ]
-    },
-    {
-      "Pos": "79",
-      "P+": "+3",
+      "Pos": "74",
+      "P+": "+5",
       "Artist and Title": "The Script - The Man Who Can't Be Moved",
-      "Days": "953",
+      "Days": "954",
       "Pk": "24",
       "(x?)": "",
-      "Streams": "25,202",
-      "Streams+": "+1,214",
-      "7Day": "172,616",
-      "7Day+": "-2,786",
-      "Total": "12,845,010",
+      "Streams": "25,145",
+      "Streams+": "-57",
+      "7Day": "173,242",
+      "7Day+": "+626",
+      "Total": "12,870,155",
       "track_id": "3nqqDo8CcCLke3ZoTgiOKf",
       "artist_ids": [
         "3AQRLZ9PuTAozP28Skbq8V"
       ]
     },
     {
-      "Pos": "80",
-      "P+": "-6",
-      "Artist and Title": "Andmesh - Anugerah Terindah",
-      "Days": "601",
+      "Pos": "75",
+      "P+": "+17",
+      "Artist and Title": "Ara Johari - Menjaga Jodoh Orang Lain",
+      "Days": "592",
       "Pk": "5",
       "(x?)": "",
-      "Streams": "25,130",
-      "Streams+": "+281",
-      "7Day": "167,621",
-      "7Day+": "+1,016",
-      "Total": "19,652,702",
-      "track_id": "6gjkHuMOR0CrN7Vb2NoEdg",
+      "Streams": "25,044",
+      "Streams+": "+877",
+      "7Day": "176,455",
+      "7Day+": "-2,680",
+      "Total": "24,001,789",
+      "track_id": "2CneKWpjKErzqZhHID0avV",
       "artist_ids": [
-        "6IDsZZ4IHgs9VblBgQQSmt"
+        "0xuL8l2qakTAyURbZb1gtc"
       ]
     },
     {
-      "Pos": "81",
-      "P+": "+12",
-      "Artist and Title": "Andra & The Backbone - Sempurna",
-      "Days": "932",
-      "Pk": "59",
+      "Pos": "76",
+      "P+": "+19",
+      "Artist and Title": "SIENNA SPIRO - Pure",
+      "Days": "15",
+      "Pk": "76",
       "(x?)": "",
-      "Streams": "24,922",
-      "Streams+": "+1,626",
-      "7Day": "166,391",
-      "7Day+": "+2,074",
-      "Total": "15,895,137",
-      "track_id": "2UgCs0i0rNHUH2jKE5NZHE",
+      "Streams": "25,005",
+      "Streams+": "+1,258",
+      "7Day": "157,043",
+      "7Day+": "+3,551",
+      "Total": "322,820",
+      "track_id": "31IKMjvv6Oskp4hjGVeYsT",
       "artist_ids": [
-        "4ucwey7FxkHXkLK7jSfevU"
+        "02gSuSAWEdWa5UOvqzjX6v"
       ]
     },
     {
-      "Pos": "82",
-      "P+": "+9",
+      "Pos": "77",
+      "P+": "+7",
+      "Artist and Title": "Aziz Harun - Telepati",
+      "Days": "32",
+      "Pk": "53",
+      "(x?)": "",
+      "Streams": "24,926",
+      "Streams+": "+279",
+      "7Day": "180,123",
+      "7Day+": "-1,639",
+      "Total": "838,073",
+      "track_id": "2VM0RoNs889vw5c1sFunfB",
+      "artist_ids": [
+        "1dmuM6bG5J8sDFyp26x9Nf"
+      ]
+    },
+    {
+      "Pos": "78",
+      "P+": "-13",
+      "Artist and Title": "Daniel Caesar - Who Knows",
+      "Days": "302",
+      "Pk": "15",
+      "(x?)": "",
+      "Streams": "24,691",
+      "Streams+": "-2,966",
+      "7Day": "179,713",
+      "7Day+": "-343",
+      "Total": "11,001,068",
+      "track_id": "6DH13QYXK7lKkYHSU88N48",
+      "artist_ids": [
+        "20wkVLutqVOYrc0kxFs7rA"
+      ]
+    },
+    {
+      "Pos": "79",
+      "P+": "-11",
+      "Artist and Title": "Tulus - Hati-Hati di Jalan",
+      "Days": "534",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "24,646",
+      "Streams+": "-2,159",
+      "7Day": "185,669",
+      "7Day+": "-1,833",
+      "Total": "9,406,957",
+      "track_id": "2hHeGD57S0BcopfVcmehdl",
+      "artist_ids": [
+        "2iDVt6mFbtbDEZG5ax0dTi"
+      ]
+    },
+    {
+      "Pos": "80",
+      "P+": "+2",
       "Artist and Title": "P!nk - Just Give Me a Reason (w/ Nate Ruess)",
-      "Days": "473",
+      "Days": "474",
       "Pk": "50",
       "(x?)": "",
-      "Streams": "24,859",
-      "Streams+": "+1,484",
-      "7Day": "163,236",
-      "7Day+": "+2,035",
-      "Total": "7,029,828",
+      "Streams": "24,478",
+      "Streams+": "-381",
+      "7Day": "165,793",
+      "7Day+": "+2,557",
+      "Total": "7,054,306",
       "track_id": "1mKXFLRA179hdOWQBwUk9e",
       "artist_ids": [
         "1KCSPY1glIKqW2TotWuXOR",
@@ -1411,17 +1376,52 @@
       ]
     },
     {
+      "Pos": "81",
+      "P+": "-5",
+      "Artist and Title": "Dave - Raindance (w/ Tems)",
+      "Days": "228",
+      "Pk": "14",
+      "(x?)": "",
+      "Streams": "24,267",
+      "Streams+": "-1,395",
+      "7Day": "173,713",
+      "7Day+": "+65",
+      "Total": "7,658,910",
+      "track_id": "3oTuTpF1F3A7rEC6RKsMRz",
+      "artist_ids": [
+        "6Ip8FS7vWT1uKkJSweANQK",
+        "687cZJR45JO7jhk1LHIbgq"
+      ]
+    },
+    {
+      "Pos": "82",
+      "P+": "-18",
+      "Artist and Title": "Batas Senja - Nanti Kita Seperti Ini",
+      "Days": "898",
+      "Pk": "24",
+      "(x?)": "",
+      "Streams": "24,132",
+      "Streams+": "-3,777",
+      "7Day": "187,689",
+      "7Day+": "-892",
+      "Total": "20,164,362",
+      "track_id": "3y8RcMPYG22fRnrOi4oFJ1",
+      "artist_ids": [
+        "4AhHkaGz7W2bKKJK90IaV2"
+      ]
+    },
+    {
       "Pos": "83",
-      "P+": "+2",
+      "P+": "=",
       "Artist and Title": "The Chainsmokers - Closer (w/ Halsey)",
-      "Days": "2650",
+      "Days": "2651",
       "Pk": "1",
       "(x?)": "(x147)",
-      "Streams": "24,701",
-      "Streams+": "+903",
-      "7Day": "170,775",
-      "7Day+": "+3,551",
-      "Total": "35,064,628",
+      "Streams": "23,892",
+      "Streams+": "-809",
+      "7Day": "171,292",
+      "7Day+": "+517",
+      "Total": "35,088,520",
       "track_id": "7BKLCZ1jbUBVqRi2FVlTVw",
       "artist_ids": [
         "69GGBxA162lTqCwzJG5jLp",
@@ -1430,285 +1430,84 @@
     },
     {
       "Pos": "84",
-      "P+": "-8",
-      "Artist and Title": "Aziz Harun - Telepati",
-      "Days": "31",
-      "Pk": "53",
-      "(x?)": "",
-      "Streams": "24,647",
-      "Streams+": "+91",
-      "7Day": "181,762",
-      "7Day+": "-1,107",
-      "Total": "813,147",
-      "track_id": "2VM0RoNs889vw5c1sFunfB",
-      "artist_ids": [
-        "1dmuM6bG5J8sDFyp26x9Nf"
-      ]
-    },
-    {
-      "Pos": "85",
-      "P+": "-1",
-      "Artist and Title": "Hafiz Suip - Bahagiamu Deritaku",
-      "Days": "440",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "24,593",
-      "Streams+": "+716",
-      "7Day": "196,740",
-      "7Day+": "-12,485",
-      "Total": "14,201,145",
-      "track_id": "5vNhfRa1WTzUDZcU8DAO1a",
-      "artist_ids": [
-        "08nApps9ThD6cZD2jXC4vW"
-      ]
-    },
-    {
-      "Pos": "86",
-      "P+": "+14",
-      "Artist and Title": "Unknown Artist - Pasti",
-      "Days": "330",
-      "Pk": "57",
-      "(x?)": "",
-      "Streams": "24,528",
-      "Streams+": "+1,927",
-      "7Day": "163,636",
-      "7Day+": "+3,550",
-      "Total": "6,369,428",
-      "track_id": "7MtGrAL5mPrTuYuqgkDodI"
-    },
-    {
-      "Pos": "87",
-      "P+": "-7",
-      "Artist and Title": "Taylor Swift - Blank Space",
-      "Days": "1513",
-      "Pk": "31",
-      "(x?)": "",
-      "Streams": "24,443",
-      "Streams+": "+357",
-      "7Day": "164,225",
-      "7Day+": "-2,806",
-      "Total": "22,418,810",
-      "track_id": "1u8c2t2Cy7UBoG4ArRcF5g",
-      "artist_ids": [
-        "06HL4z0CvFAxyc27GXpf02"
-      ]
-    },
-    {
-      "Pos": "88",
-      "P+": "-10",
-      "Artist and Title": "Tulus - Monokrom",
-      "Days": "44",
-      "Pk": "78",
-      "(x?)": "",
-      "Streams": "24,431",
-      "Streams+": "-48",
-      "7Day": "169,257",
-      "7Day+": "+4,022",
-      "Total": "839,907",
-      "track_id": "4GfK1qOF3uBWidbPlTCQRL",
-      "artist_ids": [
-        "2iDVt6mFbtbDEZG5ax0dTi"
-      ]
-    },
-    {
-      "Pos": "89",
-      "P+": "+3",
-      "Artist and Title": "ADÉLA - Ain't In LA",
-      "Days": "21",
-      "Pk": "89",
-      "(x?)": "",
-      "Streams": "24,427",
-      "Streams+": "+1,073",
-      "7Day": "163,514",
-      "7Day+": "+2,345",
-      "Total": "451,246",
-      "track_id": "02HyFYmpzt02VJ8k0CqxKj",
-      "artist_ids": [
-        "2qanRMyA5bNuTvz1dK45OP"
-      ]
-    },
-    {
-      "Pos": "90",
-      "P+": "=",
+      "P+": "+6",
       "Artist and Title": "The Weeknd - Die For You",
-      "Days": "1831",
+      "Days": "1832",
       "Pk": "6",
       "(x?)": "",
-      "Streams": "24,422",
-      "Streams+": "+998",
-      "7Day": "165,295",
-      "7Day+": "+1,493",
-      "Total": "48,071,542",
+      "Streams": "23,854",
+      "Streams+": "-568",
+      "7Day": "166,305",
+      "7Day+": "+1,010",
+      "Total": "48,095,396",
       "track_id": "2LBqCSwhJGcFQeTHMVGwy3",
       "artist_ids": [
         "1Xyo4u8uXC1ZmMpatF05PJ"
       ]
     },
     {
-      "Pos": "91",
-      "P+": "-4",
-      "Artist and Title": "Charlie Puth - Attention",
-      "Days": "1281",
-      "Pk": "2",
-      "(x?)": "(x81)",
-      "Streams": "24,204",
-      "Streams+": "+418",
-      "7Day": "167,050",
-      "7Day+": "+845",
-      "Total": "24,318,833",
-      "track_id": "4iLqG9SeJSnt0cSPICSjxv",
-      "artist_ids": [
-        "6VuMaDnrHyPL1p4EHjYLi7"
-      ]
-    },
-    {
-      "Pos": "92",
-      "P+": "-3",
-      "Artist and Title": "Ara Johari - Menjaga Jodoh Orang Lain",
-      "Days": "591",
+      "Pos": "85",
+      "P+": "-5",
+      "Artist and Title": "Andmesh - Anugerah Terindah",
+      "Days": "602",
       "Pk": "5",
       "(x?)": "",
-      "Streams": "24,167",
-      "Streams+": "+711",
-      "7Day": "179,135",
-      "7Day+": "+3,421",
-      "Total": "23,976,745",
-      "track_id": "2CneKWpjKErzqZhHID0avV",
+      "Streams": "23,844",
+      "Streams+": "-1,286",
+      "7Day": "167,961",
+      "7Day+": "+340",
+      "Total": "19,676,546",
+      "track_id": "6gjkHuMOR0CrN7Vb2NoEdg",
       "artist_ids": [
-        "0xuL8l2qakTAyURbZb1gtc"
+        "6IDsZZ4IHgs9VblBgQQSmt"
       ]
     },
     {
-      "Pos": "93",
-      "P+": "-5",
-      "Artist and Title": "Hindia - Rumah Ke Rumah",
-      "Days": "921",
-      "Pk": "39",
+      "Pos": "86",
+      "P+": "-8",
+      "Artist and Title": "Steve Lacy - oh yeah?",
+      "Days": "23",
+      "Pk": "38",
       "(x?)": "",
-      "Streams": "24,137",
-      "Streams+": "+576",
-      "7Day": "166,807",
-      "7Day+": "+840",
-      "Total": "19,558,499",
-      "track_id": "2wAiFWjRupWmnDkQcu91MF",
+      "Streams": "23,772",
+      "Streams+": "-1,585",
+      "7Day": "179,418",
+      "7Day+": "-4,390",
+      "Total": "663,123",
+      "track_id": "22NHkFYbgxB2Zirj29Gbp8",
       "artist_ids": [
-        "51kyrUsAVqUBcoDEMFkX12"
+        "57vWImR43h4CaDao012Ofp"
       ]
     },
     {
-      "Pos": "94",
-      "P+": "+5",
-      "Artist and Title": "Dominic Fike - Babydoll",
-      "Days": "175",
-      "Pk": "19",
+      "Pos": "87",
+      "P+": "+1",
+      "Artist and Title": "Tulus - Monokrom",
+      "Days": "45",
+      "Pk": "78",
       "(x?)": "",
-      "Streams": "24,030",
-      "Streams+": "+1,359",
-      "7Day": "163,869",
-      "7Day+": "+331",
-      "Total": "5,444,327",
-      "track_id": "7yNf9YjeO5JXUE3JEBgnYc",
+      "Streams": "23,511",
+      "Streams+": "-920",
+      "7Day": "168,652",
+      "7Day+": "-605",
+      "Total": "863,418",
+      "track_id": "4GfK1qOF3uBWidbPlTCQRL",
       "artist_ids": [
-        "6USv9qhCn6zfxlBQIYJ9qs"
+        "2iDVt6mFbtbDEZG5ax0dTi"
       ]
     },
     {
-      "Pos": "95",
-      "P+": "+3",
-      "Artist and Title": "SIENNA SPIRO - Pure",
-      "Days": "14",
-      "Pk": "95",
-      "(x?)": "",
-      "Streams": "23,747",
-      "Streams+": "+944",
-      "7Day": "153,492",
-      "7Day+": "+930",
-      "Total": "297,815",
-      "track_id": "31IKMjvv6Oskp4hjGVeYsT",
-      "artist_ids": [
-        "02gSuSAWEdWa5UOvqzjX6v"
-      ]
-    },
-    {
-      "Pos": "96",
-      "P+": "+7",
-      "Artist and Title": "Hindia - everything u are",
-      "Days": "229",
-      "Pk": "62",
-      "(x?)": "",
-      "Streams": "23,458",
-      "Streams+": "+1,093",
-      "7Day": "159,260",
-      "7Day+": "+2,075",
-      "Total": "5,056,063",
-      "track_id": "5WOSNVChcadlsCRiqXE45K",
-      "artist_ids": [
-        "51kyrUsAVqUBcoDEMFkX12"
-      ]
-    },
-    {
-      "Pos": "97",
-      "P+": "-3",
-      "Artist and Title": "Naykilla - SO ASU",
-      "Days": "280",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "23,456",
-      "Streams+": "+222",
-      "7Day": "166,149",
-      "7Day+": "+1,461",
-      "Total": "9,757,481",
-      "track_id": "56TRhAB4SqpRn5NdqHSAFy",
-      "artist_ids": [
-        "79omf4LgzaVAnXIRWPkJUq"
-      ]
-    },
-    {
-      "Pos": "98",
-      "P+": "+17",
-      "Artist and Title": "Arctic Monkeys - I Wanna Be Yours",
-      "Days": "1507",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "23,369",
-      "Streams+": "+2,114",
-      "7Day": "155,883",
-      "7Day+": "+1,170",
-      "Total": "47,632,637",
-      "track_id": "5XeFesFbtLpXzIVDNQP22n",
-      "artist_ids": [
-        "7Ln80lUS6He07XvHI8qqHH"
-      ]
-    },
-    {
-      "Pos": "99",
-      "P+": "-2",
-      "Artist and Title": "SAMSONS - Kenangan Terindah",
-      "Days": "1747",
-      "Pk": "32",
-      "(x?)": "",
-      "Streams": "23,229",
-      "Streams+": "+270",
-      "7Day": "163,185",
-      "7Day+": "-5,180",
-      "Total": "27,105,692",
-      "track_id": "5TtmfZaNSYEcTR49cureT0",
-      "artist_ids": [
-        "6HHje5tfmzWK8PsSaoJ9Xp"
-      ]
-    },
-    {
-      "Pos": "100",
-      "P+": "NEW",
+      "Pos": "88",
+      "P+": "+12",
       "Artist and Title": "Sai Abhyankkar - Radhimaa (w/ Nargis Teji, Asma Teji, Vivek)",
-      "Days": "1",
-      "Pk": "100",
+      "Days": "2",
+      "Pk": "88",
       "(x?)": "",
-      "Streams": "23,100",
-      "Streams+": "",
-      "7Day": "23,100",
-      "7Day+": "+23,100",
-      "Total": "23,100",
+      "Streams": "23,281",
+      "Streams+": "+181",
+      "7Day": "46,381",
+      "7Day+": "+23,281",
+      "Total": "46,381",
       "track_id": "6jJHYbJReFfR2ieGzRP5bq",
       "artist_ids": [
         "5jJrJU7VVmxQQLcLAmmxXc",
@@ -1718,70 +1517,342 @@
       ]
     },
     {
-      "Pos": "101",
-      "P+": "+16",
-      "Artist and Title": "Feby Putri - Runtuh (w/ Fiersa Besari)",
-      "Days": "1645",
-      "Pk": "28",
-      "(x?)": "",
-      "Streams": "23,065",
-      "Streams+": "+1,847",
-      "7Day": "124,621",
-      "7Day+": "+4,597",
-      "Total": "35,011,593",
-      "track_id": "6Hii26x3qDErVitnGW8QtO",
-      "artist_ids": [
-        "66NmU5epI0ONGmdCRbLpmW",
-        "06QVnTCdjs4jPKO0487EGV"
-      ]
-    },
-    {
-      "Pos": "102",
+      "Pos": "89",
       "P+": "+4",
-      "Artist and Title": "Justin Bieber - Confident - Single Version (w/ Chance the Rapper)",
-      "Days": "501",
-      "Pk": "14",
+      "Artist and Title": "Hindia - Rumah Ke Rumah",
+      "Days": "922",
+      "Pk": "39",
       "(x?)": "",
-      "Streams": "23,041",
-      "Streams+": "+1,235",
-      "7Day": "156,264",
-      "7Day+": "+1,187",
-      "Total": "11,293,416",
-      "track_id": "6czM6UMQD9qE5GAUp68oud",
+      "Streams": "23,076",
+      "Streams+": "-1,061",
+      "7Day": "167,548",
+      "7Day+": "+741",
+      "Total": "19,581,575",
+      "track_id": "2wAiFWjRupWmnDkQcu91MF",
       "artist_ids": [
-        "1uNFoZAHBGtllmzznpCI3s",
-        "1anyVhU62p31KFi8MEzkbf"
+        "51kyrUsAVqUBcoDEMFkX12"
       ]
     },
     {
-      "Pos": "103",
-      "P+": "-8",
+      "Pos": "90",
+      "P+": "-5",
+      "Artist and Title": "Hafiz Suip - Bahagiamu Deritaku",
+      "Days": "441",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "22,872",
+      "Streams+": "-1,721",
+      "7Day": "188,779",
+      "7Day+": "-7,961",
+      "Total": "14,224,017",
+      "track_id": "5vNhfRa1WTzUDZcU8DAO1a",
+      "artist_ids": [
+        "08nApps9ThD6cZD2jXC4vW"
+      ]
+    },
+    {
+      "Pos": "91",
+      "P+": "+14",
+      "Artist and Title": "Backstreet Boys - Shape of My Heart",
+      "Days": "386",
+      "Pk": "51",
+      "(x?)": "",
+      "Streams": "22,795",
+      "Streams+": "-151",
+      "7Day": "158,663",
+      "7Day+": "-284",
+      "Total": "5,352,495",
+      "track_id": "35o9a4iAfLl5jRmqMX9c1D",
+      "artist_ids": [
+        "5rSXSAkZ67PYJSvpUpkOr7"
+      ]
+    },
+    {
+      "Pos": "92",
+      "P+": "+22",
+      "Artist and Title": "DATA - Permaisuri",
+      "Days": "90",
+      "Pk": "85",
+      "(x?)": "",
+      "Streams": "22,685",
+      "Streams+": "+281",
+      "7Day": "158,694",
+      "7Day+": "+489",
+      "Total": "1,904,418",
+      "track_id": "5pPOzQys6TQbv6cby5e7cG",
+      "artist_ids": [
+        "4kFPGIhw9ra8vS19pPr19x"
+      ]
+    },
+    {
+      "Pos": "93",
+      "P+": "+37",
+      "Artist and Title": "JENNIE - Less than a Lover",
+      "Days": "34",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "22,645",
+      "Streams+": "+1,272",
+      "7Day": "168,361",
+      "7Day+": "-6,740",
+      "Total": "1,395,861",
+      "track_id": "19UnXjpLshSLobPspdyxlD",
+      "artist_ids": [
+        "250b0Wlc5Vk0CoUsaCY84M"
+      ]
+    },
+    {
+      "Pos": "94",
+      "P+": "+12",
+      "Artist and Title": "ATEEZ - BAD",
+      "Days": "52",
+      "Pk": "73",
+      "(x?)": "",
+      "Streams": "22,629",
+      "Streams+": "-179",
+      "7Day": "160,441",
+      "7Day+": "+347",
+      "Total": "1,213,100",
+      "track_id": "55UDXtbNJBAdTdUdbRu8T3",
+      "artist_ids": [
+        "68KmkJeZGfwe1OUaivBa2L"
+      ]
+    },
+    {
+      "Pos": "95",
+      "P+": "+32",
+      "Artist and Title": "Hyper Act - Takkan Pergi",
+      "Days": "958",
+      "Pk": "36",
+      "(x?)": "",
+      "Streams": "22,569",
+      "Streams+": "+1,025",
+      "7Day": "152,809",
+      "7Day+": "-270",
+      "Total": "15,096,041",
+      "track_id": "4RpBCmAFDHmUGGrYKMySQI",
+      "artist_ids": [
+        "0zo8fkOQyrawuBfIhy99jb"
+      ]
+    },
+    {
+      "Pos": "96",
+      "P+": "-5",
+      "Artist and Title": "Charlie Puth - Attention",
+      "Days": "1282",
+      "Pk": "2",
+      "(x?)": "(x81)",
+      "Streams": "22,516",
+      "Streams+": "-1,688",
+      "7Day": "166,092",
+      "7Day+": "-958",
+      "Total": "24,341,349",
+      "track_id": "4iLqG9SeJSnt0cSPICSjxv",
+      "artist_ids": [
+        "6VuMaDnrHyPL1p4EHjYLi7"
+      ]
+    },
+    {
+      "Pos": "97",
+      "P+": "+6",
       "Artist and Title": "Kerispatih - Tapi Bukan Aku",
-      "Days": "257",
+      "Days": "258",
       "Pk": "45",
       "(x?)": "",
-      "Streams": "23,036",
-      "Streams+": "+40",
-      "7Day": "158,872",
-      "7Day+": "+2,872",
-      "Total": "5,247,486",
+      "Streams": "22,298",
+      "Streams+": "-738",
+      "7Day": "158,147",
+      "7Day+": "-725",
+      "Total": "5,269,784",
       "track_id": "0BrH4b7su9uLELM1h5Xlzw",
       "artist_ids": [
         "73OtDyghUEJ9QfGtu1pkaJ"
       ]
     },
     {
+      "Pos": "98",
+      "P+": "+20",
+      "Artist and Title": "The Weeknd - Starboy (w/ Daft Punk)",
+      "Days": "1947",
+      "Pk": "2",
+      "(x?)": "(x28)",
+      "Streams": "22,200",
+      "Streams+": "+171",
+      "7Day": "154,534",
+      "7Day+": "+307",
+      "Total": "39,378,793",
+      "track_id": "7MXVkk9YMctZqd1Srtv4MB",
+      "artist_ids": [
+        "1Xyo4u8uXC1ZmMpatF05PJ",
+        "4tZwfgrHOc3mvqYlEYSvVi"
+      ]
+    },
+    {
+      "Pos": "99",
+      "P+": "-22",
+      "Artist and Title": "Hyper Act - Harapan",
+      "Days": "705",
+      "Pk": "43",
+      "(x?)": "",
+      "Streams": "22,107",
+      "Streams+": "-3,312",
+      "7Day": "164,750",
+      "7Day+": "+3,289",
+      "Total": "15,005,997",
+      "track_id": "6NexU0n0t8nlczyeoAfIwA",
+      "artist_ids": [
+        "0zo8fkOQyrawuBfIhy99jb"
+      ]
+    },
+    {
+      "Pos": "100",
+      "P+": "-6",
+      "Artist and Title": "Dominic Fike - Babydoll",
+      "Days": "176",
+      "Pk": "19",
+      "(x?)": "",
+      "Streams": "22,048",
+      "Streams+": "-1,982",
+      "7Day": "163,614",
+      "7Day+": "-255",
+      "Total": "5,466,375",
+      "track_id": "7yNf9YjeO5JXUE3JEBgnYc",
+      "artist_ids": [
+        "6USv9qhCn6zfxlBQIYJ9qs"
+      ]
+    },
+    {
+      "Pos": "101",
+      "P+": "-4",
+      "Artist and Title": "Naykilla - SO ASU",
+      "Days": "281",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "21,851",
+      "Streams+": "-1,605",
+      "7Day": "165,770",
+      "7Day+": "-379",
+      "Total": "9,779,332",
+      "track_id": "56TRhAB4SqpRn5NdqHSAFy",
+      "artist_ids": [
+        "79omf4LgzaVAnXIRWPkJUq"
+      ]
+    },
+    {
+      "Pos": "102",
+      "P+": "+21",
+      "Artist and Title": "The Goo Goo Dolls - Iris",
+      "Days": "751",
+      "Pk": "64",
+      "(x?)": "",
+      "Streams": "21,767",
+      "Streams+": "+27",
+      "7Day": "153,837",
+      "7Day+": "-788",
+      "Total": "11,353,830",
+      "track_id": "6Qyc6fS4DsZjB2mRW9DsQs",
+      "artist_ids": [
+        "2sil8z5kiy4r76CRTXxBCA"
+      ]
+    },
+    {
+      "Pos": "103",
+      "P+": "-7",
+      "Artist and Title": "Hindia - everything u are",
+      "Days": "230",
+      "Pk": "62",
+      "(x?)": "",
+      "Streams": "21,727",
+      "Streams+": "-1,731",
+      "7Day": "160,526",
+      "7Day+": "+1,266",
+      "Total": "5,077,790",
+      "track_id": "5WOSNVChcadlsCRiqXE45K",
+      "artist_ids": [
+        "51kyrUsAVqUBcoDEMFkX12"
+      ]
+    },
+    {
       "Pos": "104",
-      "P+": "+16",
+      "P+": "+9",
+      "Artist and Title": "Insomniacks - Sempurna",
+      "Days": "1434",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "21,555",
+      "Streams+": "-853",
+      "7Day": "153,872",
+      "7Day+": "-1,348",
+      "Total": "38,752,811",
+      "track_id": "67C6LHREqmytK923Ak6R0I",
+      "artist_ids": [
+        "3uSnvyMAFJTm7XkZJFo0xP"
+      ]
+    },
+    {
+      "Pos": "105",
+      "P+": "+3",
+      "Artist and Title": "The 1975 - About You",
+      "Days": "738",
+      "Pk": "67",
+      "(x?)": "",
+      "Streams": "21,393",
+      "Streams+": "-1,318",
+      "7Day": "152,140",
+      "7Day+": "-540",
+      "Total": "14,343,440",
+      "track_id": "1fDFHXcykq4iw8Gg7s5hG9",
+      "artist_ids": [
+        "3mIj9lX2MWuHmhNCA7LSCW"
+      ]
+    },
+    {
+      "Pos": "106",
+      "P+": "-25",
+      "Artist and Title": "Andra & The Backbone - Sempurna",
+      "Days": "933",
+      "Pk": "59",
+      "(x?)": "",
+      "Streams": "21,346",
+      "Streams+": "-3,576",
+      "7Day": "164,331",
+      "7Day+": "-2,060",
+      "Total": "15,916,483",
+      "track_id": "2UgCs0i0rNHUH2jKE5NZHE",
+      "artist_ids": [
+        "4ucwey7FxkHXkLK7jSfevU"
+      ]
+    },
+    {
+      "Pos": "107",
+      "P+": "+54",
+      "Artist and Title": "Fat Papi - FREAKED OUT (w/ prodshushy)",
+      "Days": "39",
+      "Pk": "94",
+      "(x?)": "",
+      "Streams": "21,263",
+      "Streams+": "+1,899",
+      "7Day": "150,934",
+      "7Day+": "-329",
+      "Total": "860,575",
+      "track_id": "7pBzCp7qNLlsH6rzEFkSwN",
+      "artist_ids": [
+        "6bemHySK6oqDAPZZzt61ov",
+        "6aQnbm7k0VsmUqfU9cfwoA"
+      ]
+    },
+    {
+      "Pos": "108",
+      "P+": "-4",
       "Artist and Title": "Silet Open Up - TABOLA BALE (w/ Jacson Seran, Juan Reza, Diva Aurel)",
-      "Days": "400",
+      "Days": "401",
       "Pk": "1",
       "(x?)": "(x12)",
-      "Streams": "22,979",
-      "Streams+": "+1,912",
-      "7Day": "151,986",
-      "7Day+": "+3,905",
-      "Total": "21,460,003",
+      "Streams": "21,217",
+      "Streams+": "-1,762",
+      "7Day": "153,144",
+      "7Day+": "+1,158",
+      "Total": "21,481,220",
       "track_id": "6KfugJFINWqA42k59hmjFr",
       "artist_ids": [
         "5naPJsWUJ6y22yKXA6dX36",
@@ -1791,102 +1862,342 @@
       ]
     },
     {
-      "Pos": "105",
-      "P+": "+7",
-      "Artist and Title": "Backstreet Boys - Shape of My Heart",
-      "Days": "385",
-      "Pk": "51",
+      "Pos": "109",
+      "P+": "-39",
+      "Artist and Title": "Noah - Separuh Aku",
+      "Days": "764",
+      "Pk": "54",
       "(x?)": "",
-      "Streams": "22,946",
-      "Streams+": "+1,628",
-      "7Day": "158,947",
-      "7Day+": "-426",
-      "Total": "5,329,700",
-      "track_id": "35o9a4iAfLl5jRmqMX9c1D",
+      "Streams": "21,204",
+      "Streams+": "-5,386",
+      "7Day": "168,664",
+      "7Day+": "-1,412",
+      "Total": "13,765,064",
+      "track_id": "4sJmv194lQKWjytpaxH1Vj",
       "artist_ids": [
-        "5rSXSAkZ67PYJSvpUpkOr7"
+        "31aMmlq8isIAgojvmIwiS4"
       ]
     },
     {
-      "Pos": "106",
-      "P+": "-4",
-      "Artist and Title": "ATEEZ - BAD",
-      "Days": "51",
-      "Pk": "73",
+      "Pos": "110",
+      "P+": "-12",
+      "Artist and Title": "Arctic Monkeys - I Wanna Be Yours",
+      "Days": "1508",
+      "Pk": "8",
       "(x?)": "",
-      "Streams": "22,808",
-      "Streams+": "+386",
-      "7Day": "160,094",
-      "7Day+": "+327",
-      "Total": "1,190,471",
-      "track_id": "55UDXtbNJBAdTdUdbRu8T3",
+      "Streams": "21,125",
+      "Streams+": "-2,244",
+      "7Day": "155,857",
+      "7Day+": "-26",
+      "Total": "47,653,762",
+      "track_id": "5XeFesFbtLpXzIVDNQP22n",
       "artist_ids": [
-        "68KmkJeZGfwe1OUaivBa2L"
+        "7Ln80lUS6He07XvHI8qqHH"
       ]
     },
     {
-      "Pos": "107",
-      "P+": "-6",
+      "Pos": "111",
+      "P+": "+25",
+      "Artist and Title": "LAUV - I Like Me Better",
+      "Days": "2634",
+      "Pk": "15",
+      "(x?)": "",
+      "Streams": "21,092",
+      "Streams+": "+129",
+      "7Day": "148,460",
+      "7Day+": "-927",
+      "Total": "33,535,677",
+      "track_id": "2P91MQbaiQOfbiz9VqhqKQ",
+      "artist_ids": [
+        "5JZ7CnR6gTvEMKX4g70Amv"
+      ]
+    },
+    {
+      "Pos": "112",
+      "P+": "+19",
+      "Artist and Title": "Bruno Mars - When I Was Your Man",
+      "Days": "2797",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "21,084",
+      "Streams+": "-264",
+      "7Day": "149,018",
+      "7Day+": "-272",
+      "Total": "34,989,427",
+      "track_id": "0B7wvvmu9EISAwZnOpjhNI",
+      "artist_ids": [
+        "0du5cEVh5yTK9QJze8zA0C"
+      ]
+    },
+    {
+      "Pos": "113",
+      "P+": "+11",
+      "Artist and Title": "Shawn Mendes - There's Nothing Holdin' Me Back",
+      "Days": "740",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "21,076",
+      "Streams+": "-603",
+      "7Day": "147,350",
+      "7Day+": "+337",
+      "Total": "9,644,102",
+      "track_id": "79cuOz3SPQTuFrp8WgftAu",
+      "artist_ids": [
+        "7n2wHs1TKAczGzO7Dd2rGr"
+      ]
+    },
+    {
+      "Pos": "114",
+      "P+": "+21",
+      "Artist and Title": "Fajar Noor - Tahta Hatiku #Pendampingmu",
+      "Days": "44",
+      "Pk": "83",
+      "(x?)": "",
+      "Streams": "21,020",
+      "Streams+": "+34",
+      "7Day": "150,477",
+      "7Day+": "-1,517",
+      "Total": "935,367",
+      "track_id": "3e1qr1xd1zTiaJBx2F0c4B",
+      "artist_ids": [
+        "3JQketpX6wbJUNAlOIigJc"
+      ]
+    },
+    {
+      "Pos": "115",
+      "P+": "-8",
       "Artist and Title": "Mega - Bayangan Gurauan",
-      "Days": "128",
+      "Days": "129",
       "Pk": "73",
       "(x?)": "",
-      "Streams": "22,729",
-      "Streams+": "+163",
-      "7Day": "151,824",
-      "7Day+": "+3,274",
-      "Total": "2,651,920",
+      "Streams": "21,013",
+      "Streams+": "-1,716",
+      "7Day": "152,735",
+      "7Day+": "+911",
+      "Total": "2,672,933",
       "track_id": "1HhYpYlr9sxxxQr0chKreu",
       "artist_ids": [
         "5KJO8SHDZrO7mvLq0FKu7b"
       ]
     },
     {
-      "Pos": "108",
-      "P+": "+15",
-      "Artist and Title": "The 1975 - About You",
-      "Days": "737",
-      "Pk": "67",
+      "Pos": "116",
+      "P+": "+10",
+      "Artist and Title": "Tame Impala - Loser",
+      "Days": "21",
+      "Pk": "74",
       "(x?)": "",
-      "Streams": "22,711",
-      "Streams+": "+1,850",
-      "7Day": "152,680",
-      "7Day+": "+976",
-      "Total": "14,322,047",
-      "track_id": "1fDFHXcykq4iw8Gg7s5hG9",
+      "Streams": "20,981",
+      "Streams+": "-571",
+      "7Day": "157,118",
+      "7Day+": "-2,308",
+      "Total": "492,611",
+      "track_id": "7bxaFZ1O3cHkgLKMsdC3xR",
       "artist_ids": [
-        "3mIj9lX2MWuHmhNCA7LSCW"
+        "5INjqkS1o8h1imAzPqGZBb"
       ]
     },
     {
-      "Pos": "109",
-      "P+": "+5",
+      "Pos": "117",
+      "P+": "=",
+      "Artist and Title": "Ed Sheeran - Perfect",
+      "Days": "3331",
+      "Pk": "1",
+      "(x?)": "(x31)",
+      "Streams": "20,882",
+      "Streams+": "-1,189",
+      "7Day": "152,153",
+      "7Day+": "+499",
+      "Total": "48,411,771",
+      "track_id": "0tgVpDi06FyKpA1z0VMD4v",
+      "artist_ids": [
+        "6eUKZXaKkcviH0Ku9w2n3V"
+      ]
+    },
+    {
+      "Pos": "118",
+      "P+": "-16",
+      "Artist and Title": "Justin Bieber - Confident - Single Version (w/ Chance the Rapper)",
+      "Days": "502",
+      "Pk": "14",
+      "(x?)": "",
+      "Streams": "20,875",
+      "Streams+": "-2,166",
+      "7Day": "156,228",
+      "7Day+": "-36",
+      "Total": "11,314,291",
+      "track_id": "6czM6UMQD9qE5GAUp68oud",
+      "artist_ids": [
+        "1uNFoZAHBGtllmzznpCI3s",
+        "1anyVhU62p31KFi8MEzkbf"
+      ]
+    },
+    {
+      "Pos": "119",
+      "P+": "+26",
+      "Artist and Title": "Danial Kifli - Ku Yang Berjuang",
+      "Days": "72",
+      "Pk": "96",
+      "(x?)": "",
+      "Streams": "20,853",
+      "Streams+": "+602",
+      "7Day": "147,399",
+      "7Day+": "+20,853",
+      "Total": "1,502,768",
+      "track_id": "6vESiRXG0vOpUgI5pt3eOb",
+      "artist_ids": [
+        "1M0tSSp60yHTRB36GTofGx"
+      ]
+    },
+    {
+      "Pos": "120",
+      "P+": "-11",
       "Artist and Title": "Exists - Alasanmu",
-      "Days": "158",
+      "Days": "159",
       "Pk": "65",
       "(x?)": "",
-      "Streams": "22,614",
-      "Streams+": "+1,327",
-      "7Day": "160,730",
-      "7Day+": "+2,254",
-      "Total": "3,243,053",
+      "Streams": "20,813",
+      "Streams+": "-1,801",
+      "7Day": "160,254",
+      "7Day+": "-476",
+      "Total": "3,263,866",
       "track_id": "6UdHL1HgSBwo1Vxx4ys5uS",
       "artist_ids": [
         "1ibFtPHzpqHJKA0PdAC8TH"
       ]
     },
     {
-      "Pos": "110",
-      "P+": "-5",
+      "Pos": "121",
+      "P+": "RE",
+      "Artist and Title": "Dua Lipa - Training Season",
+      "Days": "8",
+      "Pk": "121",
+      "(x?)": "",
+      "Streams": "20,649",
+      "Streams+": "",
+      "7Day": "20,649",
+      "7Day+": "+20,649",
+      "Total": "126,966",
+      "track_id": "6Qb7YsAqH4wWFUMbGsCpap",
+      "artist_ids": [
+        "6M2wZ9GZgrQXHCFfjv46we"
+      ]
+    },
+    {
+      "Pos": "122",
+      "P+": "RE",
+      "Artist and Title": "BIGBANG - BiiiG",
+      "Days": "7",
+      "Pk": "47",
+      "(x?)": "",
+      "Streams": "20,648",
+      "Streams+": "",
+      "7Day": "141,772",
+      "7Day+": "-1,939",
+      "Total": "164,359",
+      "track_id": "4pZi0VxU2C8zuxCYfEtFuL",
+      "artist_ids": [
+        "4Kxlr1PRlDKEB0ekOCyHgX"
+      ]
+    },
+    {
+      "Pos": "123",
+      "P+": "+37",
+      "Artist and Title": "Fajar Noor - Tuhan Tahu Kita Saling Cinta",
+      "Days": "17",
+      "Pk": "94",
+      "(x?)": "",
+      "Streams": "20,622",
+      "Streams+": "+1,211",
+      "7Day": "140,746",
+      "7Day+": "-2,137",
+      "Total": "345,920",
+      "track_id": "0n8UJLCCEu2cF0Zm2luIvn",
+      "artist_ids": [
+        "3JQketpX6wbJUNAlOIigJc"
+      ]
+    },
+    {
+      "Pos": "124",
+      "P+": "+54",
+      "Artist and Title": "Sufian Suhaimi - Di Matamu",
+      "Days": "1470",
+      "Pk": "2",
+      "(x?)": "(x4)",
+      "Streams": "20,603",
+      "Streams+": "+1,752",
+      "7Day": "115,585",
+      "7Day+": "+1,367",
+      "Total": "23,645,789",
+      "track_id": "5jAqkM00R41cm1Y2T0mGzb",
+      "artist_ids": [
+        "6KEEEdAqmCL7PYOrjZCnEa"
+      ]
+    },
+    {
+      "Pos": "125",
+      "P+": "+9",
+      "Artist and Title": "New West - Those Eyes",
+      "Days": "1422",
+      "Pk": "12",
+      "(x?)": "",
+      "Streams": "20,531",
+      "Streams+": "-659",
+      "7Day": "143,603",
+      "7Day+": "+344",
+      "Total": "37,723,799",
+      "track_id": "50x1Ic8CaXkYNvjmxe3WXy",
+      "artist_ids": [
+        "69bG9tC62d8oTFC9aTTosn"
+      ]
+    },
+    {
+      "Pos": "126",
+      "P+": "-15",
+      "Artist and Title": "Sean Kingston - Eenie Meenie (w/ Justin Bieber)",
+      "Days": "337",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "20,421",
+      "Streams+": "-2,013",
+      "7Day": "153,496",
+      "7Day+": "-1,292",
+      "Total": "8,380,274",
+      "track_id": "4vVTI94F9uJ8lHNDWKv0i2",
+      "artist_ids": [
+        "6S0dmVVn4udvppDhZIWxCr",
+        "1uNFoZAHBGtllmzznpCI3s"
+      ]
+    },
+    {
+      "Pos": "127",
+      "P+": "-28",
+      "Artist and Title": "SAMSONS - Kenangan Terindah",
+      "Days": "1748",
+      "Pk": "32",
+      "(x?)": "",
+      "Streams": "20,415",
+      "Streams+": "-2,814",
+      "7Day": "159,789",
+      "7Day+": "-3,396",
+      "Total": "27,126,107",
+      "track_id": "5TtmfZaNSYEcTR49cureT0",
+      "artist_ids": [
+        "6HHje5tfmzWK8PsSaoJ9Xp"
+      ]
+    },
+    {
+      "Pos": "128",
+      "P+": "-18",
       "Artist and Title": "Tenxi - Garam & Madu (Sakit Dadaku) (w/ Jemsii, Naykilla)",
-      "Days": "600",
+      "Days": "601",
       "Pk": "1",
       "(x?)": "(x51)",
-      "Streams": "22,528",
-      "Streams+": "+711",
-      "7Day": "156,215",
-      "7Day+": "+1,947",
-      "Total": "31,671,421",
+      "Streams": "20,380",
+      "Streams+": "-2,148",
+      "7Day": "155,790",
+      "7Day+": "-425",
+      "Total": "31,691,801",
       "track_id": "1hlHeIZ36Idpr57xPI8OCD",
       "artist_ids": [
         "6vP4azTCk053nGL0xAYnVH",
@@ -1895,190 +2206,68 @@
       ]
     },
     {
-      "Pos": "111",
-      "P+": "+5",
-      "Artist and Title": "Sean Kingston - Eenie Meenie (w/ Justin Bieber)",
-      "Days": "336",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "22,434",
-      "Streams+": "+1,190",
-      "7Day": "154,788",
-      "7Day+": "+1,658",
-      "Total": "8,359,853",
-      "track_id": "4vVTI94F9uJ8lHNDWKv0i2",
-      "artist_ids": [
-        "6S0dmVVn4udvppDhZIWxCr",
-        "1uNFoZAHBGtllmzznpCI3s"
-      ]
-    },
-    {
-      "Pos": "112",
-      "P+": "+17",
-      "Artist and Title": "Nadin Amizah - Di Akhir Perang",
-      "Days": "210",
-      "Pk": "67",
-      "(x?)": "",
-      "Streams": "22,414",
-      "Streams+": "+2,092",
-      "7Day": "143,419",
-      "7Day+": "+2,800",
-      "Total": "4,633,018",
-      "track_id": "1tqPw8Hf88h24Bpt2SzuYE",
-      "artist_ids": [
-        "20zafXaLhm5IcXnSU93rNn"
-      ]
-    },
-    {
-      "Pos": "113",
-      "P+": "+15",
-      "Artist and Title": "Insomniacks - Sempurna",
-      "Days": "1433",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "22,408",
-      "Streams+": "+1,936",
-      "7Day": "155,220",
-      "7Day+": "-438",
-      "Total": "38,731,256",
-      "track_id": "67C6LHREqmytK923Ak6R0I",
-      "artist_ids": [
-        "3uSnvyMAFJTm7XkZJFo0xP"
-      ]
-    },
-    {
-      "Pos": "114",
-      "P+": "+4",
-      "Artist and Title": "DATA - Permaisuri",
-      "Days": "89",
-      "Pk": "85",
-      "(x?)": "",
-      "Streams": "22,404",
-      "Streams+": "+1,224",
-      "7Day": "158,205",
-      "7Day+": "+3,752",
-      "Total": "1,881,733",
-      "track_id": "5pPOzQys6TQbv6cby5e7cG",
-      "artist_ids": [
-        "4kFPGIhw9ra8vS19pPr19x"
-      ]
-    },
-    {
-      "Pos": "115",
-      "P+": "+4",
-      "Artist and Title": "H.E.R. - Best Part (w/ Daniel Caesar)",
-      "Days": "2097",
-      "Pk": "44",
-      "(x?)": "",
-      "Streams": "22,319",
-      "Streams+": "+1,202",
-      "7Day": "146,062",
-      "7Day+": "+3,969",
-      "Total": "25,087,017",
-      "track_id": "4OBZT9EnhYIV17t4pGw7ig",
-      "artist_ids": [
-        "3Y7RZ31TRPVadSFVy1o8os",
-        "20wkVLutqVOYrc0kxFs7rA"
-      ]
-    },
-    {
-      "Pos": "116",
-      "P+": "-30",
-      "Artist and Title": "Alyah - Sesal Separuh Nyawa",
-      "Days": "269",
-      "Pk": "34",
-      "(x?)": "",
-      "Streams": "22,107",
-      "Streams+": "-1,684",
-      "7Day": "128,741",
-      "7Day+": "-821",
-      "Total": "5,215,079",
-      "track_id": "6Kqc2T2YiYLkzW6zD0GO8y",
-      "artist_ids": [
-        "2bUKiCTlseN47NCfkpDTEZ"
-      ]
-    },
-    {
-      "Pos": "117",
-      "P+": "-4",
-      "Artist and Title": "Ed Sheeran - Perfect",
-      "Days": "3330",
-      "Pk": "1",
-      "(x?)": "(x31)",
-      "Streams": "22,071",
-      "Streams+": "+778",
-      "7Day": "151,654",
-      "7Day+": "+827",
-      "Total": "48,390,889",
-      "track_id": "0tgVpDi06FyKpA1z0VMD4v",
-      "artist_ids": [
-        "6eUKZXaKkcviH0Ku9w2n3V"
-      ]
-    },
-    {
-      "Pos": "118",
+      "Pos": "129",
       "P+": "-9",
-      "Artist and Title": "The Weeknd - Starboy (w/ Daft Punk)",
-      "Days": "1946",
-      "Pk": "2",
-      "(x?)": "(x28)",
-      "Streams": "22,029",
-      "Streams+": "+501",
-      "7Day": "154,227",
-      "7Day+": "-4,773",
-      "Total": "39,356,593",
-      "track_id": "7MXVkk9YMctZqd1Srtv4MB",
-      "artist_ids": [
-        "1Xyo4u8uXC1ZmMpatF05PJ",
-        "4tZwfgrHOc3mvqYlEYSvVi"
-      ]
-    },
-    {
-      "Pos": "119",
-      "P+": "+15",
-      "Artist and Title": "Andmesh - Cinta Luar Biasa",
-      "Days": "694",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "22,026",
-      "Streams+": "+1,955",
-      "7Day": "146,774",
-      "7Day+": "+22,026",
-      "Total": "11,234,832",
-      "track_id": "1Hy1CBFRXYvFL7eJT5MLlG",
-      "artist_ids": [
-        "6IDsZZ4IHgs9VblBgQQSmt"
-      ]
-    },
-    {
-      "Pos": "120",
-      "P+": "+18",
       "Artist and Title": "Insomniacks - Reminisensi",
-      "Days": "842",
+      "Days": "843",
       "Pk": "3",
       "(x?)": "(x9)",
-      "Streams": "21,919",
-      "Streams+": "+1,970",
-      "7Day": "152,028",
-      "7Day+": "-2,451",
-      "Total": "29,160,298",
+      "Streams": "20,344",
+      "Streams+": "-1,575",
+      "7Day": "150,701",
+      "7Day+": "-1,327",
+      "Total": "29,180,642",
       "track_id": "0TRKtVvsVmOkXCvnq5AgNE",
       "artist_ids": [
         "3uSnvyMAFJTm7XkZJFo0xP"
       ]
     },
     {
-      "Pos": "121",
-      "P+": "+11",
+      "Pos": "130",
+      "P+": "-8",
+      "Artist and Title": "K.O.I - Tiwikarma",
+      "Days": "11",
+      "Pk": "41",
+      "(x?)": "",
+      "Streams": "20,264",
+      "Streams+": "-1,493",
+      "7Day": "169,047",
+      "7Day+": "-6,792",
+      "Total": "290,866",
+      "track_id": "1na13IdUEvCU6Hb6IaE3ei",
+      "artist_ids": [
+        "1WL9pzICWz3vD3TjyDwqoF"
+      ]
+    },
+    {
+      "Pos": "131",
+      "P+": "+15",
+      "Artist and Title": "Coldplay - Yellow",
+      "Days": "3172",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "20,176",
+      "Streams+": "+23",
+      "7Day": "141,981",
+      "7Day+": "+138",
+      "Total": "38,595,591",
+      "track_id": "3AJwUDP919kvQ9QcozQPxg",
+      "artist_ids": [
+        "4gzpq5DPGxSnKTe4SA8HAU"
+      ]
+    },
+    {
+      "Pos": "132",
+      "P+": "-11",
       "Artist and Title": "LE SSERAFIM - ICONIC BY MISTAKE (w/ ILLIT, KATSEYE)",
-      "Days": "75",
+      "Days": "76",
       "Pk": "12",
       "(x?)": "",
-      "Streams": "21,887",
-      "Streams+": "+1,719",
-      "7Day": "149,260",
-      "7Day+": "+1,257",
-      "Total": "2,461,543",
+      "Streams": "20,150",
+      "Streams+": "-1,737",
+      "7Day": "148,970",
+      "7Day+": "-290",
+      "Total": "2,481,693",
       "track_id": "6fl4Gu0lJm5hc8FM5JzCZD",
       "artist_ids": [
         "4SpbR6yFEvexJuaBpgAU5p",
@@ -2087,136 +2276,121 @@
       ]
     },
     {
-      "Pos": "122",
-      "P+": "-41",
-      "Artist and Title": "K.O.I - Tiwikarma",
-      "Days": "10",
-      "Pk": "41",
-      "(x?)": "",
-      "Streams": "21,757",
-      "Streams+": "-2,266",
-      "7Day": "175,839",
-      "7Day+": "-7,679",
-      "Total": "270,602",
-      "track_id": "1na13IdUEvCU6Hb6IaE3ei",
-      "artist_ids": [
-        "1WL9pzICWz3vD3TjyDwqoF"
-      ]
-    },
-    {
-      "Pos": "123",
-      "P+": "-2",
-      "Artist and Title": "The Goo Goo Dolls - Iris",
-      "Days": "750",
-      "Pk": "64",
-      "(x?)": "",
-      "Streams": "21,740",
-      "Streams+": "+727",
-      "7Day": "154,625",
-      "7Day+": "+21,740",
-      "Total": "11,332,063",
-      "track_id": "6Qyc6fS4DsZjB2mRW9DsQs",
-      "artist_ids": [
-        "2sil8z5kiy4r76CRTXxBCA"
-      ]
-    },
-    {
-      "Pos": "124",
-      "P+": "+9",
-      "Artist and Title": "Shawn Mendes - There's Nothing Holdin' Me Back",
-      "Days": "739",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "21,679",
-      "Streams+": "+1,516",
-      "7Day": "147,013",
-      "7Day+": "-492",
-      "Total": "9,623,026",
-      "track_id": "79cuOz3SPQTuFrp8WgftAu",
-      "artist_ids": [
-        "7n2wHs1TKAczGzO7Dd2rGr"
-      ]
-    },
-    {
-      "Pos": "125",
-      "P+": "+1",
-      "Artist and Title": "Juicy Luicy - Lantas",
-      "Days": "544",
-      "Pk": "62",
-      "(x?)": "",
-      "Streams": "21,589",
-      "Streams+": "+894",
-      "7Day": "148,727",
-      "7Day+": "+688",
-      "Total": "8,440,193",
-      "track_id": "1ZPVEo8RfmrEz8YAD5n6rW",
-      "artist_ids": [
-        "3tMTXQyRrPmMyHv5SoC0TV"
-      ]
-    },
-    {
-      "Pos": "126",
-      "P+": "-19",
-      "Artist and Title": "Tame Impala - Loser",
-      "Days": "20",
-      "Pk": "74",
-      "(x?)": "",
-      "Streams": "21,552",
-      "Streams+": "-140",
-      "7Day": "159,426",
-      "7Day+": "-3,286",
-      "Total": "471,630",
-      "track_id": "7bxaFZ1O3cHkgLKMsdC3xR",
-      "artist_ids": [
-        "5INjqkS1o8h1imAzPqGZBb"
-      ]
-    },
-    {
-      "Pos": "127",
-      "P+": "-16",
-      "Artist and Title": "Hyper Act - Takkan Pergi",
-      "Days": "957",
-      "Pk": "36",
-      "(x?)": "",
-      "Streams": "21,544",
-      "Streams+": "+159",
-      "7Day": "153,079",
-      "7Day+": "+625",
-      "Total": "15,073,472",
-      "track_id": "4RpBCmAFDHmUGGrYKMySQI",
-      "artist_ids": [
-        "0zo8fkOQyrawuBfIhy99jb"
-      ]
-    },
-    {
-      "Pos": "128",
-      "P+": "+12",
+      "Pos": "133",
+      "P+": "-5",
       "Artist and Title": "Justin Bieber - Love Yourself",
-      "Days": "2392",
+      "Days": "2393",
       "Pk": "1",
       "(x?)": "(x76)",
-      "Streams": "21,418",
-      "Streams+": "+1,723",
-      "7Day": "144,338",
-      "7Day+": "-149",
-      "Total": "28,339,486",
+      "Streams": "20,010",
+      "Streams+": "-1,408",
+      "7Day": "143,977",
+      "7Day+": "-361",
+      "Total": "28,359,496",
       "track_id": "3hB5DgAiMAQ4DzYbsMq1IT",
       "artist_ids": [
         "1uNFoZAHBGtllmzznpCI3s"
       ]
     },
     {
-      "Pos": "129",
-      "P+": "+14",
+      "Pos": "134",
+      "P+": "+24",
+      "Artist and Title": "Lyodra - Pesan Terakhir",
+      "Days": "1018",
+      "Pk": "18",
+      "(x?)": "",
+      "Streams": "19,991",
+      "Streams+": "+398",
+      "7Day": "136,001",
+      "7Day+": "+1,126",
+      "Total": "26,457,983",
+      "track_id": "3FwQ3RYYEekzjEeL3jdpUZ",
+      "artist_ids": [
+        "6Sv2jkzH9sWQjwghW5ArMG"
+      ]
+    },
+    {
+      "Pos": "135",
+      "P+": "+60",
+      "Artist and Title": "Ukays - Pahit Akan Manis Akhirnya",
+      "Days": "16",
+      "Pk": "125",
+      "(x?)": "",
+      "Streams": "19,969",
+      "Streams+": "+1,742",
+      "7Day": "130,935",
+      "7Day+": "+90",
+      "Total": "311,111",
+      "track_id": "7KFfuhvMz0HeUoJ8gWShzg",
+      "artist_ids": [
+        "7y3tizrdDAAfh7BWCYLXcI"
+      ]
+    },
+    {
+      "Pos": "136",
+      "P+": "-35",
+      "Artist and Title": "Feby Putri - Runtuh (w/ Fiersa Besari)",
+      "Days": "1646",
+      "Pk": "28",
+      "(x?)": "",
+      "Streams": "19,935",
+      "Streams+": "-3,130",
+      "7Day": "126,924",
+      "7Day+": "+2,303",
+      "Total": "35,031,528",
+      "track_id": "6Hii26x3qDErVitnGW8QtO",
+      "artist_ids": [
+        "66NmU5epI0ONGmdCRbLpmW",
+        "06QVnTCdjs4jPKO0487EGV"
+      ]
+    },
+    {
+      "Pos": "137",
+      "P+": "-22",
+      "Artist and Title": "H.E.R. - Best Part (w/ Daniel Caesar)",
+      "Days": "2098",
+      "Pk": "44",
+      "(x?)": "",
+      "Streams": "19,914",
+      "Streams+": "-2,405",
+      "7Day": "146,261",
+      "7Day+": "+199",
+      "Total": "25,106,931",
+      "track_id": "4OBZT9EnhYIV17t4pGw7ig",
+      "artist_ids": [
+        "3Y7RZ31TRPVadSFVy1o8os",
+        "20wkVLutqVOYrc0kxFs7rA"
+      ]
+    },
+    {
+      "Pos": "138",
+      "P+": "+19",
+      "Artist and Title": "Luqman Faiz - Kepuraanmu",
+      "Days": "1312",
+      "Pk": "27",
+      "(x?)": "",
+      "Streams": "19,739",
+      "Streams+": "+138",
+      "7Day": "118,583",
+      "7Day+": "-214",
+      "Total": "20,589,343",
+      "track_id": "5tNfSGN2zQ6y3E5pl5Wggy",
+      "artist_ids": [
+        "2ZhUfT19cZKRi7sayQcEZH"
+      ]
+    },
+    {
+      "Pos": "139",
+      "P+": "-10",
       "Artist and Title": "DJ Snake - Let Me Love You (w/ Justin Bieber)",
-      "Days": "912",
+      "Days": "913",
       "Pk": "2",
       "(x?)": "(x27)",
-      "Streams": "21,387",
-      "Streams+": "+1,873",
-      "7Day": "146,569",
-      "7Day+": "+2,114",
-      "Total": "15,870,747",
+      "Streams": "19,719",
+      "Streams+": "-1,668",
+      "7Day": "146,133",
+      "7Day+": "-436",
+      "Total": "15,890,466",
       "track_id": "4pdPtRcBmOSQDlJ3Fk945m",
       "artist_ids": [
         "540vIaP2JwjQb9dm3aArA4",
@@ -2224,959 +2398,442 @@
       ]
     },
     {
-      "Pos": "130",
-      "P+": "-22",
-      "Artist and Title": "JENNIE - Less than a Lover",
-      "Days": "33",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "21,373",
-      "Streams+": "-311",
-      "7Day": "175,101",
-      "7Day+": "-8,250",
-      "Total": "1,373,216",
-      "track_id": "19UnXjpLshSLobPspdyxlD",
-      "artist_ids": [
-        "250b0Wlc5Vk0CoUsaCY84M"
-      ]
-    },
-    {
-      "Pos": "131",
-      "P+": "-9",
-      "Artist and Title": "Bruno Mars - When I Was Your Man",
-      "Days": "2796",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "21,348",
-      "Streams+": "+445",
-      "7Day": "149,290",
-      "7Day+": "-718",
-      "Total": "34,968,343",
-      "track_id": "0B7wvvmu9EISAwZnOpjhNI",
-      "artist_ids": [
-        "0du5cEVh5yTK9QJze8zA0C"
-      ]
-    },
-    {
-      "Pos": "132",
-      "P+": "+15",
-      "Artist and Title": "Daniel Caesar - Always",
-      "Days": "937",
-      "Pk": "57",
-      "(x?)": "",
-      "Streams": "21,258",
-      "Streams+": "+2,054",
-      "7Day": "137,904",
-      "7Day+": "+21,258",
-      "Total": "17,358,618",
-      "track_id": "2LlOeW5rVcvl3QcPNPcDus",
-      "artist_ids": [
-        "20wkVLutqVOYrc0kxFs7rA"
-      ]
-    },
-    {
-      "Pos": "133",
-      "P+": "RE",
-      "Artist and Title": "Akim And The Majistret - Mewangi",
-      "Days": "368",
-      "Pk": "63",
-      "(x?)": "",
-      "Streams": "21,244",
-      "Streams+": "",
-      "7Day": "117,542",
-      "7Day+": "-3,290",
-      "Total": "1,274,295",
-      "track_id": "3U9zDV4Tt5zu7vhnuVfxLi",
-      "artist_ids": [
-        "7JH3Oqfoa7PwVSbxi0p69L"
-      ]
-    },
-    {
-      "Pos": "134",
-      "P+": "+5",
-      "Artist and Title": "New West - Those Eyes",
-      "Days": "1421",
-      "Pk": "12",
-      "(x?)": "",
-      "Streams": "21,190",
-      "Streams+": "+1,475",
-      "7Day": "143,259",
-      "7Day+": "-349",
-      "Total": "37,703,268",
-      "track_id": "50x1Ic8CaXkYNvjmxe3WXy",
-      "artist_ids": [
-        "69bG9tC62d8oTFC9aTTosn"
-      ]
-    },
-    {
-      "Pos": "135",
-      "P+": "-11",
-      "Artist and Title": "Fajar Noor - Tahta Hatiku #Pendampingmu",
-      "Days": "43",
-      "Pk": "83",
-      "(x?)": "",
-      "Streams": "20,986",
-      "Streams+": "+147",
-      "7Day": "151,994",
-      "7Day+": "-2,492",
-      "Total": "914,347",
-      "track_id": "3e1qr1xd1zTiaJBx2F0c4B",
-      "artist_ids": [
-        "3JQketpX6wbJUNAlOIigJc"
-      ]
-    },
-    {
-      "Pos": "136",
-      "P+": "=",
-      "Artist and Title": "LAUV - I Like Me Better",
-      "Days": "2633",
-      "Pk": "15",
-      "(x?)": "",
-      "Streams": "20,963",
-      "Streams+": "+923",
-      "7Day": "149,387",
-      "7Day+": "+20,963",
-      "Total": "33,514,585",
-      "track_id": "2P91MQbaiQOfbiz9VqhqKQ",
-      "artist_ids": [
-        "5JZ7CnR6gTvEMKX4g70Amv"
-      ]
-    },
-    {
-      "Pos": "137",
-      "P+": "RE",
-      "Artist and Title": "Sofaz - Dan Bila Esok",
-      "Days": "275",
-      "Pk": "51",
-      "(x?)": "",
-      "Streams": "20,763",
-      "Streams+": "",
-      "7Day": "121,010",
-      "7Day+": "-127",
-      "Total": "5,700,798",
-      "track_id": "1xMeSSPoaUivQJqOdH5r12",
-      "artist_ids": [
-        "4EWTiE61XKSdCi3DwW8fee"
-      ]
-    },
-    {
-      "Pos": "138",
-      "P+": "+10",
-      "Artist and Title": "ALYPH - Ingat",
-      "Days": "426",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "20,553",
-      "Streams+": "+1,364",
-      "7Day": "145,480",
-      "7Day+": "-262",
-      "Total": "14,814,280",
-      "track_id": "0QnyIDSjy366dQZjcHS2yF",
-      "artist_ids": [
-        "3qeuv2ijwaAcbX3KVMJfuj"
-      ]
-    },
-    {
-      "Pos": "139",
-      "P+": "-14",
-      "Artist and Title": "Screen - Bila Cinta Di Dusta",
-      "Days": "126",
-      "Pk": "88",
-      "(x?)": "",
-      "Streams": "20,515",
-      "Streams+": "-184",
-      "7Day": "151,779",
-      "7Day+": "+20,515",
-      "Total": "2,432,022",
-      "track_id": "3r0iun2fhJ4otYGyStLbL0",
-      "artist_ids": [
-        "1U7SSgDArzeDyximDoph3E"
-      ]
-    },
-    {
       "Pos": "140",
-      "P+": "+10",
-      "Artist and Title": "Justin Bieber - Baby (w/ Ludacris)",
-      "Days": "174",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "20,458",
-      "Streams+": "+1,459",
-      "7Day": "141,133",
-      "7Day+": "+2,191",
-      "Total": "5,117,344",
-      "track_id": "6epn3r7S14KUqlReYr77hA",
-      "artist_ids": [
-        "1uNFoZAHBGtllmzznpCI3s",
-        "3ipn9JLAPI5GUEo4y4jcoi"
-      ]
-    },
-    {
-      "Pos": "141",
-      "P+": "+22",
-      "Artist and Title": "Marshmello - Silence (w/ Khalid)",
-      "Days": "569",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "20,451",
-      "Streams+": "+2,084",
-      "7Day": "134,423",
-      "7Day+": "+428",
-      "Total": "6,275,404",
-      "track_id": "7vGuf3Y35N4wmASOKLUVVU",
-      "artist_ids": [
-        "64KEffDW9EtZ1y2vBYgq8T",
-        "6LuN9FCkKOj5PcnpouEgny"
-      ]
-    },
-    {
-      "Pos": "142",
-      "P+": "=",
-      "Artist and Title": "Bruno Mars - That's What I Like",
-      "Days": "1583",
-      "Pk": "3",
-      "(x?)": "(x30)",
-      "Streams": "20,450",
-      "Streams+": "+879",
-      "7Day": "140,182",
-      "7Day+": "+2,021",
-      "Total": "28,526,651",
-      "track_id": "0KKkJNfGyhkQ5aFogxQAPU",
-      "artist_ids": [
-        "0du5cEVh5yTK9QJze8zA0C"
-      ]
-    },
-    {
-      "Pos": "143",
-      "P+": "+36",
-      "Artist and Title": "Nadin Amizah - Bertaut",
-      "Days": "165",
-      "Pk": "88",
-      "(x?)": "",
-      "Streams": "20,364",
-      "Streams+": "+2,424",
-      "7Day": "112,996",
-      "7Day+": "+1,293",
-      "Total": "2,861,901",
-      "track_id": "630DpnzdfjdVqv2yLfPbAX",
-      "artist_ids": [
-        "20zafXaLhm5IcXnSU93rNn"
-      ]
-    },
-    {
-      "Pos": "144",
-      "P+": "+17",
-      "Artist and Title": "Joji - SLOW DANCING IN THE DARK",
-      "Days": "1923",
-      "Pk": "15",
-      "(x?)": "",
-      "Streams": "20,267",
-      "Streams+": "+1,867",
-      "7Day": "132,814",
-      "7Day+": "+1,236",
-      "Total": "22,177,283",
-      "track_id": "0rKtyWc8bvkriBthvHKY8d",
-      "artist_ids": [
-        "3MZsBdqDrRTJihTHQrO6Dq"
-      ]
-    },
-    {
-      "Pos": "145",
-      "P+": "-10",
-      "Artist and Title": "Danial Kifli - Ku Yang Berjuang",
-      "Days": "71",
-      "Pk": "96",
-      "(x?)": "",
-      "Streams": "20,251",
-      "Streams+": "+186",
-      "7Day": "126,546",
-      "7Day+": "+20,251",
-      "Total": "1,481,915",
-      "track_id": "6vESiRXG0vOpUgI5pt3eOb",
-      "artist_ids": [
-        "1M0tSSp60yHTRB36GTofGx"
-      ]
-    },
-    {
-      "Pos": "146",
-      "P+": "-16",
-      "Artist and Title": "Coldplay - Yellow",
-      "Days": "3171",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "20,153",
-      "Streams+": "-107",
-      "7Day": "141,843",
-      "7Day+": "+1,299",
-      "Total": "38,575,415",
-      "track_id": "3AJwUDP919kvQ9QcozQPxg",
-      "artist_ids": [
-        "4gzpq5DPGxSnKTe4SA8HAU"
-      ]
-    },
-    {
-      "Pos": "147",
-      "P+": "-2",
-      "Artist and Title": "SZA - Snooze",
-      "Days": "1293",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "20,079",
-      "Streams+": "+704",
-      "7Day": "138,176",
-      "7Day+": "+20,079",
-      "Total": "37,872,583",
-      "track_id": "4iZ4pt7kvcaH6Yo8UoZ4s2",
-      "artist_ids": [
-        "7tYKF4w9nC0nq9CsPZTHyP"
-      ]
-    },
-    {
-      "Pos": "148",
-      "P+": "+32",
-      "Artist and Title": "She & Him - I Thought I Saw Your Face Today",
-      "Days": "216",
-      "Pk": "16",
-      "(x?)": "",
-      "Streams": "19,997",
-      "Streams+": "+2,070",
-      "7Day": "130,697",
-      "7Day+": "+19,997",
-      "Total": "6,503,963",
-      "track_id": "0myRViRgmQ3J8izICXEAVO",
-      "artist_ids": [
-        "3CIRif6ZAedT7kZSPvj2A4"
-      ]
-    },
-    {
-      "Pos": "149",
-      "P+": "+7",
-      "Artist and Title": "Idgitaf - Sedia Aku Sebelum Hujan",
-      "Days": "266",
-      "Pk": "1",
-      "(x?)": "(x16)",
-      "Streams": "19,947",
-      "Streams+": "+1,368",
-      "7Day": "138,654",
-      "7Day+": "+19,947",
-      "Total": "14,297,937",
-      "track_id": "64qfw9JZl3RYCrq4Mn0WvT",
-      "artist_ids": [
-        "7pFWMC2E7h8eL3SZyHRsRq"
-      ]
-    },
-    {
-      "Pos": "150",
-      "P+": "+37",
-      "Artist and Title": "For Revenge - Serana",
-      "Days": "730",
-      "Pk": "51",
-      "(x?)": "",
-      "Streams": "19,945",
-      "Streams+": "+2,384",
-      "7Day": "93,338",
-      "7Day+": "+19,945",
-      "Total": "15,380,965",
-      "track_id": "0PtJbtW50jcvvswNPn3QGd",
-      "artist_ids": [
-        "0f6TyESD8E1mD2oLJ4TGv1"
-      ]
-    },
-    {
-      "Pos": "151",
-      "P+": "+11",
-      "Artist and Title": "Ghea Indrawari - Jiwa Yang Bersedih",
-      "Days": "617",
-      "Pk": "1",
-      "(x?)": "(x3)",
-      "Streams": "19,908",
-      "Streams+": "+1,527",
-      "7Day": "113,810",
-      "7Day+": "+89",
-      "Total": "22,928,396",
-      "track_id": "0sV01d2keik5bwCuW9EQpk",
-      "artist_ids": [
-        "3qL7BzwJOXq3EzAio36aLX"
-      ]
-    },
-    {
-      "Pos": "152",
-      "P+": "-1",
-      "Artist and Title": "Ukays - Disana Menanti Di Sini Menunggu",
-      "Days": "42",
-      "Pk": "79",
-      "(x?)": "",
-      "Streams": "19,879",
-      "Streams+": "+916",
-      "7Day": "136,689",
-      "7Day+": "-2,711",
-      "Total": "769,100",
-      "track_id": "6UWA9siLss5zSdfT0JmtwS",
-      "artist_ids": [
-        "7y3tizrdDAAfh7BWCYLXcI"
-      ]
-    },
-    {
-      "Pos": "153",
-      "P+": "+4",
-      "Artist and Title": "Ruth B. - Dandelions",
-      "Days": "1891",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "19,869",
-      "Streams+": "+1,373",
-      "7Day": "134,611",
-      "7Day+": "+19,869",
-      "Total": "52,945,970",
-      "track_id": "2eAvDnpXP5W0cVtiI0PUxV",
-      "artist_ids": [
-        "2WzaAvm2bBCf4pEhyuDgCY"
-      ]
-    },
-    {
-      "Pos": "154",
-      "P+": "+38",
-      "Artist and Title": "KATSEYE - Gabriela",
-      "Days": "428",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "19,829",
-      "Streams+": "+2,406",
-      "7Day": "92,715",
-      "7Day+": "+19,829",
-      "Total": "19,732,543",
-      "track_id": "1xOqGUkyxGQRdCvGpvWKmL",
-      "artist_ids": [
-        "3c0gDdb9lhnHGFtP4prQpn"
-      ]
-    },
-    {
-      "Pos": "155",
-      "P+": "-3",
-      "Artist and Title": "Sal Priadi - Kita usahakan rumah itu",
-      "Days": "19",
-      "Pk": "122",
-      "(x?)": "",
-      "Streams": "19,674",
-      "Streams+": "+760",
-      "7Day": "116,454",
-      "7Day+": "+19,674",
-      "Total": "375,486",
-      "track_id": "5Egm9N7FnzsThl1CFXB2mm",
-      "artist_ids": [
-        "1NjxFrpEGZTV2Ny0OJxeWu"
-      ]
-    },
-    {
-      "Pos": "156",
-      "P+": "-25",
-      "Artist and Title": "Spoon - Memori Sekuntum Rindu",
-      "Days": "100",
-      "Pk": "73",
-      "(x?)": "",
-      "Streams": "19,640",
-      "Streams+": "-591",
-      "7Day": "147,835",
-      "7Day+": "-335",
-      "Total": "2,107,673",
-      "track_id": "5xs9OMUxjOu8bKRd7bnHcl",
-      "artist_ids": [
-        "2rk0koEOYpAL7pGGWleyxn"
-      ]
-    },
-    {
-      "Pos": "157",
-      "P+": "-30",
-      "Artist and Title": "Luqman Faiz - Kepuraanmu",
-      "Days": "1311",
-      "Pk": "27",
-      "(x?)": "",
-      "Streams": "19,601",
-      "Streams+": "-918",
-      "7Day": "118,797",
-      "7Day+": "-3,908",
-      "Total": "20,569,604",
-      "track_id": "5tNfSGN2zQ6y3E5pl5Wggy",
-      "artist_ids": [
-        "2ZhUfT19cZKRi7sayQcEZH"
-      ]
-    },
-    {
-      "Pos": "158",
-      "P+": "-12",
-      "Artist and Title": "Lyodra - Pesan Terakhir",
-      "Days": "1017",
-      "Pk": "18",
-      "(x?)": "",
-      "Streams": "19,593",
-      "Streams+": "+354",
-      "7Day": "134,875",
-      "7Day+": "-34",
-      "Total": "26,437,992",
-      "track_id": "3FwQ3RYYEekzjEeL3jdpUZ",
-      "artist_ids": [
-        "6Sv2jkzH9sWQjwghW5ArMG"
-      ]
-    },
-    {
-      "Pos": "159",
-      "P+": "+7",
-      "Artist and Title": "The Marías - No One Noticed",
-      "Days": "666",
-      "Pk": "23",
-      "(x?)": "",
-      "Streams": "19,536",
-      "Streams+": "+1,349",
-      "7Day": "130,708",
-      "7Day+": "-1,355",
-      "Total": "18,728,515",
-      "track_id": "3siwsiaEoU4Kuuc9WKMUy5",
-      "artist_ids": [
-        "2sSGPbdZJkaSE2AbcGOACx"
-      ]
-    },
-    {
-      "Pos": "160",
-      "P+": "-5",
-      "Artist and Title": "Fajar Noor - Tuhan Tahu Kita Saling Cinta",
-      "Days": "16",
-      "Pk": "94",
-      "(x?)": "",
-      "Streams": "19,411",
-      "Streams+": "+715",
-      "7Day": "142,883",
-      "7Day+": "-1,304",
-      "Total": "325,298",
-      "track_id": "0n8UJLCCEu2cF0Zm2luIvn",
-      "artist_ids": [
-        "3JQketpX6wbJUNAlOIigJc"
-      ]
-    },
-    {
-      "Pos": "161",
-      "P+": "-51",
-      "Artist and Title": "Fat Papi - FREAKED OUT (w/ prodshushy)",
-      "Days": "38",
-      "Pk": "94",
-      "(x?)": "",
-      "Streams": "19,364",
-      "Streams+": "-2,052",
-      "7Day": "151,263",
-      "7Day+": "-1,183",
-      "Total": "839,312",
-      "track_id": "7pBzCp7qNLlsH6rzEFkSwN",
-      "artist_ids": [
-        "6bemHySK6oqDAPZZzt61ov",
-        "6aQnbm7k0VsmUqfU9cfwoA"
-      ]
-    },
-    {
-      "Pos": "162",
-      "P+": "+21",
-      "Artist and Title": "Nadhif Basalamah - kota ini tak sama tanpamu (w/ Aziz Harun, Aisha Retno)",
-      "Days": "226",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "19,351",
-      "Streams+": "+1,644",
-      "7Day": "138,891",
-      "7Day+": "+19,351",
-      "Total": "7,016,073",
-      "track_id": "75DnXTAoFiorMrqkPVbjSH",
-      "artist_ids": [
-        "6UgERnTHmjk3qXM9x5vzyO",
-        "1dmuM6bG5J8sDFyp26x9Nf",
-        "1eizIry8svwmH0cSjLUEYy"
-      ]
-    },
-    {
-      "Pos": "163",
-      "P+": "+31",
-      "Artist and Title": "Raim Laode - Menari-nari",
-      "Days": "3",
-      "Pk": "163",
-      "(x?)": "",
-      "Streams": "19,344",
-      "Streams+": "+1,941",
-      "7Day": "54,478",
-      "7Day+": "+19,344",
-      "Total": "54,478",
-      "track_id": "5kJ2lw9zz2BMMN7YcI4NZb",
-      "artist_ids": [
-        "5LcNPa8f8bRmZqELgoRFkN"
-      ]
-    },
-    {
-      "Pos": "164",
-      "P+": "+24",
-      "Artist and Title": "Zivilia - Aishiteru",
-      "Days": "82",
-      "Pk": "61",
-      "(x?)": "",
-      "Streams": "19,340",
-      "Streams+": "+1,786",
-      "7Day": "72,444",
-      "7Day+": "+19,340",
-      "Total": "1,598,064",
-      "track_id": "55cSdsnjIpjJoJjH9DuMHT",
-      "artist_ids": [
-        "4LyTIqOGH7OtKQtRTTuACE"
-      ]
-    },
-    {
-      "Pos": "165",
-      "P+": "+2",
-      "Artist and Title": "Ariana Grande - One Last Time",
-      "Days": "1841",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "19,335",
-      "Streams+": "+1,193",
-      "7Day": "134,791",
-      "7Day+": "-1,743",
-      "Total": "25,266,156",
-      "track_id": "2OlWBmSjf1aUPGLNf0UI5A",
-      "artist_ids": [
-        "66CXWjxzNUsdJxJ2JdwvnR"
-      ]
-    },
-    {
-      "Pos": "166",
-      "P+": "-25",
-      "Artist and Title": "Ed Sheeran - Photograph",
-      "Days": "3849",
-      "Pk": "1",
-      "(x?)": "(x48)",
-      "Streams": "19,301",
-      "Streams+": "-302",
-      "7Day": "133,615",
-      "7Day+": "+19,301",
-      "Total": "42,272,345",
-      "track_id": "6fxVffaTuwjgEk5h9QyRjy",
-      "artist_ids": [
-        "6eUKZXaKkcviH0Ku9w2n3V"
-      ]
-    },
-    {
-      "Pos": "167",
-      "P+": "-8",
-      "Artist and Title": "Seventeen - Untuk Mencintaimu",
-      "Days": "766",
-      "Pk": "40",
-      "(x?)": "",
-      "Streams": "19,301",
-      "Streams+": "+883",
-      "7Day": "114,306",
-      "7Day+": "-261",
-      "Total": "13,481,956",
-      "track_id": "04tvOIuyk8y0QVA8Ta0UOd",
-      "artist_ids": [
-        "5uUb3J6HqLhBWwzuh84LUZ"
-      ]
-    },
-    {
-      "Pos": "168",
-      "P+": "+8",
-      "Artist and Title": "Justin Bieber - Ghost",
-      "Days": "1736",
-      "Pk": "1",
-      "(x?)": "(x49)",
-      "Streams": "19,277",
-      "Streams+": "+1,302",
-      "7Day": "134,221",
-      "7Day+": "-338",
-      "Total": "52,212,910",
-      "track_id": "6I3mqTwhRpn34SLVafSH7G",
-      "artist_ids": [
-        "1uNFoZAHBGtllmzznpCI3s"
-      ]
-    },
-    {
-      "Pos": "169",
-      "P+": "RE",
-      "Artist and Title": "Iklim - Gerhana Cinta Luka",
-      "Days": "19",
-      "Pk": "155",
-      "(x?)": "",
-      "Streams": "19,175",
-      "Streams+": "",
-      "7Day": "76,180",
-      "7Day+": "+19,175",
-      "Total": "368,478",
-      "track_id": "6e1qjbWgZGCQHCxoCSn0rh",
-      "artist_ids": [
-        "6JC3uifC84pTUZssGSnBD5"
-      ]
-    },
-    {
-      "Pos": "170",
-      "P+": "RE",
-      "Artist and Title": "Spring - Bourgenvilla",
-      "Days": "128",
-      "Pk": "58",
-      "(x?)": "",
-      "Streams": "19,162",
-      "Streams+": "",
-      "7Day": "97,278",
-      "7Day+": "-5,298",
-      "Total": "2,938,212",
-      "track_id": "3tw15uN1CSWXjx9X6D8cIp",
-      "artist_ids": [
-        "2DHROEfQ05NhnciQxReWk6"
-      ]
-    },
-    {
-      "Pos": "171",
-      "P+": "+25",
-      "Artist and Title": "Astrid - Terpukau",
-      "Days": "69",
-      "Pk": "93",
-      "(x?)": "",
-      "Streams": "19,161",
-      "Streams+": "+1,789",
-      "7Day": "133,001",
-      "7Day+": "+19,161",
-      "Total": "1,467,379",
-      "track_id": "0irPA8LmsoQYkqE5I7v3aj",
-      "artist_ids": [
-        "6GxmlugWFw4hmhUQ5uP93l"
-      ]
-    },
-    {
-      "Pos": "172",
-      "P+": "-19",
-      "Artist and Title": "Budak Kacamata - Bintang",
-      "Days": "241",
-      "Pk": "16",
-      "(x?)": "",
-      "Streams": "19,086",
-      "Streams+": "+205",
-      "7Day": "137,244",
-      "7Day+": "+19,086",
-      "Total": "6,625,686",
-      "track_id": "6Oeukysi7qGU8sVYv6daur",
-      "artist_ids": [
-        "4thhnp2dS6gYcYMUvEGqOw"
-      ]
-    },
-    {
-      "Pos": "173",
-      "P+": "-3",
-      "Artist and Title": "Fabio Asher - Rumah Singgah",
-      "Days": "1518",
-      "Pk": "2",
-      "(x?)": "(x2)",
-      "Streams": "19,047",
-      "Streams+": "+926",
-      "7Day": "55,269",
-      "7Day+": "-1,715",
-      "Total": "52,669,957",
-      "track_id": "3OTbh1VVrhebUzDor9r4pH",
-      "artist_ids": [
-        "6FTLayBxjkQeanFdUusk1I"
-      ]
-    },
-    {
-      "Pos": "174",
-      "P+": "-30",
-      "Artist and Title": "Kerispatih - Mengenangmu",
-      "Days": "103",
-      "Pk": "69",
-      "(x?)": "",
-      "Streams": "19,002",
-      "Streams+": "-394",
-      "7Day": "118,532",
-      "7Day+": "-148",
-      "Total": "2,192,111",
-      "track_id": "6l9L0ssWzD5XI1aJgVFpaS",
-      "artist_ids": [
-        "73OtDyghUEJ9QfGtu1pkaJ"
-      ]
-    },
-    {
-      "Pos": "175",
-      "P+": "-21",
+      "P+": "+35",
       "Artist and Title": "Olivia Dean - So Easy (To Fall In Love)",
-      "Days": "313",
+      "Days": "314",
       "Pk": "10",
       "(x?)": "",
-      "Streams": "18,983",
-      "Streams+": "+209",
-      "7Day": "134,830",
-      "7Day+": "-2,444",
-      "Total": "11,624,894",
+      "Streams": "19,717",
+      "Streams+": "+734",
+      "7Day": "135,533",
+      "7Day+": "+703",
+      "Total": "11,644,611",
       "track_id": "6sGIMrtIzQjdzNndVxe397",
       "artist_ids": [
         "00x1fYSGhdqScXBRpSj3DW"
       ]
     },
     {
-      "Pos": "176",
-      "P+": "+22",
-      "Artist and Title": "James Arthur - Rewrite The Stars (w/ Anne-Marie)",
-      "Days": "1303",
+      "Pos": "141",
+      "P+": "+6",
+      "Artist and Title": "SZA - Snooze",
+      "Days": "1294",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "19,587",
+      "Streams+": "-492",
+      "7Day": "138,168",
+      "7Day+": "-8",
+      "Total": "37,892,170",
+      "track_id": "4iZ4pt7kvcaH6Yo8UoZ4s2",
+      "artist_ids": [
+        "7tYKF4w9nC0nq9CsPZTHyP"
+      ]
+    },
+    {
+      "Pos": "142",
+      "P+": "-30",
+      "Artist and Title": "Nadin Amizah - Di Akhir Perang",
+      "Days": "211",
+      "Pk": "67",
+      "(x?)": "",
+      "Streams": "19,502",
+      "Streams+": "-2,912",
+      "7Day": "143,470",
+      "7Day+": "+51",
+      "Total": "4,652,520",
+      "track_id": "1tqPw8Hf88h24Bpt2SzuYE",
+      "artist_ids": [
+        "20zafXaLhm5IcXnSU93rNn"
+      ]
+    },
+    {
+      "Pos": "143",
+      "P+": "-5",
+      "Artist and Title": "ALYPH - Ingat",
+      "Days": "427",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "19,499",
+      "Streams+": "-1,054",
+      "7Day": "144,656",
+      "7Day+": "-824",
+      "Total": "14,833,779",
+      "track_id": "0QnyIDSjy366dQZjcHS2yF",
+      "artist_ids": [
+        "3qeuv2ijwaAcbX3KVMJfuj"
+      ]
+    },
+    {
+      "Pos": "144",
+      "P+": "-19",
+      "Artist and Title": "Juicy Luicy - Lantas",
+      "Days": "545",
+      "Pk": "62",
+      "(x?)": "",
+      "Streams": "19,488",
+      "Streams+": "-2,101",
+      "7Day": "148,023",
+      "7Day+": "-704",
+      "Total": "8,459,681",
+      "track_id": "1ZPVEo8RfmrEz8YAD5n6rW",
+      "artist_ids": [
+        "3tMTXQyRrPmMyHv5SoC0TV"
+      ]
+    },
+    {
+      "Pos": "145",
+      "P+": "+7",
+      "Artist and Title": "Ukays - Disana Menanti Di Sini Menunggu",
+      "Days": "43",
+      "Pk": "79",
+      "(x?)": "",
+      "Streams": "19,372",
+      "Streams+": "-507",
+      "7Day": "138,285",
+      "7Day+": "+1,596",
+      "Total": "788,472",
+      "track_id": "6UWA9siLss5zSdfT0JmtwS",
+      "artist_ids": [
+        "7y3tizrdDAAfh7BWCYLXcI"
+      ]
+    },
+    {
+      "Pos": "146",
+      "P+": "+19",
+      "Artist and Title": "Ariana Grande - One Last Time",
+      "Days": "1842",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "19,339",
+      "Streams+": "+4",
+      "7Day": "134,515",
+      "7Day+": "-276",
+      "Total": "25,285,495",
+      "track_id": "2OlWBmSjf1aUPGLNf0UI5A",
+      "artist_ids": [
+        "66CXWjxzNUsdJxJ2JdwvnR"
+      ]
+    },
+    {
+      "Pos": "147",
+      "P+": "+3",
+      "Artist and Title": "For Revenge - Serana",
+      "Days": "731",
+      "Pk": "51",
+      "(x?)": "",
+      "Streams": "19,320",
+      "Streams+": "-625",
+      "7Day": "94,238",
+      "7Day+": "+900",
+      "Total": "15,400,285",
+      "track_id": "0PtJbtW50jcvvswNPn3QGd",
+      "artist_ids": [
+        "0f6TyESD8E1mD2oLJ4TGv1"
+      ]
+    },
+    {
+      "Pos": "148",
+      "P+": "RE",
+      "Artist and Title": "Drama Band - Biarkanlah",
+      "Days": "1096",
+      "Pk": "49",
+      "(x?)": "",
+      "Streams": "19,313",
+      "Streams+": "",
+      "7Day": "79,859",
+      "7Day+": "+19,313",
+      "Total": "20,199,365",
+      "track_id": "0TbxuF4pkOZBfdBipPorYQ",
+      "artist_ids": [
+        "5NWfEZx5XGbVCAQTjhSxlR"
+      ]
+    },
+    {
+      "Pos": "149",
+      "P+": "RE",
+      "Artist and Title": "BTS - NORMAL",
+      "Days": "89",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "19,283",
+      "Streams+": "",
+      "7Day": "75,988",
+      "7Day+": "-442",
+      "Total": "2,518,999",
+      "track_id": "4B4Q7zfd0aHcuhQBfCRnH5",
+      "artist_ids": [
+        "3Nrfpe0tUJi4K4DXYWgMUX"
+      ]
+    },
+    {
+      "Pos": "150",
+      "P+": "+24",
+      "Artist and Title": "Kerispatih - Mengenangmu",
+      "Days": "104",
+      "Pk": "69",
+      "(x?)": "",
+      "Streams": "19,269",
+      "Streams+": "+267",
+      "7Day": "117,513",
+      "7Day+": "-1,019",
+      "Total": "2,211,380",
+      "track_id": "6l9L0ssWzD5XI1aJgVFpaS",
+      "artist_ids": [
+        "73OtDyghUEJ9QfGtu1pkaJ"
+      ]
+    },
+    {
+      "Pos": "151",
+      "P+": "-32",
+      "Artist and Title": "Andmesh - Cinta Luar Biasa",
+      "Days": "695",
       "Pk": "11",
       "(x?)": "",
-      "Streams": "18,951",
-      "Streams+": "+1,643",
-      "7Day": "72,289",
-      "7Day+": "+18,951",
-      "Total": "24,126,379",
-      "track_id": "6mQLN3zRtAp6ovjusyYKrV",
+      "Streams": "19,236",
+      "Streams+": "-2,790",
+      "7Day": "145,064",
+      "7Day+": "-1,710",
+      "Total": "11,254,068",
+      "track_id": "1Hy1CBFRXYvFL7eJT5MLlG",
       "artist_ids": [
-        "4IWBUUAFIplrNtaOHcJPRM",
-        "1zNqDE7qDGCsyzJwohVaoX"
+        "6IDsZZ4IHgs9VblBgQQSmt"
       ]
     },
     {
-      "Pos": "177",
-      "P+": "+9",
-      "Artist and Title": "Suara Kayu - Kembali Pulang (w/ Feby Putri)",
-      "Days": "402",
-      "Pk": "46",
+      "Pos": "152",
+      "P+": "-36",
+      "Artist and Title": "Alyah - Sesal Separuh Nyawa",
+      "Days": "270",
+      "Pk": "34",
       "(x?)": "",
-      "Streams": "18,860",
-      "Streams+": "+1,243",
-      "7Day": "36,477",
-      "7Day+": "-97",
-      "Total": "8,355,785",
-      "track_id": "6xeqCawPZngDVqw2W2aGaR",
+      "Streams": "19,200",
+      "Streams+": "-2,907",
+      "7Day": "128,482",
+      "7Day+": "-259",
+      "Total": "5,234,279",
+      "track_id": "6Kqc2T2YiYLkzW6zD0GO8y",
       "artist_ids": [
-        "327ipGIr9bD3MkLb2eucqC",
-        "66NmU5epI0ONGmdCRbLpmW"
+        "2bUKiCTlseN47NCfkpDTEZ"
       ]
     },
     {
-      "Pos": "178",
-      "P+": "-1",
-      "Artist and Title": "Sufian Suhaimi - Di Matamu",
-      "Days": "1469",
-      "Pk": "2",
-      "(x?)": "(x4)",
-      "Streams": "18,851",
-      "Streams+": "+896",
-      "7Day": "114,218",
-      "7Day+": "-3,157",
-      "Total": "23,625,186",
-      "track_id": "5jAqkM00R41cm1Y2T0mGzb",
+      "Pos": "153",
+      "P+": "RE",
+      "Artist and Title": "Sufian Suhaimi - Terakhir",
+      "Days": "990",
+      "Pk": "21",
+      "(x?)": "",
+      "Streams": "19,180",
+      "Streams+": "",
+      "7Day": "19,180",
+      "7Day+": "+19,180",
+      "Total": "13,079,700",
+      "track_id": "4LeP389CNcbrQX8ZECZlPw",
       "artist_ids": [
         "6KEEEdAqmCL7PYOrjZCnEa"
       ]
     },
     {
-      "Pos": "179",
-      "P+": "-8",
+      "Pos": "154",
+      "P+": "-17",
+      "Artist and Title": "Sofaz - Dan Bila Esok",
+      "Days": "276",
+      "Pk": "51",
+      "(x?)": "",
+      "Streams": "19,179",
+      "Streams+": "-1,584",
+      "7Day": "121,614",
+      "7Day+": "+604",
+      "Total": "5,719,977",
+      "track_id": "1xMeSSPoaUivQJqOdH5r12",
+      "artist_ids": [
+        "4EWTiE61XKSdCi3DwW8fee"
+      ]
+    },
+    {
+      "Pos": "155",
+      "P+": "-13",
+      "Artist and Title": "Bruno Mars - That's What I Like",
+      "Days": "1584",
+      "Pk": "3",
+      "(x?)": "(x30)",
+      "Streams": "19,135",
+      "Streams+": "-1,315",
+      "7Day": "140,260",
+      "7Day+": "+78",
+      "Total": "28,545,786",
+      "track_id": "0KKkJNfGyhkQ5aFogxQAPU",
+      "artist_ids": [
+        "0du5cEVh5yTK9QJze8zA0C"
+      ]
+    },
+    {
+      "Pos": "156",
+      "P+": "+10",
+      "Artist and Title": "Ed Sheeran - Photograph",
+      "Days": "3850",
+      "Pk": "1",
+      "(x?)": "(x48)",
+      "Streams": "19,115",
+      "Streams+": "-186",
+      "7Day": "134,284",
+      "7Day+": "+669",
+      "Total": "42,291,460",
+      "track_id": "6fxVffaTuwjgEk5h9QyRjy",
+      "artist_ids": [
+        "6eUKZXaKkcviH0Ku9w2n3V"
+      ]
+    },
+    {
+      "Pos": "157",
+      "P+": "+22",
       "Artist and Title": "Shawn Mendes - Stitches",
-      "Days": "770",
+      "Days": "771",
       "Pk": "3",
       "(x?)": "(x17)",
-      "Streams": "18,790",
-      "Streams+": "+715",
-      "7Day": "131,814",
-      "7Day+": "-990",
-      "Total": "6,628,346",
+      "Streams": "19,084",
+      "Streams+": "+294",
+      "7Day": "131,941",
+      "7Day+": "+127",
+      "Total": "6,647,430",
       "track_id": "1WP1r7fuvRqZRnUaTi2I1Q",
       "artist_ids": [
         "7n2wHs1TKAczGzO7Dd2rGr"
       ]
     },
     {
-      "Pos": "180",
-      "P+": "-76",
-      "Artist and Title": "Projector Band - Sudah Ku Tahu",
-      "Days": "1179",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "18,764",
-      "Streams+": "-3,454",
-      "7Day": "153,926",
-      "7Day+": "-3,912",
-      "Total": "17,218,543",
-      "track_id": "5aErufES0TkxM2HE9SrzW9",
+      "Pos": "158",
+      "P+": "+15",
+      "Artist and Title": "Fabio Asher - Rumah Singgah",
+      "Days": "1519",
+      "Pk": "2",
+      "(x?)": "(x2)",
+      "Streams": "19,075",
+      "Streams+": "+28",
+      "7Day": "56,243",
+      "7Day+": "+974",
+      "Total": "52,689,032",
+      "track_id": "3OTbh1VVrhebUzDor9r4pH",
       "artist_ids": [
-        "7iMjAugk2BtmWvhG5cI40L"
+        "6FTLayBxjkQeanFdUusk1I"
       ]
     },
     {
-      "Pos": "181",
+      "Pos": "159",
+      "P+": "+33",
+      "Artist and Title": "Cakra Khan - Kekasih Bayangan",
+      "Days": "690",
+      "Pk": "16",
+      "(x?)": "",
+      "Streams": "19,011",
+      "Streams+": "+638",
+      "7Day": "131,189",
+      "7Day+": "+101",
+      "Total": "15,209,305",
+      "track_id": "3PeIxOLCSZtpMCo24EcapU",
+      "artist_ids": [
+        "6pZzHAdfBLIEkQVRUhB8ps"
+      ]
+    },
+    {
+      "Pos": "160",
+      "P+": "-28",
+      "Artist and Title": "Daniel Caesar - Always",
+      "Days": "938",
+      "Pk": "57",
+      "(x?)": "",
+      "Streams": "18,928",
+      "Streams+": "-2,330",
+      "7Day": "137,742",
+      "7Day+": "-162",
+      "Total": "17,377,546",
+      "track_id": "2LlOeW5rVcvl3QcPNPcDus",
+      "artist_ids": [
+        "20wkVLutqVOYrc0kxFs7rA"
+      ]
+    },
+    {
+      "Pos": "161",
+      "P+": "+37",
+      "Artist and Title": "Justin Bieber - DAISIES",
+      "Days": "322",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "18,856",
+      "Streams+": "+703",
+      "7Day": "129,830",
+      "7Day+": "+45",
+      "Total": "9,840,334",
+      "track_id": "5BZsQlgw21vDOAjoqkNgKb",
+      "artist_ids": [
+        "1uNFoZAHBGtllmzznpCI3s"
+      ]
+    },
+    {
+      "Pos": "162",
+      "P+": "-23",
+      "Artist and Title": "Screen - Bila Cinta Di Dusta",
+      "Days": "127",
+      "Pk": "88",
+      "(x?)": "",
+      "Streams": "18,788",
+      "Streams+": "-1,727",
+      "7Day": "150,423",
+      "7Day+": "-1,356",
+      "Total": "2,450,810",
+      "track_id": "3r0iun2fhJ4otYGyStLbL0",
+      "artist_ids": [
+        "1U7SSgDArzeDyximDoph3E"
+      ]
+    },
+    {
+      "Pos": "163",
       "P+": "-8",
+      "Artist and Title": "Sal Priadi - Kita usahakan rumah itu",
+      "Days": "20",
+      "Pk": "122",
+      "(x?)": "",
+      "Streams": "18,767",
+      "Streams+": "-907",
+      "7Day": "117,083",
+      "7Day+": "+629",
+      "Total": "394,253",
+      "track_id": "5Egm9N7FnzsThl1CFXB2mm",
+      "artist_ids": [
+        "1NjxFrpEGZTV2Ny0OJxeWu"
+      ]
+    },
+    {
+      "Pos": "164",
+      "P+": "+17",
       "Artist and Title": "Anggis Devaki - Dirimu Yang Dulu",
-      "Days": "214",
+      "Days": "215",
       "Pk": "23",
       "(x?)": "",
-      "Streams": "18,729",
-      "Streams+": "+735",
-      "7Day": "132,202",
-      "7Day+": "-2,117",
-      "Total": "5,663,827",
+      "Streams": "18,722",
+      "Streams+": "-7",
+      "7Day": "131,552",
+      "7Day+": "-650",
+      "Total": "5,682,549",
       "track_id": "3GIiXoibZNOxoB4QJ0b8UR",
       "artist_ids": [
         "7lXTU6VtJQWfiN2vuZyzqf"
       ]
     },
     {
-      "Pos": "182",
-      "P+": "RE",
-      "Artist and Title": "Dayang Nurfaizah - Lelaki Teragung",
-      "Days": "128",
-      "Pk": "27",
-      "(x?)": "",
-      "Streams": "18,715",
-      "Streams+": "",
-      "7Day": "57,339",
-      "7Day+": "-1,715",
-      "Total": "828,000",
-      "track_id": "6g4ZuCOfJyY48vCaxA4yRu",
-      "artist_ids": [
-        "1E5aZPein8p4Jf9zkPpBsV"
-      ]
-    },
-    {
-      "Pos": "183",
-      "P+": "-1",
-      "Artist and Title": "Ukays - Bila Diri Disayangi",
-      "Days": "8",
-      "Pk": "168",
-      "(x?)": "",
-      "Streams": "18,626",
-      "Streams+": "+737",
-      "7Day": "91,549",
-      "7Day+": "+412",
-      "Total": "149,801",
-      "track_id": "61eiJ00z6pz2LMVJ7Q3clw",
-      "artist_ids": [
-        "7y3tizrdDAAfh7BWCYLXcI"
-      ]
-    },
-    {
-      "Pos": "184",
-      "P+": "RE",
-      "Artist and Title": "Lady Gaga - Paparazzi",
-      "Days": "5",
-      "Pk": "181",
-      "(x?)": "",
-      "Streams": "18,588",
-      "Streams+": "",
-      "7Day": "55,639",
-      "7Day+": "+18,588",
-      "Total": "95,650",
-      "track_id": "02XnQdf7sipaKBBHixz3Zp",
-      "artist_ids": [
-        "1HY2Jd0NmPuamShAr6KMms"
-      ]
-    },
-    {
-      "Pos": "185",
-      "P+": "-20",
+      "Pos": "165",
+      "P+": "+20",
       "Artist and Title": "Tenxi - mejikuhibiniu (w/ Suisei, Jemsii)",
-      "Days": "412",
+      "Days": "413",
       "Pk": "2",
       "(x?)": "(x15)",
-      "Streams": "18,551",
-      "Streams+": "+351",
-      "7Day": "132,586",
-      "7Day+": "+329",
-      "Total": "21,598,867",
+      "Streams": "18,633",
+      "Streams+": "+82",
+      "7Day": "132,804",
+      "7Day+": "+218",
+      "Total": "21,617,500",
       "track_id": "13KXgSl4vs7h8y2G7V6GrB",
       "artist_ids": [
         "6vP4azTCk053nGL0xAYnVH",
@@ -3185,204 +2842,513 @@
       ]
     },
     {
-      "Pos": "186",
-      "P+": "RE",
-      "Artist and Title": "Dato Hattan - Memburu Rindu",
-      "Days": "44",
-      "Pk": "97",
-      "(x?)": "",
-      "Streams": "18,536",
-      "Streams+": "",
-      "7Day": "57,545",
-      "7Day+": "+18,536",
-      "Total": "925,829",
-      "track_id": "3u3bQzCET7oAKEsqfTTP5j",
-      "artist_ids": [
-        "64nU5o4jwljVGiKYAym1Lb"
-      ]
-    },
-    {
-      "Pos": "187",
-      "P+": "-15",
-      "Artist and Title": "Armada - Asal Kau Bahagia",
-      "Days": "863",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "18,495",
-      "Streams+": "+444",
-      "7Day": "90,827",
-      "7Day+": "-3,786",
-      "Total": "9,738,879",
-      "track_id": "79AlxPlv70kuRlsi2eZsnV",
-      "artist_ids": [
-        "6H857CtcaYMSxOB4jvSIZf"
-      ]
-    },
-    {
-      "Pos": "188",
-      "P+": "RE",
-      "Artist and Title": "Gareth.T - 玻璃",
-      "Days": "96",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "18,443",
-      "Streams+": "",
-      "7Day": "110,641",
-      "7Day+": "+18,443",
-      "Total": "3,161,889",
-      "track_id": "4lZVYNSHy3bKN1pqTxw9Zl",
-      "artist_ids": [
-        "6R57JlNKlnNrYaji0vw8xx"
-      ]
-    },
-    {
-      "Pos": "189",
-      "P+": "-20",
+      "Pos": "166",
+      "P+": "+23",
       "Artist and Title": "Justin Timberlake - Mirrors",
-      "Days": "159",
+      "Days": "160",
       "Pk": "75",
       "(x?)": "",
-      "Streams": "18,439",
-      "Streams+": "+298",
-      "7Day": "129,605",
-      "7Day+": "-360",
-      "Total": "1,698,151",
+      "Streams": "18,630",
+      "Streams+": "+191",
+      "7Day": "129,632",
+      "7Day+": "+27",
+      "Total": "1,716,781",
       "track_id": "4rHZZAmHpZrA3iH5zx8frV",
       "artist_ids": [
         "31TPClRtHm23RisEBtV3X7"
       ]
     },
     {
-      "Pos": "190",
-      "P+": "RE",
-      "Artist and Title": "yung kai - blue",
-      "Days": "506",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "18,433",
-      "Streams+": "",
-      "7Day": "18,433",
-      "7Day+": "+18,433",
-      "Total": "27,967,709",
-      "track_id": "3be9ACTxtcL6Zm4vJRUiPG",
-      "artist_ids": [
-        "6zO1dZ40fTZ5hY9NnnRJSk"
-      ]
-    },
-    {
-      "Pos": "191",
+      "Pos": "167",
       "P+": "-27",
-      "Artist and Title": "James Arthur - Say You Won't Let Go",
-      "Days": "3276",
-      "Pk": "1",
-      "(x?)": "(x4)",
-      "Streams": "18,422",
-      "Streams+": "+193",
-      "7Day": "91,735",
-      "7Day+": "+18,422",
-      "Total": "53,098,700",
-      "track_id": "5uCax9HTNlzGybIStD3vDh",
-      "artist_ids": [
-        "4IWBUUAFIplrNtaOHcJPRM"
-      ]
-    },
-    {
-      "Pos": "192",
-      "P+": "-3",
-      "Artist and Title": "Cakra Khan - Kekasih Bayangan",
-      "Days": "689",
-      "Pk": "16",
+      "Artist and Title": "Justin Bieber - Baby (w/ Ludacris)",
+      "Days": "175",
+      "Pk": "4",
       "(x?)": "",
-      "Streams": "18,373",
-      "Streams+": "+844",
-      "7Day": "131,088",
-      "7Day+": "-640",
-      "Total": "15,190,294",
-      "track_id": "3PeIxOLCSZtpMCo24EcapU",
+      "Streams": "18,584",
+      "Streams+": "-1,874",
+      "7Day": "140,633",
+      "7Day+": "-500",
+      "Total": "5,135,928",
+      "track_id": "6epn3r7S14KUqlReYr77hA",
       "artist_ids": [
-        "6pZzHAdfBLIEkQVRUhB8ps"
+        "1uNFoZAHBGtllmzznpCI3s",
+        "3ipn9JLAPI5GUEo4y4jcoi"
       ]
     },
     {
-      "Pos": "193",
+      "Pos": "168",
+      "P+": "-14",
+      "Artist and Title": "KATSEYE - Gabriela",
+      "Days": "429",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "18,584",
+      "Streams+": "-1,245",
+      "7Day": "111,299",
+      "7Day+": "+18,584",
+      "Total": "19,751,127",
+      "track_id": "1xOqGUkyxGQRdCvGpvWKmL",
+      "artist_ids": [
+        "3c0gDdb9lhnHGFtP4prQpn"
+      ]
+    },
+    {
+      "Pos": "169",
       "P+": "RE",
+      "Artist and Title": "Bruno Mars - It Will Rain",
+      "Days": "1107",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "18,579",
+      "Streams+": "",
+      "7Day": "90,967",
+      "7Day+": "+576",
+      "Total": "23,621,459",
+      "track_id": "4rMNgxEwGWoPHIUcvB5BrB",
+      "artist_ids": [
+        "0du5cEVh5yTK9QJze8zA0C"
+      ]
+    },
+    {
+      "Pos": "170",
+      "P+": "+10",
+      "Artist and Title": "Projector Band - Sudah Ku Tahu",
+      "Days": "1180",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "18,542",
+      "Streams+": "-222",
+      "7Day": "149,872",
+      "7Day+": "-4,054",
+      "Total": "17,237,085",
+      "track_id": "5aErufES0TkxM2HE9SrzW9",
+      "artist_ids": [
+        "7iMjAugk2BtmWvhG5cI40L"
+      ]
+    },
+    {
+      "Pos": "171",
+      "P+": "-27",
+      "Artist and Title": "Joji - SLOW DANCING IN THE DARK",
+      "Days": "1924",
+      "Pk": "15",
+      "(x?)": "",
+      "Streams": "18,489",
+      "Streams+": "-1,778",
+      "7Day": "133,315",
+      "7Day+": "+501",
+      "Total": "22,195,772",
+      "track_id": "0rKtyWc8bvkriBthvHKY8d",
+      "artist_ids": [
+        "3MZsBdqDrRTJihTHQrO6Dq"
+      ]
+    },
+    {
+      "Pos": "172",
+      "P+": "-86",
+      "Artist and Title": "Unknown Artist - Pasti",
+      "Days": "331",
+      "Pk": "57",
+      "(x?)": "",
+      "Streams": "18,361",
+      "Streams+": "-6,167",
+      "7Day": "161,085",
+      "7Day+": "-2,551",
+      "Total": "6,387,789",
+      "track_id": "7MtGrAL5mPrTuYuqgkDodI"
+    },
+    {
+      "Pos": "173",
+      "P+": "-4",
+      "Artist and Title": "Iklim - Gerhana Cinta Luka",
+      "Days": "20",
+      "Pk": "155",
+      "(x?)": "",
+      "Streams": "18,330",
+      "Streams+": "-845",
+      "7Day": "94,510",
+      "7Day+": "+18,330",
+      "Total": "386,808",
+      "track_id": "6e1qjbWgZGCQHCxoCSn0rh",
+      "artist_ids": [
+        "6JC3uifC84pTUZssGSnBD5"
+      ]
+    },
+    {
+      "Pos": "174",
+      "P+": "+19",
       "Artist and Title": "Cigarettes After Sex - Apocalypse",
-      "Days": "1623",
+      "Days": "1624",
       "Pk": "31",
       "(x?)": "",
-      "Streams": "18,317",
-      "Streams+": "",
-      "7Day": "18,317",
-      "7Day+": "+18,317",
-      "Total": "30,757,236",
+      "Streams": "18,234",
+      "Streams+": "-83",
+      "7Day": "36,551",
+      "7Day+": "+18,234",
+      "Total": "30,775,470",
       "track_id": "0yc6Gst2xkRu0eMLeRMGCX",
       "artist_ids": [
         "1QAJqy2dA3ihHBFIHRphZj"
       ]
     },
     {
-      "Pos": "194",
-      "P+": "-9",
+      "Pos": "175",
+      "P+": "RE",
+      "Artist and Title": "Black - Sofea Jane",
+      "Days": "469",
+      "Pk": "45",
+      "(x?)": "",
+      "Streams": "18,219",
+      "Streams+": "",
+      "7Day": "18,219",
+      "7Day+": "+18,219",
+      "Total": "9,308,764",
+      "track_id": "2MZ0RuMzefjx9W0SSI5JcJ",
+      "artist_ids": [
+        "37KElXv2uiEQIAyatQIPqw"
+      ]
+    },
+    {
+      "Pos": "176",
+      "P+": "-5",
+      "Artist and Title": "Astrid - Terpukau",
+      "Days": "70",
+      "Pk": "93",
+      "(x?)": "",
+      "Streams": "18,141",
+      "Streams+": "-1,020",
+      "7Day": "132,772",
+      "7Day+": "-229",
+      "Total": "1,485,520",
+      "track_id": "0irPA8LmsoQYkqE5I7v3aj",
+      "artist_ids": [
+        "6GxmlugWFw4hmhUQ5uP93l"
+      ]
+    },
+    {
+      "Pos": "177",
+      "P+": "RE",
+      "Artist and Title": "Ella - Sembilu",
+      "Days": "160",
+      "Pk": "68",
+      "(x?)": "",
+      "Streams": "18,091",
+      "Streams+": "",
+      "7Day": "96,416",
+      "7Day+": "+18,091",
+      "Total": "3,141,716",
+      "track_id": "4mSrdNN00DC9t0rF41Qy93",
+      "artist_ids": [
+        "2ZQY8HKMtEjGdxgcuW2574"
+      ]
+    },
+    {
+      "Pos": "178",
+      "P+": "RE",
+      "Artist and Title": "Ariana Grande - Love Me Harder (w/ The Weeknd)",
+      "Days": "445",
+      "Pk": "2",
+      "(x?)": "(x2)",
+      "Streams": "18,063",
+      "Streams+": "",
+      "7Day": "18,063",
+      "7Day+": "+18,063",
+      "Total": "4,009,926",
+      "track_id": "5J4ZkQpzMUFojo1CtAZYpn",
+      "artist_ids": [
+        "66CXWjxzNUsdJxJ2JdwvnR",
+        "1Xyo4u8uXC1ZmMpatF05PJ"
+      ]
+    },
+    {
+      "Pos": "179",
+      "P+": "RE",
+      "Artist and Title": "Slam - Tak Mungkin Berpaling",
+      "Days": "88",
+      "Pk": "75",
+      "(x?)": "",
+      "Streams": "18,057",
+      "Streams+": "",
+      "7Day": "74,092",
+      "7Day+": "-1,547",
+      "Total": "1,799,152",
+      "track_id": "1VmVgeVBNukfpF0OhhpOF4",
+      "artist_ids": [
+        "6ZK1l84rj8SLSn2tXVgCsf"
+      ]
+    },
+    {
+      "Pos": "180",
+      "P+": "RE",
+      "Artist and Title": "Lana Del Rey - Young And Beautiful",
+      "Days": "367",
+      "Pk": "107",
+      "(x?)": "",
+      "Streams": "18,049",
+      "Streams+": "",
+      "7Day": "90,979",
+      "7Day+": "-1,049",
+      "Total": "5,295,609",
+      "track_id": "2nMeu6UenVvwUktBCpLMK9",
+      "artist_ids": [
+        "00FQb4jTyendYWaN8pK0wa"
+      ]
+    },
+    {
+      "Pos": "181",
+      "P+": "+2",
+      "Artist and Title": "Ukays - Bila Diri Disayangi",
+      "Days": "9",
+      "Pk": "168",
+      "(x?)": "",
+      "Streams": "18,040",
+      "Streams+": "-586",
+      "7Day": "91,403",
+      "7Day+": "-146",
+      "Total": "167,841",
+      "track_id": "61eiJ00z6pz2LMVJ7Q3clw",
+      "artist_ids": [
+        "7y3tizrdDAAfh7BWCYLXcI"
+      ]
+    },
+    {
+      "Pos": "182",
+      "P+": "+12",
       "Artist and Title": "Mahalini - Bawa Dia Kembali",
-      "Days": "672",
+      "Days": "673",
       "Pk": "18",
       "(x?)": "",
-      "Streams": "18,280",
-      "Streams+": "+651",
-      "7Day": "35,909",
-      "7Day+": "-2,744",
-      "Total": "15,044,366",
+      "Streams": "18,033",
+      "Streams+": "-247",
+      "7Day": "53,942",
+      "7Day+": "+18,033",
+      "Total": "15,062,399",
       "track_id": "25M9piWxSsq0xLcjQW5yz6",
       "artist_ids": [
         "3wOsYKZM0zcKNasi3I7fP4"
       ]
     },
     {
+      "Pos": "183",
+      "P+": "-34",
+      "Artist and Title": "Idgitaf - Sedia Aku Sebelum Hujan",
+      "Days": "267",
+      "Pk": "1",
+      "(x?)": "(x16)",
+      "Streams": "18,016",
+      "Streams+": "-1,931",
+      "7Day": "138,267",
+      "7Day+": "-387",
+      "Total": "14,315,953",
+      "track_id": "64qfw9JZl3RYCrq4Mn0WvT",
+      "artist_ids": [
+        "7pFWMC2E7h8eL3SZyHRsRq"
+      ]
+    },
+    {
+      "Pos": "184",
+      "P+": "-41",
+      "Artist and Title": "Nadin Amizah - Bertaut",
+      "Days": "166",
+      "Pk": "88",
+      "(x?)": "",
+      "Streams": "17,997",
+      "Streams+": "-2,367",
+      "7Day": "113,376",
+      "7Day+": "+380",
+      "Total": "2,879,898",
+      "track_id": "630DpnzdfjdVqv2yLfPbAX",
+      "artist_ids": [
+        "20zafXaLhm5IcXnSU93rNn"
+      ]
+    },
+    {
+      "Pos": "185",
+      "P+": "RE",
+      "Artist and Title": "Kendrick Lamar - All The Stars (w/ SZA)",
+      "Days": "850",
+      "Pk": "1",
+      "(x?)": "(x33)",
+      "Streams": "17,978",
+      "Streams+": "",
+      "7Day": "17,978",
+      "7Day+": "+252",
+      "Total": "17,240,722",
+      "track_id": "3GCdLUSnKSMJhs4Tj6CV3s",
+      "artist_ids": [
+        "2YZyLoL8N0Wb9xBt1NhZWg",
+        "7tYKF4w9nC0nq9CsPZTHyP"
+      ]
+    },
+    {
+      "Pos": "186",
+      "P+": "-24",
+      "Artist and Title": "Nadhif Basalamah - kota ini tak sama tanpamu (w/ Aziz Harun, Aisha Retno)",
+      "Days": "227",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "17,927",
+      "Streams+": "-1,424",
+      "7Day": "137,373",
+      "7Day+": "-1,518",
+      "Total": "7,034,000",
+      "track_id": "75DnXTAoFiorMrqkPVbjSH",
+      "artist_ids": [
+        "6UgERnTHmjk3qXM9x5vzyO",
+        "1dmuM6bG5J8sDFyp26x9Nf",
+        "1eizIry8svwmH0cSjLUEYy"
+      ]
+    },
+    {
+      "Pos": "187",
+      "P+": "-54",
+      "Artist and Title": "Akim And The Majistret - Mewangi",
+      "Days": "369",
+      "Pk": "63",
+      "(x?)": "",
+      "Streams": "17,843",
+      "Streams+": "-3,401",
+      "7Day": "115,914",
+      "7Day+": "-1,628",
+      "Total": "1,292,138",
+      "track_id": "3U9zDV4Tt5zu7vhnuVfxLi",
+      "artist_ids": [
+        "7JH3Oqfoa7PwVSbxi0p69L"
+      ]
+    },
+    {
+      "Pos": "188",
+      "P+": "-35",
+      "Artist and Title": "Ruth B. - Dandelions",
+      "Days": "1892",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "17,711",
+      "Streams+": "-2,158",
+      "7Day": "133,851",
+      "7Day+": "-760",
+      "Total": "52,963,681",
+      "track_id": "2eAvDnpXP5W0cVtiI0PUxV",
+      "artist_ids": [
+        "2WzaAvm2bBCf4pEhyuDgCY"
+      ]
+    },
+    {
+      "Pos": "189",
+      "P+": "RE",
+      "Artist and Title": "Rihanna - Umbrella (w/ JAŸ-Z)",
+      "Days": "16",
+      "Pk": "100",
+      "(x?)": "",
+      "Streams": "17,705",
+      "Streams+": "",
+      "7Day": "52,827",
+      "7Day+": "-584",
+      "Total": "316,207",
+      "track_id": "2yPoXCs7BSIUrucMdK5PzV",
+      "artist_ids": [
+        "5pKCCKE2ajJHZ9KAiaK11H",
+        "3nFkdlSjzX9mRTtwJOzDYB"
+      ]
+    },
+    {
+      "Pos": "190",
+      "P+": "-22",
+      "Artist and Title": "Justin Bieber - Ghost",
+      "Days": "1737",
+      "Pk": "1",
+      "(x?)": "(x49)",
+      "Streams": "17,699",
+      "Streams+": "-1,578",
+      "7Day": "132,559",
+      "7Day+": "-1,662",
+      "Total": "52,230,609",
+      "track_id": "6I3mqTwhRpn34SLVafSH7G",
+      "artist_ids": [
+        "1uNFoZAHBGtllmzznpCI3s"
+      ]
+    },
+    {
+      "Pos": "191",
+      "P+": "RE",
+      "Artist and Title": "Iklim - Bukan Ku Tak Sudi",
+      "Days": "367",
+      "Pk": "38",
+      "(x?)": "",
+      "Streams": "17,647",
+      "Streams+": "",
+      "7Day": "74,934",
+      "7Day+": "+17,647",
+      "Total": "7,467,078",
+      "track_id": "5TQ67TxfxEiAl58Vmtx5ew",
+      "artist_ids": [
+        "6JC3uifC84pTUZssGSnBD5"
+      ]
+    },
+    {
+      "Pos": "192",
+      "P+": "RE",
+      "Artist and Title": "Gracie Abrams - That’s So True",
+      "Days": "609",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "17,588",
+      "Streams+": "",
+      "7Day": "17,588",
+      "7Day+": "+29",
+      "Total": "21,282,758",
+      "track_id": "7ne4VBA60CxGM75vw0EYad",
+      "artist_ids": [
+        "4tuJ0bMpJh08umKkEXKUI5"
+      ]
+    },
+    {
+      "Pos": "193",
+      "P+": "-34",
+      "Artist and Title": "The Marías - No One Noticed",
+      "Days": "667",
+      "Pk": "23",
+      "(x?)": "",
+      "Streams": "17,584",
+      "Streams+": "-1,952",
+      "7Day": "130,109",
+      "7Day+": "-599",
+      "Total": "18,746,099",
+      "track_id": "3siwsiaEoU4Kuuc9WKMUy5",
+      "artist_ids": [
+        "2sSGPbdZJkaSE2AbcGOACx"
+      ]
+    },
+    {
+      "Pos": "194",
+      "P+": "-22",
+      "Artist and Title": "Budak Kacamata - Bintang",
+      "Days": "242",
+      "Pk": "16",
+      "(x?)": "",
+      "Streams": "17,579",
+      "Streams+": "-1,507",
+      "7Day": "135,711",
+      "7Day+": "-1,533",
+      "Total": "6,643,265",
+      "track_id": "6Oeukysi7qGU8sVYv6daur",
+      "artist_ids": [
+        "4thhnp2dS6gYcYMUvEGqOw"
+      ]
+    },
+    {
       "Pos": "195",
-      "P+": "-20",
-      "Artist and Title": "Ukays - Pahit Akan Manis Akhirnya",
-      "Days": "15",
-      "Pk": "125",
-      "(x?)": "",
-      "Streams": "18,227",
-      "Streams+": "+245",
-      "7Day": "130,845",
-      "7Day+": "+18,227",
-      "Total": "291,142",
-      "track_id": "7KFfuhvMz0HeUoJ8gWShzg",
-      "artist_ids": [
-        "7y3tizrdDAAfh7BWCYLXcI"
-      ]
-    },
-    {
-      "Pos": "196",
-      "P+": "-5",
-      "Artist and Title": "Lord Huron - The Night We Met",
-      "Days": "867",
-      "Pk": "19",
-      "(x?)": "",
-      "Streams": "18,198",
-      "Streams+": "+721",
-      "7Day": "91,512",
-      "7Day+": "+18,198",
-      "Total": "20,813,006",
-      "track_id": "3hRV0jL3vUpRrcy398teAU",
-      "artist_ids": [
-        "6ltzsmQQbmdoHHbLZ4ZN25"
-      ]
-    },
-    {
-      "Pos": "197",
-      "P+": "-39",
+      "P+": "+2",
       "Artist and Title": "ROSÉ - APT. (w/ Bruno Mars)",
-      "Days": "598",
+      "Days": "599",
       "Pk": "1",
       "(x?)": "(x54)",
-      "Streams": "18,169",
-      "Streams+": "-295",
-      "7Day": "134,487",
-      "7Day+": "+18,169",
-      "Total": "34,653,153",
+      "Streams": "17,559",
+      "Streams+": "-610",
+      "7Day": "132,981",
+      "7Day+": "-1,506",
+      "Total": "34,670,712",
       "track_id": "4wJ5Qq0jBN4ajy7ouZIV1c",
       "artist_ids": [
         "3eVa5w3URK5duf6eyVDbu9",
@@ -3390,55 +3356,89 @@
       ]
     },
     {
-      "Pos": "198",
-      "P+": "-38",
-      "Artist and Title": "Justin Bieber - DAISIES",
-      "Days": "321",
-      "Pk": "10",
+      "Pos": "196",
+      "P+": "RE",
+      "Artist and Title": "Sheila On 7 - Dan...",
+      "Days": "477",
+      "Pk": "18",
       "(x?)": "",
-      "Streams": "18,153",
-      "Streams+": "-263",
-      "7Day": "129,785",
-      "7Day+": "-888",
-      "Total": "9,821,478",
-      "track_id": "5BZsQlgw21vDOAjoqkNgKb",
+      "Streams": "17,487",
+      "Streams+": "",
+      "7Day": "74,620",
+      "7Day+": "-869",
+      "Total": "12,340,340",
+      "track_id": "1MdjZzEInrmDBXf8zs0nKS",
       "artist_ids": [
-        "1uNFoZAHBGtllmzznpCI3s"
+        "6q87vizIEdEN4NvlR6mjfT"
+      ]
+    },
+    {
+      "Pos": "197",
+      "P+": "-10",
+      "Artist and Title": "Armada - Asal Kau Bahagia",
+      "Days": "864",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "17,461",
+      "Streams+": "-1,034",
+      "7Day": "90,121",
+      "7Day+": "-706",
+      "Total": "9,756,340",
+      "track_id": "79AlxPlv70kuRlsi2eZsnV",
+      "artist_ids": [
+        "6H857CtcaYMSxOB4jvSIZf"
+      ]
+    },
+    {
+      "Pos": "198",
+      "P+": "RE",
+      "Artist and Title": "Gracie Abrams - I Love You, I'm Sorry",
+      "Days": "448",
+      "Pk": "45",
+      "(x?)": "",
+      "Streams": "17,434",
+      "Streams+": "",
+      "7Day": "17,434",
+      "7Day+": "+17,434",
+      "Total": "9,591,511",
+      "track_id": "51rfRCiUSvxXlCSCfIztBy",
+      "artist_ids": [
+        "4tuJ0bMpJh08umKkEXKUI5"
       ]
     },
     {
       "Pos": "199",
-      "P+": "RE",
-      "Artist and Title": "Jung Kook - Seven (w/ Latto)",
-      "Days": "1061",
-      "Pk": "1",
-      "(x?)": "(x104)",
-      "Streams": "18,112",
-      "Streams+": "",
-      "7Day": "18,112",
-      "7Day+": "+18,112",
-      "Total": "48,484,792",
-      "track_id": "2HRgqmZQC0MC7GeNuDIXHN",
+      "P+": "-35",
+      "Artist and Title": "Zivilia - Aishiteru",
+      "Days": "83",
+      "Pk": "61",
+      "(x?)": "",
+      "Streams": "17,392",
+      "Streams+": "-1,948",
+      "7Day": "72,097",
+      "7Day+": "-347",
+      "Total": "1,615,456",
+      "track_id": "55cSdsnjIpjJoJjH9DuMHT",
       "artist_ids": [
-        "6HaGTQPmzraVmaVxvz6EUc",
-        "3MdXrJWsbVzdn6fe5JYkSQ"
+        "4LyTIqOGH7OtKQtRTTuACE"
       ]
     },
     {
       "Pos": "200",
-      "P+": "-10",
-      "Artist and Title": "SZA - Kill Bill",
-      "Days": "1121",
-      "Pk": "1",
-      "(x?)": "(x81)",
-      "Streams": "18,065",
-      "Streams+": "+548",
-      "7Day": "53,230",
-      "7Day+": "-477",
-      "Total": "53,897,294",
-      "track_id": "1Qrg8KqiBpW07V7PNxwwwL",
+      "P+": "-59",
+      "Artist and Title": "Marshmello - Silence (w/ Khalid)",
+      "Days": "570",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "17,387",
+      "Streams+": "-3,064",
+      "7Day": "133,087",
+      "7Day+": "-1,336",
+      "Total": "6,292,791",
+      "track_id": "7vGuf3Y35N4wmASOKLUVVU",
       "artist_ids": [
-        "7tYKF4w9nC0nq9CsPZTHyP"
+        "64KEffDW9EtZ1y2vBYgq8T",
+        "6LuN9FCkKOj5PcnpouEgny"
       ]
     }
   ]
