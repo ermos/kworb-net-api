@@ -1,19 +1,19 @@
 {
   "source": "https://kworb.net/spotify/country/py_daily.html",
-  "title": "Spotify Daily Chart - Paraguay - 2026/09/29",
+  "title": "Spotify Daily Chart - Paraguay - 2026/09/30",
   "chart": [
     {
       "Pos": "1",
       "P+": "=",
       "Artist and Title": "KAROL G - BbY WOW (w/ Judeline, rusowsky)",
-      "Days": "47",
+      "Days": "48",
       "Pk": "1",
-      "(x?)": "(x35)",
-      "Streams": "47,636",
-      "Streams+": "-11,815",
-      "7Day": "425,911",
-      "7Day+": "-1,653",
-      "Total": "1,980,447",
+      "(x?)": "(x36)",
+      "Streams": "47,341",
+      "Streams+": "-295",
+      "7Day": "418,057",
+      "7Day+": "-7,854",
+      "Total": "2,027,788",
       "track_id": "3h5T5JypYU7huFiVYhv1dr",
       "artist_ids": [
         "790FomKkXshlbRYZFtlgla",
@@ -23,16 +23,16 @@
     },
     {
       "Pos": "2",
-      "P+": "+1",
+      "P+": "=",
       "Artist and Title": "Anuel AA - Las mas bonitas son p#tas",
-      "Days": "95",
+      "Days": "96",
       "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "17,475",
-      "Streams+": "-3,933",
-      "7Day": "149,048",
-      "7Day+": "+874",
-      "Total": "1,308,734",
+      "(x?)": "(x2)",
+      "Streams": "18,924",
+      "Streams+": "+1,449",
+      "7Day": "149,257",
+      "7Day+": "+209",
+      "Total": "1,327,658",
       "track_id": "4vJaNTSA8fYLLLSauHmkLe",
       "artist_ids": [
         "2R21vXR83lH98kGeO99Y66"
@@ -40,50 +40,16 @@
     },
     {
       "Pos": "3",
-      "P+": "-1",
-      "Artist and Title": "Los Grey's - Hasta Mañana",
-      "Days": "38",
-      "Pk": "2",
-      "(x?)": "(x23)",
-      "Streams": "17,192",
-      "Streams+": "-7,960",
-      "7Day": "175,507",
-      "7Day+": "+1,318",
-      "Total": "801,104",
-      "track_id": "6xpAWfG5DF7jHBkLUaQk9U",
-      "artist_ids": [
-        "5KU9XgpOIxG0kd75YjunQ4"
-      ]
-    },
-    {
-      "Pos": "4",
-      "P+": "=",
-      "Artist and Title": "Omar Courtz - KOKO",
-      "Days": "220",
-      "Pk": "1",
-      "(x?)": "(x59)",
-      "Streams": "16,957",
-      "Streams+": "-4,354",
-      "7Day": "146,660",
-      "7Day+": "-206",
-      "Total": "4,581,850",
-      "track_id": "1tz7RZirwiuaJw2p0jbdHb",
-      "artist_ids": [
-        "3E12tRURRvPfHz0hAMCFYc"
-      ]
-    },
-    {
-      "Pos": "5",
-      "P+": "=",
+      "P+": "+2",
       "Artist and Title": "El Bogueto - Cuando No Era Cantante RMX - Remix (w/ Anuel AA, Fuerza Regida, Yung Beef)",
-      "Days": "100",
+      "Days": "101",
       "Pk": "1",
       "(x?)": "(x16)",
-      "Streams": "16,049",
-      "Streams+": "-3,982",
-      "7Day": "140,220",
-      "7Day+": "+740",
-      "Total": "1,910,760",
+      "Streams": "17,678",
+      "Streams+": "+1,629",
+      "7Day": "140,160",
+      "7Day+": "-60",
+      "Total": "1,928,438",
       "track_id": "56V7nzrqr6Sq1uFym4odwa",
       "artist_ids": [
         "3S9Hg7sRKhmtWunFZ2yAYP",
@@ -93,17 +59,51 @@
       ]
     },
     {
+      "Pos": "4",
+      "P+": "-1",
+      "Artist and Title": "Los Grey's - Hasta Mañana",
+      "Days": "39",
+      "Pk": "2",
+      "(x?)": "(x23)",
+      "Streams": "17,297",
+      "Streams+": "+105",
+      "7Day": "174,056",
+      "7Day+": "-1,451",
+      "Total": "818,401",
+      "track_id": "6xpAWfG5DF7jHBkLUaQk9U",
+      "artist_ids": [
+        "5KU9XgpOIxG0kd75YjunQ4"
+      ]
+    },
+    {
+      "Pos": "5",
+      "P+": "-1",
+      "Artist and Title": "Omar Courtz - KOKO",
+      "Days": "221",
+      "Pk": "1",
+      "(x?)": "(x59)",
+      "Streams": "16,235",
+      "Streams+": "-722",
+      "7Day": "144,041",
+      "7Day+": "-2,619",
+      "Total": "4,598,085",
+      "track_id": "1tz7RZirwiuaJw2p0jbdHb",
+      "artist_ids": [
+        "3E12tRURRvPfHz0hAMCFYc"
+      ]
+    },
+    {
       "Pos": "6",
-      "P+": "+7",
+      "P+": "=",
       "Artist and Title": "BTS - SWIM",
-      "Days": "194",
+      "Days": "195",
       "Pk": "1",
       "(x?)": "(x45)",
-      "Streams": "15,999",
-      "Streams+": "-760",
-      "7Day": "118,405",
-      "7Day+": "-1,197",
-      "Total": "4,151,816",
+      "Streams": "15,944",
+      "Streams+": "-55",
+      "7Day": "117,144",
+      "7Day+": "-1,261",
+      "Total": "4,167,760",
       "track_id": "68lbSrXDORS51pmyjZv712",
       "artist_ids": [
         "3Nrfpe0tUJi4K4DXYWgMUX"
@@ -111,16 +111,16 @@
     },
     {
       "Pos": "7",
-      "P+": "+5",
+      "P+": "=",
       "Artist and Title": "ARIA VEGA - COMPA COLETO (uy_como)",
-      "Days": "10",
+      "Days": "11",
       "Pk": "7",
       "(x?)": "",
-      "Streams": "15,646",
-      "Streams+": "-1,500",
-      "7Day": "107,464",
-      "7Day+": "+8,547",
-      "Total": "126,887",
+      "Streams": "15,654",
+      "Streams+": "+8",
+      "7Day": "113,205",
+      "7Day+": "+5,741",
+      "Total": "142,541",
       "track_id": "5bZBRfGoUy5rizZGyjj6NR",
       "artist_ids": [
         "3e9aKKEgSOjIQS9gv2Nr1X"
@@ -128,51 +128,33 @@
     },
     {
       "Pos": "8",
-      "P+": "-2",
-      "Artist and Title": "Jay Wheeler - De Lejitos - Remix (w/ Omar Courtz)",
-      "Days": "121",
-      "Pk": "3",
-      "(x?)": "(x8)",
-      "Streams": "15,423",
-      "Streams+": "-3,312",
-      "7Day": "130,835",
-      "7Day+": "-230",
-      "Total": "2,080,167",
-      "track_id": "5dgREmLlxVJn6h8U0CofEo",
-      "artist_ids": [
-        "2cPqdH7XMvwaBJEVjheH8g",
-        "3E12tRURRvPfHz0hAMCFYc"
-      ]
-    },
-    {
-      "Pos": "9",
-      "P+": "=",
+      "P+": "+1",
       "Artist and Title": "Aitana - SUPERESTRELLA",
-      "Days": "120",
+      "Days": "121",
       "Pk": "1",
       "(x?)": "(x19)",
-      "Streams": "14,990",
-      "Streams+": "-2,664",
-      "7Day": "127,230",
-      "7Day+": "-693",
-      "Total": "1,692,016",
+      "Streams": "14,902",
+      "Streams+": "-88",
+      "7Day": "125,028",
+      "7Day+": "-2,202",
+      "Total": "1,706,918",
       "track_id": "6hpuesKPNa3WhV48O7Fa47",
       "artist_ids": [
         "7eLcDZDYHXZCebtQmVFL25"
       ]
     },
     {
-      "Pos": "10",
-      "P+": "-3",
+      "Pos": "9",
+      "P+": "+1",
       "Artist and Title": "Ya Ice Dilan - Dichavate (w/ Rey Tony, Helabusador, JipMusic Global, Dj Honda)",
-      "Days": "117",
+      "Days": "118",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "14,631",
-      "Streams+": "-3,414",
-      "7Day": "125,238",
-      "7Day+": "+741",
-      "Total": "1,634,290",
+      "Streams": "14,745",
+      "Streams+": "+114",
+      "7Day": "123,966",
+      "7Day+": "-1,272",
+      "Total": "1,649,035",
       "track_id": "6Ab2trdJulkRRhaJ9zVGQa",
       "artist_ids": [
         "3EumQuYai5g1235jIBaPhA",
@@ -183,34 +165,35 @@
       ]
     },
     {
-      "Pos": "11",
-      "P+": "=",
-      "Artist and Title": "Danny Ocean - Me Rehúso",
-      "Days": "3567",
-      "Pk": "1",
-      "(x?)": "(x37)",
-      "Streams": "13,934",
-      "Streams+": "-3,225",
-      "7Day": "119,151",
-      "7Day+": "+1,182",
-      "Total": "25,543,000",
-      "track_id": "6ifUES3keWjwXgae8pXI3o",
+      "Pos": "10",
+      "P+": "-2",
+      "Artist and Title": "Jay Wheeler - De Lejitos - Remix (w/ Omar Courtz)",
+      "Days": "122",
+      "Pk": "3",
+      "(x?)": "(x8)",
+      "Streams": "14,601",
+      "Streams+": "-822",
+      "7Day": "128,531",
+      "7Day+": "-2,304",
+      "Total": "2,094,768",
+      "track_id": "5dgREmLlxVJn6h8U0CofEo",
       "artist_ids": [
-        "5H1nN1SzW0qNeUEZvuXjAj"
+        "2cPqdH7XMvwaBJEVjheH8g",
+        "3E12tRURRvPfHz0hAMCFYc"
       ]
     },
     {
-      "Pos": "12",
-      "P+": "-2",
+      "Pos": "11",
+      "P+": "+1",
       "Artist and Title": "Fuerza Regida - COQUETA (w/ Grupo Frontera)",
-      "Days": "556",
+      "Days": "557",
       "Pk": "3",
       "(x?)": "(x2)",
-      "Streams": "13,650",
-      "Streams+": "-3,784",
-      "7Day": "116,384",
-      "7Day+": "-153",
-      "Total": "9,005,869",
+      "Streams": "13,564",
+      "Streams+": "-86",
+      "7Day": "114,918",
+      "7Day+": "-1,466",
+      "Total": "9,019,433",
       "track_id": "1PREzVLuDT6PSE9sej4wnV",
       "artist_ids": [
         "0ys2OFYzWYB5hRDLCsBqxt",
@@ -218,17 +201,17 @@
       ]
     },
     {
-      "Pos": "13",
-      "P+": "-5",
+      "Pos": "12",
+      "P+": "+1",
       "Artist and Title": "Jeninho - Peão Todo Tatuado (w/ Mariana Fagundes)",
-      "Days": "134",
+      "Days": "135",
       "Pk": "7",
       "(x?)": "",
-      "Streams": "13,614",
-      "Streams+": "-4,173",
-      "7Day": "116,702",
-      "7Day+": "+1,066",
-      "Total": "1,453,377",
+      "Streams": "13,556",
+      "Streams+": "-58",
+      "7Day": "116,588",
+      "7Day+": "-114",
+      "Total": "1,466,933",
       "track_id": "1wrA9K1P177mkPNt9BB2OZ",
       "artist_ids": [
         "6MV2UXdX8Pqy25rI7dl6os",
@@ -236,51 +219,120 @@
       ]
     },
     {
-      "Pos": "14",
-      "P+": "+2",
-      "Artist and Title": "Omar Courtz - POR SI MAÑANA NO ESTOY",
-      "Days": "222",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "12,740",
-      "Streams+": "-1,595",
-      "7Day": "103,381",
-      "7Day+": "+885",
-      "Total": "3,181,840",
-      "track_id": "595wwjQiad6e6lSTScmXvz",
+      "Pos": "13",
+      "P+": "-2",
+      "Artist and Title": "Danny Ocean - Me Rehúso",
+      "Days": "3568",
+      "Pk": "1",
+      "(x?)": "(x37)",
+      "Streams": "13,522",
+      "Streams+": "-412",
+      "7Day": "116,785",
+      "7Day+": "-2,366",
+      "Total": "25,556,522",
+      "track_id": "6ifUES3keWjwXgae8pXI3o",
       "artist_ids": [
-        "3E12tRURRvPfHz0hAMCFYc"
+        "5H1nN1SzW0qNeUEZvuXjAj"
       ]
     },
     {
-      "Pos": "15",
-      "P+": "-1",
+      "Pos": "14",
+      "P+": "+1",
       "Artist and Title": "Emmanuel Cortes - Amor",
-      "Days": "280",
+      "Days": "281",
       "Pk": "1",
       "(x?)": "(x5)",
-      "Streams": "12,708",
-      "Streams+": "-3,391",
-      "7Day": "110,918",
-      "7Day+": "-369",
-      "Total": "3,249,417",
+      "Streams": "13,369",
+      "Streams+": "+661",
+      "7Day": "109,341",
+      "7Day+": "-1,577",
+      "Total": "3,262,786",
       "track_id": "6r6IPuFvUX72kQGc9b46rk",
       "artist_ids": [
         "7hDt3OE2ubsKzO9rMYPXox"
       ]
     },
     {
+      "Pos": "15",
+      "P+": "-1",
+      "Artist and Title": "Omar Courtz - POR SI MAÑANA NO ESTOY",
+      "Days": "223",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "12,178",
+      "Streams+": "-562",
+      "7Day": "101,355",
+      "7Day+": "-2,026",
+      "Total": "3,194,018",
+      "track_id": "595wwjQiad6e6lSTScmXvz",
+      "artist_ids": [
+        "3E12tRURRvPfHz0hAMCFYc"
+      ]
+    },
+    {
       "Pos": "16",
-      "P+": "+2",
+      "P+": "+3",
+      "Artist and Title": "Quevedo - AL GOLPITO (w/ Nueva Línea)",
+      "Days": "122",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "11,700",
+      "Streams+": "+818",
+      "7Day": "95,640",
+      "7Day+": "-659",
+      "Total": "1,498,193",
+      "track_id": "6LD1tYOKReFqZh5ZdCdxIz",
+      "artist_ids": [
+        "52iwsT98xCoGgiGntTiR7K",
+        "0znHeiocrsC2Bj33L7FBzM"
+      ]
+    },
+    {
+      "Pos": "17",
+      "P+": "=",
+      "Artist and Title": "Omar Courtz - ⁠LUCES DE COLORES",
+      "Days": "594",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "11,681",
+      "Streams+": "+324",
+      "7Day": "96,936",
+      "7Day+": "-1,508",
+      "Total": "6,896,313",
+      "track_id": "5dDlknAL9imbXXl7uG7oqe",
+      "artist_ids": [
+        "3E12tRURRvPfHz0hAMCFYc"
+      ]
+    },
+    {
+      "Pos": "18",
+      "P+": "=",
+      "Artist and Title": "Zion & Lennox - La Player (Bandolera)",
+      "Days": "1413",
+      "Pk": "2",
+      "(x?)": "(x8)",
+      "Streams": "11,442",
+      "Streams+": "+202",
+      "7Day": "99,585",
+      "7Day+": "-1,260",
+      "Total": "11,961,967",
+      "track_id": "0VKkyBKCXyR99navhVRqcP",
+      "artist_ids": [
+        "21451j1KhjAiaYKflxBjr1"
+      ]
+    },
+    {
+      "Pos": "19",
+      "P+": "-3",
       "Artist and Title": "Alex Rose - Toda - Remix (w/ Rauw Alejandro, Lenny Tavárez, Lyanno, Cazzu)",
-      "Days": "1129",
+      "Days": "1130",
       "Pk": "15",
       "(x?)": "",
-      "Streams": "11,467",
-      "Streams+": "-2,232",
-      "7Day": "94,596",
-      "7Day+": "+1,039",
-      "Total": "6,542,295",
+      "Streams": "11,429",
+      "Streams+": "-38",
+      "7Day": "93,939",
+      "7Day+": "-657",
+      "Total": "6,553,724",
       "track_id": "6RRnUWV7wemVRFZjPRQo66",
       "artist_ids": [
         "2DspEsT7UXGKd2VaaedgG4",
@@ -291,103 +343,17 @@
       ]
     },
     {
-      "Pos": "17",
-      "P+": "+2",
-      "Artist and Title": "Omar Courtz - ⁠LUCES DE COLORES",
-      "Days": "593",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "11,357",
-      "Streams+": "-2,262",
-      "7Day": "98,444",
-      "7Day+": "+559",
-      "Total": "6,884,632",
-      "track_id": "5dDlknAL9imbXXl7uG7oqe",
-      "artist_ids": [
-        "3E12tRURRvPfHz0hAMCFYc"
-      ]
-    },
-    {
-      "Pos": "18",
-      "P+": "-3",
-      "Artist and Title": "Zion & Lennox - La Player (Bandolera)",
-      "Days": "1412",
-      "Pk": "2",
-      "(x?)": "(x8)",
-      "Streams": "11,240",
-      "Streams+": "-3,459",
-      "7Day": "100,845",
-      "7Day+": "+784",
-      "Total": "11,950,525",
-      "track_id": "0VKkyBKCXyR99navhVRqcP",
-      "artist_ids": [
-        "21451j1KhjAiaYKflxBjr1"
-      ]
-    },
-    {
-      "Pos": "19",
-      "P+": "-2",
-      "Artist and Title": "Quevedo - AL GOLPITO (w/ Nueva Línea)",
-      "Days": "121",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "10,882",
-      "Streams+": "-3,040",
-      "7Day": "96,299",
-      "7Day+": "-664",
-      "Total": "1,486,493",
-      "track_id": "6LD1tYOKReFqZh5ZdCdxIz",
-      "artist_ids": [
-        "52iwsT98xCoGgiGntTiR7K",
-        "0znHeiocrsC2Bj33L7FBzM"
-      ]
-    },
-    {
       "Pos": "20",
-      "P+": "+9",
-      "Artist and Title": "Omar Courtz - L a k e n o s h i",
-      "Days": "211",
-      "Pk": "20",
-      "(x?)": "",
-      "Streams": "10,673",
-      "Streams+": "-1,703",
-      "7Day": "88,678",
-      "7Day+": "+691",
-      "Total": "1,947,157",
-      "track_id": "6OoYmAP9oZtBiSomWpDTWP",
-      "artist_ids": [
-        "3E12tRURRvPfHz0hAMCFYc"
-      ]
-    },
-    {
-      "Pos": "21",
-      "P+": "+4",
-      "Artist and Title": "Yandel - Encantadora",
-      "Days": "1040",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "10,577",
-      "Streams+": "-2,075",
-      "7Day": "90,353",
-      "7Day+": "+933",
-      "Total": "8,523,895",
-      "track_id": "7LABrQFfRYcZUqUwng0Heb",
-      "artist_ids": [
-        "0eHQ9o50hj6ZDNBt6Ys1sD"
-      ]
-    },
-    {
-      "Pos": "22",
-      "P+": "-1",
+      "P+": "+2",
       "Artist and Title": "Quevedo - LA GRACIOSA (w/ Elvis Crespo)",
-      "Days": "95",
+      "Days": "96",
       "Pk": "10",
       "(x?)": "",
-      "Streams": "10,490",
-      "Streams+": "-2,728",
-      "7Day": "91,462",
-      "7Day+": "-408",
-      "Total": "1,137,227",
+      "Streams": "11,232",
+      "Streams+": "+742",
+      "7Day": "91,292",
+      "7Day+": "-170",
+      "Total": "1,148,459",
       "track_id": "0TJYJrUDKQ1btt4g0Xwklw",
       "artist_ids": [
         "52iwsT98xCoGgiGntTiR7K",
@@ -395,17 +361,34 @@
       ]
     },
     {
-      "Pos": "23",
-      "P+": "-3",
+      "Pos": "21",
+      "P+": "+11",
+      "Artist and Title": "Plan B - Es un Secreto",
+      "Days": "2164",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "10,720",
+      "Streams+": "+1,366",
+      "7Day": "87,460",
+      "7Day+": "-579",
+      "Total": "29,539,338",
+      "track_id": "3KZCP2StVGdWkOKyRZNWA4",
+      "artist_ids": [
+        "2jSGzJw0ebJLu7OLVSOcBP"
+      ]
+    },
+    {
+      "Pos": "22",
+      "P+": "+1",
       "Artist and Title": "Alleh - capaz (merengueton) (w/ Yorghaki)",
-      "Days": "635",
+      "Days": "636",
       "Pk": "6",
       "(x?)": "",
-      "Streams": "10,310",
-      "Streams+": "-2,935",
-      "7Day": "91,429",
-      "7Day+": "-723",
-      "Total": "8,474,944",
+      "Streams": "10,684",
+      "Streams+": "+374",
+      "7Day": "90,135",
+      "7Day+": "-1,294",
+      "Total": "8,485,628",
       "track_id": "4DnrAI8WyUY6gkOwl8GlPN",
       "artist_ids": [
         "3DeOmVSmpv7WknXoo1OS8p",
@@ -413,53 +396,17 @@
       ]
     },
     {
-      "Pos": "24",
-      "P+": "+2",
-      "Artist and Title": "J Balvin - LA CANCIÓN (w/ Bad Bunny)",
-      "Days": "2649",
-      "Pk": "1",
-      "(x?)": "(x27)",
-      "Streams": "10,158",
-      "Streams+": "-2,434",
-      "7Day": "86,800",
-      "7Day+": "-345",
-      "Total": "35,181,430",
-      "track_id": "0fea68AdmYNygeTGI4RC18",
-      "artist_ids": [
-        "1vyhD5VmyZ7KMfW5gqLgo5",
-        "4q3ewBCX7sLwd24euuV69X"
-      ]
-    },
-    {
-      "Pos": "25",
-      "P+": "+2",
-      "Artist and Title": "ROA - VAMO A VEL (w/ Anuel AA)",
-      "Days": "10",
-      "Pk": "25",
-      "(x?)": "",
-      "Streams": "10,135",
-      "Streams+": "-2,435",
-      "7Day": "80,987",
-      "7Day+": "+4,759",
-      "Total": "99,605",
-      "track_id": "10NP7LyY0Hs7p6xqAckosJ",
-      "artist_ids": [
-        "4cYbf45YbZptNISnhay0xH",
-        "2R21vXR83lH98kGeO99Y66"
-      ]
-    },
-    {
-      "Pos": "26",
-      "P+": "+2",
+      "Pos": "23",
+      "P+": "+3",
       "Artist and Title": "Anuel AA - Sola (Remix) (w/ Daddy Yankee, Zion & Lennox, Farruko, Wisin)",
-      "Days": "3564",
+      "Days": "3565",
       "Pk": "3",
       "(x?)": "(x7)",
-      "Streams": "10,078",
-      "Streams+": "-2,407",
-      "7Day": "86,922",
-      "7Day+": "-888",
-      "Total": "27,605,595",
+      "Streams": "10,519",
+      "Streams+": "+441",
+      "7Day": "86,093",
+      "7Day+": "-829",
+      "Total": "27,616,114",
       "track_id": "5q2JbCNi4FcnglgPfxcV65",
       "artist_ids": [
         "2R21vXR83lH98kGeO99Y66",
@@ -470,36 +417,17 @@
       ]
     },
     {
-      "Pos": "27",
-      "P+": "+5",
-      "Artist and Title": "Bad Bunny - VeLDÁ (w/ Omar Courtz, Dei V)",
-      "Days": "633",
-      "Pk": "2",
-      "(x?)": "(x11)",
-      "Streams": "9,742",
-      "Streams+": "-2,053",
-      "7Day": "83,029",
-      "7Day+": "+554",
-      "Total": "11,966,720",
-      "track_id": "7d6yK8v8J484SWH5prIQiE",
-      "artist_ids": [
-        "4q3ewBCX7sLwd24euuV69X",
-        "3E12tRURRvPfHz0hAMCFYc",
-        "2YRyPiW98bpkARAS4B3OQP"
-      ]
-    },
-    {
-      "Pos": "28",
-      "P+": "-6",
+      "Pos": "24",
+      "P+": "+4",
       "Artist and Title": "Héctor \"El Father\" - El Telefono (w/ Wisin & Yandel)",
-      "Days": "420",
+      "Days": "421",
       "Pk": "18",
       "(x?)": "",
-      "Streams": "9,674",
-      "Streams+": "-3,367",
-      "7Day": "88,666",
-      "7Day+": "+423",
-      "Total": "3,973,508",
+      "Streams": "10,479",
+      "Streams+": "+805",
+      "7Day": "88,480",
+      "7Day+": "-186",
+      "Total": "3,983,987",
       "track_id": "614NVFo5csQqRnryl4jXs2",
       "artist_ids": [
         "2TjgzYcbTdsZjbT9OItIeB",
@@ -507,34 +435,35 @@
       ]
     },
     {
-      "Pos": "29",
-      "P+": "+2",
-      "Artist and Title": "Bad Bunny - BAILE INoLVIDABLE",
-      "Days": "633",
-      "Pk": "2",
-      "(x?)": "(x13)",
-      "Streams": "9,628",
-      "Streams+": "-2,306",
-      "7Day": "82,151",
-      "7Day+": "+50",
-      "Total": "11,399,332",
-      "track_id": "2lTm559tuIvatlT1u0JYG2",
+      "Pos": "25",
+      "P+": "+13",
+      "Artist and Title": "Anuel AA - Amanece (w/ Haze)",
+      "Days": "1901",
+      "Pk": "3",
+      "(x?)": "(x2)",
+      "Streams": "10,477",
+      "Streams+": "+1,581",
+      "7Day": "78,599",
+      "7Day+": "+768",
+      "Total": "19,497,259",
+      "track_id": "1LiN0Z98FkR1t0m8KmLcAH",
       "artist_ids": [
-        "4q3ewBCX7sLwd24euuV69X"
+        "2R21vXR83lH98kGeO99Y66",
+        "77iZVjeYoYSl5P0K9mIiUE"
       ]
     },
     {
-      "Pos": "30",
-      "P+": "=",
+      "Pos": "26",
+      "P+": "+4",
       "Artist and Title": "Bad Bunny - Diles (w/ Ozuna, Farruko, Arcángel, Ñengo Flow, DJ Luian, Mambo Kingz)",
-      "Days": "1590",
+      "Days": "1591",
       "Pk": "11",
       "(x?)": "",
-      "Streams": "9,627",
-      "Streams+": "-2,385",
-      "7Day": "84,053",
-      "7Day+": "+478",
-      "Total": "12,494,019",
+      "Streams": "10,367",
+      "Streams+": "+740",
+      "7Day": "83,377",
+      "7Day+": "-676",
+      "Total": "12,504,386",
       "track_id": "6C1RD7YQVvt3YQj0CmuTeu",
       "artist_ids": [
         "4q3ewBCX7sLwd24euuV69X",
@@ -547,87 +476,51 @@
       ]
     },
     {
-      "Pos": "31",
-      "P+": "-8",
-      "Artist and Title": "Lauta - Puñaladas (w/ Amigo de Artistas, Tote)",
-      "Days": "33",
-      "Pk": "15",
+      "Pos": "27",
+      "P+": "-7",
+      "Artist and Title": "Omar Courtz - L a k e n o s h i",
+      "Days": "212",
+      "Pk": "20",
       "(x?)": "",
-      "Streams": "9,406",
-      "Streams+": "-3,388",
-      "7Day": "84,939",
-      "7Day+": "+700",
-      "Total": "369,774",
-      "track_id": "1hdrRqaR0GFpWrH3omUHaL",
+      "Streams": "10,309",
+      "Streams+": "-364",
+      "7Day": "87,257",
+      "7Day+": "-1,421",
+      "Total": "1,957,466",
+      "track_id": "6OoYmAP9oZtBiSomWpDTWP",
       "artist_ids": [
-        "5ELYwDwhy00ecTXhfsKWci",
-        "7j6lJVKmCFlcXtfMDf57gP",
-        "4JvhKLSrtJy7jAWYaatd64"
+        "3E12tRURRvPfHz0hAMCFYc"
       ]
     },
     {
-      "Pos": "32",
-      "P+": "-8",
-      "Artist and Title": "Plan B - Es un Secreto",
-      "Days": "2163",
+      "Pos": "28",
+      "P+": "-7",
+      "Artist and Title": "Yandel - Encantadora",
+      "Days": "1041",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "9,354",
-      "Streams+": "-3,344",
-      "7Day": "88,039",
-      "7Day+": "+198",
-      "Total": "29,528,618",
-      "track_id": "3KZCP2StVGdWkOKyRZNWA4",
+      "Streams": "10,153",
+      "Streams+": "-424",
+      "7Day": "89,255",
+      "7Day+": "-1,098",
+      "Total": "8,534,048",
+      "track_id": "7LABrQFfRYcZUqUwng0Heb",
       "artist_ids": [
-        "2jSGzJw0ebJLu7OLVSOcBP"
+        "0eHQ9o50hj6ZDNBt6Ys1sD"
       ]
     },
     {
-      "Pos": "33",
-      "P+": "+12",
-      "Artist and Title": "La Mosca - Para No Verte Más",
-      "Days": "162",
-      "Pk": "25",
-      "(x?)": "",
-      "Streams": "9,187",
-      "Streams+": "-1,089",
-      "7Day": "74,845",
-      "7Day+": "-76",
-      "Total": "1,193,162",
-      "track_id": "19CmuECYssqkPWANF4nLWM",
-      "artist_ids": [
-        "60nua3AsVSfADZtg5Hdz3W"
-      ]
-    },
-    {
-      "Pos": "34",
-      "P+": "+1",
-      "Artist and Title": "Quevedo - Columbia",
-      "Days": "1172",
-      "Pk": "1",
-      "(x?)": "(x25)",
-      "Streams": "9,097",
-      "Streams+": "-2,255",
-      "7Day": "77,224",
-      "7Day+": "+132",
-      "Total": "22,534,315",
-      "track_id": "6XbtvPmIpyCbjuT0e8cQtp",
-      "artist_ids": [
-        "52iwsT98xCoGgiGntTiR7K"
-      ]
-    },
-    {
-      "Pos": "35",
-      "P+": "+2",
+      "Pos": "29",
+      "P+": "+6",
       "Artist and Title": "El Bogueto - Cuando No Era Cantante (w/ Yung Beef)",
-      "Days": "339",
+      "Days": "340",
       "Pk": "1",
       "(x?)": "(x18)",
-      "Streams": "9,085",
-      "Streams+": "-1,968",
-      "7Day": "78,779",
-      "7Day+": "+920",
-      "Total": "5,528,710",
+      "Streams": "10,131",
+      "Streams+": "+1,046",
+      "7Day": "78,511",
+      "7Day+": "-268",
+      "Total": "5,538,841",
       "track_id": "44xDy4h27s4ENaC8fKnCoC",
       "artist_ids": [
         "3S9Hg7sRKhmtWunFZ2yAYP",
@@ -635,36 +528,17 @@
       ]
     },
     {
-      "Pos": "36",
-      "P+": "+5",
-      "Artist and Title": "Marc Seguí - Tiroteo - Remix (w/ Rauw Alejandro, Pol Granch)",
-      "Days": "1467",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "8,983",
-      "Streams+": "-1,656",
-      "7Day": "74,923",
-      "7Day+": "-1,271",
-      "Total": "14,425,566",
-      "track_id": "4OwhwvKESFtuu06dTgct7i",
-      "artist_ids": [
-        "5FQ8tBUtIamA2hRtatrYUF",
-        "1mcTU81TzQhprhouKaTkpq",
-        "1aMt4A5jrQHxDYyC7rXgV0"
-      ]
-    },
-    {
-      "Pos": "37",
-      "P+": "-4",
+      "Pos": "30",
+      "P+": "+7",
       "Artist and Title": "Ryan Castro - LA VILLA (w/ Kapo, Gangsta)",
-      "Days": "275",
+      "Days": "276",
       "Pk": "1",
       "(x?)": "(x29)",
-      "Streams": "8,926",
-      "Streams+": "-2,806",
-      "7Day": "80,104",
-      "7Day+": "-973",
-      "Total": "4,479,401",
+      "Streams": "9,768",
+      "Streams+": "+842",
+      "7Day": "79,645",
+      "7Day+": "-459",
+      "Total": "4,489,169",
       "track_id": "2ZyrAym0sRLwt4PhGotHuI",
       "artist_ids": [
         "7j6DKwmjbxvpQO8h914uEz",
@@ -673,35 +547,127 @@
       ]
     },
     {
-      "Pos": "38",
+      "Pos": "31",
       "P+": "-4",
-      "Artist and Title": "Anuel AA - Amanece (w/ Haze)",
-      "Days": "1900",
-      "Pk": "3",
-      "(x?)": "(x2)",
-      "Streams": "8,896",
-      "Streams+": "-2,504",
-      "7Day": "77,831",
-      "7Day+": "+248",
-      "Total": "19,486,782",
-      "track_id": "1LiN0Z98FkR1t0m8KmLcAH",
+      "Artist and Title": "Bad Bunny - VeLDÁ (w/ Omar Courtz, Dei V)",
+      "Days": "634",
+      "Pk": "2",
+      "(x?)": "(x11)",
+      "Streams": "9,705",
+      "Streams+": "-37",
+      "7Day": "82,079",
+      "7Day+": "-950",
+      "Total": "11,976,425",
+      "track_id": "7d6yK8v8J484SWH5prIQiE",
       "artist_ids": [
-        "2R21vXR83lH98kGeO99Y66",
-        "77iZVjeYoYSl5P0K9mIiUE"
+        "4q3ewBCX7sLwd24euuV69X",
+        "3E12tRURRvPfHz0hAMCFYc",
+        "2YRyPiW98bpkARAS4B3OQP"
       ]
     },
     {
-      "Pos": "39",
-      "P+": "-1",
+      "Pos": "32",
+      "P+": "-7",
+      "Artist and Title": "ROA - VAMO A VEL (w/ Anuel AA)",
+      "Days": "11",
+      "Pk": "25",
+      "(x?)": "",
+      "Streams": "9,590",
+      "Streams+": "-545",
+      "7Day": "83,877",
+      "7Day+": "+2,890",
+      "Total": "109,195",
+      "track_id": "10NP7LyY0Hs7p6xqAckosJ",
+      "artist_ids": [
+        "4cYbf45YbZptNISnhay0xH",
+        "2R21vXR83lH98kGeO99Y66"
+      ]
+    },
+    {
+      "Pos": "33",
+      "P+": "=",
+      "Artist and Title": "La Mosca - Para No Verte Más",
+      "Days": "163",
+      "Pk": "25",
+      "(x?)": "",
+      "Streams": "9,583",
+      "Streams+": "+396",
+      "7Day": "73,851",
+      "7Day+": "-994",
+      "Total": "1,202,745",
+      "track_id": "19CmuECYssqkPWANF4nLWM",
+      "artist_ids": [
+        "60nua3AsVSfADZtg5Hdz3W"
+      ]
+    },
+    {
+      "Pos": "34",
+      "P+": "-10",
+      "Artist and Title": "J Balvin - LA CANCIÓN (w/ Bad Bunny)",
+      "Days": "2650",
+      "Pk": "1",
+      "(x?)": "(x27)",
+      "Streams": "9,558",
+      "Streams+": "-600",
+      "7Day": "84,872",
+      "7Day+": "-1,928",
+      "Total": "35,190,988",
+      "track_id": "0fea68AdmYNygeTGI4RC18",
+      "artist_ids": [
+        "1vyhD5VmyZ7KMfW5gqLgo5",
+        "4q3ewBCX7sLwd24euuV69X"
+      ]
+    },
+    {
+      "Pos": "35",
+      "P+": "+1",
+      "Artist and Title": "Marc Seguí - Tiroteo - Remix (w/ Rauw Alejandro, Pol Granch)",
+      "Days": "1468",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "9,389",
+      "Streams+": "+406",
+      "7Day": "73,803",
+      "7Day+": "-1,120",
+      "Total": "14,434,955",
+      "track_id": "4OwhwvKESFtuu06dTgct7i",
+      "artist_ids": [
+        "5FQ8tBUtIamA2hRtatrYUF",
+        "1mcTU81TzQhprhouKaTkpq",
+        "1aMt4A5jrQHxDYyC7rXgV0"
+      ]
+    },
+    {
+      "Pos": "36",
+      "P+": "-5",
+      "Artist and Title": "Lauta - Puñaladas (w/ Amigo de Artistas, Tote)",
+      "Days": "34",
+      "Pk": "15",
+      "(x?)": "",
+      "Streams": "9,273",
+      "Streams+": "-133",
+      "7Day": "83,836",
+      "7Day+": "-1,103",
+      "Total": "379,047",
+      "track_id": "1hdrRqaR0GFpWrH3omUHaL",
+      "artist_ids": [
+        "5ELYwDwhy00ecTXhfsKWci",
+        "7j6lJVKmCFlcXtfMDf57gP",
+        "4JvhKLSrtJy7jAWYaatd64"
+      ]
+    },
+    {
+      "Pos": "37",
+      "P+": "+2",
       "Artist and Title": "Young Cister - QLOO* (w/ Kreamly)",
-      "Days": "452",
+      "Days": "453",
       "Pk": "1",
       "(x?)": "(x4)",
-      "Streams": "8,797",
-      "Streams+": "-2,254",
-      "7Day": "76,974",
-      "7Day+": "-523",
-      "Total": "7,140,554",
+      "Streams": "9,257",
+      "Streams+": "+460",
+      "7Day": "75,843",
+      "7Day+": "-1,131",
+      "Total": "7,149,811",
       "track_id": "2mdrVnxEnPR6iFijakkxQS",
       "artist_ids": [
         "0Yg29FX1M4ayqjXs0ttZFq",
@@ -709,120 +675,68 @@
       ]
     },
     {
-      "Pos": "40",
-      "P+": "=",
+      "Pos": "38",
+      "P+": "+2",
       "Artist and Title": "Bad Bunny - DtMF",
-      "Days": "633",
+      "Days": "634",
       "Pk": "1",
       "(x?)": "(x44)",
-      "Streams": "8,558",
-      "Streams+": "-2,106",
-      "7Day": "74,479",
-      "7Day+": "-1,547",
-      "Total": "11,575,491",
+      "Streams": "9,231",
+      "Streams+": "+673",
+      "7Day": "74,067",
+      "7Day+": "-412",
+      "Total": "11,584,722",
       "track_id": "3sK8wGT43QFpWrvNQsrQya",
       "artist_ids": [
         "4q3ewBCX7sLwd24euuV69X"
       ]
     },
     {
-      "Pos": "41",
-      "P+": "+2",
-      "Artist and Title": "Bad Bunny - EoO",
-      "Days": "633",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "8,327",
-      "Streams+": "-2,013",
-      "7Day": "72,482",
-      "7Day+": "+354",
-      "Total": "7,796,441",
-      "track_id": "6J5kc12BW5HuP3d7C3vvx8",
+      "Pos": "39",
+      "P+": "-10",
+      "Artist and Title": "Bad Bunny - BAILE INoLVIDABLE",
+      "Days": "634",
+      "Pk": "2",
+      "(x?)": "(x13)",
+      "Streams": "9,072",
+      "Streams+": "-556",
+      "7Day": "80,387",
+      "7Day+": "-1,764",
+      "Total": "11,408,404",
+      "track_id": "2lTm559tuIvatlT1u0JYG2",
       "artist_ids": [
         "4q3ewBCX7sLwd24euuV69X"
       ]
     },
     {
-      "Pos": "42",
-      "P+": "+2",
-      "Artist and Title": "Maluma - Borro Cassette",
-      "Days": "1541",
-      "Pk": "2",
-      "(x?)": "(x2)",
-      "Streams": "8,099",
-      "Streams+": "-2,192",
-      "7Day": "70,649",
-      "7Day+": "-21",
-      "Total": "9,485,039",
-      "track_id": "6DUdDIRgLqCGq1DwkNWQTN",
-      "artist_ids": [
-        "1r4hJ1h58CWwUQe3MxPuau"
-      ]
-    },
-    {
-      "Pos": "43",
-      "P+": "-4",
-      "Artist and Title": "Wisin & Yandel - Besos Mojados",
-      "Days": "491",
-      "Pk": "38",
-      "(x?)": "",
-      "Streams": "8,052",
-      "Streams+": "-2,622",
-      "7Day": "73,501",
-      "7Day+": "+1,413",
-      "Total": "2,519,277",
-      "track_id": "0cpzO8YjhyR8JfLzfm5cOr",
-      "artist_ids": [
-        "1wZtkThiXbVNtj6hee6dz9"
-      ]
-    },
-    {
-      "Pos": "44",
-      "P+": "+3",
-      "Artist and Title": "Omar Courtz - Q U E V A S H A C E R H O Y ? (w/ De La Rose)",
-      "Days": "736",
+      "Pos": "40",
+      "P+": "-6",
+      "Artist and Title": "Quevedo - Columbia",
+      "Days": "1173",
       "Pk": "1",
-      "(x?)": "(x45)",
-      "Streams": "7,872",
-      "Streams+": "-1,199",
-      "7Day": "68,207",
-      "7Day+": "-94",
-      "Total": "11,634,256",
-      "track_id": "0Sr7ssScx54yxdM2ols7nW",
+      "(x?)": "(x25)",
+      "Streams": "8,941",
+      "Streams+": "-156",
+      "7Day": "76,072",
+      "7Day+": "-1,152",
+      "Total": "22,543,256",
+      "track_id": "6XbtvPmIpyCbjuT0e8cQtp",
       "artist_ids": [
-        "3E12tRURRvPfHz0hAMCFYc",
-        "54seKvtsZauR1iauN0ptpo"
+        "52iwsT98xCoGgiGntTiR7K"
       ]
     },
     {
-      "Pos": "45",
-      "P+": "+23",
-      "Artist and Title": "Taylor Swift - Patient Zero",
-      "Days": "3",
-      "Pk": "30",
-      "(x?)": "",
-      "Streams": "7,864",
-      "Streams+": "+283",
-      "7Day": "28,577",
-      "7Day+": "+7,864",
-      "Total": "28,577",
-      "track_id": "11hcBLPtbMp4aQI6zGQLub",
-      "artist_ids": [
-        "06HL4z0CvFAxyc27GXpf02"
-      ]
-    },
-    {
-      "Pos": "46",
-      "P+": "=",
+      "Pos": "41",
+      "P+": "+5",
       "Artist and Title": "La Factoria - Perdóname (w/ Eddy Lover)",
-      "Days": "978",
+      "Days": "979",
       "Pk": "32",
       "(x?)": "",
-      "Streams": "7,815",
-      "Streams+": "-2,301",
-      "7Day": "71,967",
-      "7Day+": "-347",
-      "Total": "6,354,495",
+      "Streams": "8,730",
+      "Streams+": "+915",
+      "7Day": "71,593",
+      "7Day+": "-374",
+      "Total": "6,363,225",
       "track_id": "6yLqoieklk9gwabLaUDJ4s",
       "artist_ids": [
         "4VsbQvC84B8Z3IsBY1HLQy",
@@ -830,17 +744,34 @@
       ]
     },
     {
-      "Pos": "47",
-      "P+": "+2",
+      "Pos": "42",
+      "P+": "=",
+      "Artist and Title": "Maluma - Borro Cassette",
+      "Days": "1542",
+      "Pk": "2",
+      "(x?)": "(x2)",
+      "Streams": "8,584",
+      "Streams+": "+485",
+      "7Day": "69,939",
+      "7Day+": "-710",
+      "Total": "9,493,623",
+      "track_id": "6DUdDIRgLqCGq1DwkNWQTN",
+      "artist_ids": [
+        "1r4hJ1h58CWwUQe3MxPuau"
+      ]
+    },
+    {
+      "Pos": "43",
+      "P+": "+4",
       "Artist and Title": "Ozuna - ZIZI (w/ Omar Courtz)",
-      "Days": "54",
+      "Days": "55",
       "Pk": "9",
       "(x?)": "",
-      "Streams": "7,495",
-      "Streams+": "-1,422",
-      "7Day": "67,951",
-      "7Day+": "-33",
-      "Total": "501,607",
+      "Streams": "8,473",
+      "Streams+": "+978",
+      "7Day": "67,333",
+      "7Day+": "-618",
+      "Total": "510,080",
       "track_id": "5BsvzSvw98mLqpZznMjuLX",
       "artist_ids": [
         "1i8SpTcr7yvPOmcqrbnVXY",
@@ -848,51 +779,17 @@
       ]
     },
     {
-      "Pos": "48",
-      "P+": "-12",
-      "Artist and Title": "La Revancha - Recordarás que te amo - Éxitos Sudamérica",
-      "Days": "49",
-      "Pk": "24",
-      "(x?)": "",
-      "Streams": "7,330",
-      "Streams+": "-3,973",
-      "7Day": "67,879",
-      "7Day+": "+1,263",
-      "Total": "341,889",
-      "track_id": "3MGnmGjGVg0HjDI6R0PnBk",
-      "artist_ids": [
-        "5KQkZpnpLDuZnkLWfG6hiQ"
-      ]
-    },
-    {
-      "Pos": "49",
-      "P+": "+8",
-      "Artist and Title": "Bad Bunny - KLOuFRENS",
-      "Days": "633",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "7,249",
-      "Streams+": "-854",
-      "7Day": "59,721",
-      "7Day+": "+484",
-      "Total": "8,815,758",
-      "track_id": "4MUrUT38U98olfnyzMBCzm",
-      "artist_ids": [
-        "4q3ewBCX7sLwd24euuV69X"
-      ]
-    },
-    {
-      "Pos": "50",
-      "P+": "+4",
+      "Pos": "44",
+      "P+": "+6",
       "Artist and Title": "Omar Courtz - WO OH OH (w/ ROA)",
-      "Days": "222",
+      "Days": "223",
       "Pk": "11",
       "(x?)": "",
-      "Streams": "7,185",
-      "Streams+": "-1,535",
-      "7Day": "66,803",
-      "7Day+": "-1,215",
-      "Total": "2,386,084",
+      "Streams": "8,460",
+      "Streams+": "+1,275",
+      "7Day": "65,794",
+      "7Day+": "-1,009",
+      "Total": "2,394,544",
       "track_id": "0h54mLixODOqU6vTcZMqVM",
       "artist_ids": [
         "3E12tRURRvPfHz0hAMCFYc",
@@ -900,241 +797,69 @@
       ]
     },
     {
-      "Pos": "51",
+      "Pos": "45",
       "P+": "-1",
-      "Artist and Title": "KAROL G - Si Antes Te Hubiera Conocido",
-      "Days": "831",
+      "Artist and Title": "Omar Courtz - Q U E V A S H A C E R H O Y ? (w/ De La Rose)",
+      "Days": "737",
       "Pk": "1",
-      "(x?)": "(x34)",
-      "Streams": "7,183",
-      "Streams+": "-1,712",
-      "7Day": "61,150",
-      "7Day+": "+624",
-      "Total": "13,718,358",
-      "track_id": "6WatFBLVB0x077xWeoVc2k",
+      "(x?)": "(x45)",
+      "Streams": "8,323",
+      "Streams+": "+451",
+      "7Day": "67,304",
+      "7Day+": "-903",
+      "Total": "11,642,579",
+      "track_id": "0Sr7ssScx54yxdM2ols7nW",
       "artist_ids": [
-        "790FomKkXshlbRYZFtlgla"
+        "3E12tRURRvPfHz0hAMCFYc",
+        "54seKvtsZauR1iauN0ptpo"
       ]
     },
     {
-      "Pos": "52",
-      "P+": "=",
-      "Artist and Title": "CountryBeat - Um Peão Desse (w/ Mari Fernandez)",
-      "Days": "37",
-      "Pk": "52",
-      "(x?)": "",
-      "Streams": "7,064",
-      "Streams+": "-1,820",
-      "7Day": "59,435",
-      "7Day+": "+1,116",
-      "Total": "252,952",
-      "track_id": "1p2YiVHqQQB1ECpKiv9ZeN",
-      "artist_ids": [
-        "5IREutgMnyQqRcc8r15gWk",
-        "0BHm7qbh3ENxvXzkQAG7MP"
-      ]
-    },
-    {
-      "Pos": "53",
-      "P+": "RE",
+      "Pos": "46",
+      "P+": "+7",
       "Artist and Title": "Airbag - Por Mil Noches",
-      "Days": "742",
+      "Days": "743",
       "Pk": "39",
       "(x?)": "",
-      "Streams": "6,958",
-      "Streams+": "",
-      "7Day": "6,958",
-      "7Day+": "+6,958",
-      "Total": "4,321,354",
+      "Streams": "8,167",
+      "Streams+": "+1,209",
+      "7Day": "15,125",
+      "7Day+": "+8,167",
+      "Total": "4,329,521",
       "track_id": "10zSgbysU2KyVTrcRmtu62",
       "artist_ids": [
         "1wKDGglKV4FsFS85r2Dmpr"
       ]
     },
     {
-      "Pos": "54",
-      "P+": "RE",
-      "Artist and Title": "Airbag - Pensamientos",
-      "Days": "66",
-      "Pk": "54",
-      "(x?)": "",
-      "Streams": "6,929",
-      "Streams+": "",
-      "7Day": "6,929",
-      "7Day+": "+6,929",
-      "Total": "303,353",
-      "track_id": "1H7ktqkQx1PIuPfNtqvaBs",
-      "artist_ids": [
-        "1wKDGglKV4FsFS85r2Dmpr"
-      ]
-    },
-    {
-      "Pos": "55",
-      "P+": "+28",
-      "Artist and Title": "La La Love You - El Fin del Mundo (w/ Axolotes Mexicanos)",
-      "Days": "103",
-      "Pk": "28",
-      "(x?)": "",
-      "Streams": "6,813",
-      "Streams+": "-54",
-      "7Day": "56,538",
-      "7Day+": "-1,069",
-      "Total": "857,427",
-      "track_id": "6XXQA6e8qXPJ1sZtRxvbws",
-      "artist_ids": [
-        "5Q30fhTc0Sl0Q4C5dOjhhQ",
-        "5IiksrJ0ZOKsz8PabHWdXM"
-      ]
-    },
-    {
-      "Pos": "56",
-      "P+": "RE",
-      "Artist and Title": "Jimin - Who",
-      "Days": "753",
-      "Pk": "1",
-      "(x?)": "(x216)",
-      "Streams": "6,807",
-      "Streams+": "",
-      "7Day": "13,206",
-      "7Day+": "+1,276",
-      "Total": "22,169,495",
-      "track_id": "7tI8dRuH2Yc6RuoTjxo4dU",
-      "artist_ids": [
-        "1oSPZhvZMIrWW5I41kPkkY"
-      ]
-    },
-    {
-      "Pos": "57",
+      "Pos": "47",
       "P+": "-4",
-      "Artist and Title": "Léo Foguete - Última Noite",
-      "Days": "109",
-      "Pk": "50",
+      "Artist and Title": "Wisin & Yandel - Besos Mojados",
+      "Days": "492",
+      "Pk": "38",
       "(x?)": "",
-      "Streams": "6,780",
-      "Streams+": "-1,994",
-      "7Day": "57,970",
-      "7Day+": "+170",
-      "Total": "653,747",
-      "track_id": "3cwVKjzKSTfvacYJF6Tkub",
+      "Streams": "8,022",
+      "Streams+": "-30",
+      "7Day": "73,106",
+      "7Day+": "-395",
+      "Total": "2,527,299",
+      "track_id": "0cpzO8YjhyR8JfLzfm5cOr",
       "artist_ids": [
-        "1DuBkL1pAgaZQHXKPiVr08"
+        "1wZtkThiXbVNtj6hee6dz9"
       ]
     },
     {
-      "Pos": "58",
-      "P+": "+17",
-      "Artist and Title": "Los Auténticos Decadentes - Loco (Tu Forma De Ser)",
-      "Days": "370",
-      "Pk": "57",
-      "(x?)": "",
-      "Streams": "6,773",
-      "Streams+": "-495",
-      "7Day": "51,851",
-      "7Day+": "+464",
-      "Total": "2,189,765",
-      "track_id": "3ydweVPwq9PCEVJ8WwqT6u",
-      "artist_ids": [
-        "3HrbmsYpKjWH1lzhad7alj"
-      ]
-    },
-    {
-      "Pos": "59",
-      "P+": "=",
-      "Artist and Title": "Fuerza Regida - EXCESOS",
-      "Days": "160",
-      "Pk": "41",
-      "(x?)": "",
-      "Streams": "6,706",
-      "Streams+": "-1,179",
-      "7Day": "62,682",
-      "7Day+": "-1,552",
-      "Total": "989,618",
-      "track_id": "6UtWwuheJr5LLDeVypPNx7",
-      "artist_ids": [
-        "0ys2OFYzWYB5hRDLCsBqxt"
-      ]
-    },
-    {
-      "Pos": "60",
-      "P+": "-9",
-      "Artist and Title": "Feid - LUNA (w/ ATL Jacob)",
-      "Days": "1030",
-      "Pk": "1",
-      "(x?)": "(x84)",
-      "Streams": "6,626",
-      "Streams+": "-2,263",
-      "7Day": "65,681",
-      "7Day+": "-647",
-      "Total": "25,434,839",
-      "track_id": "7bywjHOc0wSjGGbj04XbVi",
-      "artist_ids": [
-        "2LRoIwlKmHjgvigdNGBHNo",
-        "7jAs1uPnpfNmT6e5qtEPxq"
-      ]
-    },
-    {
-      "Pos": "61",
-      "P+": "+9",
-      "Artist and Title": "Omar Courtz - M U S A E L E V Á",
-      "Days": "367",
-      "Pk": "37",
-      "(x?)": "",
-      "Streams": "6,548",
-      "Streams+": "-943",
-      "7Day": "54,405",
-      "7Day+": "-1,827",
-      "Total": "2,365,101",
-      "track_id": "7vPsviPvbWsFd9VuftF5JT",
-      "artist_ids": [
-        "3E12tRURRvPfHz0hAMCFYc"
-      ]
-    },
-    {
-      "Pos": "62",
-      "P+": "-1",
-      "Artist and Title": "Kapo - UWAIE",
-      "Days": "774",
-      "Pk": "1",
-      "(x?)": "(x2)",
-      "Streams": "6,525",
-      "Streams+": "-1,253",
-      "7Day": "56,832",
-      "7Day+": "+36",
-      "Total": "10,505,068",
-      "track_id": "5QjmUqgpPQgXgg4606DqZF",
-      "artist_ids": [
-        "3UTF2no3muGdiFXVujl94i"
-      ]
-    },
-    {
-      "Pos": "63",
-      "P+": "-21",
-      "Artist and Title": "Lalo Y Los Descalzos - Te Quiero Asi",
-      "Days": "731",
-      "Pk": "3",
-      "(x?)": "(x7)",
-      "Streams": "6,451",
-      "Streams+": "-4,080",
-      "7Day": "65,983",
-      "7Day+": "+745",
-      "Total": "9,336,676",
-      "track_id": "372WH7eXbJKJX37iYPeqvR",
-      "artist_ids": [
-        "3k7FDxixhDQYNuxOtiN7jl"
-      ]
-    },
-    {
-      "Pos": "64",
-      "P+": "+9",
+      "Pos": "48",
+      "P+": "+16",
       "Artist and Title": "Tainy - Adicto (w/ Anuel AA, Ozuna)",
-      "Days": "1309",
+      "Days": "1310",
       "Pk": "1",
       "(x?)": "(x11)",
-      "Streams": "6,383",
-      "Streams+": "-1,056",
-      "7Day": "54,400",
-      "7Day+": "-514",
-      "Total": "11,973,282",
+      "Streams": "8,001",
+      "Streams+": "+1,618",
+      "7Day": "54,874",
+      "7Day+": "+474",
+      "Total": "11,981,283",
       "track_id": "3jbT1Y5MoPwEIpZndDDwVq",
       "artist_ids": [
         "0GM7qgcRCORpGnfcN2tCiB",
@@ -1143,73 +868,87 @@
       ]
     },
     {
-      "Pos": "65",
-      "P+": "+12",
-      "Artist and Title": "Yan Block - 666 (w/ Cris MJ, Panda Black)",
-      "Days": "136",
-      "Pk": "18",
+      "Pos": "49",
+      "P+": "-8",
+      "Artist and Title": "Bad Bunny - EoO",
+      "Days": "634",
+      "Pk": "5",
       "(x?)": "",
-      "Streams": "6,355",
-      "Streams+": "-901",
-      "7Day": "50,468",
-      "7Day+": "+89",
-      "Total": "1,173,224",
-      "track_id": "5DSlJ0cO7WlcJcSK82yn20",
+      "Streams": "7,869",
+      "Streams+": "-458",
+      "7Day": "70,916",
+      "7Day+": "-1,566",
+      "Total": "7,804,310",
+      "track_id": "6J5kc12BW5HuP3d7C3vvx8",
       "artist_ids": [
-        "6TKygPpVT29oGUogu4J9Ec",
-        "1Yj5Xey7kTwvZla8sqdsdE",
-        "1QcutbFtA6u8A2ZFTZuLSL"
+        "4q3ewBCX7sLwd24euuV69X"
       ]
     },
     {
-      "Pos": "66",
-      "P+": "+12",
-      "Artist and Title": "Fuerza Regida - ME JALO (w/ Grupo Frontera)",
-      "Days": "578",
-      "Pk": "12",
+      "Pos": "50",
+      "P+": "+5",
+      "Artist and Title": "La La Love You - El Fin del Mundo (w/ Axolotes Mexicanos)",
+      "Days": "104",
+      "Pk": "28",
       "(x?)": "",
-      "Streams": "6,301",
-      "Streams+": "-881",
-      "7Day": "55,197",
-      "7Day+": "-2,480",
-      "Total": "4,876,205",
-      "track_id": "3D24ErT1MMmUfXWotSj2A2",
+      "Streams": "7,768",
+      "Streams+": "+955",
+      "7Day": "55,416",
+      "7Day+": "-1,122",
+      "Total": "865,195",
+      "track_id": "6XXQA6e8qXPJ1sZtRxvbws",
       "artist_ids": [
-        "0ys2OFYzWYB5hRDLCsBqxt",
-        "6XkjpgcEsYab502Vr1bBeW"
+        "5Q30fhTc0Sl0Q4C5dOjhhQ",
+        "5IiksrJ0ZOKsz8PabHWdXM"
       ]
     },
     {
-      "Pos": "67",
-      "P+": "+18",
-      "Artist and Title": "Mora - Volando - Remix (w/ Bad Bunny, Sech)",
-      "Days": "1492",
+      "Pos": "51",
+      "P+": "-2",
+      "Artist and Title": "Bad Bunny - KLOuFRENS",
+      "Days": "634",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "7,627",
+      "Streams+": "+378",
+      "7Day": "58,993",
+      "7Day+": "-728",
+      "Total": "8,823,385",
+      "track_id": "4MUrUT38U98olfnyzMBCzm",
+      "artist_ids": [
+        "4q3ewBCX7sLwd24euuV69X"
+      ]
+    },
+    {
+      "Pos": "52",
+      "P+": "+8",
+      "Artist and Title": "Feid - LUNA (w/ ATL Jacob)",
+      "Days": "1031",
       "Pk": "1",
-      "(x?)": "(x4)",
-      "Streams": "6,294",
-      "Streams+": "-499",
-      "7Day": "49,031",
-      "7Day+": "+88",
-      "Total": "24,157,497",
-      "track_id": "0G2zPzWqVjR68iNPmx2TBe",
+      "(x?)": "(x84)",
+      "Streams": "7,591",
+      "Streams+": "+965",
+      "7Day": "64,041",
+      "7Day+": "-1,640",
+      "Total": "25,442,430",
+      "track_id": "7bywjHOc0wSjGGbj04XbVi",
       "artist_ids": [
-        "0Q8NcsJwoCbZOHHW63su5S",
-        "4q3ewBCX7sLwd24euuV69X",
-        "77ziqFxp5gaInVrF2lj4ht"
+        "2LRoIwlKmHjgvigdNGBHNo",
+        "7jAs1uPnpfNmT6e5qtEPxq"
       ]
     },
     {
-      "Pos": "68",
-      "P+": "-1",
+      "Pos": "53",
+      "P+": "+15",
       "Artist and Title": "JHAYCO - No Me Conoce - Remix (w/ J Balvin, Bad Bunny)",
-      "Days": "1101",
+      "Days": "1102",
       "Pk": "41",
       "(x?)": "",
-      "Streams": "6,276",
-      "Streams+": "-1,310",
-      "7Day": "52,435",
-      "7Day+": "+209",
-      "Total": "6,913,801",
+      "Streams": "7,441",
+      "Streams+": "+1,165",
+      "7Day": "53,267",
+      "7Day+": "+832",
+      "Total": "6,921,242",
       "track_id": "2beS6dD5rovBxSA1zYoSHR",
       "artist_ids": [
         "6nVcHLIgY5pE2YCl8ubca1",
@@ -1218,388 +957,137 @@
       ]
     },
     {
-      "Pos": "69",
-      "P+": "RE",
-      "Artist and Title": "Airbag - Cicatrices",
-      "Days": "33",
-      "Pk": "69",
+      "Pos": "54",
+      "P+": "=",
+      "Artist and Title": "Airbag - Pensamientos",
+      "Days": "67",
+      "Pk": "54",
       "(x?)": "",
-      "Streams": "6,246",
-      "Streams+": "",
-      "7Day": "6,246",
-      "7Day+": "+6,246",
-      "Total": "159,326",
-      "track_id": "23FJGRug9hlYUIBnrmkIBX",
+      "Streams": "7,396",
+      "Streams+": "+467",
+      "7Day": "14,325",
+      "7Day+": "+7,396",
+      "Total": "310,749",
+      "track_id": "1H7ktqkQx1PIuPfNtqvaBs",
       "artist_ids": [
         "1wKDGglKV4FsFS85r2Dmpr"
       ]
     },
     {
-      "Pos": "70",
-      "P+": "+35",
-      "Artist and Title": "BTS - NORMAL",
-      "Days": "172",
-      "Pk": "9",
+      "Pos": "55",
+      "P+": "+6",
+      "Artist and Title": "Omar Courtz - M U S A E L E V Á",
+      "Days": "368",
+      "Pk": "37",
       "(x?)": "",
-      "Streams": "6,244",
-      "Streams+": "+36",
-      "7Day": "43,880",
-      "7Day+": "-510",
-      "Total": "1,268,106",
-      "track_id": "4B4Q7zfd0aHcuhQBfCRnH5",
+      "Streams": "7,355",
+      "Streams+": "+807",
+      "7Day": "53,444",
+      "7Day+": "-961",
+      "Total": "2,372,456",
+      "track_id": "7vPsviPvbWsFd9VuftF5JT",
       "artist_ids": [
-        "3Nrfpe0tUJi4K4DXYWgMUX"
+        "3E12tRURRvPfHz0hAMCFYc"
       ]
     },
     {
-      "Pos": "71",
-      "P+": "-8",
-      "Artist and Title": "Beéle - mi refe (w/ Ovy On The Drums)",
-      "Days": "636",
-      "Pk": "6",
+      "Pos": "56",
+      "P+": "-11",
+      "Artist and Title": "Taylor Swift - Patient Zero",
+      "Days": "4",
+      "Pk": "30",
       "(x?)": "",
-      "Streams": "6,162",
-      "Streams+": "-1,577",
-      "7Day": "54,357",
-      "7Day+": "-427",
-      "Total": "8,392,922",
-      "track_id": "4zhk2RS2EZODmBW6il55Qj",
+      "Streams": "7,346",
+      "Streams+": "-518",
+      "7Day": "35,923",
+      "7Day+": "+7,346",
+      "Total": "35,923",
+      "track_id": "11hcBLPtbMp4aQI6zGQLub",
       "artist_ids": [
-        "7a0XAaPaK2aDSqa8p3QnC7",
-        "3m5qlPf2OkihLz3dRYnkPA"
+        "06HL4z0CvFAxyc27GXpf02"
       ]
     },
     {
-      "Pos": "72",
-      "P+": "-17",
-      "Artist and Title": "Super Express - Se Murió De Amor",
-      "Days": "255",
-      "Pk": "50",
+      "Pos": "57",
+      "P+": "+2",
+      "Artist and Title": "Fuerza Regida - EXCESOS",
+      "Days": "161",
+      "Pk": "41",
       "(x?)": "",
-      "Streams": "6,129",
-      "Streams+": "-2,107",
-      "7Day": "55,931",
-      "7Day+": "+6,129",
-      "Total": "1,403,469",
-      "track_id": "6bh1oFUx6IshmPmvMnzS9o",
+      "Streams": "7,159",
+      "Streams+": "+453",
+      "7Day": "60,809",
+      "7Day+": "-1,873",
+      "Total": "996,777",
+      "track_id": "6UtWwuheJr5LLDeVypPNx7",
       "artist_ids": [
-        "2fEqFVta8r3Umo6VbjJGWU"
+        "0ys2OFYzWYB5hRDLCsBqxt"
       ]
     },
     {
-      "Pos": "73",
-      "P+": "+17",
-      "Artist and Title": "Myke Towers - CARITA FELIZ",
-      "Days": "30",
-      "Pk": "38",
-      "(x?)": "",
-      "Streams": "6,061",
-      "Streams+": "-548",
-      "7Day": "48,840",
-      "7Day+": "-46",
-      "Total": "218,614",
-      "track_id": "6bQsFck5fRznOrCfJMxF1c",
-      "artist_ids": [
-        "7iK8PXO48WeuP03g8YR51W"
-      ]
-    },
-    {
-      "Pos": "74",
-      "P+": "+7",
-      "Artist and Title": "Fuerza Regida - PERO NO TE ENAMORES",
-      "Days": "136",
+      "Pos": "58",
+      "P+": "-6",
+      "Artist and Title": "CountryBeat - Um Peão Desse (w/ Mari Fernandez)",
+      "Days": "38",
       "Pk": "52",
       "(x?)": "",
-      "Streams": "6,025",
-      "Streams+": "-957",
-      "7Day": "49,870",
-      "7Day+": "-801",
-      "Total": "860,667",
-      "track_id": "3w1h7uNU1Dfk2tOaHiIGat",
+      "Streams": "7,127",
+      "Streams+": "+63",
+      "7Day": "59,626",
+      "7Day+": "+191",
+      "Total": "260,079",
+      "track_id": "1p2YiVHqQQB1ECpKiv9ZeN",
       "artist_ids": [
-        "0ys2OFYzWYB5hRDLCsBqxt"
+        "5IREutgMnyQqRcc8r15gWk",
+        "0BHm7qbh3ENxvXzkQAG7MP"
       ]
     },
     {
-      "Pos": "75",
-      "P+": "-11",
-      "Artist and Title": "Zion & Lennox - Otra vez (w/ J Balvin)",
-      "Days": "1928",
+      "Pos": "59",
+      "P+": "+3",
+      "Artist and Title": "Kapo - UWAIE",
+      "Days": "775",
       "Pk": "1",
-      "(x?)": "(x101)",
-      "Streams": "6,016",
-      "Streams+": "-1,651",
-      "7Day": "55,299",
-      "7Day+": "-13",
-      "Total": "9,917,913",
-      "track_id": "3QwBODjSEzelZyVjxPOHdq",
+      "(x?)": "(x2)",
+      "Streams": "7,084",
+      "Streams+": "+559",
+      "7Day": "56,345",
+      "7Day+": "-487",
+      "Total": "10,512,152",
+      "track_id": "5QjmUqgpPQgXgg4606DqZF",
       "artist_ids": [
-        "21451j1KhjAiaYKflxBjr1",
-        "1vyhD5VmyZ7KMfW5gqLgo5"
+        "3UTF2no3muGdiFXVujl94i"
       ]
     },
     {
-      "Pos": "76",
-      "P+": "=",
-      "Artist and Title": "Bad Bunny - Moscow Mule",
-      "Days": "1559",
-      "Pk": "1",
-      "(x?)": "(x3)",
-      "Streams": "6,014",
-      "Streams+": "-1,247",
-      "7Day": "49,346",
-      "7Day+": "+197",
-      "Total": "22,487,381",
-      "track_id": "6Xom58OOXk2SoU711L2IXO",
-      "artist_ids": [
-        "4q3ewBCX7sLwd24euuV69X"
-      ]
-    },
-    {
-      "Pos": "77",
-      "P+": "-11",
-      "Artist and Title": "Ozuna - Se Preparó",
-      "Days": "1030",
-      "Pk": "1",
-      "(x?)": "(x21)",
-      "Streams": "5,996",
-      "Streams+": "-1,604",
-      "7Day": "52,306",
-      "7Day+": "+1,176",
-      "Total": "5,486,683",
-      "track_id": "1m69ELEgE6k5ZWsap40ozt",
-      "artist_ids": [
-        "1i8SpTcr7yvPOmcqrbnVXY"
-      ]
-    },
-    {
-      "Pos": "78",
-      "P+": "+65",
-      "Artist and Title": "LATIN MAFIA - Te Estoy Correteando (w/ Fred again..)",
-      "Days": "30",
-      "Pk": "75",
+      "Pos": "60",
+      "P+": "-12",
+      "Artist and Title": "La Revancha - Recordarás que te amo - Éxitos Sudamérica",
+      "Days": "50",
+      "Pk": "24",
       "(x?)": "",
-      "Streams": "5,990",
-      "Streams+": "+454",
-      "7Day": "43,370",
-      "7Day+": "+12",
-      "Total": "177,866",
-      "track_id": "5B579RUazOpBcuxjTZWnMs",
+      "Streams": "6,956",
+      "Streams+": "-374",
+      "7Day": "67,677",
+      "7Day+": "-202",
+      "Total": "348,845",
+      "track_id": "3MGnmGjGVg0HjDI6R0PnBk",
       "artist_ids": [
-        "6XTGKOV9jceQ6f67lnhpbF",
-        "4oLeXFyACqeem2VImYeBFe"
+        "5KQkZpnpLDuZnkLWfG6hiQ"
       ]
     },
     {
-      "Pos": "79",
-      "P+": "-8",
-      "Artist and Title": "Bad Bunny - Ojitos Lindos (w/ Bomba Estéreo)",
-      "Days": "1595",
-      "Pk": "1",
-      "(x?)": "(x44)",
-      "Streams": "5,964",
-      "Streams+": "-1,506",
-      "7Day": "52,586",
-      "7Day+": "-128",
-      "Total": "28,115,938",
-      "track_id": "3k3NWokhRRkEPhCzPmV8TW",
-      "artist_ids": [
-        "4q3ewBCX7sLwd24euuV69X",
-        "5n9bMYfz9qss2VOW89EVs2"
-      ]
-    },
-    {
-      "Pos": "80",
-      "P+": "-32",
-      "Artist and Title": "Grupo Azteka - Necesito De Ti",
-      "Days": "735",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "5,887",
-      "Streams+": "-3,071",
-      "7Day": "58,338",
-      "7Day+": "+241",
-      "Total": "6,344,491",
-      "track_id": "3qvZd8kTdUu3XJvLSJY5wn",
-      "artist_ids": [
-        "4zsQwns4bhsKDSFe5mLuiU"
-      ]
-    },
-    {
-      "Pos": "81",
-      "P+": "-25",
-      "Artist and Title": "Tropical Florida - Quien Diría",
-      "Days": "285",
-      "Pk": "33",
-      "(x?)": "",
-      "Streams": "5,843",
-      "Streams+": "-2,347",
-      "7Day": "56,274",
-      "7Day+": "+533",
-      "Total": "1,598,680",
-      "track_id": "2tGOrCgMZX4ht7tmCzNzPL",
-      "artist_ids": [
-        "6chaMXZHKjdCkKlWyi1KLB"
-      ]
-    },
-    {
-      "Pos": "82",
-      "P+": "-20",
-      "Artist and Title": "Rels B - TU VAS SIN (fav)",
-      "Days": "424",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "5,804",
-      "Streams+": "-1,952",
-      "7Day": "53,342",
-      "7Day+": "+188",
-      "Total": "4,755,152",
-      "track_id": "6uiQ0DqbXTBc8tl0AUKZkR",
-      "artist_ids": [
-        "2IMZYfNi21MGqxopj9fWx8"
-      ]
-    },
-    {
-      "Pos": "83",
-      "P+": "+18",
-      "Artist and Title": "Fuerza Regida - TU SANCHO",
-      "Days": "355",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "5,735",
-      "Streams+": "-642",
-      "7Day": "46,973",
-      "7Day+": "-622",
-      "Total": "2,630,140",
-      "track_id": "6eLQXa6uk2EW8drsiKbABZ",
-      "artist_ids": [
-        "0ys2OFYzWYB5hRDLCsBqxt"
-      ]
-    },
-    {
-      "Pos": "84",
-      "P+": "-2",
-      "Artist and Title": "Brytiago - Estoy Pa' Ti",
-      "Days": "41",
-      "Pk": "21",
-      "(x?)": "",
-      "Streams": "5,716",
-      "Streams+": "-1,156",
-      "7Day": "48,026",
-      "7Day+": "+114",
-      "Total": "352,023",
-      "track_id": "4KYEVjuYfB2qaA5paEB4kn",
-      "artist_ids": [
-        "00XhexlJEXQstHimpZN910"
-      ]
-    },
-    {
-      "Pos": "85",
-      "P+": "+8",
-      "Artist and Title": "Tainy - MOJABI GHOST (w/ Bad Bunny)",
-      "Days": "1030",
-      "Pk": "29",
-      "(x?)": "",
-      "Streams": "5,714",
-      "Streams+": "-790",
-      "7Day": "46,602",
-      "7Day+": "-517",
-      "Total": "8,000,939",
-      "track_id": "46YjJXVXWHlQ21odKktg5e",
-      "artist_ids": [
-        "0GM7qgcRCORpGnfcN2tCiB",
-        "4q3ewBCX7sLwd24euuV69X"
-      ]
-    },
-    {
-      "Pos": "86",
-      "P+": "-7",
-      "Artist and Title": "Grupo Frontera - un x100to (w/ Bad Bunny)",
-      "Days": "1207",
-      "Pk": "1",
-      "(x?)": "(x67)",
-      "Streams": "5,685",
-      "Streams+": "-1,361",
-      "7Day": "48,469",
-      "7Day+": "-673",
-      "Total": "24,488,890",
-      "track_id": "2yzshFeBIwH8tWIqHEFLeD",
-      "artist_ids": [
-        "6XkjpgcEsYab502Vr1bBeW",
-        "4q3ewBCX7sLwd24euuV69X"
-      ]
-    },
-    {
-      "Pos": "87",
-      "P+": "-18",
-      "Artist and Title": "Mc Jacaré - Pau Pra Toda Obra (w/ MC Ryan SP, Mc Lele JP, Mc IG)",
-      "Days": "89",
-      "Pk": "49",
-      "(x?)": "",
-      "Streams": "5,591",
-      "Streams+": "-1,941",
-      "7Day": "53,478",
-      "7Day+": "+294",
-      "Total": "611,898",
-      "track_id": "2zUC2BnjdVkB0OWvFQkKHa",
-      "artist_ids": [
-        "6qrqAYlS6lUj2BVXax7SZW",
-        "75i9GaW2MJUgt4BkdUnuUY",
-        "1mV9h1AwhRXSjBFcYpajgY",
-        "2q9wk5fkeU2C9CgCKdh4AN"
-      ]
-    },
-    {
-      "Pos": "88",
-      "P+": "-16",
-      "Artist and Title": "DJ Japa NK - Posso Até Não Te Dar Flores (w/ MC Meno K, MC Ryan SP, Mc Jacaré, DJ DAVI DOGDOG)",
-      "Days": "347",
-      "Pk": "1",
-      "(x?)": "(x32)",
-      "Streams": "5,567",
-      "Streams+": "-1,890",
-      "7Day": "51,449",
-      "7Day+": "+226",
-      "Total": "5,081,886",
-      "track_id": "4G7bbgD2DHORU4frrWoCXp",
-      "artist_ids": [
-        "1bpnl8qbR9GxmiNlkEufW6",
-        "1CbQrKvCpEnekM3QMGJtXK",
-        "75i9GaW2MJUgt4BkdUnuUY",
-        "6qrqAYlS6lUj2BVXax7SZW",
-        "5ffbqOCrcxCejQ7oqfWXm9"
-      ]
-    },
-    {
-      "Pos": "89",
-      "P+": "-29",
-      "Artist and Title": "La T y La M - Amor de Vago (w/ Malandro)",
-      "Days": "706",
-      "Pk": "1",
-      "(x?)": "(x17)",
-      "Streams": "5,559",
-      "Streams+": "-2,277",
-      "7Day": "51,421",
-      "7Day+": "+154",
-      "Total": "12,189,199",
-      "track_id": "5MKbWaXeSQSmzmo7gPQha1",
-      "artist_ids": [
-        "1FxPMQ9A0882eNDx3ZkD6B",
-        "6Gsh7oJoJ5EQUuQk0EhfWL"
-      ]
-    },
-    {
-      "Pos": "90",
-      "P+": "+13",
+      "Pos": "61",
+      "P+": "+29",
       "Artist and Title": "Blessd - YOGURCITO REMIX (w/ Anuel AA, Yan Block, Luar La L, Kris R., ROA)",
-      "Days": "397",
+      "Days": "398",
       "Pk": "6",
       "(x?)": "",
-      "Streams": "5,549",
-      "Streams+": "-693",
-      "7Day": "44,540",
-      "7Day+": "-593",
-      "Total": "4,620,773",
+      "Streams": "6,677",
+      "Streams+": "+1,128",
+      "7Day": "45,056",
+      "7Day+": "+516",
+      "Total": "4,627,450",
       "track_id": "7nrd0eIftH3NQLfgk20Qp9",
       "artist_ids": [
         "1TA5sGRlKUJXBN4ZyJuDIX",
@@ -1611,388 +1099,139 @@
       ]
     },
     {
-      "Pos": "91",
-      "P+": "-5",
-      "Artist and Title": "Salamandra - Solito",
-      "Days": "431",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "5,545",
-      "Streams+": "-1,200",
-      "7Day": "47,052",
-      "7Day+": "+744",
-      "Total": "1,013,288",
-      "track_id": "1ZgdNVQFQM54tDEYBdIK0w",
-      "artist_ids": [
-        "1sLot73qJ4Vbh4nPuwzvj9"
-      ]
-    },
-    {
-      "Pos": "92",
-      "P+": "+4",
-      "Artist and Title": "Anuel AA - Hasta Que Dios Diga (w/ Bad Bunny)",
-      "Days": "1574",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "5,519",
-      "Streams+": "-934",
-      "7Day": "46,054",
-      "7Day+": "-65",
-      "Total": "14,744,455",
-      "track_id": "06s3QtMJVXw1AJX3UfvZG1",
-      "artist_ids": [
-        "2R21vXR83lH98kGeO99Y66",
-        "4q3ewBCX7sLwd24euuV69X"
-      ]
-    },
-    {
-      "Pos": "93",
-      "P+": "+7",
-      "Artist and Title": "Romeo Santos - Imitadora",
-      "Days": "695",
-      "Pk": "49",
-      "(x?)": "",
-      "Streams": "5,487",
-      "Streams+": "-899",
-      "7Day": "46,455",
-      "7Day+": "-1,037",
-      "Total": "3,194,460",
-      "track_id": "6r46lnXFbE9fr2d3KNaGbe",
-      "artist_ids": [
-        "5lwmRuXgjX8xIwlnauTZIP"
-      ]
-    },
-    {
-      "Pos": "94",
-      "P+": "+15",
-      "Artist and Title": "ARIA VEGA - CHÉVERE (premium_remix) (w/ Ryan Castro)",
-      "Days": "167",
-      "Pk": "62",
-      "(x?)": "",
-      "Streams": "5,467",
-      "Streams+": "-706",
-      "7Day": "43,128",
-      "7Day+": "+633",
-      "Total": "911,104",
-      "track_id": "3CBEVPwR3kUXDoTx1lqFUQ",
-      "artist_ids": [
-        "3e9aKKEgSOjIQS9gv2Nr1X",
-        "7j6DKwmjbxvpQO8h914uEz"
-      ]
-    },
-    {
-      "Pos": "95",
-      "P+": "+80",
-      "Artist and Title": "The Police - Every Breath You Take",
-      "Days": "607",
-      "Pk": "63",
-      "(x?)": "",
-      "Streams": "5,442",
-      "Streams+": "+183",
-      "7Day": "40,736",
-      "7Day+": "-82",
-      "Total": "3,176,685",
-      "track_id": "1JSTJqkT5qHq8MDJnJbRE1",
-      "artist_ids": [
-        "5NGO30tJxFlKixkPSgXcFE"
-      ]
-    },
-    {
-      "Pos": "96",
-      "P+": "-7",
-      "Artist and Title": "Rauw Alejandro - Khé? (w/ Romeo Santos)",
-      "Days": "669",
+      "Pos": "62",
+      "P+": "-11",
+      "Artist and Title": "KAROL G - Si Antes Te Hubiera Conocido",
+      "Days": "832",
       "Pk": "1",
-      "(x?)": "(x20)",
-      "Streams": "5,400",
-      "Streams+": "-1,274",
-      "7Day": "44,292",
-      "7Day+": "-342",
-      "Total": "9,281,117",
-      "track_id": "1YYfyJ2yCvGFCxwjsIqEK9",
+      "(x?)": "(x34)",
+      "Streams": "6,638",
+      "Streams+": "-545",
+      "7Day": "60,344",
+      "7Day+": "-806",
+      "Total": "13,724,996",
+      "track_id": "6WatFBLVB0x077xWeoVc2k",
       "artist_ids": [
-        "1mcTU81TzQhprhouKaTkpq",
-        "5lwmRuXgjX8xIwlnauTZIP"
+        "790FomKkXshlbRYZFtlgla"
       ]
     },
     {
-      "Pos": "97",
-      "P+": "RE",
-      "Artist and Title": "Oasis - Wonderwall - Remastered",
-      "Days": "234",
-      "Pk": "4",
+      "Pos": "63",
+      "P+": "-6",
+      "Artist and Title": "Léo Foguete - Última Noite",
+      "Days": "110",
+      "Pk": "50",
       "(x?)": "",
-      "Streams": "5,384",
-      "Streams+": "",
-      "7Day": "22,792",
-      "7Day+": "-1,123",
-      "Total": "971,526",
-      "track_id": "5qqabIl2vWzo9ApSC317sa",
+      "Streams": "6,609",
+      "Streams+": "-171",
+      "7Day": "57,174",
+      "7Day+": "-796",
+      "Total": "660,356",
+      "track_id": "3cwVKjzKSTfvacYJF6Tkub",
       "artist_ids": [
-        "2DaxqgrOhkeH0fpeiQq2f4"
+        "1DuBkL1pAgaZQHXKPiVr08"
       ]
     },
     {
-      "Pos": "98",
-      "P+": "=",
-      "Artist and Title": "Beéle - no tiene sentido",
-      "Days": "497",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "5,373",
-      "Streams+": "-1,047",
-      "7Day": "47,554",
-      "7Day+": "-77",
-      "Total": "7,036,551",
-      "track_id": "1HEwEN64NjgTaHmo7LfkX8",
-      "artist_ids": [
-        "7a0XAaPaK2aDSqa8p3QnC7"
-      ]
-    },
-    {
-      "Pos": "99",
-      "P+": "+70",
-      "Artist and Title": "El Cuarteto De Nos - Enamorado tuyo",
-      "Days": "135",
-      "Pk": "75",
+      "Pos": "64",
+      "P+": "+19",
+      "Artist and Title": "Fuerza Regida - TU SANCHO",
+      "Days": "356",
+      "Pk": "10",
       "(x?)": "",
-      "Streams": "5,370",
-      "Streams+": "+74",
-      "7Day": "27,728",
-      "7Day+": "-448",
-      "Total": "692,567",
-      "track_id": "35LdDKNMwvKftENaj1WIwF",
+      "Streams": "6,506",
+      "Streams+": "+771",
+      "7Day": "46,804",
+      "7Day+": "-169",
+      "Total": "2,636,646",
+      "track_id": "6eLQXa6uk2EW8drsiKbABZ",
       "artist_ids": [
-        "13JJKrUewC1CJYmIDXQNoH"
-      ]
-    },
-    {
-      "Pos": "100",
-      "P+": "-5",
-      "Artist and Title": "Ovy On The Drums - YO y TÚ (w/ Quevedo, Beéle)",
-      "Days": "470",
-      "Pk": "3",
-      "(x?)": "(x13)",
-      "Streams": "5,347",
-      "Streams+": "-1,128",
-      "7Day": "46,151",
-      "7Day+": "-537",
-      "Total": "6,593,132",
-      "track_id": "7koAf6aZgjO6TS7bipfPD0",
-      "artist_ids": [
-        "3m5qlPf2OkihLz3dRYnkPA",
-        "52iwsT98xCoGgiGntTiR7K",
-        "7a0XAaPaK2aDSqa8p3QnC7"
-      ]
-    },
-    {
-      "Pos": "101",
-      "P+": "+23",
-      "Artist and Title": "Omar Courtz - VAMOaCOCHI",
-      "Days": "220",
-      "Pk": "16",
-      "(x?)": "",
-      "Streams": "5,341",
-      "Streams+": "-504",
-      "7Day": "42,316",
-      "7Day+": "+142",
-      "Total": "1,625,107",
-      "track_id": "1oghNMGW42IhtQPNU6leZz",
-      "artist_ids": [
-        "3E12tRURRvPfHz0hAMCFYc"
-      ]
-    },
-    {
-      "Pos": "102",
-      "P+": "+4",
-      "Artist and Title": "Omar Courtz - Kyoto (w/ De La Rose, Haze)",
-      "Days": "782",
-      "Pk": "18",
-      "(x?)": "",
-      "Streams": "5,326",
-      "Streams+": "-878",
-      "7Day": "44,521",
-      "7Day+": "+78",
-      "Total": "7,479,419",
-      "track_id": "7eNwwoxDR8KVzNAuGvliAO",
-      "artist_ids": [
-        "3E12tRURRvPfHz0hAMCFYc",
-        "54seKvtsZauR1iauN0ptpo",
-        "77iZVjeYoYSl5P0K9mIiUE"
-      ]
-    },
-    {
-      "Pos": "103",
-      "P+": "+24",
-      "Artist and Title": "Oscar Maydon - Tu Boda (w/ Fuerza Regida)",
-      "Days": "590",
-      "Pk": "15",
-      "(x?)": "",
-      "Streams": "5,321",
-      "Streams+": "-458",
-      "7Day": "41,494",
-      "7Day+": "-287",
-      "Total": "4,335,377",
-      "track_id": "1cOboCuWYI2osTOfolMRS6",
-      "artist_ids": [
-        "3l9G1G9MxH6DaRhwLklaf5",
         "0ys2OFYzWYB5hRDLCsBqxt"
       ]
     },
     {
-      "Pos": "104",
-      "P+": "+10",
-      "Artist and Title": "De La Rose - NUBES (w/ Omar Courtz)",
-      "Days": "544",
-      "Pk": "14",
-      "(x?)": "",
-      "Streams": "5,318",
-      "Streams+": "-781",
-      "7Day": "42,650",
-      "7Day+": "-487",
-      "Total": "5,049,609",
-      "track_id": "31we7ZzWdSBEOKs5Ln6QVF",
-      "artist_ids": [
-        "54seKvtsZauR1iauN0ptpo",
-        "3E12tRURRvPfHz0hAMCFYc"
-      ]
-    },
-    {
-      "Pos": "105",
-      "P+": "-6",
-      "Artist and Title": "J Balvin - Si Tu Novio Te Deja Sola (w/ Bad Bunny)",
-      "Days": "539",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "5,283",
-      "Streams+": "-1,128",
-      "7Day": "43,279",
-      "7Day+": "+185",
-      "Total": "2,081,082",
-      "track_id": "0RFFFGtPn6a58RHY3ccVYX",
-      "artist_ids": [
-        "1vyhD5VmyZ7KMfW5gqLgo5",
-        "4q3ewBCX7sLwd24euuV69X"
-      ]
-    },
-    {
-      "Pos": "106",
-      "P+": "-12",
-      "Artist and Title": "Myke Towers - SOLEAO (w/ Quevedo)",
-      "Days": "486",
+      "Pos": "65",
+      "P+": "+1",
+      "Artist and Title": "Fuerza Regida - ME JALO (w/ Grupo Frontera)",
+      "Days": "579",
       "Pk": "12",
       "(x?)": "",
-      "Streams": "5,258",
-      "Streams+": "-1,244",
-      "7Day": "44,245",
-      "7Day+": "-229",
-      "Total": "4,827,063",
-      "track_id": "4OsBqqMwFabHATATT527tH",
+      "Streams": "6,478",
+      "Streams+": "+177",
+      "7Day": "53,209",
+      "7Day+": "-1,988",
+      "Total": "4,882,683",
+      "track_id": "3D24ErT1MMmUfXWotSj2A2",
       "artist_ids": [
-        "7iK8PXO48WeuP03g8YR51W",
-        "52iwsT98xCoGgiGntTiR7K"
+        "0ys2OFYzWYB5hRDLCsBqxt",
+        "6XkjpgcEsYab502Vr1bBeW"
       ]
     },
     {
-      "Pos": "107",
-      "P+": "+35",
-      "Artist and Title": "Omar Courtz - WHAT U NEED? (SexPlaylist 2) (w/ Myke Towers)",
-      "Days": "219",
-      "Pk": "37",
+      "Pos": "66",
+      "P+": "+72",
+      "Artist and Title": "Plan B - Candy",
+      "Days": "999",
+      "Pk": "62",
       "(x?)": "",
-      "Streams": "5,253",
-      "Streams+": "-312",
-      "7Day": "40,112",
-      "7Day+": "+264",
-      "Total": "1,296,489",
-      "track_id": "7jnSlMG2jKJmKvAWxufk2I",
-      "artist_ids": [
-        "3E12tRURRvPfHz0hAMCFYc",
-        "7iK8PXO48WeuP03g8YR51W"
-      ]
-    },
-    {
-      "Pos": "108",
-      "P+": "+2",
-      "Artist and Title": "Anuel AA - Tú No Lo Amas",
-      "Days": "399",
-      "Pk": "83",
-      "(x?)": "",
-      "Streams": "5,237",
-      "Streams+": "-928",
-      "7Day": "42,967",
-      "7Day+": "+67",
-      "Total": "1,701,322",
-      "track_id": "0fLOPPoyIaPTe8dm2Mrft3",
-      "artist_ids": [
-        "2R21vXR83lH98kGeO99Y66"
-      ]
-    },
-    {
-      "Pos": "109",
-      "P+": "-21",
-      "Artist and Title": "Plan B - Fanatica Sensual",
-      "Days": "424",
-      "Pk": "34",
-      "(x?)": "",
-      "Streams": "5,216",
-      "Streams+": "-1,480",
-      "7Day": "48,177",
-      "7Day+": "-440",
-      "Total": "2,636,136",
-      "track_id": "1DrDfpOx4P4LMxFhtOmeyD",
+      "Streams": "6,434",
+      "Streams+": "+1,661",
+      "7Day": "43,571",
+      "7Day+": "+763",
+      "Total": "6,013,569",
+      "track_id": "2ctjDCCg1wHoQSjIJ8p6U4",
       "artist_ids": [
         "2jSGzJw0ebJLu7OLVSOcBP"
       ]
     },
     {
-      "Pos": "110",
-      "P+": "-45",
-      "Artist and Title": "Luis Mosqueda - Un Soñador (w/ Los Roller's)",
-      "Days": "295",
-      "Pk": "41",
+      "Pos": "67",
+      "P+": "-2",
+      "Artist and Title": "Yan Block - 666 (w/ Cris MJ, Panda Black)",
+      "Days": "137",
+      "Pk": "18",
       "(x?)": "",
-      "Streams": "5,207",
-      "Streams+": "-2,433",
-      "7Day": "50,244",
-      "7Day+": "+5,207",
-      "Total": "1,722,382",
-      "track_id": "4zVFTjUm0JOHxkukbnmbVK",
-      "artist_ids": [
-        "3x0gb5EJ9nKvVuRpLzzWAe",
-        "7mQa3XflwD72PWFe55CjWt"
-      ]
-    },
-    {
-      "Pos": "111",
-      "P+": "+14",
-      "Artist and Title": "Yan Block - 444 (w/ Panda Black)",
-      "Days": "630",
-      "Pk": "16",
-      "(x?)": "",
-      "Streams": "5,195",
-      "Streams+": "-613",
-      "7Day": "42,008",
-      "7Day+": "+54",
-      "Total": "5,452,903",
-      "track_id": "1o4xkdBe0RjSf2u6VXi4OI",
+      "Streams": "6,358",
+      "Streams+": "+3",
+      "7Day": "49,741",
+      "7Day+": "-727",
+      "Total": "1,179,582",
+      "track_id": "5DSlJ0cO7WlcJcSK82yn20",
       "artist_ids": [
         "6TKygPpVT29oGUogu4J9Ec",
+        "1Yj5Xey7kTwvZla8sqdsdE",
         "1QcutbFtA6u8A2ZFTZuLSL"
       ]
     },
     {
-      "Pos": "112",
-      "P+": "-25",
+      "Pos": "68",
+      "P+": "+2",
+      "Artist and Title": "BTS - NORMAL",
+      "Days": "173",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "6,309",
+      "Streams+": "+65",
+      "7Day": "43,876",
+      "7Day+": "-4",
+      "Total": "1,274,415",
+      "track_id": "4B4Q7zfd0aHcuhQBfCRnH5",
+      "artist_ids": [
+        "3Nrfpe0tUJi4K4DXYWgMUX"
+      ]
+    },
+    {
+      "Pos": "69",
+      "P+": "+43",
       "Artist and Title": "Daddy Yankee - Salgo Pa' la Calle (w/ Randy Nota Loca)",
-      "Days": "278",
+      "Days": "279",
       "Pk": "56",
       "(x?)": "",
-      "Streams": "5,191",
-      "Streams+": "-1,515",
-      "7Day": "49,495",
-      "7Day+": "-367",
-      "Total": "1,485,314",
+      "Streams": "6,297",
+      "Streams+": "+1,106",
+      "7Day": "49,519",
+      "7Day+": "+24",
+      "Total": "1,491,611",
       "track_id": "4WSCQzsVo8ucr3FwGmUkHw",
       "artist_ids": [
         "4VMYDCV2IEDYJArk749S6m",
@@ -2000,55 +1239,68 @@
       ]
     },
     {
-      "Pos": "113",
-      "P+": "+15",
-      "Artist and Title": "Calle 24 - Que Onda (w/ Chino Pacas, Fuerza Regida)",
-      "Days": "603",
-      "Pk": "12",
+      "Pos": "70",
+      "P+": "+3",
+      "Artist and Title": "Myke Towers - CARITA FELIZ",
+      "Days": "31",
+      "Pk": "38",
       "(x?)": "",
-      "Streams": "5,123",
-      "Streams+": "-636",
-      "7Day": "41,357",
-      "7Day+": "-377",
-      "Total": "7,392,737",
-      "track_id": "6uIIdjYTxxpWOyWuVXrKQO",
+      "Streams": "6,291",
+      "Streams+": "+230",
+      "7Day": "48,620",
+      "7Day+": "-220",
+      "Total": "224,905",
+      "track_id": "6bQsFck5fRznOrCfJMxF1c",
       "artist_ids": [
-        "6dLuQ5qXxIuWc5urxfIiZR",
-        "2rmkQLzj0k4nZdQehOUByO",
+        "7iK8PXO48WeuP03g8YR51W"
+      ]
+    },
+    {
+      "Pos": "71",
+      "P+": "+3",
+      "Artist and Title": "Fuerza Regida - PERO NO TE ENAMORES",
+      "Days": "137",
+      "Pk": "52",
+      "(x?)": "",
+      "Streams": "6,286",
+      "Streams+": "+261",
+      "7Day": "48,974",
+      "7Day+": "-896",
+      "Total": "866,953",
+      "track_id": "3w1h7uNU1Dfk2tOaHiIGat",
+      "artist_ids": [
         "0ys2OFYzWYB5hRDLCsBqxt"
       ]
     },
     {
-      "Pos": "114",
-      "P+": "-2",
-      "Artist and Title": "MC Kauan PV - Vou Tacar na Peka das Bebê (w/ Coral das Quebradas, DJ Yago)",
-      "Days": "5",
-      "Pk": "110",
+      "Pos": "72",
+      "P+": "-3",
+      "Artist and Title": "Airbag - Cicatrices",
+      "Days": "34",
+      "Pk": "69",
       "(x?)": "",
-      "Streams": "5,064",
-      "Streams+": "-1,080",
-      "7Day": "31,082",
-      "7Day+": "+5,064",
-      "Total": "31,082",
-      "track_id": "4PNIgN43zkQgCgQggJ99bU",
+      "Streams": "6,255",
+      "Streams+": "+9",
+      "7Day": "12,501",
+      "7Day+": "+6,255",
+      "Total": "165,581",
+      "track_id": "23FJGRug9hlYUIBnrmkIBX",
       "artist_ids": [
-        "71wi4mvYLNprbPHLb8qgyQ",
-        "13W2ppQdsYiWw9zynrNzjZ",
-        "4tdmp3YXtKZU6mk91K9yJb"
+        "1wKDGglKV4FsFS85r2Dmpr"
       ]
     },
     {
-      "Pos": "115",
-      "P+": "-2",
+      "Pos": "73",
+      "P+": "+42",
       "Artist and Title": "Zion - More (w/ Jory Boy, Ken-Y)",
-      "Days": "437",
+      "Days": "438",
       "Pk": "25",
       "(x?)": "",
-      "Streams": "5,048",
-      "Streams+": "-1,095",
-      "7Day": "45,172",
-      "7Day+": "+212",
-      "Total": "3,059,166",
+      "Streams": "6,237",
+      "Streams+": "+1,189",
+      "7Day": "45,506",
+      "7Day+": "+334",
+      "Total": "3,065,403",
       "track_id": "0rKqFkLnkcZByHMjN60KAn",
       "artist_ids": [
         "1pgDilWYDWLoOgGjf1iHNu",
@@ -2057,103 +1309,439 @@
       ]
     },
     {
-      "Pos": "116",
-      "P+": "+67",
-      "Artist and Title": "Jósean Log - Doma",
-      "Days": "152",
-      "Pk": "45",
+      "Pos": "74",
+      "P+": "-16",
+      "Artist and Title": "Los Auténticos Decadentes - Loco (Tu Forma De Ser)",
+      "Days": "371",
+      "Pk": "57",
       "(x?)": "",
-      "Streams": "5,039",
-      "Streams+": "-124",
-      "7Day": "26,964",
-      "7Day+": "+13",
-      "Total": "869,953",
-      "track_id": "58cLm4PaHNt8DDr9ayZnNz",
+      "Streams": "6,204",
+      "Streams+": "-569",
+      "7Day": "50,864",
+      "7Day+": "-987",
+      "Total": "2,195,969",
+      "track_id": "3ydweVPwq9PCEVJ8WwqT6u",
       "artist_ids": [
-        "1LMyTeRhjaitILs98h3MaF"
+        "3HrbmsYpKjWH1lzhad7alj"
       ]
     },
     {
-      "Pos": "117",
-      "P+": "+35",
+      "Pos": "75",
+      "P+": "+34",
+      "Artist and Title": "Plan B - Fanatica Sensual",
+      "Days": "425",
+      "Pk": "34",
+      "(x?)": "",
+      "Streams": "6,152",
+      "Streams+": "+936",
+      "7Day": "47,932",
+      "7Day+": "-245",
+      "Total": "2,642,288",
+      "track_id": "1DrDfpOx4P4LMxFhtOmeyD",
+      "artist_ids": [
+        "2jSGzJw0ebJLu7OLVSOcBP"
+      ]
+    },
+    {
+      "Pos": "76",
+      "P+": "+22",
+      "Artist and Title": "Beéle - no tiene sentido",
+      "Days": "498",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "6,144",
+      "Streams+": "+771",
+      "7Day": "47,530",
+      "7Day+": "-24",
+      "Total": "7,042,695",
+      "track_id": "1HEwEN64NjgTaHmo7LfkX8",
+      "artist_ids": [
+        "7a0XAaPaK2aDSqa8p3QnC7"
+      ]
+    },
+    {
+      "Pos": "77",
+      "P+": "=",
+      "Artist and Title": "Ozuna - Se Preparó",
+      "Days": "1031",
+      "Pk": "1",
+      "(x?)": "(x21)",
+      "Streams": "6,104",
+      "Streams+": "+108",
+      "7Day": "51,735",
+      "7Day+": "-571",
+      "Total": "5,492,787",
+      "track_id": "1m69ELEgE6k5ZWsap40ozt",
+      "artist_ids": [
+        "1i8SpTcr7yvPOmcqrbnVXY"
+      ]
+    },
+    {
+      "Pos": "78",
+      "P+": "+22",
+      "Artist and Title": "Ovy On The Drums - YO y TÚ (w/ Quevedo, Beéle)",
+      "Days": "471",
+      "Pk": "3",
+      "(x?)": "(x13)",
+      "Streams": "6,101",
+      "Streams+": "+754",
+      "7Day": "46,350",
+      "7Day+": "+199",
+      "Total": "6,599,233",
+      "track_id": "7koAf6aZgjO6TS7bipfPD0",
+      "artist_ids": [
+        "3m5qlPf2OkihLz3dRYnkPA",
+        "52iwsT98xCoGgiGntTiR7K",
+        "7a0XAaPaK2aDSqa8p3QnC7"
+      ]
+    },
+    {
+      "Pos": "79",
+      "P+": "+112",
+      "Artist and Title": "Los Grey's - Te Imagine",
+      "Days": "30",
+      "Pk": "51",
+      "(x?)": "",
+      "Streams": "6,052",
+      "Streams+": "+1,897",
+      "7Day": "44,689",
+      "7Day+": "+120",
+      "Total": "178,105",
+      "track_id": "3XjEUVHTkBgkSt2wiO74jL",
+      "artist_ids": [
+        "5KU9XgpOIxG0kd75YjunQ4"
+      ]
+    },
+    {
+      "Pos": "80",
+      "P+": "-2",
+      "Artist and Title": "LATIN MAFIA - Te Estoy Correteando (w/ Fred again..)",
+      "Days": "31",
+      "Pk": "75",
+      "(x?)": "",
+      "Streams": "6,042",
+      "Streams+": "+52",
+      "7Day": "43,011",
+      "7Day+": "-359",
+      "Total": "183,908",
+      "track_id": "5B579RUazOpBcuxjTZWnMs",
+      "artist_ids": [
+        "6XTGKOV9jceQ6f67lnhpbF",
+        "4oLeXFyACqeem2VImYeBFe"
+      ]
+    },
+    {
+      "Pos": "81",
+      "P+": "+1",
+      "Artist and Title": "Rels B - TU VAS SIN (fav)",
+      "Days": "425",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "6,032",
+      "Streams+": "+228",
+      "7Day": "52,297",
+      "7Day+": "-1,045",
+      "Total": "4,761,184",
+      "track_id": "6uiQ0DqbXTBc8tl0AUKZkR",
+      "artist_ids": [
+        "2IMZYfNi21MGqxopj9fWx8"
+      ]
+    },
+    {
+      "Pos": "82",
+      "P+": "-11",
+      "Artist and Title": "Beéle - mi refe (w/ Ovy On The Drums)",
+      "Days": "637",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "6,020",
+      "Streams+": "-142",
+      "7Day": "53,268",
+      "7Day+": "-1,089",
+      "Total": "8,398,942",
+      "track_id": "4zhk2RS2EZODmBW6il55Qj",
+      "artist_ids": [
+        "7a0XAaPaK2aDSqa8p3QnC7",
+        "3m5qlPf2OkihLz3dRYnkPA"
+      ]
+    },
+    {
+      "Pos": "83",
+      "P+": "-16",
+      "Artist and Title": "Mora - Volando - Remix (w/ Bad Bunny, Sech)",
+      "Days": "1493",
+      "Pk": "1",
+      "(x?)": "(x4)",
+      "Streams": "6,018",
+      "Streams+": "-276",
+      "7Day": "48,329",
+      "7Day+": "-702",
+      "Total": "24,163,515",
+      "track_id": "0G2zPzWqVjR68iNPmx2TBe",
+      "artist_ids": [
+        "0Q8NcsJwoCbZOHHW63su5S",
+        "4q3ewBCX7sLwd24euuV69X",
+        "77ziqFxp5gaInVrF2lj4ht"
+      ]
+    },
+    {
+      "Pos": "84",
+      "P+": "+5",
+      "Artist and Title": "La T y La M - Amor de Vago (w/ Malandro)",
+      "Days": "707",
+      "Pk": "1",
+      "(x?)": "(x17)",
+      "Streams": "5,990",
+      "Streams+": "+431",
+      "7Day": "51,272",
+      "7Day+": "-149",
+      "Total": "12,195,189",
+      "track_id": "5MKbWaXeSQSmzmo7gPQha1",
+      "artist_ids": [
+        "1FxPMQ9A0882eNDx3ZkD6B",
+        "6Gsh7oJoJ5EQUuQk0EhfWL"
+      ]
+    },
+    {
+      "Pos": "85",
+      "P+": "+8",
+      "Artist and Title": "Romeo Santos - Imitadora",
+      "Days": "696",
+      "Pk": "49",
+      "(x?)": "",
+      "Streams": "5,957",
+      "Streams+": "+470",
+      "7Day": "45,674",
+      "7Day+": "-781",
+      "Total": "3,200,417",
+      "track_id": "6r46lnXFbE9fr2d3KNaGbe",
+      "artist_ids": [
+        "5lwmRuXgjX8xIwlnauTZIP"
+      ]
+    },
+    {
+      "Pos": "86",
+      "P+": "+18",
+      "Artist and Title": "De La Rose - NUBES (w/ Omar Courtz)",
+      "Days": "545",
+      "Pk": "14",
+      "(x?)": "",
+      "Streams": "5,947",
+      "Streams+": "+629",
+      "7Day": "42,856",
+      "7Day+": "+206",
+      "Total": "5,055,556",
+      "track_id": "31we7ZzWdSBEOKs5Ln6QVF",
+      "artist_ids": [
+        "54seKvtsZauR1iauN0ptpo",
+        "3E12tRURRvPfHz0hAMCFYc"
+      ]
+    },
+    {
+      "Pos": "87",
+      "P+": "+64",
+      "Artist and Title": "Andrés Calamaro - Flaca",
+      "Days": "912",
+      "Pk": "70",
+      "(x?)": "",
+      "Streams": "5,929",
+      "Streams+": "+1,333",
+      "7Day": "10,525",
+      "7Day+": "+862",
+      "Total": "4,565,512",
+      "track_id": "1p7m9H4H8s0Y7SgRm7j3ED",
+      "artist_ids": [
+        "3tAICgiSR5PfYY4B8qsoAU"
+      ]
+    },
+    {
+      "Pos": "88",
+      "P+": "-9",
+      "Artist and Title": "Bad Bunny - Ojitos Lindos (w/ Bomba Estéreo)",
+      "Days": "1596",
+      "Pk": "1",
+      "(x?)": "(x44)",
+      "Streams": "5,906",
+      "Streams+": "-58",
+      "7Day": "51,117",
+      "7Day+": "-1,469",
+      "Total": "28,121,844",
+      "track_id": "3k3NWokhRRkEPhCzPmV8TW",
+      "artist_ids": [
+        "4q3ewBCX7sLwd24euuV69X",
+        "5n9bMYfz9qss2VOW89EVs2"
+      ]
+    },
+    {
+      "Pos": "89",
+      "P+": "+28",
       "Artist and Title": "Bad Bunny - NO ME QUIERO CASAR",
-      "Days": "496",
+      "Days": "497",
       "Pk": "16",
       "(x?)": "",
-      "Streams": "5,036",
-      "Streams+": "-390",
-      "7Day": "40,030",
-      "7Day+": "+210",
-      "Total": "3,279,371",
+      "Streams": "5,887",
+      "Streams+": "+851",
+      "7Day": "40,402",
+      "7Day+": "+372",
+      "Total": "3,285,258",
       "track_id": "39L3LdlHS3gqB62HPWaJRg",
       "artist_ids": [
         "4q3ewBCX7sLwd24euuV69X"
       ]
     },
     {
-      "Pos": "118",
-      "P+": "RE",
-      "Artist and Title": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj)",
-      "Days": "161",
-      "Pk": "6",
+      "Pos": "90",
+      "P+": "+60",
+      "Artist and Title": "Xavi - En Privado (w/ Manuel Turizo)",
+      "Days": "559",
+      "Pk": "13",
       "(x?)": "",
-      "Streams": "5,003",
-      "Streams+": "",
-      "7Day": "22,348",
-      "7Day+": "+13",
-      "Total": "1,126,682",
-      "track_id": "6QFCMUUq1T2Vf5sFUXcuQ7",
+      "Streams": "5,885",
+      "Streams+": "+1,275",
+      "7Day": "39,855",
+      "7Day+": "+1,069",
+      "Total": "5,469,553",
+      "track_id": "2SkB7jADnfiWH8qAE9H8cO",
       "artist_ids": [
-        "1uNFoZAHBGtllmzznpCI3s",
-        "0hCNtLu0JehylgoiP8L4Gh"
+        "3Me35AWHCGqW4sZ7bWWJt1",
+        "0tmwSHipWxN12fsoLcFU3B"
       ]
     },
     {
-      "Pos": "119",
-      "P+": "RE",
+      "Pos": "91",
+      "P+": "+28",
       "Artist and Title": "Airbag - Nunca Lo Olvides",
-      "Days": "8",
-      "Pk": "108",
+      "Days": "9",
+      "Pk": "91",
       "(x?)": "",
-      "Streams": "4,999",
-      "Streams+": "",
-      "7Day": "4,999",
-      "7Day+": "+4,999",
-      "Total": "38,507",
+      "Streams": "5,885",
+      "Streams+": "+886",
+      "7Day": "10,884",
+      "7Day+": "+5,885",
+      "Total": "44,392",
       "track_id": "4581iSIX0QZNNzAQRysF3k",
       "artist_ids": [
         "1wKDGglKV4FsFS85r2Dmpr"
       ]
     },
     {
-      "Pos": "120",
-      "P+": "-9",
-      "Artist and Title": "Manuel Turizo - La Bachata",
-      "Days": "1427",
-      "Pk": "1",
-      "(x?)": "(x55)",
-      "Streams": "4,998",
-      "Streams+": "-1,163",
-      "7Day": "43,180",
-      "7Day+": "-583",
-      "Total": "29,184,506",
-      "track_id": "3tt9i3Hhzq84dPS8H7iSiJ",
+      "Pos": "92",
+      "P+": "+11",
+      "Artist and Title": "Oscar Maydon - Tu Boda (w/ Fuerza Regida)",
+      "Days": "591",
+      "Pk": "15",
+      "(x?)": "",
+      "Streams": "5,845",
+      "Streams+": "+524",
+      "7Day": "41,566",
+      "7Day+": "+72",
+      "Total": "4,341,222",
+      "track_id": "1cOboCuWYI2osTOfolMRS6",
       "artist_ids": [
-        "0tmwSHipWxN12fsoLcFU3B"
+        "3l9G1G9MxH6DaRhwLklaf5",
+        "0ys2OFYzWYB5hRDLCsBqxt"
       ]
     },
     {
-      "Pos": "121",
-      "P+": "+2",
+      "Pos": "93",
+      "P+": "-30",
+      "Artist and Title": "Lalo Y Los Descalzos - Te Quiero Asi",
+      "Days": "732",
+      "Pk": "3",
+      "(x?)": "(x7)",
+      "Streams": "5,798",
+      "Streams+": "-653",
+      "7Day": "64,489",
+      "7Day+": "-1,494",
+      "Total": "9,342,474",
+      "track_id": "372WH7eXbJKJX37iYPeqvR",
+      "artist_ids": [
+        "3k7FDxixhDQYNuxOtiN7jl"
+      ]
+    },
+    {
+      "Pos": "94",
+      "P+": "-9",
+      "Artist and Title": "Tainy - MOJABI GHOST (w/ Bad Bunny)",
+      "Days": "1031",
+      "Pk": "29",
+      "(x?)": "",
+      "Streams": "5,777",
+      "Streams+": "+63",
+      "7Day": "46,176",
+      "7Day+": "-426",
+      "Total": "8,006,716",
+      "track_id": "46YjJXVXWHlQ21odKktg5e",
+      "artist_ids": [
+        "0GM7qgcRCORpGnfcN2tCiB",
+        "4q3ewBCX7sLwd24euuV69X"
+      ]
+    },
+    {
+      "Pos": "95",
+      "P+": "-9",
+      "Artist and Title": "Grupo Frontera - un x100to (w/ Bad Bunny)",
+      "Days": "1208",
+      "Pk": "1",
+      "(x?)": "(x67)",
+      "Streams": "5,775",
+      "Streams+": "+90",
+      "7Day": "47,812",
+      "7Day+": "-657",
+      "Total": "24,494,665",
+      "track_id": "2yzshFeBIwH8tWIqHEFLeD",
+      "artist_ids": [
+        "6XkjpgcEsYab502Vr1bBeW",
+        "4q3ewBCX7sLwd24euuV69X"
+      ]
+    },
+    {
+      "Pos": "96",
+      "P+": "-12",
+      "Artist and Title": "Brytiago - Estoy Pa' Ti",
+      "Days": "42",
+      "Pk": "21",
+      "(x?)": "",
+      "Streams": "5,767",
+      "Streams+": "+51",
+      "7Day": "47,106",
+      "7Day+": "-920",
+      "Total": "357,790",
+      "track_id": "4KYEVjuYfB2qaA5paEB4kn",
+      "artist_ids": [
+        "00XhexlJEXQstHimpZN910"
+      ]
+    },
+    {
+      "Pos": "97",
+      "P+": "-5",
+      "Artist and Title": "Anuel AA - Hasta Que Dios Diga (w/ Bad Bunny)",
+      "Days": "1575",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "5,736",
+      "Streams+": "+217",
+      "7Day": "45,507",
+      "7Day+": "-547",
+      "Total": "14,750,191",
+      "track_id": "06s3QtMJVXw1AJX3UfvZG1",
+      "artist_ids": [
+        "2R21vXR83lH98kGeO99Y66",
+        "4q3ewBCX7sLwd24euuV69X"
+      ]
+    },
+    {
+      "Pos": "98",
+      "P+": "+23",
       "Artist and Title": "Maluma - Cuatro Babys (w/ Trap Capos, Noriel, Bryant Myers, Juhn)",
-      "Days": "931",
+      "Days": "932",
       "Pk": "8",
       "(x?)": "",
-      "Streams": "4,968",
-      "Streams+": "-888",
-      "7Day": "41,843",
-      "7Day+": "+47",
-      "Total": "5,059,667",
+      "Streams": "5,707",
+      "Streams+": "+739",
+      "7Day": "41,859",
+      "7Day+": "+16",
+      "Total": "5,065,374",
       "track_id": "0JoHqmlqE0W0i9prt6kcHR",
       "artist_ids": [
         "1r4hJ1h58CWwUQe3MxPuau",
@@ -2164,52 +1752,124 @@
       ]
     },
     {
-      "Pos": "122",
-      "P+": "+37",
-      "Artist and Title": "SAIKO - COSAS QUE NO TE DIJE",
-      "Days": "769",
-      "Pk": "42",
-      "(x?)": "",
-      "Streams": "4,945",
-      "Streams+": "-430",
-      "7Day": "33,804",
-      "7Day+": "-109",
-      "Total": "4,508,380",
-      "track_id": "5xSt1wxZobFcLzHrFakv6z",
+      "Pos": "99",
+      "P+": "-24",
+      "Artist and Title": "Zion & Lennox - Otra vez (w/ J Balvin)",
+      "Days": "1929",
+      "Pk": "1",
+      "(x?)": "(x101)",
+      "Streams": "5,563",
+      "Streams+": "-453",
+      "7Day": "53,632",
+      "7Day+": "-1,667",
+      "Total": "9,923,476",
+      "track_id": "3QwBODjSEzelZyVjxPOHdq",
       "artist_ids": [
-        "2O8vbr4RYPpk6MRA4fio7u"
+        "21451j1KhjAiaYKflxBjr1",
+        "1vyhD5VmyZ7KMfW5gqLgo5"
       ]
     },
     {
-      "Pos": "123",
-      "P+": "+27",
-      "Artist and Title": "Yan Block - Talento (w/ Panda Black)",
-      "Days": "295",
-      "Pk": "29",
+      "Pos": "100",
+      "P+": "-1",
+      "Artist and Title": "El Cuarteto De Nos - Enamorado tuyo",
+      "Days": "136",
+      "Pk": "75",
       "(x?)": "",
-      "Streams": "4,926",
-      "Streams+": "-540",
-      "7Day": "34,007",
-      "7Day+": "-369",
-      "Total": "2,238,916",
-      "track_id": "7sChwC2NZjGc2Kdni3hlDg",
+      "Streams": "5,555",
+      "Streams+": "+185",
+      "7Day": "27,590",
+      "7Day+": "-138",
+      "Total": "698,122",
+      "track_id": "35LdDKNMwvKftENaj1WIwF",
       "artist_ids": [
-        "6TKygPpVT29oGUogu4J9Ec",
-        "1QcutbFtA6u8A2ZFTZuLSL"
+        "13JJKrUewC1CJYmIDXQNoH"
       ]
     },
     {
-      "Pos": "124",
-      "P+": "-3",
+      "Pos": "101",
+      "P+": "-25",
+      "Artist and Title": "Bad Bunny - Moscow Mule",
+      "Days": "1560",
+      "Pk": "1",
+      "(x?)": "(x3)",
+      "Streams": "5,545",
+      "Streams+": "-469",
+      "7Day": "48,483",
+      "7Day+": "-863",
+      "Total": "22,492,926",
+      "track_id": "6Xom58OOXk2SoU711L2IXO",
+      "artist_ids": [
+        "4q3ewBCX7sLwd24euuV69X"
+      ]
+    },
+    {
+      "Pos": "102",
+      "P+": "-30",
+      "Artist and Title": "Super Express - Se Murió De Amor",
+      "Days": "256",
+      "Pk": "50",
+      "(x?)": "",
+      "Streams": "5,493",
+      "Streams+": "-636",
+      "7Day": "55,724",
+      "7Day+": "-207",
+      "Total": "1,408,962",
+      "track_id": "6bh1oFUx6IshmPmvMnzS9o",
+      "artist_ids": [
+        "2fEqFVta8r3Umo6VbjJGWU"
+      ]
+    },
+    {
+      "Pos": "103",
+      "P+": "+32",
+      "Artist and Title": "Dalex - Hola - Remix (w/ Lenny Tavárez, Chencho Corleone, Juhn, Dímelo Flow)",
+      "Days": "1506",
+      "Pk": "1",
+      "(x?)": "(x5)",
+      "Streams": "5,486",
+      "Streams+": "+664",
+      "7Day": "39,562",
+      "7Day+": "+401",
+      "Total": "14,937,959",
+      "track_id": "5stPVcRqb4qixbafP9e8lt",
+      "artist_ids": [
+        "0KPX4Ucy9dk82uj4GpKesn",
+        "1pQWsZQehhS4wavwh7Fnxd",
+        "37230BxxYs9ksS7OkZw3IU",
+        "2LmcxBak1alK1bf7d1beTr",
+        "3fZk3Gm5dN5v5yfYMQ04Bx"
+      ]
+    },
+    {
+      "Pos": "104",
+      "P+": "-9",
+      "Artist and Title": "The Police - Every Breath You Take",
+      "Days": "608",
+      "Pk": "63",
+      "(x?)": "",
+      "Streams": "5,485",
+      "Streams+": "+43",
+      "7Day": "40,489",
+      "7Day+": "-247",
+      "Total": "3,182,170",
+      "track_id": "1JSTJqkT5qHq8MDJnJbRE1",
+      "artist_ids": [
+        "5NGO30tJxFlKixkPSgXcFE"
+      ]
+    },
+    {
+      "Pos": "105",
+      "P+": "+19",
       "Artist and Title": "Alex Rose - Darte Remix (w/ Casper Magico, Miky Woodz, Myke Towers, JHAYCO, Ñengo Flow, Bryant Myers, Juhn, Noriel)",
-      "Days": "119",
+      "Days": "120",
       "Pk": "76",
       "(x?)": "",
-      "Streams": "4,922",
-      "Streams+": "-958",
-      "7Day": "42,169",
-      "7Day+": "-227",
-      "Total": "656,941",
+      "Streams": "5,484",
+      "Streams+": "+562",
+      "7Day": "41,623",
+      "7Day+": "-546",
+      "Total": "662,425",
       "track_id": "6hKkPY7Ik8Q7uNnCzvLNL9",
       "artist_ids": [
         "2DspEsT7UXGKd2VaaedgG4",
@@ -2224,671 +1884,17 @@
       ]
     },
     {
-      "Pos": "125",
-      "P+": "+43",
-      "Artist and Title": "Tainy - Lo Siento BB:/ (w/ Bad Bunny, Julieta Venegas)",
-      "Days": "1011",
-      "Pk": "1",
-      "(x?)": "(x115)",
-      "Streams": "4,904",
-      "Streams+": "-408",
-      "7Day": "39,302",
-      "7Day+": "+288",
-      "Total": "19,820,271",
-      "track_id": "4gzsuuZypVbxs0Af1LSZyB",
-      "artist_ids": [
-        "0GM7qgcRCORpGnfcN2tCiB",
-        "4q3ewBCX7sLwd24euuV69X",
-        "2QWIScpFDNxmS6ZEMIUvgm"
-      ]
-    },
-    {
-      "Pos": "126",
-      "P+": "-68",
-      "Artist and Title": "Lalo Y Los Descalzos - Siempre Me Buscabas",
-      "Days": "1033",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "4,876",
-      "Streams+": "-3,174",
-      "7Day": "51,900",
-      "7Day+": "+4,876",
-      "Total": "11,236,815",
-      "track_id": "4AdkryAxDTbgwQdqtFH8qx",
-      "artist_ids": [
-        "3k7FDxixhDQYNuxOtiN7jl"
-      ]
-    },
-    {
-      "Pos": "127",
-      "P+": "+10",
-      "Artist and Title": "Omar Courtz - FOREVER TU GANTEL (w/ Ñengo Flow)",
-      "Days": "222",
-      "Pk": "18",
-      "(x?)": "",
-      "Streams": "4,872",
-      "Streams+": "-730",
-      "7Day": "40,694",
-      "7Day+": "-168",
-      "Total": "1,913,806",
-      "track_id": "1YAWMfsmduIrpqrjP45pFn",
-      "artist_ids": [
-        "3E12tRURRvPfHz0hAMCFYc",
-        "12vb80Km0Ew53ABfJOepVz"
-      ]
-    },
-    {
-      "Pos": "128",
-      "P+": "-6",
-      "Artist and Title": "Danny Ocean - Imagínate (w/ Kapo)",
-      "Days": "665",
-      "Pk": "17",
-      "(x?)": "",
-      "Streams": "4,866",
-      "Streams+": "-1,009",
-      "7Day": "42,058",
-      "7Day+": "-724",
-      "Total": "5,504,938",
-      "track_id": "4zbEItKoaRId1vRZkoO0Uh",
-      "artist_ids": [
-        "5H1nN1SzW0qNeUEZvuXjAj",
-        "3UTF2no3muGdiFXVujl94i"
-      ]
-    },
-    {
-      "Pos": "129",
-      "P+": "-21",
-      "Artist and Title": "Arcángel - Hace Mucho Tiempo",
-      "Days": "1128",
-      "Pk": "22",
-      "(x?)": "",
-      "Streams": "4,866",
-      "Streams+": "-1,308",
-      "7Day": "45,532",
-      "7Day+": "-391",
-      "Total": "8,809,372",
-      "track_id": "0a6ogDrZBvYgDjILgsQVaJ",
-      "artist_ids": [
-        "4SsVbpTthjScTS7U2hmr1X"
-      ]
-    },
-    {
-      "Pos": "130",
-      "P+": "RE",
-      "Artist and Title": "Tan Bionica - Obsesionario en La Mayor",
-      "Days": "187",
-      "Pk": "57",
-      "(x?)": "",
-      "Streams": "4,855",
-      "Streams+": "",
-      "7Day": "4,855",
-      "7Day+": "+514",
-      "Total": "929,562",
-      "track_id": "2YNMRnIJMCxDQWYfXRxJmB",
-      "artist_ids": [
-        "37MCoi4pcUf9EKsPXeuCqU"
-      ]
-    },
-    {
-      "Pos": "131",
-      "P+": "RE",
-      "Artist and Title": "Los Auténticos Decadentes - Un Osito de Peluche de Taiwán",
-      "Days": "195",
-      "Pk": "73",
-      "(x?)": "",
-      "Streams": "4,842",
-      "Streams+": "",
-      "7Day": "9,532",
-      "7Day+": "+153",
-      "Total": "949,446",
-      "track_id": "6iCnJkKswtMYoSmT58HmEn",
-      "artist_ids": [
-        "3HrbmsYpKjWH1lzhad7alj"
-      ]
-    },
-    {
-      "Pos": "132",
-      "P+": "RE",
-      "Artist and Title": "Turf - Pasos Al Costado",
-      "Days": "9",
-      "Pk": "132",
-      "(x?)": "",
-      "Streams": "4,838",
-      "Streams+": "",
-      "7Day": "26,988",
-      "7Day+": "+4,838",
-      "Total": "45,961",
-      "track_id": "7upAH0ezzsThyvr33YKn4u",
-      "artist_ids": [
-        "0Zncosr79q01riJYbSBNA1"
-      ]
-    },
-    {
-      "Pos": "133",
-      "P+": "+7",
-      "Artist and Title": "Yan Block - 111",
-      "Days": "578",
-      "Pk": "19",
-      "(x?)": "",
-      "Streams": "4,835",
-      "Streams+": "-737",
-      "7Day": "38,491",
-      "7Day+": "-861",
-      "Total": "4,315,542",
-      "track_id": "2SPBFiD8iITb8CKJGz1TEQ",
-      "artist_ids": [
-        "6TKygPpVT29oGUogu4J9Ec"
-      ]
-    },
-    {
-      "Pos": "134",
-      "P+": "-2",
-      "Artist and Title": "JHAYCO - CÓMO SE SIENTE - Remix (w/ Bad Bunny)",
-      "Days": "1413",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "4,829",
-      "Streams+": "-851",
-      "7Day": "39,800",
-      "7Day+": "+249",
-      "Total": "12,171,265",
-      "track_id": "2tFwfmceQa1Y6nRPhYbEtC",
-      "artist_ids": [
-        "6nVcHLIgY5pE2YCl8ubca1",
-        "4q3ewBCX7sLwd24euuV69X"
-      ]
-    },
-    {
-      "Pos": "135",
-      "P+": "+3",
-      "Artist and Title": "Dalex - Hola - Remix (w/ Lenny Tavárez, Chencho Corleone, Juhn, Dímelo Flow)",
-      "Days": "1505",
-      "Pk": "1",
-      "(x?)": "(x5)",
-      "Streams": "4,822",
-      "Streams+": "-774",
-      "7Day": "39,161",
-      "7Day+": "-541",
-      "Total": "14,932,473",
-      "track_id": "5stPVcRqb4qixbafP9e8lt",
-      "artist_ids": [
-        "0KPX4Ucy9dk82uj4GpKesn",
-        "1pQWsZQehhS4wavwh7Fnxd",
-        "37230BxxYs9ksS7OkZw3IU",
-        "2LmcxBak1alK1bf7d1beTr",
-        "3fZk3Gm5dN5v5yfYMQ04Bx"
-      ]
-    },
-    {
-      "Pos": "136",
-      "P+": "+18",
-      "Artist and Title": "Anuel AA - ¿Qué Nos Pasó?",
-      "Days": "407",
-      "Pk": "69",
-      "(x?)": "",
-      "Streams": "4,810",
-      "Streams+": "-602",
-      "7Day": "33,046",
-      "7Day+": "+48",
-      "Total": "2,137,189",
-      "track_id": "7k3qWn8D43a5ISa3x8lJux",
-      "artist_ids": [
-        "2R21vXR83lH98kGeO99Y66"
-      ]
-    },
-    {
-      "Pos": "137",
-      "P+": "RE",
-      "Artist and Title": "Airbag - Cae el Sol",
-      "Days": "48",
-      "Pk": "63",
-      "(x?)": "",
-      "Streams": "4,775",
-      "Streams+": "",
-      "7Day": "4,775",
-      "7Day+": "+4,775",
-      "Total": "264,005",
-      "track_id": "1Mqfdem6pgGVoULjSkkcc9",
-      "artist_ids": [
-        "1wKDGglKV4FsFS85r2Dmpr"
-      ]
-    },
-    {
-      "Pos": "138",
-      "P+": "-34",
-      "Artist and Title": "Plan B - Candy",
-      "Days": "998",
-      "Pk": "62",
-      "(x?)": "",
-      "Streams": "4,773",
-      "Streams+": "-1,458",
-      "7Day": "42,808",
-      "7Day+": "-518",
-      "Total": "6,007,135",
-      "track_id": "2ctjDCCg1wHoQSjIJ8p6U4",
-      "artist_ids": [
-        "2jSGzJw0ebJLu7OLVSOcBP"
-      ]
-    },
-    {
-      "Pos": "139",
-      "P+": "-59",
-      "Artist and Title": "Grupo Cariño De Tomás Cruz - Cumbia Francesa (w/ Tomás Cruz)",
-      "Days": "311",
-      "Pk": "46",
-      "(x?)": "",
-      "Streams": "4,750",
-      "Streams+": "-2,287",
-      "7Day": "48,897",
-      "7Day+": "+4,750",
-      "Total": "2,004,640",
-      "track_id": "1JctrSKhY0vXXdMc9cTNiq",
-      "artist_ids": [
-        "7HJlSr3geNOq2r5BSoYYIg",
-        "6kadToKDkTJHkBhQN3N0tX"
-      ]
-    },
-    {
-      "Pos": "140",
-      "P+": "+34",
-      "Artist and Title": "João Gustavo e Murilo - Postinho de Gasolina (w/ Grelo)",
-      "Days": "3",
-      "Pk": "140",
-      "(x?)": "",
-      "Streams": "4,750",
-      "Streams+": "-513",
-      "7Day": "15,191",
-      "7Day+": "+4,750",
-      "Total": "15,191",
-      "track_id": "0xXYRMvxCUBKWVptybXSjB",
-      "artist_ids": [
-        "6xerOqBLmelL3xZNZkVbGl",
-        "1eIYP01ZLPKEExhcV6xFgt"
-      ]
-    },
-    {
-      "Pos": "141",
-      "P+": "+5",
-      "Artist and Title": "Yan Block - Yo sé (w/ TORRRES)",
-      "Days": "659",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "4,738",
-      "Streams+": "-770",
-      "7Day": "33,104",
-      "7Day+": "-508",
-      "Total": "5,980,121",
-      "track_id": "5DdLSEyKh8zgCrJq2hFj92",
-      "artist_ids": [
-        "6TKygPpVT29oGUogu4J9Ec",
-        "34PYzJSu4DHKEyhdBfsn0E"
-      ]
-    },
-    {
-      "Pos": "142",
-      "P+": "RE",
-      "Artist and Title": "Quevedo - TUCHAT",
-      "Days": "356",
-      "Pk": "37",
-      "(x?)": "",
-      "Streams": "4,728",
-      "Streams+": "",
-      "7Day": "28,257",
-      "7Day+": "-292",
-      "Total": "1,998,487",
-      "track_id": "3bAAv8knmzFpYQsLFoK6de",
-      "artist_ids": [
-        "52iwsT98xCoGgiGntTiR7K"
-      ]
-    },
-    {
-      "Pos": "143",
-      "P+": "+45",
-      "Artist and Title": "Omar Courtz - SI ESTÁS CON ALGUIEN",
-      "Days": "218",
-      "Pk": "51",
-      "(x?)": "",
-      "Streams": "4,722",
-      "Streams+": "-365",
-      "7Day": "33,222",
-      "7Day+": "-30",
-      "Total": "1,321,613",
-      "track_id": "7nyk5uxevcijIfl1FlJgmA",
-      "artist_ids": [
-        "3E12tRURRvPfHz0hAMCFYc"
-      ]
-    },
-    {
-      "Pos": "144",
-      "P+": "-8",
-      "Artist and Title": "Boza - Hecha Pa' Mi",
-      "Days": "916",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "4,706",
-      "Streams+": "-933",
-      "7Day": "40,621",
-      "7Day+": "+253",
-      "Total": "10,807,253",
-      "track_id": "3VvA1wSxukMLsvXoXtlwWx",
-      "artist_ids": [
-        "2NfSBtmWe7oPw1EmetJVso"
-      ]
-    },
-    {
-      "Pos": "145",
-      "P+": "-29",
-      "Artist and Title": "Rauw Alejandro - Qué Pasaría... (w/ Bad Bunny)",
-      "Days": "665",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "4,702",
-      "Streams+": "-1,317",
-      "7Day": "42,603",
-      "7Day+": "-187",
-      "Total": "7,518,519",
-      "track_id": "0l0vcZMU7AOeQmUIREoI2U",
-      "artist_ids": [
-        "1mcTU81TzQhprhouKaTkpq",
-        "4q3ewBCX7sLwd24euuV69X"
-      ]
-    },
-    {
-      "Pos": "146",
-      "P+": "+39",
-      "Artist and Title": "Bacilos - Caraluna",
-      "Days": "706",
-      "Pk": "65",
-      "(x?)": "",
-      "Streams": "4,697",
-      "Streams+": "-461",
-      "7Day": "33,154",
-      "7Day+": "-558",
-      "Total": "3,788,639",
-      "track_id": "7DhYjNLksXZhbRQeheAums",
-      "artist_ids": [
-        "1mux8L6xg2Cmrc7k0wQczl"
-      ]
-    },
-    {
-      "Pos": "147",
-      "P+": "-30",
-      "Artist and Title": "Don Omar - Salio El Sol",
-      "Days": "1072",
-      "Pk": "30",
-      "(x?)": "",
-      "Streams": "4,688",
-      "Streams+": "-1,288",
-      "7Day": "43,815",
-      "7Day+": "-193",
-      "Total": "4,776,510",
-      "track_id": "48NXpYRuvv9izul4oXhqS9",
-      "artist_ids": [
-        "33ScadVnbm2X8kkUqOkC6Z"
-      ]
-    },
-    {
-      "Pos": "148",
-      "P+": "+12",
-      "Artist and Title": "Yan Block - 222",
-      "Days": "106",
-      "Pk": "25",
-      "(x?)": "",
-      "Streams": "4,671",
-      "Streams+": "-700",
-      "7Day": "32,564",
-      "7Day+": "-459",
-      "Total": "682,952",
-      "track_id": "3bp6VjYqCgTQiOZSVWTl92",
-      "artist_ids": [
-        "6TKygPpVT29oGUogu4J9Ec"
-      ]
-    },
-    {
-      "Pos": "149",
-      "P+": "+31",
-      "Artist and Title": "Omar Courtz - Comernos (w/ Bad Gyal)",
-      "Days": "410",
-      "Pk": "51",
-      "(x?)": "",
-      "Streams": "4,611",
-      "Streams+": "-570",
-      "7Day": "32,867",
-      "7Day+": "-314",
-      "Total": "2,302,474",
-      "track_id": "29twJUQo66aqSd3lxoeswV",
-      "artist_ids": [
-        "3E12tRURRvPfHz0hAMCFYc",
-        "4F4pp8NUW08JuXwnoxglpN"
-      ]
-    },
-    {
-      "Pos": "150",
-      "P+": "+14",
-      "Artist and Title": "Xavi - En Privado (w/ Manuel Turizo)",
-      "Days": "558",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "4,610",
-      "Streams+": "-725",
-      "7Day": "38,786",
-      "7Day+": "-92",
-      "Total": "5,463,668",
-      "track_id": "2SkB7jADnfiWH8qAE9H8cO",
-      "artist_ids": [
-        "3Me35AWHCGqW4sZ7bWWJt1",
-        "0tmwSHipWxN12fsoLcFU3B"
-      ]
-    },
-    {
-      "Pos": "151",
-      "P+": "RE",
-      "Artist and Title": "Andrés Calamaro - Flaca",
-      "Days": "911",
-      "Pk": "70",
-      "(x?)": "",
-      "Streams": "4,596",
-      "Streams+": "",
-      "7Day": "9,663",
-      "7Day+": "-496",
-      "Total": "4,559,583",
-      "track_id": "1p7m9H4H8s0Y7SgRm7j3ED",
-      "artist_ids": [
-        "3tAICgiSR5PfYY4B8qsoAU"
-      ]
-    },
-    {
-      "Pos": "152",
-      "P+": "-60",
-      "Artist and Title": "Roze Oficial - Tu jardín con enanitos (w/ Max Carra, Valen, RAMKY EN LOS CONTROLES)",
-      "Days": "160",
-      "Pk": "20",
-      "(x?)": "",
-      "Streams": "4,588",
-      "Streams+": "-1,931",
-      "7Day": "42,694",
-      "7Day+": "+182",
-      "Total": "1,151,426",
-      "track_id": "4FIDq6NTwNBOTx9L8lRYkY",
-      "artist_ids": [
-        "2Hxu0Wmd7FUm0euCVInVrN",
-        "483P9cJ9pdCoc08XvNunPL",
-        "4OpKA1Qx8VYnSmrhKQ4zJz",
-        "6jXFmaC0CvsIRSzxapsnNd"
-      ]
-    },
-    {
-      "Pos": "153",
-      "P+": "-79",
-      "Artist and Title": "Tropical Caribe - Tomame O Dejame",
-      "Days": "1726",
-      "Pk": "15",
-      "(x?)": "",
-      "Streams": "4,582",
-      "Streams+": "-2,734",
-      "7Day": "36,120",
-      "7Day+": "+4,582",
-      "Total": "12,377,215",
-      "track_id": "3X0jce1hWcs0sP2AIO94pK",
-      "artist_ids": [
-        "2dEjLtjgTsWfw5itGqF97f"
-      ]
-    },
-    {
-      "Pos": "154",
-      "P+": "-63",
-      "Artist and Title": "Don Omar - Dile",
-      "Days": "1377",
-      "Pk": "53",
-      "(x?)": "",
-      "Streams": "4,576",
-      "Streams+": "-1,961",
-      "7Day": "46,002",
-      "7Day+": "+24",
-      "Total": "7,648,394",
-      "track_id": "69Ej1xrGjOcHvIMtMKxK0G",
-      "artist_ids": [
-        "33ScadVnbm2X8kkUqOkC6Z"
-      ]
-    },
-    {
-      "Pos": "155",
-      "P+": "RE",
-      "Artist and Title": "KAROL G - PERO TÚ (w/ Quevedo)",
-      "Days": "734",
-      "Pk": "61",
-      "(x?)": "",
-      "Streams": "4,532",
-      "Streams+": "",
-      "7Day": "28,655",
-      "7Day+": "+4,532",
-      "Total": "4,235,002",
-      "track_id": "1dw7qShk971xMD6r6mA4VN",
-      "artist_ids": [
-        "790FomKkXshlbRYZFtlgla",
-        "52iwsT98xCoGgiGntTiR7K"
-      ]
-    },
-    {
-      "Pos": "156",
-      "P+": "-27",
-      "Artist and Title": "Anuel AA - China (w/ Daddy Yankee, KAROL G, J Balvin, Ozuna)",
-      "Days": "591",
-      "Pk": "1",
-      "(x?)": "(x46)",
-      "Streams": "4,519",
-      "Streams+": "-1,239",
-      "7Day": "39,397",
-      "7Day+": "-223",
-      "Total": "7,993,700",
-      "track_id": "2ksOAxtIxY8yElEWw8RhgK",
-      "artist_ids": [
-        "2R21vXR83lH98kGeO99Y66",
-        "4VMYDCV2IEDYJArk749S6m",
-        "790FomKkXshlbRYZFtlgla",
-        "1vyhD5VmyZ7KMfW5gqLgo5",
-        "1i8SpTcr7yvPOmcqrbnVXY"
-      ]
-    },
-    {
-      "Pos": "157",
-      "P+": "-8",
-      "Artist and Title": "Don Omar - Virtual Diva",
-      "Days": "1087",
-      "Pk": "57",
-      "(x?)": "",
-      "Streams": "4,492",
-      "Streams+": "-980",
-      "7Day": "41,386",
-      "7Day+": "-103",
-      "Total": "5,445,113",
-      "track_id": "5nJaS3PEpyPfaWiLxIGtRX",
-      "artist_ids": [
-        "33ScadVnbm2X8kkUqOkC6Z"
-      ]
-    },
-    {
-      "Pos": "158",
-      "P+": "-24",
-      "Artist and Title": "Lunay - Soltera - Remix (w/ Daddy Yankee, Bad Bunny)",
-      "Days": "710",
-      "Pk": "2",
-      "(x?)": "(x21)",
-      "Streams": "4,483",
-      "Streams+": "-1,179",
-      "7Day": "37,452",
-      "7Day+": "+124",
-      "Total": "7,053,720",
-      "track_id": "1c0hsvHLELX6y8qymnpLKL",
-      "artist_ids": [
-        "47MpMsUfWtgyIIBEFOr4FE",
-        "4VMYDCV2IEDYJArk749S6m",
-        "4q3ewBCX7sLwd24euuV69X"
-      ]
-    },
-    {
-      "Pos": "159",
-      "P+": "-2",
-      "Artist and Title": "Ozuna - El Farsante",
-      "Days": "333",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "4,471",
-      "Streams+": "-925",
-      "7Day": "26,135",
-      "7Day+": "+4,471",
-      "Total": "1,610,917",
-      "track_id": "5EId1m4DNwTf3at31w8bPJ",
-      "artist_ids": [
-        "1i8SpTcr7yvPOmcqrbnVXY"
-      ]
-    },
-    {
-      "Pos": "160",
-      "P+": "RE",
-      "Artist and Title": "Fuerza Regida - ANSIEDAD",
-      "Days": "177",
-      "Pk": "61",
-      "(x?)": "",
-      "Streams": "4,465",
-      "Streams+": "",
-      "7Day": "15,123",
-      "7Day+": "-474",
-      "Total": "1,006,975",
-      "track_id": "1a7onn7lPqqRWul5ogyMyX",
-      "artist_ids": [
-        "0ys2OFYzWYB5hRDLCsBqxt"
-      ]
-    },
-    {
-      "Pos": "161",
-      "P+": "RE",
-      "Artist and Title": "No Te Va Gustar - A las Nueve",
-      "Days": "995",
-      "Pk": "64",
-      "(x?)": "",
-      "Streams": "4,459",
-      "Streams+": "",
-      "7Day": "4,459",
-      "7Day+": "-194",
-      "Total": "5,222,933",
-      "track_id": "0CgpCtEPvyDizcg2p47VrU",
-      "artist_ids": [
-        "4ZDoy7AWNgQVmX7T0u0B1j"
-      ]
-    },
-    {
-      "Pos": "162",
-      "P+": "-17",
+      "Pos": "106",
+      "P+": "+56",
       "Artist and Title": "Jay Wheeler - La Curiosidad (w/ DJ Nelson, Myke Towers)",
-      "Days": "2085",
+      "Days": "2086",
       "Pk": "1",
       "(x?)": "(x19)",
-      "Streams": "4,439",
-      "Streams+": "-1,082",
-      "7Day": "33,769",
-      "7Day+": "-796",
-      "Total": "24,280,438",
+      "Streams": "5,466",
+      "Streams+": "+1,027",
+      "7Day": "34,013",
+      "7Day+": "+244",
+      "Total": "24,285,904",
       "track_id": "4HYDUMY0xSpeBr0AMY9cUz",
       "artist_ids": [
         "2cPqdH7XMvwaBJEVjheH8g",
@@ -2897,17 +1903,200 @@
       ]
     },
     {
-      "Pos": "163",
-      "P+": "+21",
+      "Pos": "107",
+      "P+": "+34",
+      "Artist and Title": "Yan Block - Yo sé (w/ TORRRES)",
+      "Days": "660",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "5,458",
+      "Streams+": "+720",
+      "7Day": "33,250",
+      "7Day+": "+146",
+      "Total": "5,985,579",
+      "track_id": "5DdLSEyKh8zgCrJq2hFj92",
+      "artist_ids": [
+        "6TKygPpVT29oGUogu4J9Ec",
+        "34PYzJSu4DHKEyhdBfsn0E"
+      ]
+    },
+    {
+      "Pos": "108",
+      "P+": "-21",
+      "Artist and Title": "Mc Jacaré - Pau Pra Toda Obra (w/ MC Ryan SP, Mc Lele JP, Mc IG)",
+      "Days": "90",
+      "Pk": "49",
+      "(x?)": "",
+      "Streams": "5,448",
+      "Streams+": "-143",
+      "7Day": "52,288",
+      "7Day+": "-1,190",
+      "Total": "617,346",
+      "track_id": "2zUC2BnjdVkB0OWvFQkKHa",
+      "artist_ids": [
+        "6qrqAYlS6lUj2BVXax7SZW",
+        "75i9GaW2MJUgt4BkdUnuUY",
+        "1mV9h1AwhRXSjBFcYpajgY",
+        "2q9wk5fkeU2C9CgCKdh4AN"
+      ]
+    },
+    {
+      "Pos": "109",
+      "P+": "-12",
+      "Artist and Title": "Oasis - Wonderwall - Remastered",
+      "Days": "235",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "5,423",
+      "Streams+": "+39",
+      "7Day": "22,366",
+      "7Day+": "-426",
+      "Total": "976,949",
+      "track_id": "5qqabIl2vWzo9ApSC317sa",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ]
+    },
+    {
+      "Pos": "110",
+      "P+": "+17",
+      "Artist and Title": "Omar Courtz - FOREVER TU GANTEL (w/ Ñengo Flow)",
+      "Days": "223",
+      "Pk": "18",
+      "(x?)": "",
+      "Streams": "5,422",
+      "Streams+": "+550",
+      "7Day": "40,655",
+      "7Day+": "-39",
+      "Total": "1,919,228",
+      "track_id": "1YAWMfsmduIrpqrjP45pFn",
+      "artist_ids": [
+        "3E12tRURRvPfHz0hAMCFYc",
+        "12vb80Km0Ew53ABfJOepVz"
+      ]
+    },
+    {
+      "Pos": "111",
+      "P+": "+26",
+      "Artist and Title": "Airbag - Cae el Sol",
+      "Days": "49",
+      "Pk": "63",
+      "(x?)": "",
+      "Streams": "5,400",
+      "Streams+": "+625",
+      "7Day": "10,175",
+      "7Day+": "+5,400",
+      "Total": "269,405",
+      "track_id": "1Mqfdem6pgGVoULjSkkcc9",
+      "artist_ids": [
+        "1wKDGglKV4FsFS85r2Dmpr"
+      ]
+    },
+    {
+      "Pos": "112",
+      "P+": "+2",
+      "Artist and Title": "MC Kauan PV - Vou Tacar na Peka das Bebê (w/ Coral das Quebradas, DJ Yago)",
+      "Days": "6",
+      "Pk": "110",
+      "(x?)": "",
+      "Streams": "5,394",
+      "Streams+": "+330",
+      "7Day": "36,476",
+      "7Day+": "+5,394",
+      "Total": "36,476",
+      "track_id": "4PNIgN43zkQgCgQggJ99bU",
+      "artist_ids": [
+        "71wi4mvYLNprbPHLb8qgyQ",
+        "13W2ppQdsYiWw9zynrNzjZ",
+        "4tdmp3YXtKZU6mk91K9yJb"
+      ]
+    },
+    {
+      "Pos": "113",
+      "P+": "-12",
+      "Artist and Title": "Omar Courtz - VAMOaCOCHI",
+      "Days": "221",
+      "Pk": "16",
+      "(x?)": "",
+      "Streams": "5,388",
+      "Streams+": "+47",
+      "7Day": "41,951",
+      "7Day+": "-365",
+      "Total": "1,630,495",
+      "track_id": "1oghNMGW42IhtQPNU6leZz",
+      "artist_ids": [
+        "3E12tRURRvPfHz0hAMCFYc"
+      ]
+    },
+    {
+      "Pos": "114",
+      "P+": "-26",
+      "Artist and Title": "DJ Japa NK - Posso Até Não Te Dar Flores (w/ MC Meno K, MC Ryan SP, Mc Jacaré, DJ DAVI DOGDOG)",
+      "Days": "348",
+      "Pk": "1",
+      "(x?)": "(x32)",
+      "Streams": "5,369",
+      "Streams+": "-198",
+      "7Day": "50,538",
+      "7Day+": "-911",
+      "Total": "5,087,255",
+      "track_id": "4G7bbgD2DHORU4frrWoCXp",
+      "artist_ids": [
+        "1bpnl8qbR9GxmiNlkEufW6",
+        "1CbQrKvCpEnekM3QMGJtXK",
+        "75i9GaW2MJUgt4BkdUnuUY",
+        "6qrqAYlS6lUj2BVXax7SZW",
+        "5ffbqOCrcxCejQ7oqfWXm9"
+      ]
+    },
+    {
+      "Pos": "115",
+      "P+": "-13",
+      "Artist and Title": "Omar Courtz - Kyoto (w/ De La Rose, Haze)",
+      "Days": "783",
+      "Pk": "18",
+      "(x?)": "",
+      "Streams": "5,349",
+      "Streams+": "+23",
+      "7Day": "43,837",
+      "7Day+": "-684",
+      "Total": "7,484,768",
+      "track_id": "7eNwwoxDR8KVzNAuGvliAO",
+      "artist_ids": [
+        "3E12tRURRvPfHz0hAMCFYc",
+        "54seKvtsZauR1iauN0ptpo",
+        "77iZVjeYoYSl5P0K9mIiUE"
+      ]
+    },
+    {
+      "Pos": "116",
+      "P+": "+27",
+      "Artist and Title": "Omar Courtz - SI ESTÁS CON ALGUIEN",
+      "Days": "219",
+      "Pk": "51",
+      "(x?)": "",
+      "Streams": "5,314",
+      "Streams+": "+592",
+      "7Day": "33,217",
+      "7Day+": "-5",
+      "Total": "1,326,927",
+      "track_id": "7nyk5uxevcijIfl1FlJgmA",
+      "artist_ids": [
+        "3E12tRURRvPfHz0hAMCFYc"
+      ]
+    },
+    {
+      "Pos": "117",
+      "P+": "+46",
       "Artist and Title": "Dalex - Pa Mí - Remix (w/ Rafa Pabón, KHEA, Sech, Feid, Cazzu, Lenny Tavárez)",
-      "Days": "922",
+      "Days": "923",
       "Pk": "1",
       "(x?)": "(x56)",
-      "Streams": "4,437",
-      "Streams+": "-723",
-      "7Day": "26,059",
-      "7Day+": "-124",
-      "Total": "9,977,106",
+      "Streams": "5,249",
+      "Streams+": "+812",
+      "7Day": "26,365",
+      "7Day+": "+306",
+      "Total": "9,982,355",
       "track_id": "7g8YaUQABMal0zWe7a2ijz",
       "artist_ids": [
         "0KPX4Ucy9dk82uj4GpKesn",
@@ -2920,353 +2109,194 @@
       ]
     },
     {
-      "Pos": "164",
-      "P+": "RE",
-      "Artist and Title": "Trap Capos - De las 2 (w/ Noriel, Bad Bunny, Arcángel)",
-      "Days": "488",
-      "Pk": "79",
+      "Pos": "118",
+      "P+": "-7",
+      "Artist and Title": "Yan Block - 444 (w/ Panda Black)",
+      "Days": "631",
+      "Pk": "16",
       "(x?)": "",
-      "Streams": "4,435",
-      "Streams+": "",
-      "7Day": "19,828",
-      "7Day+": "+219",
-      "Total": "2,201,777",
-      "track_id": "4DS7HoqrKq1dDjeYOKBlu9",
+      "Streams": "5,215",
+      "Streams+": "+20",
+      "7Day": "41,292",
+      "7Day+": "-716",
+      "Total": "5,458,118",
+      "track_id": "1o4xkdBe0RjSf2u6VXi4OI",
       "artist_ids": [
-        "2pQAUIesBqfT87PaM1ijtk",
-        "3RtNN1VnooWEn3KQk03DUL",
-        "4q3ewBCX7sLwd24euuV69X",
-        "4SsVbpTthjScTS7U2hmr1X"
+        "6TKygPpVT29oGUogu4J9Ec",
+        "1QcutbFtA6u8A2ZFTZuLSL"
       ]
     },
     {
-      "Pos": "165",
-      "P+": "-12",
-      "Artist and Title": "Don Omar - Dutty Love (w/ NATTI NATASHA)",
-      "Days": "817",
-      "Pk": "58",
-      "(x?)": "",
-      "Streams": "4,417",
-      "Streams+": "-997",
-      "7Day": "33,279",
-      "7Day+": "-242",
-      "Total": "3,317,639",
-      "track_id": "2oJH69cuNyWpCmZyTmvrEN",
-      "artist_ids": [
-        "33ScadVnbm2X8kkUqOkC6Z",
-        "1GDbiv3spRmZ1XdM1jQbT7"
-      ]
-    },
-    {
-      "Pos": "166",
-      "P+": "+23",
-      "Artist and Title": "Boza - orióN (w/ ELENA ROSE)",
-      "Days": "312",
-      "Pk": "84",
-      "(x?)": "",
-      "Streams": "4,383",
-      "Streams+": "-698",
-      "7Day": "33,538",
-      "7Day+": "-89",
-      "Total": "1,677,694",
-      "track_id": "4feh4Ak3ZJfC6ibxkNzlkE",
-      "artist_ids": [
-        "2NfSBtmWe7oPw1EmetJVso",
-        "0zO8yNnw5GQgutcIyXfGBY"
-      ]
-    },
-    {
-      "Pos": "167",
-      "P+": "RE",
-      "Artist and Title": "Young Miko - BnB (w/ Clarent)",
-      "Days": "69",
-      "Pk": "95",
-      "(x?)": "",
-      "Streams": "4,368",
-      "Streams+": "",
-      "7Day": "9,267",
-      "7Day+": "-74",
-      "Total": "365,745",
-      "track_id": "6iWg7wVBXWwQYlVqp4UKPh",
-      "artist_ids": [
-        "3qsKSpcV3ncke3hw52JSMB",
-        "78F6Xkd46aMHkr4AP60TXY"
-      ]
-    },
-    {
-      "Pos": "168",
-      "P+": "NEW",
-      "Artist and Title": "ADÉLA - Nicole Kidman",
-      "Days": "1",
-      "Pk": "168",
-      "(x?)": "",
-      "Streams": "4,338",
-      "Streams+": "",
-      "7Day": "4,338",
-      "7Day+": "+4,338",
-      "Total": "4,338",
-      "track_id": "70cHKK8bHAfJrOGVnfRG9J",
-      "artist_ids": [
-        "2qanRMyA5bNuTvz1dK45OP"
-      ]
-    },
-    {
-      "Pos": "169",
-      "P+": "RE",
-      "Artist and Title": "ADÉLA - Ain't In LA",
-      "Days": "2",
-      "Pk": "169",
-      "(x?)": "",
-      "Streams": "4,334",
-      "Streams+": "",
-      "7Day": "4,334",
-      "7Day+": "+198",
-      "Total": "8,470",
-      "track_id": "6U9VpmP3dEinuezxCJ2Zg9",
-      "artist_ids": [
-        "2qanRMyA5bNuTvz1dK45OP"
-      ]
-    },
-    {
-      "Pos": "170",
-      "P+": "-29",
-      "Artist and Title": "Paulo Londra - Adan y Eva",
-      "Days": "1103",
+      "Pos": "119",
+      "P+": "+1",
+      "Artist and Title": "Manuel Turizo - La Bachata",
+      "Days": "1428",
       "Pk": "1",
-      "(x?)": "(x54)",
-      "Streams": "4,333",
-      "Streams+": "-1,237",
-      "7Day": "33,106",
-      "7Day+": "-876",
-      "Total": "9,513,046",
-      "track_id": "6FyRXC8tJUh863JCkyWqtk",
+      "(x?)": "(x55)",
+      "Streams": "5,209",
+      "Streams+": "+211",
+      "7Day": "42,494",
+      "7Day+": "-686",
+      "Total": "29,189,715",
+      "track_id": "3tt9i3Hhzq84dPS8H7iSiJ",
       "artist_ids": [
-        "3vQ0GE3mI0dAaxIMYe5g7z"
-      ]
-    },
-    {
-      "Pos": "171",
-      "P+": "-45",
-      "Artist and Title": "Mc Jacaré - Carnívoro (w/ Mc Lele JP, Mc Negão Original, DJ Japa NK)",
-      "Days": "223",
-      "Pk": "59",
-      "(x?)": "",
-      "Streams": "4,327",
-      "Streams+": "-1,472",
-      "7Day": "41,504",
-      "7Day+": "-194",
-      "Total": "1,252,569",
-      "track_id": "65aH3l8LEmRp3HuH5XpKoH",
-      "artist_ids": [
-        "6qrqAYlS6lUj2BVXax7SZW",
-        "1mV9h1AwhRXSjBFcYpajgY",
-        "4LHTgACY32k94VDjenF0nP",
-        "1bpnl8qbR9GxmiNlkEufW6"
-      ]
-    },
-    {
-      "Pos": "172",
-      "P+": "RE",
-      "Artist and Title": "KAROL G - Coleccionando Heridas (w/ Marco Antonio Solís)",
-      "Days": "303",
-      "Pk": "30",
-      "(x?)": "",
-      "Streams": "4,295",
-      "Streams+": "",
-      "7Day": "20,206",
-      "7Day+": "-9",
-      "Total": "1,852,311",
-      "track_id": "3ddJ8Vbc5tYPxq5zKRVke6",
-      "artist_ids": [
-        "790FomKkXshlbRYZFtlgla",
-        "3tJnB0s6c3oXPq1SCCavnd"
-      ]
-    },
-    {
-      "Pos": "173",
-      "P+": "RE",
-      "Artist and Title": "Taylor Swift - The Fate of Ophelia",
-      "Days": "257",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "4,289",
-      "Streams+": "",
-      "7Day": "10,422",
-      "7Day+": "-392",
-      "Total": "2,193,165",
-      "track_id": "53iuhJlwXhSER5J2IYYv1W",
-      "artist_ids": [
-        "06HL4z0CvFAxyc27GXpf02"
-      ]
-    },
-    {
-      "Pos": "174",
-      "P+": "-67",
-      "Artist and Title": "Kchiporros - El Sistema Solar",
-      "Days": "275",
-      "Pk": "33",
-      "(x?)": "",
-      "Streams": "4,289",
-      "Streams+": "-1,898",
-      "7Day": "24,329",
-      "7Day+": "+4,289",
-      "Total": "1,116,677",
-      "track_id": "09xMt0J034wVOVq2DmsImT",
-      "artist_ids": [
-        "6bxlchoOipKgLaJKgoCzOZ"
-      ]
-    },
-    {
-      "Pos": "175",
-      "P+": "+3",
-      "Artist and Title": "Paulo Londra - Tal Vez",
-      "Days": "1687",
-      "Pk": "1",
-      "(x?)": "(x8)",
-      "Streams": "4,287",
-      "Streams+": "-942",
-      "7Day": "32,795",
-      "7Day+": "-333",
-      "Total": "12,245,360",
-      "track_id": "5jW3rF4URMdK7tO2xjS5EI",
-      "artist_ids": [
-        "3vQ0GE3mI0dAaxIMYe5g7z"
-      ]
-    },
-    {
-      "Pos": "176",
-      "P+": "RE",
-      "Artist and Title": "Paulo Londra - Nena Maldición (w/ Lenny Tavárez)",
-      "Days": "2176",
-      "Pk": "24",
-      "(x?)": "",
-      "Streams": "4,282",
-      "Streams+": "",
-      "7Day": "20,576",
-      "7Day+": "-616",
-      "Total": "10,734,564",
-      "track_id": "77dMSg2VHi2wwXjXNrmcrZ",
-      "artist_ids": [
-        "3vQ0GE3mI0dAaxIMYe5g7z",
-        "1pQWsZQehhS4wavwh7Fnxd"
-      ]
-    },
-    {
-      "Pos": "177",
-      "P+": "+9",
-      "Artist and Title": "Piso 21 - Déjala Que Vuelva (w/ Manuel Turizo)",
-      "Days": "1605",
-      "Pk": "1",
-      "(x?)": "(x37)",
-      "Streams": "4,279",
-      "Streams+": "-875",
-      "7Day": "32,385",
-      "7Day+": "+4,279",
-      "Total": "10,375,853",
-      "track_id": "1j6xOGusnyXq3l6IryKF3G",
-      "artist_ids": [
-        "4bw2Am3p9ji3mYsXNXtQcd",
         "0tmwSHipWxN12fsoLcFU3B"
       ]
     },
     {
-      "Pos": "178",
-      "P+": "RE",
-      "Artist and Title": "Zé Neto & Cristiano - Oi, Tudo Bem? - Ao Vivo",
-      "Days": "5",
-      "Pk": "151",
-      "(x?)": "",
-      "Streams": "4,269",
-      "Streams+": "",
-      "7Day": "14,536",
-      "7Day+": "-217",
-      "Total": "23,847",
-      "track_id": "1Otolzb8QH4OnBc0zlbjjF",
+      "Pos": "120",
+      "P+": "-24",
+      "Artist and Title": "Rauw Alejandro - Khé? (w/ Romeo Santos)",
+      "Days": "670",
+      "Pk": "1",
+      "(x?)": "(x20)",
+      "Streams": "5,162",
+      "Streams+": "-238",
+      "7Day": "43,203",
+      "7Day+": "-1,089",
+      "Total": "9,286,279",
+      "track_id": "1YYfyJ2yCvGFCxwjsIqEK9",
       "artist_ids": [
-        "487N2T9nIPEHrlTZLL3SQs"
+        "1mcTU81TzQhprhouKaTkpq",
+        "5lwmRuXgjX8xIwlnauTZIP"
       ]
     },
     {
-      "Pos": "179",
+      "Pos": "121",
+      "P+": "-27",
+      "Artist and Title": "ARIA VEGA - CHÉVERE (premium_remix) (w/ Ryan Castro)",
+      "Days": "168",
+      "Pk": "62",
+      "(x?)": "",
+      "Streams": "5,161",
+      "Streams+": "-306",
+      "7Day": "42,879",
+      "7Day+": "-249",
+      "Total": "916,265",
+      "track_id": "3CBEVPwR3kUXDoTx1lqFUQ",
+      "artist_ids": [
+        "3e9aKKEgSOjIQS9gv2Nr1X",
+        "7j6DKwmjbxvpQO8h914uEz"
+      ]
+    },
+    {
+      "Pos": "122",
+      "P+": "-9",
+      "Artist and Title": "Calle 24 - Que Onda (w/ Chino Pacas, Fuerza Regida)",
+      "Days": "604",
+      "Pk": "12",
+      "(x?)": "",
+      "Streams": "5,159",
+      "Streams+": "+36",
+      "7Day": "40,748",
+      "7Day+": "-609",
+      "Total": "7,397,896",
+      "track_id": "6uIIdjYTxxpWOyWuVXrKQO",
+      "artist_ids": [
+        "6dLuQ5qXxIuWc5urxfIiZR",
+        "2rmkQLzj0k4nZdQehOUByO",
+        "0ys2OFYzWYB5hRDLCsBqxt"
+      ]
+    },
+    {
+      "Pos": "123",
       "P+": "RE",
-      "Artist and Title": "Piso 21 - Te Vi (w/ Micro TDH)",
-      "Days": "1095",
+      "Artist and Title": "Rauw Alejandro - El Efecto (w/ Chencho Corleone)",
+      "Days": "1103",
+      "Pk": "31",
+      "(x?)": "",
+      "Streams": "5,131",
+      "Streams+": "",
+      "7Day": "28,080",
+      "7Day+": "-5",
+      "Total": "7,002,488",
+      "track_id": "4SJHHpKhcuXwDsCsPqshXj",
+      "artist_ids": [
+        "1mcTU81TzQhprhouKaTkpq",
+        "37230BxxYs9ksS7OkZw3IU"
+      ]
+    },
+    {
+      "Pos": "124",
+      "P+": "-33",
+      "Artist and Title": "Salamandra - Solito",
+      "Days": "432",
       "Pk": "7",
       "(x?)": "",
-      "Streams": "4,268",
-      "Streams+": "",
-      "7Day": "21,067",
-      "7Day+": "+4,268",
-      "Total": "6,072,281",
-      "track_id": "059bcIhyc2SBwm6sw2AZzd",
+      "Streams": "5,126",
+      "Streams+": "-419",
+      "7Day": "46,170",
+      "7Day+": "-882",
+      "Total": "1,018,414",
+      "track_id": "1ZgdNVQFQM54tDEYBdIK0w",
       "artist_ids": [
-        "4bw2Am3p9ji3mYsXNXtQcd",
-        "1aWJsBQa67l72j1VT3D6Ow"
+        "1sLot73qJ4Vbh4nPuwzvj9"
       ]
     },
     {
-      "Pos": "180",
-      "P+": "-22",
-      "Artist and Title": "Myke Towers - LALA",
-      "Days": "775",
-      "Pk": "1",
-      "(x?)": "(x62)",
-      "Streams": "4,255",
-      "Streams+": "-1,125",
-      "7Day": "32,296",
-      "7Day+": "+4,255",
-      "Total": "19,710,600",
-      "track_id": "7ABLbnD53cQK00mhcaOUVG",
-      "artist_ids": [
-        "7iK8PXO48WeuP03g8YR51W"
-      ]
-    },
-    {
-      "Pos": "181",
-      "P+": "RE",
-      "Artist and Title": "Danny Ocean - Dembow",
-      "Days": "758",
-      "Pk": "3",
-      "(x?)": "(x7)",
-      "Streams": "4,238",
-      "Streams+": "",
-      "7Day": "19,793",
-      "7Day+": "+4,238",
-      "Total": "4,038,525",
-      "track_id": "2EzRdhuoPyNJDlep7lnNf2",
-      "artist_ids": [
-        "5H1nN1SzW0qNeUEZvuXjAj"
-      ]
-    },
-    {
-      "Pos": "182",
-      "P+": "-98",
-      "Artist and Title": "Grupo Aliados - Me Estoy Muriendo por Ti",
-      "Days": "156",
-      "Pk": "57",
+      "Pos": "125",
+      "P+": "-19",
+      "Artist and Title": "Myke Towers - SOLEAO (w/ Quevedo)",
+      "Days": "487",
+      "Pk": "12",
       "(x?)": "",
-      "Streams": "4,232",
-      "Streams+": "-2,632",
-      "7Day": "50,680",
-      "7Day+": "-850",
-      "Total": "854,909",
-      "track_id": "12cf6I6Nb8T0Lpqo2xzXSa",
+      "Streams": "5,060",
+      "Streams+": "-198",
+      "7Day": "43,617",
+      "7Day+": "-628",
+      "Total": "4,832,123",
+      "track_id": "4OsBqqMwFabHATATT527tH",
       "artist_ids": [
-        "1KaZPQvuCDd6IDO82937MJ"
+        "7iK8PXO48WeuP03g8YR51W",
+        "52iwsT98xCoGgiGntTiR7K"
       ]
     },
     {
-      "Pos": "183",
-      "P+": "RE",
+      "Pos": "126",
+      "P+": "+3",
+      "Artist and Title": "Arcángel - Hace Mucho Tiempo",
+      "Days": "1129",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "5,054",
+      "Streams+": "+188",
+      "7Day": "44,284",
+      "7Day+": "-1,248",
+      "Total": "8,814,426",
+      "track_id": "0a6ogDrZBvYgDjILgsQVaJ",
+      "artist_ids": [
+        "4SsVbpTthjScTS7U2hmr1X"
+      ]
+    },
+    {
+      "Pos": "127",
+      "P+": "+4",
+      "Artist and Title": "Los Auténticos Decadentes - Un Osito de Peluche de Taiwán",
+      "Days": "196",
+      "Pk": "73",
+      "(x?)": "",
+      "Streams": "5,053",
+      "Streams+": "+211",
+      "7Day": "9,895",
+      "7Day+": "+363",
+      "Total": "954,499",
+      "track_id": "6iCnJkKswtMYoSmT58HmEn",
+      "artist_ids": [
+        "3HrbmsYpKjWH1lzhad7alj"
+      ]
+    },
+    {
+      "Pos": "128",
+      "P+": "+55",
       "Artist and Title": "Cosculluela - Madura (w/ Bad Bunny)",
-      "Days": "1583",
+      "Days": "1584",
       "Pk": "2",
       "(x?)": "(x4)",
-      "Streams": "4,221",
-      "Streams+": "",
-      "7Day": "19,784",
-      "7Day+": "-280",
-      "Total": "11,770,302",
+      "Streams": "5,047",
+      "Streams+": "+826",
+      "7Day": "20,039",
+      "7Day+": "+255",
+      "Total": "11,775,349",
       "track_id": "0r9d60ZYPAlFHq8qnUtkXN",
       "artist_ids": [
         "00me4Ke1LsvMxt5kydlMyU",
@@ -3274,86 +2304,1057 @@
       ]
     },
     {
-      "Pos": "184",
-      "P+": "-5",
-      "Artist and Title": "Bad Bunny - Callaita (w/ Tainy)",
-      "Days": "1599",
-      "Pk": "1",
-      "(x?)": "(x22)",
-      "Streams": "4,218",
-      "Streams+": "-975",
-      "7Day": "30,955",
-      "7Day+": "-185",
-      "Total": "14,727,405",
-      "track_id": "2TH65lNHgvLxCKXM3apjxI",
+      "Pos": "129",
+      "P+": "-21",
+      "Artist and Title": "Anuel AA - Tú No Lo Amas",
+      "Days": "400",
+      "Pk": "83",
+      "(x?)": "",
+      "Streams": "5,015",
+      "Streams+": "-222",
+      "7Day": "42,040",
+      "7Day+": "-927",
+      "Total": "1,706,337",
+      "track_id": "0fLOPPoyIaPTe8dm2Mrft3",
       "artist_ids": [
-        "4q3ewBCX7sLwd24euuV69X",
-        "0GM7qgcRCORpGnfcN2tCiB"
+        "2R21vXR83lH98kGeO99Y66"
       ]
     },
     {
-      "Pos": "185",
+      "Pos": "130",
+      "P+": "+23",
+      "Artist and Title": "Tropical Caribe - Tomame O Dejame",
+      "Days": "1727",
+      "Pk": "15",
+      "(x?)": "",
+      "Streams": "5,002",
+      "Streams+": "+420",
+      "7Day": "41,122",
+      "7Day+": "+5,002",
+      "Total": "12,382,217",
+      "track_id": "3X0jce1hWcs0sP2AIO94pK",
+      "artist_ids": [
+        "2dEjLtjgTsWfw5itGqF97f"
+      ]
+    },
+    {
+      "Pos": "131",
+      "P+": "-15",
+      "Artist and Title": "Jósean Log - Doma",
+      "Days": "153",
+      "Pk": "45",
+      "(x?)": "",
+      "Streams": "5,002",
+      "Streams+": "-37",
+      "7Day": "26,529",
+      "7Day+": "-435",
+      "Total": "874,955",
+      "track_id": "58cLm4PaHNt8DDr9ayZnNz",
+      "artist_ids": [
+        "1LMyTeRhjaitILs98h3MaF"
+      ]
+    },
+    {
+      "Pos": "132",
+      "P+": "+7",
+      "Artist and Title": "Grupo Cariño De Tomás Cruz - Cumbia Francesa (w/ Tomás Cruz)",
+      "Days": "312",
+      "Pk": "46",
+      "(x?)": "",
+      "Streams": "5,002",
+      "Streams+": "+252",
+      "7Day": "48,872",
+      "7Day+": "-25",
+      "Total": "2,009,642",
+      "track_id": "1JctrSKhY0vXXdMc9cTNiq",
+      "artist_ids": [
+        "7HJlSr3geNOq2r5BSoYYIg",
+        "6kadToKDkTJHkBhQN3N0tX"
+      ]
+    },
+    {
+      "Pos": "133",
+      "P+": "-26",
+      "Artist and Title": "Omar Courtz - WHAT U NEED? (SexPlaylist 2) (w/ Myke Towers)",
+      "Days": "220",
+      "Pk": "37",
+      "(x?)": "",
+      "Streams": "4,996",
+      "Streams+": "-257",
+      "7Day": "39,559",
+      "7Day+": "-553",
+      "Total": "1,301,485",
+      "track_id": "7jnSlMG2jKJmKvAWxufk2I",
+      "artist_ids": [
+        "3E12tRURRvPfHz0hAMCFYc",
+        "7iK8PXO48WeuP03g8YR51W"
+      ]
+    },
+    {
+      "Pos": "134",
+      "P+": "-11",
+      "Artist and Title": "Yan Block - Talento (w/ Panda Black)",
+      "Days": "296",
+      "Pk": "29",
+      "(x?)": "",
+      "Streams": "4,967",
+      "Streams+": "+41",
+      "7Day": "33,408",
+      "7Day+": "-599",
+      "Total": "2,243,883",
+      "track_id": "7sChwC2NZjGc2Kdni3hlDg",
+      "artist_ids": [
+        "6TKygPpVT29oGUogu4J9Ec",
+        "1QcutbFtA6u8A2ZFTZuLSL"
+      ]
+    },
+    {
+      "Pos": "135",
+      "P+": "+23",
+      "Artist and Title": "Lunay - Soltera - Remix (w/ Daddy Yankee, Bad Bunny)",
+      "Days": "711",
+      "Pk": "2",
+      "(x?)": "(x21)",
+      "Streams": "4,953",
+      "Streams+": "+470",
+      "7Day": "37,580",
+      "7Day+": "+128",
+      "Total": "7,058,673",
+      "track_id": "1c0hsvHLELX6y8qymnpLKL",
+      "artist_ids": [
+        "47MpMsUfWtgyIIBEFOr4FE",
+        "4VMYDCV2IEDYJArk749S6m",
+        "4q3ewBCX7sLwd24euuV69X"
+      ]
+    },
+    {
+      "Pos": "136",
+      "P+": "-26",
+      "Artist and Title": "Luis Mosqueda - Un Soñador (w/ Los Roller's)",
+      "Days": "296",
+      "Pk": "41",
+      "(x?)": "",
+      "Streams": "4,950",
+      "Streams+": "-257",
+      "7Day": "49,785",
+      "7Day+": "-459",
+      "Total": "1,727,332",
+      "track_id": "4zVFTjUm0JOHxkukbnmbVK",
+      "artist_ids": [
+        "3x0gb5EJ9nKvVuRpLzzWAe",
+        "7mQa3XflwD72PWFe55CjWt"
+      ]
+    },
+    {
+      "Pos": "137",
+      "P+": "+45",
+      "Artist and Title": "Grupo Aliados - Me Estoy Muriendo por Ti",
+      "Days": "157",
+      "Pk": "57",
+      "(x?)": "",
+      "Streams": "4,943",
+      "Streams+": "+711",
+      "7Day": "49,370",
+      "7Day+": "-1,310",
+      "Total": "859,852",
+      "track_id": "12cf6I6Nb8T0Lpqo2xzXSa",
+      "artist_ids": [
+        "1KaZPQvuCDd6IDO82937MJ"
+      ]
+    },
+    {
+      "Pos": "138",
+      "P+": "+21",
+      "Artist and Title": "Ozuna - El Farsante",
+      "Days": "334",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "4,940",
+      "Streams+": "+469",
+      "7Day": "25,902",
+      "7Day+": "-233",
+      "Total": "1,615,857",
+      "track_id": "5EId1m4DNwTf3at31w8bPJ",
+      "artist_ids": [
+        "1i8SpTcr7yvPOmcqrbnVXY"
+      ]
+    },
+    {
+      "Pos": "139",
+      "P+": "+5",
+      "Artist and Title": "Boza - Hecha Pa' Mi",
+      "Days": "917",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "4,938",
+      "Streams+": "+232",
+      "7Day": "39,927",
+      "7Day+": "-694",
+      "Total": "10,812,191",
+      "track_id": "3VvA1wSxukMLsvXoXtlwWx",
+      "artist_ids": [
+        "2NfSBtmWe7oPw1EmetJVso"
+      ]
+    },
+    {
+      "Pos": "140",
+      "P+": "+20",
+      "Artist and Title": "Fuerza Regida - ANSIEDAD",
+      "Days": "178",
+      "Pk": "61",
+      "(x?)": "",
+      "Streams": "4,937",
+      "Streams+": "+472",
+      "7Day": "14,795",
+      "7Day+": "-328",
+      "Total": "1,011,912",
+      "track_id": "1a7onn7lPqqRWul5ogyMyX",
+      "artist_ids": [
+        "0ys2OFYzWYB5hRDLCsBqxt"
+      ]
+    },
+    {
+      "Pos": "141",
       "P+": "RE",
-      "Artist and Title": "Milo j - Niño",
-      "Days": "332",
+      "Artist and Title": "Tiago PZK - Piel (w/ Ke Personajes)",
+      "Days": "923",
+      "Pk": "1",
+      "(x?)": "(x82)",
+      "Streams": "4,930",
+      "Streams+": "",
+      "7Day": "22,636",
+      "7Day+": "+4,930",
+      "Total": "20,275,954",
+      "track_id": "6kPCcIAGoTeRrh8qrmKa90",
+      "artist_ids": [
+        "5Y3MV9DZ0d87NnVm56qSY1",
+        "06Q5VlSAku57lFzyME3HrM"
+      ]
+    },
+    {
+      "Pos": "142",
+      "P+": "+14",
+      "Artist and Title": "Anuel AA - China (w/ Daddy Yankee, KAROL G, J Balvin, Ozuna)",
+      "Days": "592",
+      "Pk": "1",
+      "(x?)": "(x46)",
+      "Streams": "4,929",
+      "Streams+": "+410",
+      "7Day": "39,196",
+      "7Day+": "-201",
+      "Total": "7,998,629",
+      "track_id": "2ksOAxtIxY8yElEWw8RhgK",
+      "artist_ids": [
+        "2R21vXR83lH98kGeO99Y66",
+        "4VMYDCV2IEDYJArk749S6m",
+        "790FomKkXshlbRYZFtlgla",
+        "1vyhD5VmyZ7KMfW5gqLgo5",
+        "1i8SpTcr7yvPOmcqrbnVXY"
+      ]
+    },
+    {
+      "Pos": "143",
+      "P+": "-10",
+      "Artist and Title": "Yan Block - 111",
+      "Days": "579",
+      "Pk": "19",
+      "(x?)": "",
+      "Streams": "4,907",
+      "Streams+": "+72",
+      "7Day": "38,236",
+      "7Day+": "-255",
+      "Total": "4,320,449",
+      "track_id": "2SPBFiD8iITb8CKJGz1TEQ",
+      "artist_ids": [
+        "6TKygPpVT29oGUogu4J9Ec"
+      ]
+    },
+    {
+      "Pos": "144",
+      "P+": "+31",
+      "Artist and Title": "Paulo Londra - Tal Vez",
+      "Days": "1688",
+      "Pk": "1",
+      "(x?)": "(x8)",
+      "Streams": "4,881",
+      "Streams+": "+594",
+      "7Day": "32,494",
+      "7Day+": "-301",
+      "Total": "12,250,241",
+      "track_id": "5jW3rF4URMdK7tO2xjS5EI",
+      "artist_ids": [
+        "3vQ0GE3mI0dAaxIMYe5g7z"
+      ]
+    },
+    {
+      "Pos": "145",
+      "P+": "-9",
+      "Artist and Title": "Anuel AA - ¿Qué Nos Pasó?",
+      "Days": "408",
+      "Pk": "69",
+      "(x?)": "",
+      "Streams": "4,878",
+      "Streams+": "+68",
+      "7Day": "32,658",
+      "7Day+": "-388",
+      "Total": "2,142,067",
+      "track_id": "7k3qWn8D43a5ISa3x8lJux",
+      "artist_ids": [
+        "2R21vXR83lH98kGeO99Y66"
+      ]
+    },
+    {
+      "Pos": "146",
+      "P+": "-6",
+      "Artist and Title": "João Gustavo e Murilo - Postinho de Gasolina (w/ Grelo)",
+      "Days": "4",
+      "Pk": "140",
+      "(x?)": "",
+      "Streams": "4,858",
+      "Streams+": "+108",
+      "7Day": "20,049",
+      "7Day+": "+4,858",
+      "Total": "20,049",
+      "track_id": "0xXYRMvxCUBKWVptybXSjB",
+      "artist_ids": [
+        "6xerOqBLmelL3xZNZkVbGl",
+        "1eIYP01ZLPKEExhcV6xFgt"
+      ]
+    },
+    {
+      "Pos": "147",
+      "P+": "+23",
+      "Artist and Title": "Paulo Londra - Adan y Eva",
+      "Days": "1104",
+      "Pk": "1",
+      "(x?)": "(x54)",
+      "Streams": "4,856",
+      "Streams+": "+523",
+      "7Day": "32,679",
+      "7Day+": "-427",
+      "Total": "9,517,902",
+      "track_id": "6FyRXC8tJUh863JCkyWqtk",
+      "artist_ids": [
+        "3vQ0GE3mI0dAaxIMYe5g7z"
+      ]
+    },
+    {
+      "Pos": "148",
+      "P+": "+18",
+      "Artist and Title": "Boza - orióN (w/ ELENA ROSE)",
+      "Days": "313",
+      "Pk": "84",
+      "(x?)": "",
+      "Streams": "4,853",
+      "Streams+": "+470",
+      "7Day": "33,019",
+      "7Day+": "-519",
+      "Total": "1,682,547",
+      "track_id": "4feh4Ak3ZJfC6ibxkNzlkE",
+      "artist_ids": [
+        "2NfSBtmWe7oPw1EmetJVso",
+        "0zO8yNnw5GQgutcIyXfGBY"
+      ]
+    },
+    {
+      "Pos": "149",
+      "P+": "+12",
+      "Artist and Title": "No Te Va Gustar - A las Nueve",
+      "Days": "996",
+      "Pk": "64",
+      "(x?)": "",
+      "Streams": "4,831",
+      "Streams+": "+372",
+      "7Day": "9,290",
+      "7Day+": "+4,831",
+      "Total": "5,227,764",
+      "track_id": "0CgpCtEPvyDizcg2p47VrU",
+      "artist_ids": [
+        "4ZDoy7AWNgQVmX7T0u0B1j"
+      ]
+    },
+    {
+      "Pos": "150",
+      "P+": "-22",
+      "Artist and Title": "Danny Ocean - Imagínate (w/ Kapo)",
+      "Days": "666",
+      "Pk": "17",
+      "(x?)": "",
+      "Streams": "4,824",
+      "Streams+": "-42",
+      "7Day": "41,148",
+      "7Day+": "-910",
+      "Total": "5,509,762",
+      "track_id": "4zbEItKoaRId1vRZkoO0Uh",
+      "artist_ids": [
+        "5H1nN1SzW0qNeUEZvuXjAj",
+        "3UTF2no3muGdiFXVujl94i"
+      ]
+    },
+    {
+      "Pos": "151",
+      "P+": "-4",
+      "Artist and Title": "Don Omar - Salio El Sol",
+      "Days": "1073",
       "Pk": "30",
       "(x?)": "",
-      "Streams": "4,206",
+      "Streams": "4,794",
+      "Streams+": "+106",
+      "7Day": "43,092",
+      "7Day+": "-723",
+      "Total": "4,781,304",
+      "track_id": "48NXpYRuvv9izul4oXhqS9",
+      "artist_ids": [
+        "33ScadVnbm2X8kkUqOkC6Z"
+      ]
+    },
+    {
+      "Pos": "152",
+      "P+": "RE",
+      "Artist and Title": "Chris Jedi - Ahora Dice (w/ J Balvin, Ozuna, Arcángel)",
+      "Days": "669",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "4,783",
       "Streams+": "",
-      "7Day": "4,206",
-      "7Day+": "-396",
-      "Total": "2,266,044",
+      "7Day": "4,783",
+      "7Day+": "+4,783",
+      "Total": "3,502,571",
+      "track_id": "22eADXu8DfOAUEDw4vU8qy",
+      "artist_ids": [
+        "0qTZZWLzuD59Un5r1speHm",
+        "1vyhD5VmyZ7KMfW5gqLgo5",
+        "1i8SpTcr7yvPOmcqrbnVXY",
+        "4SsVbpTthjScTS7U2hmr1X"
+      ]
+    },
+    {
+      "Pos": "153",
+      "P+": "-73",
+      "Artist and Title": "Grupo Azteka - Necesito De Ti",
+      "Days": "736",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "4,758",
+      "Streams+": "-1,129",
+      "7Day": "56,312",
+      "7Day+": "-2,026",
+      "Total": "6,349,249",
+      "track_id": "3qvZd8kTdUu3XJvLSJY5wn",
+      "artist_ids": [
+        "4zsQwns4bhsKDSFe5mLuiU"
+      ]
+    },
+    {
+      "Pos": "154",
+      "P+": "-24",
+      "Artist and Title": "Tan Bionica - Obsesionario en La Mayor",
+      "Days": "188",
+      "Pk": "57",
+      "(x?)": "",
+      "Streams": "4,751",
+      "Streams+": "-104",
+      "7Day": "9,606",
+      "7Day+": "+4,751",
+      "Total": "934,313",
+      "track_id": "2YNMRnIJMCxDQWYfXRxJmB",
+      "artist_ids": [
+        "37MCoi4pcUf9EKsPXeuCqU"
+      ]
+    },
+    {
+      "Pos": "155",
+      "P+": "+39",
+      "Artist and Title": "HUGEL - Jamaican (Bam Bam) (w/ SOLTO (FR))",
+      "Days": "47",
+      "Pk": "139",
+      "(x?)": "",
+      "Streams": "4,741",
+      "Streams+": "+611",
+      "7Day": "37,093",
+      "7Day+": "+4,741",
+      "Total": "231,837",
+      "track_id": "7e4zDInS6tA2jwzphvs2Ay",
+      "artist_ids": [
+        "5PlfkPxwCpRRWQJBxCa0By",
+        "0F3tUZeb9dLNEpxCpzEBQt"
+      ]
+    },
+    {
+      "Pos": "156",
+      "P+": "-2",
+      "Artist and Title": "Don Omar - Dile",
+      "Days": "1378",
+      "Pk": "53",
+      "(x?)": "",
+      "Streams": "4,727",
+      "Streams+": "+151",
+      "7Day": "45,103",
+      "7Day+": "-899",
+      "Total": "7,653,121",
+      "track_id": "69Ej1xrGjOcHvIMtMKxK0G",
+      "artist_ids": [
+        "33ScadVnbm2X8kkUqOkC6Z"
+      ]
+    },
+    {
+      "Pos": "157",
+      "P+": "+8",
+      "Artist and Title": "Don Omar - Dutty Love (w/ NATTI NATASHA)",
+      "Days": "818",
+      "Pk": "58",
+      "(x?)": "",
+      "Streams": "4,724",
+      "Streams+": "+307",
+      "7Day": "33,078",
+      "7Day+": "-201",
+      "Total": "3,322,363",
+      "track_id": "2oJH69cuNyWpCmZyTmvrEN",
+      "artist_ids": [
+        "33ScadVnbm2X8kkUqOkC6Z",
+        "1GDbiv3spRmZ1XdM1jQbT7"
+      ]
+    },
+    {
+      "Pos": "158",
+      "P+": "-36",
+      "Artist and Title": "SAIKO - COSAS QUE NO TE DIJE",
+      "Days": "770",
+      "Pk": "42",
+      "(x?)": "",
+      "Streams": "4,721",
+      "Streams+": "-224",
+      "7Day": "33,251",
+      "7Day+": "-553",
+      "Total": "4,513,101",
+      "track_id": "5xSt1wxZobFcLzHrFakv6z",
+      "artist_ids": [
+        "2O8vbr4RYPpk6MRA4fio7u"
+      ]
+    },
+    {
+      "Pos": "159",
+      "P+": "RE",
+      "Artist and Title": "Carlos Baute - Colgando en tus manos (con Marta Sánchez) (w/ Marta Sánchez)",
+      "Days": "164",
+      "Pk": "102",
+      "(x?)": "",
+      "Streams": "4,716",
+      "Streams+": "",
+      "7Day": "4,716",
+      "7Day+": "+4,716",
+      "Total": "612,344",
+      "track_id": "3UI9I3e1g1y5T3SMfdgfGO",
+      "artist_ids": [
+        "3smfreCkyJt7bShaTYpG77",
+        "368rTiMKMrz3b03az6B14w"
+      ]
+    },
+    {
+      "Pos": "160",
+      "P+": "-18",
+      "Artist and Title": "Quevedo - TUCHAT",
+      "Days": "357",
+      "Pk": "37",
+      "(x?)": "",
+      "Streams": "4,715",
+      "Streams+": "-13",
+      "7Day": "27,563",
+      "7Day+": "-694",
+      "Total": "2,003,202",
+      "track_id": "3bAAv8knmzFpYQsLFoK6de",
+      "artist_ids": [
+        "52iwsT98xCoGgiGntTiR7K"
+      ]
+    },
+    {
+      "Pos": "161",
+      "P+": "RE",
+      "Artist and Title": "Plan B - Si No Le Contesto",
+      "Days": "795",
+      "Pk": "78",
+      "(x?)": "",
+      "Streams": "4,702",
+      "Streams+": "",
+      "7Day": "33,063",
+      "7Day+": "-122",
+      "Total": "4,595,131",
+      "track_id": "6NdKkfo7o6IH1Op0jsBDjN",
+      "artist_ids": [
+        "2jSGzJw0ebJLu7OLVSOcBP"
+      ]
+    },
+    {
+      "Pos": "162",
+      "P+": "RE",
+      "Artist and Title": "Jory Boy - No Te Hagas (w/ Bad Bunny)",
+      "Days": "1086",
+      "Pk": "51",
+      "(x?)": "",
+      "Streams": "4,696",
+      "Streams+": "",
+      "7Day": "9,873",
+      "7Day+": "-237",
+      "Total": "4,877,243",
+      "track_id": "5hKjEpYrJIJs6uPl7zw6Y6",
+      "artist_ids": [
+        "5lFhCi03HDneWzvCxGctrT",
+        "4q3ewBCX7sLwd24euuV69X"
+      ]
+    },
+    {
+      "Pos": "163",
+      "P+": "RE",
+      "Artist and Title": "Aventura - Ella Y Yo - Featuring Don Omar (w/ Don Omar)",
+      "Days": "1749",
+      "Pk": "59",
+      "(x?)": "",
+      "Streams": "4,686",
+      "Streams+": "",
+      "7Day": "33,823",
+      "7Day+": "-109",
+      "Total": "7,118,851",
+      "track_id": "6G4U9avyBNEfP0fAIduev3",
+      "artist_ids": [
+        "1qto4hHid1P71emI6Fd8xi",
+        "33ScadVnbm2X8kkUqOkC6Z"
+      ]
+    },
+    {
+      "Pos": "164",
+      "P+": "RE",
+      "Artist and Title": "Ozuna - Caramelo - Remix (w/ KAROL G, Myke Towers)",
+      "Days": "298",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "4,683",
+      "Streams+": "",
+      "7Day": "4,683",
+      "7Day+": "+4,683",
+      "Total": "3,627,174",
+      "track_id": "67jvGGbJmOmVonlyX3mNkV",
+      "artist_ids": [
+        "1i8SpTcr7yvPOmcqrbnVXY",
+        "790FomKkXshlbRYZFtlgla",
+        "7iK8PXO48WeuP03g8YR51W"
+      ]
+    },
+    {
+      "Pos": "165",
+      "P+": "RE",
+      "Artist and Title": "Noa - Noa - Me Extrañarás",
+      "Days": "1078",
+      "Pk": "74",
+      "(x?)": "",
+      "Streams": "4,683",
+      "Streams+": "",
+      "7Day": "24,909",
+      "7Day+": "+4,683",
+      "Total": "5,005,899",
+      "track_id": "7xABntVHfPeFk622h4VFqk",
+      "artist_ids": [
+        "2CZXBNQi0AcQUVeYVexnc7"
+      ]
+    },
+    {
+      "Pos": "166",
+      "P+": "-14",
+      "Artist and Title": "Roze Oficial - Tu jardín con enanitos (w/ Max Carra, Valen, RAMKY EN LOS CONTROLES)",
+      "Days": "161",
+      "Pk": "20",
+      "(x?)": "",
+      "Streams": "4,651",
+      "Streams+": "+63",
+      "7Day": "42,649",
+      "7Day+": "-45",
+      "Total": "1,156,077",
+      "track_id": "4FIDq6NTwNBOTx9L8lRYkY",
+      "artist_ids": [
+        "2Hxu0Wmd7FUm0euCVInVrN",
+        "483P9cJ9pdCoc08XvNunPL",
+        "4OpKA1Qx8VYnSmrhKQ4zJz",
+        "6jXFmaC0CvsIRSzxapsnNd"
+      ]
+    },
+    {
+      "Pos": "167",
+      "P+": "+11",
+      "Artist and Title": "Zé Neto & Cristiano - Oi, Tudo Bem? - Ao Vivo",
+      "Days": "6",
+      "Pk": "151",
+      "(x?)": "",
+      "Streams": "4,629",
+      "Streams+": "+360",
+      "7Day": "14,006",
+      "7Day+": "-530",
+      "Total": "28,476",
+      "track_id": "1Otolzb8QH4OnBc0zlbjjF",
+      "artist_ids": [
+        "487N2T9nIPEHrlTZLL3SQs"
+      ]
+    },
+    {
+      "Pos": "168",
+      "P+": "RE",
+      "Artist and Title": "J Balvin - 6 AM (w/ Farruko)",
+      "Days": "22",
+      "Pk": "151",
+      "(x?)": "",
+      "Streams": "4,624",
+      "Streams+": "",
+      "7Day": "26,599",
+      "7Day+": "-40",
+      "Total": "110,123",
+      "track_id": "3uvypVUsiIr1B0BccIcsEh",
+      "artist_ids": [
+        "1vyhD5VmyZ7KMfW5gqLgo5",
+        "329e4yvIujISKGKz1BZZbO"
+      ]
+    },
+    {
+      "Pos": "169",
+      "P+": "-24",
+      "Artist and Title": "Rauw Alejandro - Qué Pasaría... (w/ Bad Bunny)",
+      "Days": "666",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "4,621",
+      "Streams+": "-81",
+      "7Day": "41,307",
+      "7Day+": "-1,296",
+      "Total": "7,523,140",
+      "track_id": "0l0vcZMU7AOeQmUIREoI2U",
+      "artist_ids": [
+        "1mcTU81TzQhprhouKaTkpq",
+        "4q3ewBCX7sLwd24euuV69X"
+      ]
+    },
+    {
+      "Pos": "170",
+      "P+": "+19",
+      "Artist and Title": "Ele A El Dominio - Hace Mucho Tiempo",
+      "Days": "8",
+      "Pk": "159",
+      "(x?)": "",
+      "Streams": "4,616",
+      "Streams+": "+451",
+      "7Day": "13,917",
+      "7Day+": "-179",
+      "Total": "37,638",
+      "track_id": "3eIvjtwoYC16ElxYE6ph7J",
+      "artist_ids": [
+        "4SzD0wClEg9NKVJZbCRFqS"
+      ]
+    },
+    {
+      "Pos": "171",
+      "P+": "RE",
+      "Artist and Title": "Miranda! - Tu Misterioso Alguien",
+      "Days": "191",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "4,606",
+      "Streams+": "",
+      "7Day": "4,606",
+      "7Day+": "+4,606",
+      "Total": "1,964,478",
+      "track_id": "4ksf1UdqNc9pU8R4ZZrgdY",
+      "artist_ids": [
+        "2eEmsgWmUFMbtU7agJpnjY"
+      ]
+    },
+    {
+      "Pos": "172",
+      "P+": "+13",
+      "Artist and Title": "Milo j - Niño",
+      "Days": "333",
+      "Pk": "30",
+      "(x?)": "",
+      "Streams": "4,603",
+      "Streams+": "+397",
+      "7Day": "8,809",
+      "7Day+": "+4,603",
+      "Total": "2,270,647",
       "track_id": "4aDbrgm1ZaebS1Bb2dOXac",
       "artist_ids": [
         "19HM5j0ULGSmEoRcrSe5x3"
       ]
     },
     {
-      "Pos": "186",
-      "P+": "-13",
-      "Artist and Title": "Maluma - El Perdedor",
-      "Days": "607",
-      "Pk": "5",
+      "Pos": "173",
+      "P+": "-68",
+      "Artist and Title": "J Balvin - Si Tu Novio Te Deja Sola (w/ Bad Bunny)",
+      "Days": "540",
+      "Pk": "13",
       "(x?)": "",
-      "Streams": "4,174",
-      "Streams+": "-1,089",
-      "7Day": "24,862",
-      "7Day+": "-42",
-      "Total": "2,243,346",
-      "track_id": "1iEwyiSLAunPR6uouANE0O",
+      "Streams": "4,601",
+      "Streams+": "-682",
+      "7Day": "42,093",
+      "7Day+": "-1,186",
+      "Total": "2,085,683",
+      "track_id": "0RFFFGtPn6a58RHY3ccVYX",
       "artist_ids": [
-        "1r4hJ1h58CWwUQe3MxPuau"
+        "1vyhD5VmyZ7KMfW5gqLgo5",
+        "4q3ewBCX7sLwd24euuV69X"
       ]
     },
     {
-      "Pos": "187",
-      "P+": "-40",
+      "Pos": "174",
+      "P+": "-17",
+      "Artist and Title": "Don Omar - Virtual Diva",
+      "Days": "1088",
+      "Pk": "57",
+      "(x?)": "",
+      "Streams": "4,591",
+      "Streams+": "+99",
+      "7Day": "40,685",
+      "7Day+": "-701",
+      "Total": "5,449,704",
+      "track_id": "5nJaS3PEpyPfaWiLxIGtRX",
+      "artist_ids": [
+        "33ScadVnbm2X8kkUqOkC6Z"
+      ]
+    },
+    {
+      "Pos": "175",
+      "P+": "-27",
+      "Artist and Title": "Yan Block - 222",
+      "Days": "107",
+      "Pk": "25",
+      "(x?)": "",
+      "Streams": "4,591",
+      "Streams+": "-80",
+      "7Day": "32,138",
+      "7Day+": "-426",
+      "Total": "687,543",
+      "track_id": "3bp6VjYqCgTQiOZSVWTl92",
+      "artist_ids": [
+        "6TKygPpVT29oGUogu4J9Ec"
+      ]
+    },
+    {
+      "Pos": "176",
+      "P+": "-27",
+      "Artist and Title": "Omar Courtz - Comernos (w/ Bad Gyal)",
+      "Days": "411",
+      "Pk": "51",
+      "(x?)": "",
+      "Streams": "4,589",
+      "Streams+": "-22",
+      "7Day": "32,149",
+      "7Day+": "-718",
+      "Total": "2,307,063",
+      "track_id": "29twJUQo66aqSd3lxoeswV",
+      "artist_ids": [
+        "3E12tRURRvPfHz0hAMCFYc",
+        "4F4pp8NUW08JuXwnoxglpN"
+      ]
+    },
+    {
+      "Pos": "177",
+      "P+": "-59",
+      "Artist and Title": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj)",
+      "Days": "162",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "4,577",
+      "Streams+": "-426",
+      "7Day": "21,327",
+      "7Day+": "-1,021",
+      "Total": "1,131,259",
+      "track_id": "6QFCMUUq1T2Vf5sFUXcuQ7",
+      "artist_ids": [
+        "1uNFoZAHBGtllmzznpCI3s",
+        "0hCNtLu0JehylgoiP8L4Gh"
+      ]
+    },
+    {
+      "Pos": "178",
+      "P+": "RE",
+      "Artist and Title": "La Oreja de Van Gogh - Rosas",
+      "Days": "755",
+      "Pk": "31",
+      "(x?)": "",
+      "Streams": "4,577",
+      "Streams+": "",
+      "7Day": "9,765",
+      "7Day+": "-670",
+      "Total": "4,637,213",
+      "track_id": "4waqcUQWdj0yH26STWl2Rq",
+      "artist_ids": [
+        "4U7lXyKdSf1JbM1aXvsodC"
+      ]
+    },
+    {
+      "Pos": "179",
+      "P+": "-33",
+      "Artist and Title": "Bacilos - Caraluna",
+      "Days": "707",
+      "Pk": "65",
+      "(x?)": "",
+      "Streams": "4,530",
+      "Streams+": "-167",
+      "7Day": "32,181",
+      "7Day+": "-973",
+      "Total": "3,793,169",
+      "track_id": "7DhYjNLksXZhbRQeheAums",
+      "artist_ids": [
+        "1mux8L6xg2Cmrc7k0wQczl"
+      ]
+    },
+    {
+      "Pos": "180",
+      "P+": "-99",
+      "Artist and Title": "Tropical Florida - Quien Diría",
+      "Days": "286",
+      "Pk": "33",
+      "(x?)": "",
+      "Streams": "4,514",
+      "Streams+": "-1,329",
+      "7Day": "54,180",
+      "7Day+": "-2,094",
+      "Total": "1,603,194",
+      "track_id": "2tGOrCgMZX4ht7tmCzNzPL",
+      "artist_ids": [
+        "6chaMXZHKjdCkKlWyi1KLB"
+      ]
+    },
+    {
+      "Pos": "181",
+      "P+": "RE",
+      "Artist and Title": "Ozuna - Pa Ti Estoy (w/ Anuel AA, Chris Jedi)",
+      "Days": "573",
+      "Pk": "27",
+      "(x?)": "",
+      "Streams": "4,508",
+      "Streams+": "",
+      "7Day": "4,508",
+      "7Day+": "+4,508",
+      "Total": "5,513,955",
+      "track_id": "3j5zNcb0aSk7dx3W3mAKzw",
+      "artist_ids": [
+        "1i8SpTcr7yvPOmcqrbnVXY",
+        "2R21vXR83lH98kGeO99Y66",
+        "0qTZZWLzuD59Un5r1speHm"
+      ]
+    },
+    {
+      "Pos": "182",
+      "P+": "-57",
+      "Artist and Title": "Tainy - Lo Siento BB:/ (w/ Bad Bunny, Julieta Venegas)",
+      "Days": "1012",
+      "Pk": "1",
+      "(x?)": "(x115)",
+      "Streams": "4,478",
+      "Streams+": "-426",
+      "7Day": "38,220",
+      "7Day+": "-1,082",
+      "Total": "19,824,749",
+      "track_id": "4gzsuuZypVbxs0Af1LSZyB",
+      "artist_ids": [
+        "0GM7qgcRCORpGnfcN2tCiB",
+        "4q3ewBCX7sLwd24euuV69X",
+        "2QWIScpFDNxmS6ZEMIUvgm"
+      ]
+    },
+    {
+      "Pos": "183",
+      "P+": "+4",
       "Artist and Title": "Wisin & Yandel - Me Estas Tentando",
-      "Days": "146",
+      "Days": "147",
       "Pk": "78",
       "(x?)": "",
-      "Streams": "4,173",
-      "Streams+": "-1,334",
-      "7Day": "39,262",
-      "7Day+": "+4,173",
-      "Total": "742,896",
+      "Streams": "4,443",
+      "Streams+": "+270",
+      "7Day": "38,595",
+      "7Day+": "-667",
+      "Total": "747,339",
       "track_id": "7JVIiaJPFiZypYSOMREhhA",
       "artist_ids": [
         "1wZtkThiXbVNtj6hee6dz9"
       ]
     },
     {
+      "Pos": "184",
+      "P+": "+2",
+      "Artist and Title": "Maluma - El Perdedor",
+      "Days": "608",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "4,443",
+      "Streams+": "+269",
+      "7Day": "24,560",
+      "7Day+": "-302",
+      "Total": "2,247,789",
+      "track_id": "1iEwyiSLAunPR6uouANE0O",
+      "artist_ids": [
+        "1r4hJ1h58CWwUQe3MxPuau"
+      ]
+    },
+    {
+      "Pos": "185",
+      "P+": "-12",
+      "Artist and Title": "Taylor Swift - The Fate of Ophelia",
+      "Days": "258",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "4,431",
+      "Streams+": "+142",
+      "7Day": "14,853",
+      "7Day+": "+4,431",
+      "Total": "2,197,596",
+      "track_id": "53iuhJlwXhSER5J2IYYv1W",
+      "artist_ids": [
+        "06HL4z0CvFAxyc27GXpf02"
+      ]
+    },
+    {
+      "Pos": "186",
+      "P+": "-10",
+      "Artist and Title": "Paulo Londra - Nena Maldición (w/ Lenny Tavárez)",
+      "Days": "2177",
+      "Pk": "24",
+      "(x?)": "",
+      "Streams": "4,424",
+      "Streams+": "+142",
+      "7Day": "19,895",
+      "7Day+": "-681",
+      "Total": "10,738,988",
+      "track_id": "77dMSg2VHi2wwXjXNrmcrZ",
+      "artist_ids": [
+        "3vQ0GE3mI0dAaxIMYe5g7z",
+        "1pQWsZQehhS4wavwh7Fnxd"
+      ]
+    },
+    {
+      "Pos": "187",
+      "P+": "RE",
+      "Artist and Title": "Arcángel - Me Prefieres A Mi",
+      "Days": "528",
+      "Pk": "70",
+      "(x?)": "",
+      "Streams": "4,386",
+      "Streams+": "",
+      "7Day": "4,386",
+      "7Day+": "+4,386",
+      "Total": "2,914,089",
+      "track_id": "3GhmL9fuM8jwGcHCFbeo3v",
+      "artist_ids": [
+        "4SsVbpTthjScTS7U2hmr1X"
+      ]
+    },
+    {
       "Pos": "188",
-      "P+": "+6",
+      "P+": "=",
       "Artist and Title": "Bryant Myers - Esclava - Remix (w/ Anuel AA, Anonimus, Almighty)",
-      "Days": "262",
+      "Days": "263",
       "Pk": "85",
       "(x?)": "",
-      "Streams": "4,166",
-      "Streams+": "-886",
-      "7Day": "14,023",
-      "7Day+": "+45",
-      "Total": "1,446,717",
+      "Streams": "4,384",
+      "Streams+": "+218",
+      "7Day": "13,602",
+      "7Day+": "-421",
+      "Total": "1,451,101",
       "track_id": "2Mgur7BKnpr7OG3izSNFTA",
       "artist_ids": [
         "6w9ToX5slZ4uIdmD17hJ3c",
@@ -3364,210 +3365,225 @@
     },
     {
       "Pos": "189",
-      "P+": "RE",
-      "Artist and Title": "Ele A El Dominio - Hace Mucho Tiempo",
-      "Days": "7",
-      "Pk": "159",
+      "P+": "-10",
+      "Artist and Title": "Piso 21 - Te Vi (w/ Micro TDH)",
+      "Days": "1096",
+      "Pk": "7",
       "(x?)": "",
-      "Streams": "4,165",
-      "Streams+": "",
-      "7Day": "14,096",
-      "7Day+": "+4,165",
-      "Total": "33,022",
-      "track_id": "3eIvjtwoYC16ElxYE6ph7J",
+      "Streams": "4,371",
+      "Streams+": "+103",
+      "7Day": "20,199",
+      "7Day+": "-868",
+      "Total": "6,076,652",
+      "track_id": "059bcIhyc2SBwm6sw2AZzd",
       "artist_ids": [
-        "4SzD0wClEg9NKVJZbCRFqS"
+        "4bw2Am3p9ji3mYsXNXtQcd",
+        "1aWJsBQa67l72j1VT3D6Ow"
       ]
     },
     {
       "Pos": "190",
-      "P+": "-29",
-      "Artist and Title": "Ozuna - Dile Que Tu Me Quieres",
-      "Days": "555",
-      "Pk": "8",
+      "P+": "RE",
+      "Artist and Title": "Super Yei - La Forma en Que Me Miras (w/ Jone Quest, Sammy, Myke Towers, Lenny Tavárez, Rafa Pabón)",
+      "Days": "1153",
+      "Pk": "51",
       "(x?)": "",
-      "Streams": "4,164",
-      "Streams+": "-1,203",
-      "7Day": "27,130",
-      "7Day+": "+4,164",
-      "Total": "1,801,132",
-      "track_id": "7eWjKYlhZyM8kPz6JJ35aN",
+      "Streams": "4,348",
+      "Streams+": "",
+      "7Day": "4,348",
+      "7Day+": "+4,348",
+      "Total": "7,414,213",
+      "track_id": "57Ba26w9eoXx8BBUNgRNLV",
       "artist_ids": [
-        "1i8SpTcr7yvPOmcqrbnVXY"
+        "6HqgxkTt9KGyt27zYrwVan",
+        "6wcKDqJRY3TzbcdRKo6EiE",
+        "2raERfjzsdnUUQeZSge5eZ",
+        "7iK8PXO48WeuP03g8YR51W",
+        "1pQWsZQehhS4wavwh7Fnxd",
+        "11YLRSsZA3YVuQQtHXKTlz"
       ]
     },
     {
       "Pos": "191",
-      "P+": "-71",
-      "Artist and Title": "Los Grey's - Te Imagine",
-      "Days": "29",
-      "Pk": "51",
+      "P+": "-20",
+      "Artist and Title": "Mc Jacaré - Carnívoro (w/ Mc Lele JP, Mc Negão Original, DJ Japa NK)",
+      "Days": "224",
+      "Pk": "59",
       "(x?)": "",
-      "Streams": "4,155",
-      "Streams+": "-1,759",
-      "7Day": "44,569",
-      "7Day+": "-857",
-      "Total": "172,053",
-      "track_id": "3XjEUVHTkBgkSt2wiO74jL",
+      "Streams": "4,331",
+      "Streams+": "+4",
+      "7Day": "40,696",
+      "7Day+": "-808",
+      "Total": "1,256,900",
+      "track_id": "65aH3l8LEmRp3HuH5XpKoH",
       "artist_ids": [
-        "5KU9XgpOIxG0kd75YjunQ4"
+        "6qrqAYlS6lUj2BVXax7SZW",
+        "1mV9h1AwhRXSjBFcYpajgY",
+        "4LHTgACY32k94VDjenF0nP",
+        "1bpnl8qbR9GxmiNlkEufW6"
       ]
     },
     {
       "Pos": "192",
-      "P+": "+3",
-      "Artist and Title": "Don Omar - Taboo",
-      "Days": "36",
-      "Pk": "121",
+      "P+": "-25",
+      "Artist and Title": "Young Miko - BnB (w/ Clarent)",
+      "Days": "70",
+      "Pk": "95",
       "(x?)": "",
-      "Streams": "4,144",
-      "Streams+": "-902",
-      "7Day": "32,343",
-      "7Day+": "+4,144",
-      "Total": "137,162",
-      "track_id": "4cyYC67XY3weSVmSLdKLP8",
+      "Streams": "4,310",
+      "Streams+": "-58",
+      "7Day": "8,678",
+      "7Day+": "-589",
+      "Total": "370,055",
+      "track_id": "6iWg7wVBXWwQYlVqp4UKPh",
       "artist_ids": [
-        "33ScadVnbm2X8kkUqOkC6Z"
+        "3qsKSpcV3ncke3hw52JSMB",
+        "78F6Xkd46aMHkr4AP60TXY"
       ]
     },
     {
       "Pos": "193",
       "P+": "RE",
-      "Artist and Title": "Mon Laferte - Tu Falta De Querer",
-      "Days": "114",
-      "Pk": "100",
+      "Artist and Title": "Enrique Iglesias - Cuando Me Enamoro (w/ Juan Luis Guerra 4.40)",
+      "Days": "199",
+      "Pk": "77",
       "(x?)": "",
-      "Streams": "4,134",
+      "Streams": "4,287",
       "Streams+": "",
-      "7Day": "8,920",
-      "7Day+": "-402",
-      "Total": "528,775",
-      "track_id": "4skuEIloXWuxxgekKupkEH",
+      "7Day": "4,287",
+      "7Day+": "+4,287",
+      "Total": "951,101",
+      "track_id": "79gkHjNTSyGPXEyGkNQ8zH",
       "artist_ids": [
-        "4boI7bJtmB1L3b1cuL75Zr"
+        "7qG3b048QCHVRO5Pv1T5lw",
+        "3nlpTZci9O5W8RsNoNH559"
       ]
     },
     {
       "Pos": "194",
-      "P+": "-23",
-      "Artist and Title": "HUGEL - Jamaican (Bam Bam) (w/ SOLTO (FR))",
-      "Days": "46",
-      "Pk": "139",
+      "P+": "-22",
+      "Artist and Title": "KAROL G - Coleccionando Heridas (w/ Marco Antonio Solís)",
+      "Days": "304",
+      "Pk": "30",
       "(x?)": "",
-      "Streams": "4,130",
-      "Streams+": "-1,147",
-      "7Day": "32,352",
-      "7Day+": "-45",
-      "Total": "227,096",
-      "track_id": "7e4zDInS6tA2jwzphvs2Ay",
+      "Streams": "4,263",
+      "Streams+": "-32",
+      "7Day": "19,495",
+      "7Day+": "-711",
+      "Total": "1,856,574",
+      "track_id": "3ddJ8Vbc5tYPxq5zKRVke6",
       "artist_ids": [
-        "5PlfkPxwCpRRWQJBxCa0By",
-        "0F3tUZeb9dLNEpxCpzEBQt"
+        "790FomKkXshlbRYZFtlgla",
+        "3tJnB0s6c3oXPq1SCCavnd"
       ]
     },
     {
       "Pos": "195",
-      "P+": "RE",
-      "Artist and Title": "Taiu - Rara Vez (w/ Milo j)",
-      "Days": "1262",
-      "Pk": "5",
+      "P+": "-31",
+      "Artist and Title": "Trap Capos - De las 2 (w/ Noriel, Bad Bunny, Arcángel)",
+      "Days": "489",
+      "Pk": "79",
       "(x?)": "",
-      "Streams": "4,120",
-      "Streams+": "",
-      "7Day": "4,120",
-      "7Day+": "+4,120",
-      "Total": "17,395,755",
-      "track_id": "7MVIfkyzuUmQ716j8U7yGR",
+      "Streams": "4,261",
+      "Streams+": "-174",
+      "7Day": "19,322",
+      "7Day+": "-506",
+      "Total": "2,206,038",
+      "track_id": "4DS7HoqrKq1dDjeYOKBlu9",
       "artist_ids": [
-        "5szJHKg5xeUlQ9pTqzdpic",
-        "19HM5j0ULGSmEoRcrSe5x3"
+        "2pQAUIesBqfT87PaM1ijtk",
+        "3RtNN1VnooWEn3KQk03DUL",
+        "4q3ewBCX7sLwd24euuV69X",
+        "4SsVbpTthjScTS7U2hmr1X"
       ]
     },
     {
       "Pos": "196",
-      "P+": "-99",
-      "Artist and Title": "Jambao - Se Parece Más A Ti",
-      "Days": "159",
-      "Pk": "62",
+      "P+": "RE",
+      "Artist and Title": "Cosculluela - Te Busco (w/ Nicky Jam)",
+      "Days": "966",
+      "Pk": "11",
       "(x?)": "",
-      "Streams": "4,116",
-      "Streams+": "-2,314",
-      "7Day": "38,263",
-      "7Day+": "+4,116",
-      "Total": "906,273",
-      "track_id": "2EsuDnVRUz7LwJI2TrSv6L",
+      "Streams": "4,257",
+      "Streams+": "",
+      "7Day": "4,257",
+      "7Day+": "+4,257",
+      "Total": "4,890,706",
+      "track_id": "2M2WWJE863upPYUrzCRjN6",
       "artist_ids": [
-        "37zUz0gjTaNCWTOymnuWGG"
+        "00me4Ke1LsvMxt5kydlMyU",
+        "1SupJlEpv7RS2tPNRaHViT"
       ]
     },
     {
       "Pos": "197",
-      "P+": "-95",
-      "Artist and Title": "Grupo Callado - Últimamente",
-      "Days": "96",
-      "Pk": "68",
+      "P+": "RE",
+      "Artist and Title": "KAROL G - Verano Rosa (w/ Feid)",
+      "Days": "375",
+      "Pk": "15",
       "(x?)": "",
-      "Streams": "4,109",
-      "Streams+": "-2,147",
-      "7Day": "37,222",
-      "7Day+": "+4,109",
-      "Total": "518,640",
-      "track_id": "6LPQTsaKFO2FMXYAHoUw29",
+      "Streams": "4,257",
+      "Streams+": "",
+      "7Day": "4,257",
+      "7Day+": "+4,257",
+      "Total": "3,032,215",
+      "track_id": "0nafF9MxcXJBQWv3BTKtdF",
       "artist_ids": [
-        "1D3FHGWiOCHfcx1UfXqVfS"
+        "790FomKkXshlbRYZFtlgla",
+        "2LRoIwlKmHjgvigdNGBHNo"
       ]
     },
     {
       "Pos": "198",
-      "P+": "RE",
-      "Artist and Title": "Feid - FERXXO 151 (w/ ICON)",
-      "Days": "293",
-      "Pk": "69",
+      "P+": "-30",
+      "Artist and Title": "ADÉLA - Nicole Kidman",
+      "Days": "2",
+      "Pk": "168",
       "(x?)": "",
-      "Streams": "4,085",
-      "Streams+": "",
-      "7Day": "14,458",
-      "7Day+": "-124",
-      "Total": "1,631,007",
-      "track_id": "2Cl4HCBmPddQNZEncdoXp0",
+      "Streams": "4,250",
+      "Streams+": "-88",
+      "7Day": "8,588",
+      "7Day+": "+4,250",
+      "Total": "8,588",
+      "track_id": "70cHKK8bHAfJrOGVnfRG9J",
       "artist_ids": [
-        "2LRoIwlKmHjgvigdNGBHNo",
-        "0SSbTivuMrvdqgCt7ln6jD"
+        "2qanRMyA5bNuTvz1dK45OP"
       ]
     },
     {
       "Pos": "199",
       "P+": "RE",
-      "Artist and Title": "JHAYCO - Ley Seca (w/ Anuel AA)",
-      "Days": "439",
-      "Pk": "5",
+      "Artist and Title": "Angel Y Khriz - Na De Na (w/ Gocho \"El Lápiz De Platino\", John Eric)",
+      "Days": "80",
+      "Pk": "109",
       "(x?)": "",
-      "Streams": "4,083",
+      "Streams": "4,245",
       "Streams+": "",
-      "7Day": "4,083",
-      "7Day+": "+4,083",
-      "Total": "7,731,695",
-      "track_id": "3JCaq3KDSROg3TXhdiDa9n",
+      "7Day": "32,842",
+      "7Day+": "+4,245",
+      "Total": "410,790",
+      "track_id": "2Jz1X6ZB0gkkCVgmeVGVGp",
       "artist_ids": [
-        "6nVcHLIgY5pE2YCl8ubca1",
-        "2R21vXR83lH98kGeO99Y66"
+        "7npqy7rgdX2D3yfVyWExKo",
+        "65VADjjC47dZbyOyrgNWJA",
+        "0IUvQ8DrCymt5IHywZsda2"
       ]
     },
     {
       "Pos": "200",
-      "P+": "-3",
-      "Artist and Title": "Bad Bunny - Enséñame a Bailar",
-      "Days": "651",
-      "Pk": "24",
+      "P+": "RE",
+      "Artist and Title": "Paco Barrón y sus Norteños Clan - Uno Más Uno Es Igual A Dos Enamorados",
+      "Days": "81",
+      "Pk": "83",
       "(x?)": "",
-      "Streams": "4,075",
-      "Streams+": "-947",
-      "7Day": "9,097",
-      "7Day+": "-767",
-      "Total": "4,390,710",
-      "track_id": "2NMjggapJcXXM7WccGEBUO",
+      "Streams": "4,244",
+      "Streams+": "",
+      "7Day": "4,244",
+      "7Day+": "+4,244",
+      "Total": "440,552",
+      "track_id": "0zXBPNGiZxzzaGQKM5lf4A",
       "artist_ids": [
-        "4q3ewBCX7sLwd24euuV69X"
+        "1Uz4WPsI4VylKT6lhJiDO5"
       ]
     }
   ]
