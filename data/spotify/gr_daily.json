@@ -1,19 +1,19 @@
 {
   "source": "https://kworb.net/spotify/country/gr_daily.html",
-  "title": "Spotify Daily Chart - Greece - 2026/10/08",
+  "title": "Spotify Daily Chart - Greece - 2026/10/09",
   "chart": [
     {
       "Pos": "1",
-      "P+": "NEW",
+      "P+": "=",
       "Artist and Title": "HermesHermes - VGAINO RIXNO (w/ BLVD)",
-      "Days": "1",
+      "Days": "2",
       "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "89,656",
-      "Streams+": "",
-      "7Day": "89,656",
-      "7Day+": "+89,656",
-      "Total": "89,656",
+      "(x?)": "(x2)",
+      "Streams": "86,747",
+      "Streams+": "-2,909",
+      "7Day": "176,403",
+      "7Day+": "+86,747",
+      "Total": "176,403",
       "track_id": "703yjsRft9WQxljrzopeuz",
       "artist_ids": [
         "5PeCMyf2BO8RlAujWP0erY",
@@ -22,16 +22,16 @@
     },
     {
       "Pos": "2",
-      "P+": "-1",
+      "P+": "=",
       "Artist and Title": "DIFF - BACK (w/ Spize)",
-      "Days": "7",
+      "Days": "8",
       "Pk": "1",
       "(x?)": "(x5)",
-      "Streams": "88,552",
-      "Streams+": "-6,835",
-      "7Day": "608,941",
-      "7Day+": "+88,552",
-      "Total": "608,941",
+      "Streams": "85,971",
+      "Streams+": "-2,581",
+      "7Day": "607,024",
+      "7Day+": "-1,917",
+      "Total": "694,912",
       "track_id": "2Pfy1OZP2yuCTzkKAxSbeS",
       "artist_ids": [
         "4rtNK25TiSGNcibilGWcQK",
@@ -40,33 +40,52 @@
     },
     {
       "Pos": "3",
+      "P+": "NEW",
+      "Artist and Title": "Ivan Greko - Ela Poios? (w/ Donn, BLVD)",
+      "Days": "1",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "77,835",
+      "Streams+": "",
+      "7Day": "77,835",
+      "7Day+": "+77,835",
+      "Total": "77,835",
+      "track_id": "6TgFF0enkF3Fp8h5CzXLE9",
+      "artist_ids": [
+        "0cy6ZMOTeautXRNJsR6PiV",
+        "5ZW3jmupWrQDBKilPyUVkv",
+        "3XVSWUdVDon1RGgHdPuqzR"
+      ]
+    },
+    {
+      "Pos": "4",
       "P+": "-1",
       "Artist and Title": "Light - Pablona",
-      "Days": "22",
+      "Days": "23",
       "Pk": "1",
       "(x?)": "(x11)",
-      "Streams": "74,653",
-      "Streams+": "+3,165",
-      "7Day": "523,667",
-      "7Day+": "-8,655",
-      "Total": "2,222,346",
+      "Streams": "73,914",
+      "Streams+": "-739",
+      "7Day": "516,906",
+      "7Day+": "-6,761",
+      "Total": "2,296,260",
       "track_id": "1V01boZorT3QjQEa0xVUnT",
       "artist_ids": [
         "1UdbiTrv73Dp7F0s3OHmn2"
       ]
     },
     {
-      "Pos": "4",
-      "P+": "=",
+      "Pos": "5",
+      "P+": "-1",
       "Artist and Title": "Roi 6/12 - Cocaina Marijuana (w/ Lived)",
-      "Days": "2",
+      "Days": "3",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "73,602",
-      "Streams+": "+6,224",
-      "7Day": "140,980",
-      "7Day+": "+73,602",
-      "Total": "140,980",
+      "Streams": "73,567",
+      "Streams+": "-35",
+      "7Day": "214,547",
+      "7Day+": "+73,567",
+      "Total": "214,547",
       "track_id": "7nsKK8k1I9f8mxpzg3wvYK",
       "artist_ids": [
         "1yBH6dqnD6xzSeCjXp9pKm",
@@ -74,69 +93,34 @@
       ]
     },
     {
-      "Pos": "5",
-      "P+": "-2",
+      "Pos": "6",
+      "P+": "-1",
       "Artist and Title": "Giorgos Mazonakis - Ores Mikres",
-      "Days": "720",
+      "Days": "721",
       "Pk": "1",
       "(x?)": "(x13)",
-      "Streams": "67,389",
-      "Streams+": "-29",
-      "7Day": "507,783",
-      "7Day+": "-2,351",
-      "Total": "11,424,446",
+      "Streams": "71,466",
+      "Streams+": "+4,077",
+      "7Day": "506,598",
+      "7Day+": "-1,185",
+      "Total": "11,495,912",
       "track_id": "4URIs3gEDgakPiGq8bhe1G",
       "artist_ids": [
         "1gyBRbQACz4JJX2HRROigK"
       ]
     },
     {
-      "Pos": "6",
-      "P+": "=",
-      "Artist and Title": "Light - Baila (w/ Arab)",
-      "Days": "106",
-      "Pk": "1",
-      "(x?)": "(x13)",
-      "Streams": "64,036",
-      "Streams+": "+4,608",
-      "7Day": "421,815",
-      "7Day+": "+3,773",
-      "Total": "10,314,175",
-      "track_id": "7h1NvRW2thbYlh0esXXORO",
-      "artist_ids": [
-        "1UdbiTrv73Dp7F0s3OHmn2",
-        "3h3WR8UDyRk15U74xAXE7a"
-      ]
-    },
-    {
       "Pos": "7",
-      "P+": "-2",
-      "Artist and Title": "Saske - ORES",
-      "Days": "63",
-      "Pk": "1",
-      "(x?)": "(x19)",
-      "Streams": "61,025",
-      "Streams+": "-1,401",
-      "7Day": "446,891",
-      "7Day+": "-5,612",
-      "Total": "5,410,759",
-      "track_id": "4rXI3GKWppbWrlBckmSkFR",
-      "artist_ids": [
-        "1LxWE4LOhnqeaAx2tVUK6p"
-      ]
-    },
-    {
-      "Pos": "8",
-      "P+": "-1",
+      "P+": "+1",
       "Artist and Title": "DIFF - YU (w/ Merko, Sanko, Spize)",
-      "Days": "7",
+      "Days": "8",
       "Pk": "3",
       "(x?)": "(x1)",
-      "Streams": "57,695",
-      "Streams+": "-1,198",
-      "7Day": "435,780",
-      "7Day+": "+57,695",
-      "Total": "435,780",
+      "Streams": "66,265",
+      "Streams+": "+8,570",
+      "7Day": "425,509",
+      "7Day+": "-10,271",
+      "Total": "502,045",
       "track_id": "4KQfEZZD0TWWKFtC00JStq",
       "artist_ids": [
         "4rtNK25TiSGNcibilGWcQK",
@@ -146,35 +130,52 @@
       ]
     },
     {
-      "Pos": "9",
-      "P+": "-1",
-      "Artist and Title": "Sadam - Metallo (w/ Dof Twogee)",
-      "Days": "33",
+      "Pos": "8",
+      "P+": "-2",
+      "Artist and Title": "Light - Baila (w/ Arab)",
+      "Days": "107",
       "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "51,653",
-      "Streams+": "-1,408",
-      "7Day": "371,800",
-      "7Day+": "-5,137",
-      "Total": "2,292,013",
-      "track_id": "0BpWJbKD6OmAXO9tEpcJm0",
+      "(x?)": "(x13)",
+      "Streams": "66,236",
+      "Streams+": "+2,200",
+      "7Day": "423,207",
+      "7Day+": "+1,392",
+      "Total": "10,380,411",
+      "track_id": "7h1NvRW2thbYlh0esXXORO",
       "artist_ids": [
-        "5svarA8QyRUWetgH9ZouQq",
-        "1OJxI4NQfY6osMvhfRMMEX"
+        "1UdbiTrv73Dp7F0s3OHmn2",
+        "3h3WR8UDyRk15U74xAXE7a"
+      ]
+    },
+    {
+      "Pos": "9",
+      "P+": "-2",
+      "Artist and Title": "Saske - ORES",
+      "Days": "64",
+      "Pk": "1",
+      "(x?)": "(x19)",
+      "Streams": "62,213",
+      "Streams+": "+1,188",
+      "7Day": "444,642",
+      "7Day+": "-2,249",
+      "Total": "5,472,972",
+      "track_id": "4rXI3GKWppbWrlBckmSkFR",
+      "artist_ids": [
+        "1LxWE4LOhnqeaAx2tVUK6p"
       ]
     },
     {
       "Pos": "10",
       "P+": "=",
       "Artist and Title": "DIFF - VIVA LA MUERTE (w/ Roi 6/12, BAKV)",
-      "Days": "7",
+      "Days": "8",
       "Pk": "5",
       "(x?)": "",
-      "Streams": "51,068",
-      "Streams+": "+1,164",
-      "7Day": "365,496",
-      "7Day+": "+51,068",
-      "Total": "365,496",
+      "Streams": "56,827",
+      "Streams+": "+5,759",
+      "7Day": "355,110",
+      "7Day+": "-10,386",
+      "Total": "422,323",
       "track_id": "3Q4UCQRdDsQ2KnctjBCiXx",
       "artist_ids": [
         "4rtNK25TiSGNcibilGWcQK",
@@ -185,15 +186,33 @@
     {
       "Pos": "11",
       "P+": "-2",
+      "Artist and Title": "Sadam - Metallo (w/ Dof Twogee)",
+      "Days": "34",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "54,165",
+      "Streams+": "+2,512",
+      "7Day": "369,250",
+      "7Day+": "-2,550",
+      "Total": "2,346,178",
+      "track_id": "0BpWJbKD6OmAXO9tEpcJm0",
+      "artist_ids": [
+        "5svarA8QyRUWetgH9ZouQq",
+        "1OJxI4NQfY6osMvhfRMMEX"
+      ]
+    },
+    {
+      "Pos": "12",
+      "P+": "-1",
       "Artist and Title": "TOQUEL - GEITONIA KAI TILEFONO (w/ Bloody Hawk, Beyond)",
-      "Days": "99",
+      "Days": "100",
       "Pk": "3",
       "(x?)": "(x1)",
-      "Streams": "50,835",
-      "Streams+": "-285",
-      "7Day": "366,313",
-      "7Day+": "-1,846",
-      "Total": "7,366,975",
+      "Streams": "53,375",
+      "Streams+": "+2,540",
+      "7Day": "364,648",
+      "7Day+": "-1,665",
+      "Total": "7,420,350",
       "track_id": "3DqnrR1bD21LufNyXJLIsz",
       "artist_ids": [
         "7AWAljMatr7bxddF4kWzXG",
@@ -202,35 +221,17 @@
       ]
     },
     {
-      "Pos": "12",
-      "P+": "-1",
-      "Artist and Title": "TOQUEL - KAMIA (w/ Beyond)",
-      "Days": "99",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "48,468",
-      "Streams+": "-926",
-      "7Day": "353,433",
-      "7Day+": "-2,566",
-      "Total": "5,094,453",
-      "track_id": "7H1UWowk8Dd2DLu0oAQEX1",
-      "artist_ids": [
-        "7AWAljMatr7bxddF4kWzXG",
-        "7KcIok6StqYSedgtjmtsqP"
-      ]
-    },
-    {
       "Pos": "13",
-      "P+": "-1",
+      "P+": "=",
       "Artist and Title": "Giorgos Mazonakis - Inopnevma Ftino",
-      "Days": "478",
+      "Days": "479",
       "Pk": "2",
       "(x?)": "(x7)",
-      "Streams": "47,363",
-      "Streams+": "-749",
-      "7Day": "358,538",
-      "7Day+": "-5,051",
-      "Total": "6,797,791",
+      "Streams": "51,191",
+      "Streams+": "+3,828",
+      "7Day": "355,223",
+      "7Day+": "-3,315",
+      "Total": "6,848,982",
       "track_id": "62sRtKxGqaK0Nxy4LlWO47",
       "artist_ids": [
         "1gyBRbQACz4JJX2HRROigK"
@@ -238,16 +239,16 @@
     },
     {
       "Pos": "14",
-      "P+": "+1",
+      "P+": "=",
       "Artist and Title": "Strat - TETTEH (w/ Arab, Trannos, BeTaf Beats)",
-      "Days": "85",
+      "Days": "86",
       "Pk": "1",
       "(x?)": "(x14)",
-      "Streams": "46,208",
-      "Streams+": "+1,884",
-      "7Day": "323,122",
-      "7Day+": "+1,220",
-      "Total": "6,900,521",
+      "Streams": "50,836",
+      "Streams+": "+4,628",
+      "7Day": "327,125",
+      "7Day+": "+4,003",
+      "Total": "6,951,357",
       "track_id": "0yOqiWYx9xb1DY4cRrzPX9",
       "artist_ids": [
         "48h12D3cJbqfn1ReVL9qbw",
@@ -258,16 +259,16 @@
     },
     {
       "Pos": "15",
-      "P+": "-1",
+      "P+": "=",
       "Artist and Title": "Light - Katsiki (w/ RACK)",
-      "Days": "106",
+      "Days": "107",
       "Pk": "3",
       "(x?)": "(x9)",
-      "Streams": "45,594",
-      "Streams+": "-313",
-      "7Day": "336,977",
-      "7Day+": "-4,057",
-      "Total": "8,560,736",
+      "Streams": "49,379",
+      "Streams+": "+3,785",
+      "7Day": "334,461",
+      "7Day+": "-2,516",
+      "Total": "8,610,115",
       "track_id": "1POfjcYxV9wQOErI1F8pkm",
       "artist_ids": [
         "1UdbiTrv73Dp7F0s3OHmn2",
@@ -276,54 +277,34 @@
     },
     {
       "Pos": "16",
-      "P+": "=",
-      "Artist and Title": "TOQUEL - XIMEROMA (w/ Saske, Beyond)",
-      "Days": "99",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "44,457",
-      "Streams+": "+943",
-      "7Day": "304,960",
-      "7Day+": "-957",
-      "Total": "6,065,455",
-      "track_id": "3VafqbZuWdp6W7UribBHyb",
+      "P+": "-4",
+      "Artist and Title": "TOQUEL - KAMIA (w/ Beyond)",
+      "Days": "100",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "47,386",
+      "Streams+": "-1,082",
+      "7Day": "347,504",
+      "7Day+": "-5,929",
+      "Total": "5,141,839",
+      "track_id": "7H1UWowk8Dd2DLu0oAQEX1",
       "artist_ids": [
         "7AWAljMatr7bxddF4kWzXG",
-        "1LxWE4LOhnqeaAx2tVUK6p",
         "7KcIok6StqYSedgtjmtsqP"
       ]
     },
     {
       "Pos": "17",
-      "P+": "=",
-      "Artist and Title": "TOQUEL - POIOS NA SOU TO PEI (w/ LILA, Beyond)",
-      "Days": "211",
-      "Pk": "1",
-      "(x?)": "(x33)",
-      "Streams": "44,227",
-      "Streams+": "+1,932",
-      "7Day": "289,292",
-      "7Day+": "+6,356",
-      "Total": "19,378,181",
-      "track_id": "1fVMxUXpzDQCBxmdn0GClq",
-      "artist_ids": [
-        "7AWAljMatr7bxddF4kWzXG",
-        "69EosSfMcqIxCMw7VeVPVC",
-        "7KcIok6StqYSedgtjmtsqP"
-      ]
-    },
-    {
-      "Pos": "18",
-      "P+": "-5",
+      "P+": "+1",
       "Artist and Title": "Ntosko 101 - KONTRA STO NOMO (w/ Arab, DAIMA, Bato 101)",
-      "Days": "7",
+      "Days": "8",
       "Pk": "7",
       "(x?)": "",
-      "Streams": "43,872",
-      "Streams+": "-3,322",
-      "7Day": "349,699",
-      "7Day+": "+43,872",
-      "Total": "349,699",
+      "Streams": "45,991",
+      "Streams+": "+2,119",
+      "7Day": "333,588",
+      "7Day+": "-16,111",
+      "Total": "395,690",
       "track_id": "08EaxbwB0iQIjdGrhtO7KK",
       "artist_ids": [
         "2CgCoyfrKjhhlUsCQaKg8v",
@@ -333,17 +314,53 @@
       ]
     },
     {
+      "Pos": "18",
+      "P+": "-1",
+      "Artist and Title": "TOQUEL - POIOS NA SOU TO PEI (w/ LILA, Beyond)",
+      "Days": "212",
+      "Pk": "1",
+      "(x?)": "(x33)",
+      "Streams": "45,685",
+      "Streams+": "+1,458",
+      "7Day": "293,093",
+      "7Day+": "+3,801",
+      "Total": "19,423,866",
+      "track_id": "1fVMxUXpzDQCBxmdn0GClq",
+      "artist_ids": [
+        "7AWAljMatr7bxddF4kWzXG",
+        "69EosSfMcqIxCMw7VeVPVC",
+        "7KcIok6StqYSedgtjmtsqP"
+      ]
+    },
+    {
       "Pos": "19",
       "P+": "+1",
+      "Artist and Title": "Giorgos Mazonakis - Agapo Simeni",
+      "Days": "260",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "44,088",
+      "Streams+": "+3,288",
+      "7Day": "308,374",
+      "7Day+": "-2,130",
+      "Total": "4,793,181",
+      "track_id": "1ANPH4P1vGm6ACBtlXjMXv",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "20",
+      "P+": "-1",
       "Artist and Title": "FLY LO - BANANA (w/ Trannos, BLVD)",
-      "Days": "169",
+      "Days": "170",
       "Pk": "1",
       "(x?)": "(x14)",
-      "Streams": "41,153",
-      "Streams+": "+2,994",
-      "7Day": "271,705",
-      "7Day+": "+977",
-      "Total": "11,695,323",
+      "Streams": "43,676",
+      "Streams+": "+2,523",
+      "7Day": "274,123",
+      "7Day+": "+2,418",
+      "Total": "11,738,999",
       "track_id": "1m79Th6iG6CQDEym2EZFOo",
       "artist_ids": [
         "1zeAbUJAbLOWeYpgRVnYmu",
@@ -352,51 +369,36 @@
       ]
     },
     {
-      "Pos": "20",
-      "P+": "-2",
-      "Artist and Title": "Giorgos Mazonakis - Agapo Simeni",
-      "Days": "259",
+      "Pos": "21",
+      "P+": "-5",
+      "Artist and Title": "TOQUEL - XIMEROMA (w/ Saske, Beyond)",
+      "Days": "100",
       "Pk": "2",
       "(x?)": "(x1)",
-      "Streams": "40,800",
-      "Streams+": "+860",
-      "7Day": "310,504",
-      "7Day+": "-1,260",
-      "Total": "4,749,093",
-      "track_id": "1ANPH4P1vGm6ACBtlXjMXv",
+      "Streams": "42,281",
+      "Streams+": "-2,176",
+      "7Day": "300,276",
+      "7Day+": "-4,684",
+      "Total": "6,107,736",
+      "track_id": "3VafqbZuWdp6W7UribBHyb",
       "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "21",
-      "P+": "-2",
-      "Artist and Title": "Giorgos Mazonakis - Aniko Se Mena",
-      "Days": "30",
-      "Pk": "3",
-      "(x?)": "(x5)",
-      "Streams": "39,324",
-      "Streams+": "+1,046",
-      "7Day": "279,293",
-      "7Day+": "+2,008",
-      "Total": "2,132,839",
-      "track_id": "2LC4MTEaG75Gz4HDT568C2",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
+        "7AWAljMatr7bxddF4kWzXG",
+        "1LxWE4LOhnqeaAx2tVUK6p",
+        "7KcIok6StqYSedgtjmtsqP"
       ]
     },
     {
       "Pos": "22",
-      "P+": "+2",
+      "P+": "=",
       "Artist and Title": "TOQUEL - VACE ZELA",
-      "Days": "99",
+      "Days": "100",
       "Pk": "7",
       "(x?)": "",
-      "Streams": "38,659",
-      "Streams+": "+2,286",
-      "7Day": "257,704",
-      "7Day+": "+1,220",
-      "Total": "5,932,016",
+      "Streams": "42,033",
+      "Streams+": "+3,374",
+      "7Day": "261,617",
+      "7Day+": "+3,913",
+      "Total": "5,974,049",
       "track_id": "5h9COSkzE50NuqfLlYOaWg",
       "artist_ids": [
         "7AWAljMatr7bxddF4kWzXG"
@@ -404,53 +406,34 @@
     },
     {
       "Pos": "23",
-      "P+": "-2",
-      "Artist and Title": "Saske - PARAPANO (w/ Eleni Foureira)",
-      "Days": "63",
-      "Pk": "12",
-      "(x?)": "",
-      "Streams": "37,625",
-      "Streams+": "-115",
-      "7Day": "278,093",
-      "7Day+": "-4,804",
-      "Total": "2,441,073",
-      "track_id": "5pq1eF1UTIXzUHjDVbv32f",
+      "P+": "+4",
+      "Artist and Title": "Light - Adam & Eve (w/ Noizy)",
+      "Days": "118",
+      "Pk": "1",
+      "(x?)": "(x4)",
+      "Streams": "41,236",
+      "Streams+": "+6,492",
+      "7Day": "268,533",
+      "7Day+": "+108",
+      "Total": "12,032,437",
+      "track_id": "2lPnrDuvJUaMObjsISbGLz",
       "artist_ids": [
-        "1LxWE4LOhnqeaAx2tVUK6p",
-        "39E15l8zeCDYpSZwFNX4G2"
+        "1UdbiTrv73Dp7F0s3OHmn2",
+        "2SabhGDiBSyaM6QSuBUVqB"
       ]
     },
     {
       "Pos": "24",
-      "P+": "-2",
-      "Artist and Title": "TOQUEL - MORE PUTA (w/ RACK, Beyond)",
-      "Days": "99",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "36,080",
-      "Streams+": "-448",
-      "7Day": "266,128",
-      "7Day+": "-2,035",
-      "Total": "5,088,084",
-      "track_id": "63mi2Pc1CeDGjNWUn7Rn1h",
-      "artist_ids": [
-        "7AWAljMatr7bxddF4kWzXG",
-        "6YYOTK6Qyv6PuFipPxCCoe",
-        "7KcIok6StqYSedgtjmtsqP"
-      ]
-    },
-    {
-      "Pos": "25",
-      "P+": "=",
+      "P+": "+1",
       "Artist and Title": "RACK - PALOMA (w/ MENJU, Oge)",
-      "Days": "123",
+      "Days": "124",
       "Pk": "1",
       "(x?)": "(x8)",
-      "Streams": "36,012",
-      "Streams+": "+606",
-      "7Day": "271,995",
-      "7Day+": "-2,876",
-      "Total": "12,994,865",
+      "Streams": "40,803",
+      "Streams+": "+4,791",
+      "7Day": "271,888",
+      "7Day+": "-107",
+      "Total": "13,035,668",
       "track_id": "2mSredandhqq7qSD2LVhn6",
       "artist_ids": [
         "6YYOTK6Qyv6PuFipPxCCoe",
@@ -459,17 +442,125 @@
       ]
     },
     {
+      "Pos": "25",
+      "P+": "-4",
+      "Artist and Title": "Giorgos Mazonakis - Aniko Se Mena",
+      "Days": "31",
+      "Pk": "3",
+      "(x?)": "(x5)",
+      "Streams": "40,668",
+      "Streams+": "+1,344",
+      "7Day": "281,045",
+      "7Day+": "+1,752",
+      "Total": "2,173,507",
+      "track_id": "2LC4MTEaG75Gz4HDT568C2",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
       "Pos": "26",
-      "P+": "=",
+      "P+": "-3",
+      "Artist and Title": "Saske - PARAPANO (w/ Eleni Foureira)",
+      "Days": "64",
+      "Pk": "12",
+      "(x?)": "",
+      "Streams": "39,510",
+      "Streams+": "+1,885",
+      "7Day": "270,578",
+      "7Day+": "-7,515",
+      "Total": "2,480,583",
+      "track_id": "5pq1eF1UTIXzUHjDVbv32f",
+      "artist_ids": [
+        "1LxWE4LOhnqeaAx2tVUK6p",
+        "39E15l8zeCDYpSZwFNX4G2"
+      ]
+    },
+    {
+      "Pos": "27",
+      "P+": "-3",
+      "Artist and Title": "TOQUEL - MORE PUTA (w/ RACK, Beyond)",
+      "Days": "100",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "39,187",
+      "Streams+": "+3,107",
+      "7Day": "261,966",
+      "7Day+": "-4,162",
+      "Total": "5,127,271",
+      "track_id": "63mi2Pc1CeDGjNWUn7Rn1h",
+      "artist_ids": [
+        "7AWAljMatr7bxddF4kWzXG",
+        "6YYOTK6Qyv6PuFipPxCCoe",
+        "7KcIok6StqYSedgtjmtsqP"
+      ]
+    },
+    {
+      "Pos": "28",
+      "P+": "NEW",
+      "Artist and Title": "Khay Be - Oxi Oxi (w/ Arab, Destiny)",
+      "Days": "1",
+      "Pk": "28",
+      "(x?)": "",
+      "Streams": "38,340",
+      "Streams+": "",
+      "7Day": "38,340",
+      "7Day+": "+38,340",
+      "Total": "38,340",
+      "track_id": "4tr7QnnigYv7MfWZECjtTD",
+      "artist_ids": [
+        "5k33Wwmqe50DI0c0tF7X9y",
+        "3h3WR8UDyRk15U74xAXE7a",
+        "00EuEpMzi9sEgwVRxuPBky"
+      ]
+    },
+    {
+      "Pos": "29",
+      "P+": "NEW",
+      "Artist and Title": "YungKapa - DRAKOS (w/ Corteo)",
+      "Days": "1",
+      "Pk": "29",
+      "(x?)": "",
+      "Streams": "37,568",
+      "Streams+": "",
+      "7Day": "37,568",
+      "7Day+": "+37,568",
+      "Total": "37,568",
+      "track_id": "4YKJlKApPEaLf7Ba2etctU",
+      "artist_ids": [
+        "23iVXbj5uK4e3MtRQLNPdG",
+        "7vHwSdqnwKnxJiMHFr0Edd"
+      ]
+    },
+    {
+      "Pos": "30",
+      "P+": "-2",
+      "Artist and Title": "Giorgos Mazonakis - Apopse Tha Se Oneireuto",
+      "Days": "31",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "36,961",
+      "Streams+": "+2,654",
+      "7Day": "240,429",
+      "7Day+": "+4,368",
+      "Total": "1,532,166",
+      "track_id": "4zELnzUP8uL9fNVRKmVoqW",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "31",
+      "P+": "-5",
       "Artist and Title": "SNIK - KLEIDIA (w/ Trannos)",
-      "Days": "113",
+      "Days": "114",
       "Pk": "1",
       "(x?)": "(x25)",
-      "Streams": "35,581",
-      "Streams+": "+847",
-      "7Day": "240,937",
-      "7Day+": "+1,158",
-      "Total": "13,217,591",
+      "Streams": "36,737",
+      "Streams+": "+1,156",
+      "7Day": "241,863",
+      "7Day+": "+926",
+      "Total": "13,254,328",
       "track_id": "5XM5BN2S3HLTaK4wvC7RZe",
       "artist_ids": [
         "6wN4QyhoM6fN49kEB25rnl",
@@ -477,103 +568,85 @@
       ]
     },
     {
-      "Pos": "27",
-      "P+": "=",
-      "Artist and Title": "Light - Adam & Eve (w/ Noizy)",
-      "Days": "117",
-      "Pk": "1",
-      "(x?)": "(x4)",
-      "Streams": "34,744",
-      "Streams+": "+530",
-      "7Day": "268,425",
-      "7Day+": "-1,337",
-      "Total": "11,991,201",
-      "track_id": "2lPnrDuvJUaMObjsISbGLz",
-      "artist_ids": [
-        "1UdbiTrv73Dp7F0s3OHmn2",
-        "2SabhGDiBSyaM6QSuBUVqB"
-      ]
-    },
-    {
-      "Pos": "28",
-      "P+": "+2",
-      "Artist and Title": "Giorgos Mazonakis - Apopse Tha Se Oneireuto",
-      "Days": "30",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "34,307",
-      "Streams+": "+372",
-      "7Day": "236,061",
-      "7Day+": "+402",
-      "Total": "1,495,205",
-      "track_id": "4zELnzUP8uL9fNVRKmVoqW",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "29",
-      "P+": "+5",
-      "Artist and Title": "Light - Idi Amin",
-      "Days": "106",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "34,016",
-      "Streams+": "+1,890",
-      "7Day": "227,432",
-      "7Day+": "+3,485",
-      "Total": "5,639,919",
-      "track_id": "2HxQy2utAbJHfS5xBXBvsD",
-      "artist_ids": [
-        "1UdbiTrv73Dp7F0s3OHmn2"
-      ]
-    },
-    {
-      "Pos": "30",
-      "P+": "-7",
+      "Pos": "32",
+      "P+": "-2",
       "Artist and Title": "Giorgos Mazonakis - Lipi Pali O Theos",
-      "Days": "30",
+      "Days": "31",
       "Pk": "7",
       "(x?)": "",
-      "Streams": "33,955",
-      "Streams+": "-2,480",
-      "7Day": "252,585",
-      "7Day+": "-1,383",
-      "Total": "1,704,236",
+      "Streams": "36,257",
+      "Streams+": "+2,302",
+      "7Day": "252,885",
+      "7Day+": "+300",
+      "Total": "1,740,493",
       "track_id": "03W4etIBU1AlHxKEAdQkrO",
       "artist_ids": [
         "1gyBRbQACz4JJX2HRROigK"
       ]
     },
     {
-      "Pos": "31",
-      "P+": "-3",
-      "Artist and Title": "Ivan Greko - KONTAKIES",
-      "Days": "29",
-      "Pk": "3",
-      "(x?)": "(x2)",
-      "Streams": "33,879",
-      "Streams+": "-110",
-      "7Day": "244,675",
-      "7Day+": "-7,288",
-      "Total": "1,710,914",
-      "track_id": "0oguLG6sMAtzEEzdZU8MoS",
+      "Pos": "33",
+      "P+": "-4",
+      "Artist and Title": "Light - Idi Amin",
+      "Days": "107",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "34,108",
+      "Streams+": "+92",
+      "7Day": "226,747",
+      "7Day+": "-685",
+      "Total": "5,674,027",
+      "track_id": "2HxQy2utAbJHfS5xBXBvsD",
       "artist_ids": [
-        "0cy6ZMOTeautXRNJsR6PiV"
+        "1UdbiTrv73Dp7F0s3OHmn2"
       ]
     },
     {
-      "Pos": "32",
-      "P+": "=",
+      "Pos": "34",
+      "P+": "+1",
+      "Artist and Title": "Giorgos Mazonakis - Tesseris Pige",
+      "Days": "53",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "33,950",
+      "Streams+": "+2,023",
+      "7Day": "241,276",
+      "7Day+": "-1,149",
+      "Total": "2,202,670",
+      "track_id": "33RFyLDmblI628Ny8qP8uq",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "35",
+      "P+": "+6",
+      "Artist and Title": "Anna Vissi - Kontra",
+      "Days": "371",
+      "Pk": "14",
+      "(x?)": "",
+      "Streams": "33,775",
+      "Streams+": "+3,522",
+      "7Day": "165,840",
+      "7Day+": "+10,523",
+      "Total": "6,813,090",
+      "track_id": "0dMasOoYB6bpcu35QpScjc",
+      "artist_ids": [
+        "3qg78GGGWP04yTv0ZQMsXl"
+      ]
+    },
+    {
+      "Pos": "36",
+      "P+": "-4",
       "Artist and Title": "TOQUEL - €€€ (w/ FLY LO, Beyond)",
-      "Days": "211",
+      "Days": "212",
       "Pk": "2",
       "(x?)": "(x9)",
-      "Streams": "33,573",
-      "Streams+": "+833",
-      "7Day": "221,355",
-      "7Day+": "+1,620",
-      "Total": "13,378,729",
+      "Streams": "33,727",
+      "Streams+": "+154",
+      "7Day": "221,997",
+      "7Day+": "+642",
+      "Total": "13,412,456",
       "track_id": "70sZnMz3WKjRW1KiiLElqG",
       "artist_ids": [
         "7AWAljMatr7bxddF4kWzXG",
@@ -582,17 +655,36 @@
       ]
     },
     {
-      "Pos": "33",
-      "P+": "+2",
+      "Pos": "37",
+      "P+": "NEW",
+      "Artist and Title": "BORAC - METRO (w/ Arab, ASOK)",
+      "Days": "1",
+      "Pk": "37",
+      "(x?)": "",
+      "Streams": "33,192",
+      "Streams+": "",
+      "7Day": "33,192",
+      "7Day+": "+33,192",
+      "Total": "33,192",
+      "track_id": "0ZDg6lOFCGgniBUQmPmAPz",
+      "artist_ids": [
+        "0GWmVguOlm1wG9ewMP4iBO",
+        "3h3WR8UDyRk15U74xAXE7a",
+        "6Zx32XYdrM9A2rIt6jKVmm"
+      ]
+    },
+    {
+      "Pos": "38",
+      "P+": "-5",
       "Artist and Title": "TOQUEL - KAKOS GIA SENA (w/ Beyond)",
-      "Days": "211",
+      "Days": "212",
       "Pk": "2",
       "(x?)": "(x9)",
-      "Streams": "32,382",
-      "Streams+": "+311",
-      "7Day": "223,752",
-      "7Day+": "-152",
-      "Total": "12,453,005",
+      "Streams": "32,230",
+      "Streams+": "-152",
+      "7Day": "223,303",
+      "7Day+": "-449",
+      "Total": "12,485,235",
       "track_id": "7kBrXPkGGmQMDmnz7Bi1Yh",
       "artist_ids": [
         "7AWAljMatr7bxddF4kWzXG",
@@ -600,53 +692,34 @@
       ]
     },
     {
-      "Pos": "34",
+      "Pos": "39",
       "P+": "-1",
-      "Artist and Title": "JOJO - Xeno Nisi (w/ Saske, Oge)",
-      "Days": "51",
-      "Pk": "16",
+      "Artist and Title": "Giorgos Mazonakis - Na Pernas",
+      "Days": "281",
+      "Pk": "6",
       "(x?)": "",
-      "Streams": "32,199",
-      "Streams+": "+19",
-      "7Day": "216,923",
-      "7Day+": "+1,812",
-      "Total": "1,739,091",
-      "track_id": "7yzcbzhDUt0MACVK6uEz6f",
-      "artist_ids": [
-        "7y3Vc1nVxf9MK2BXv5G3ul",
-        "1LxWE4LOhnqeaAx2tVUK6p",
-        "5NFeyNwaFGFHFycOg6zvs9"
-      ]
-    },
-    {
-      "Pos": "35",
-      "P+": "+1",
-      "Artist and Title": "Giorgos Mazonakis - Tesseris Pige",
-      "Days": "52",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "31,927",
-      "Streams+": "+446",
-      "7Day": "242,425",
-      "7Day+": "-1,923",
-      "Total": "2,168,720",
-      "track_id": "33RFyLDmblI628Ny8qP8uq",
+      "Streams": "31,767",
+      "Streams+": "+749",
+      "7Day": "235,137",
+      "7Day+": "-2,042",
+      "Total": "4,921,798",
+      "track_id": "26NCpU53AnjX6J148Xdsis",
       "artist_ids": [
         "1gyBRbQACz4JJX2HRROigK"
       ]
     },
     {
-      "Pos": "36",
-      "P+": "+1",
+      "Pos": "40",
+      "P+": "-4",
       "Artist and Title": "RACK - MIA (w/ FLY LO, Beyond)",
-      "Days": "78",
+      "Days": "79",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "31,520",
-      "Streams+": "+78",
-      "7Day": "217,826",
-      "7Day+": "-1,374",
-      "Total": "3,934,839",
+      "Streams": "31,557",
+      "Streams+": "+37",
+      "7Day": "215,466",
+      "7Day+": "-2,360",
+      "Total": "3,966,396",
       "track_id": "6tPJmvHpENCJTsp6zA13vT",
       "artist_ids": [
         "6YYOTK6Qyv6PuFipPxCCoe",
@@ -655,54 +728,34 @@
       ]
     },
     {
-      "Pos": "37",
-      "P+": "-6",
-      "Artist and Title": "DIFF - MASERATI (w/ 2shots, Tr4cer, Spize)",
-      "Days": "21",
-      "Pk": "10",
+      "Pos": "41",
+      "P+": "+2",
+      "Artist and Title": "Giorgos Mazonakis - Diskola Feggaria",
+      "Days": "42",
+      "Pk": "5",
       "(x?)": "",
-      "Streams": "31,383",
-      "Streams+": "-1,392",
-      "7Day": "294,133",
-      "7Day+": "-2,376",
-      "Total": "823,886",
-      "track_id": "4bnfWdcWyp5CEVnCg4jVxQ",
-      "artist_ids": [
-        "4rtNK25TiSGNcibilGWcQK",
-        "0ZRgNmKNkngvESBVUqkICS",
-        "1pujt2kEecz5ystwtZxJ0w",
-        "35k7GJlhaFK7qHpOJ1JWbm"
-      ]
-    },
-    {
-      "Pos": "38",
-      "P+": "=",
-      "Artist and Title": "Giorgos Mazonakis - Na Pernas",
-      "Days": "280",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "31,018",
-      "Streams+": "-210",
-      "7Day": "237,179",
-      "7Day+": "+791",
-      "Total": "4,890,031",
-      "track_id": "26NCpU53AnjX6J148Xdsis",
+      "Streams": "31,361",
+      "Streams+": "+1,869",
+      "7Day": "233,055",
+      "7Day+": "-3,519",
+      "Total": "1,887,439",
+      "track_id": "3yKWUJSbDaJrgJWSu0ebAs",
       "artist_ids": [
         "1gyBRbQACz4JJX2HRROigK"
       ]
     },
     {
-      "Pos": "39",
-      "P+": "-10",
+      "Pos": "42",
+      "P+": "-3",
       "Artist and Title": "DIFF - SANE (w/ Arab, Saxpas, Spize)",
-      "Days": "7",
+      "Days": "8",
       "Pk": "8",
       "(x?)": "",
-      "Streams": "30,756",
-      "Streams+": "-3,189",
-      "7Day": "300,338",
-      "7Day+": "+30,756",
-      "Total": "300,338",
+      "Streams": "31,080",
+      "Streams+": "+324",
+      "7Day": "267,240",
+      "7Day+": "-33,098",
+      "Total": "331,418",
       "track_id": "23uqKFApXPM63YhAfybyZE",
       "artist_ids": [
         "4rtNK25TiSGNcibilGWcQK",
@@ -712,51 +765,108 @@
       ]
     },
     {
-      "Pos": "40",
-      "P+": "+1",
+      "Pos": "43",
+      "P+": "-9",
+      "Artist and Title": "JOJO - Xeno Nisi (w/ Saske, Oge)",
+      "Days": "52",
+      "Pk": "16",
+      "(x?)": "",
+      "Streams": "30,718",
+      "Streams+": "-1,481",
+      "7Day": "215,527",
+      "7Day+": "-1,396",
+      "Total": "1,769,809",
+      "track_id": "7yzcbzhDUt0MACVK6uEz6f",
+      "artist_ids": [
+        "7y3Vc1nVxf9MK2BXv5G3ul",
+        "1LxWE4LOhnqeaAx2tVUK6p",
+        "5NFeyNwaFGFHFycOg6zvs9"
+      ]
+    },
+    {
+      "Pos": "44",
+      "P+": "-7",
+      "Artist and Title": "DIFF - MASERATI (w/ 2shots, Tr4cer, Spize)",
+      "Days": "22",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "30,628",
+      "Streams+": "-755",
+      "7Day": "265,932",
+      "7Day+": "-28,201",
+      "Total": "854,514",
+      "track_id": "4bnfWdcWyp5CEVnCg4jVxQ",
+      "artist_ids": [
+        "4rtNK25TiSGNcibilGWcQK",
+        "0ZRgNmKNkngvESBVUqkICS",
+        "1pujt2kEecz5ystwtZxJ0w",
+        "35k7GJlhaFK7qHpOJ1JWbm"
+      ]
+    },
+    {
+      "Pos": "45",
+      "P+": "-5",
       "Artist and Title": "Giorgos Mazonakis - Ena Thavma",
-      "Days": "164",
+      "Days": "165",
       "Pk": "9",
       "(x?)": "",
-      "Streams": "30,603",
-      "Streams+": "+382",
-      "7Day": "222,883",
-      "7Day+": "+1,929",
-      "Total": "2,845,609",
+      "Streams": "30,574",
+      "Streams+": "-29",
+      "7Day": "222,703",
+      "7Day+": "-180",
+      "Total": "2,876,183",
       "track_id": "4oMBRSkdtjd5lZHi4zYvkp",
       "artist_ids": [
         "1gyBRbQACz4JJX2HRROigK"
       ]
     },
     {
-      "Pos": "41",
-      "P+": "+11",
-      "Artist and Title": "Anna Vissi - Kontra",
-      "Days": "370",
-      "Pk": "14",
+      "Pos": "46",
+      "P+": "=",
+      "Artist and Title": "TOQUEL - A$$AP (w/ ObieDaz)",
+      "Days": "100",
+      "Pk": "4",
       "(x?)": "",
-      "Streams": "30,253",
-      "Streams+": "+6,516",
-      "7Day": "155,317",
-      "7Day+": "+5,598",
-      "Total": "6,779,315",
-      "track_id": "0dMasOoYB6bpcu35QpScjc",
+      "Streams": "30,196",
+      "Streams+": "+2,739",
+      "7Day": "198,917",
+      "7Day+": "+115",
+      "Total": "4,592,856",
+      "track_id": "7v1BQ1smP2OnG8HpaLzKkg",
       "artist_ids": [
-        "3qg78GGGWP04yTv0ZQMsXl"
+        "7AWAljMatr7bxddF4kWzXG",
+        "08GTkgJXi9tedLqjbLDLCP"
       ]
     },
     {
-      "Pos": "42",
-      "P+": "-2",
+      "Pos": "47",
+      "P+": "-3",
+      "Artist and Title": "Giorgos Mazonakis - Savvato",
+      "Days": "31",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "30,154",
+      "Streams+": "+1,380",
+      "7Day": "220,028",
+      "7Day+": "-2,143",
+      "Total": "1,404,430",
+      "track_id": "0j7zV0njYYnzBGSZHcFCib",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "48",
+      "P+": "-6",
       "Artist and Title": "RACK - THALASSA AKRIVI (w/ LILA, Beyond, Sin Laurent)",
-      "Days": "78",
+      "Days": "79",
       "Pk": "7",
       "(x?)": "",
-      "Streams": "29,633",
-      "Streams+": "-1,398",
-      "7Day": "227,567",
-      "7Day+": "-3,655",
-      "Total": "3,162,884",
+      "Streams": "29,949",
+      "Streams+": "+316",
+      "7Day": "222,854",
+      "7Day+": "-4,713",
+      "Total": "3,192,833",
       "track_id": "4acmCWFp0K23UfX89ZqxR6",
       "artist_ids": [
         "6YYOTK6Qyv6PuFipPxCCoe",
@@ -766,103 +876,17 @@
       ]
     },
     {
-      "Pos": "43",
-      "P+": "-4",
-      "Artist and Title": "Giorgos Mazonakis - Diskola Feggaria",
-      "Days": "41",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "29,492",
-      "Streams+": "-1,614",
-      "7Day": "236,574",
-      "7Day+": "-4,263",
-      "Total": "1,856,078",
-      "track_id": "3yKWUJSbDaJrgJWSu0ebAs",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "44",
-      "P+": "-2",
-      "Artist and Title": "Giorgos Mazonakis - Savvato",
-      "Days": "30",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "28,774",
-      "Streams+": "+224",
-      "7Day": "222,171",
-      "7Day+": "-2,779",
-      "Total": "1,374,276",
-      "track_id": "0j7zV0njYYnzBGSZHcFCib",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "45",
-      "P+": "-2",
-      "Artist and Title": "Light - omw",
-      "Days": "106",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "28,039",
-      "Streams+": "+28",
-      "7Day": "203,382",
-      "7Day+": "-3,135",
-      "Total": "5,845,379",
-      "track_id": "4uLodgH5AnP3mgXMyZHPDO",
-      "artist_ids": [
-        "1UdbiTrv73Dp7F0s3OHmn2"
-      ]
-    },
-    {
-      "Pos": "46",
-      "P+": "-2",
-      "Artist and Title": "TOQUEL - A$$AP (w/ ObieDaz)",
-      "Days": "99",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "27,457",
-      "Streams+": "+364",
-      "7Day": "198,802",
-      "7Day+": "-1,024",
-      "Total": "4,562,660",
-      "track_id": "7v1BQ1smP2OnG8HpaLzKkg",
-      "artist_ids": [
-        "7AWAljMatr7bxddF4kWzXG",
-        "08GTkgJXi9tedLqjbLDLCP"
-      ]
-    },
-    {
-      "Pos": "47",
-      "P+": "-2",
-      "Artist and Title": "Giorgos Mazonakis - Mou Leipeis",
-      "Days": "30",
-      "Pk": "19",
-      "(x?)": "",
-      "Streams": "27,037",
-      "Streams+": "+49",
-      "7Day": "197,380",
-      "7Day+": "+2,366",
-      "Total": "1,103,884",
-      "track_id": "3pm4f3A7SUyBllj2LvvGZ2",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "48",
-      "P+": "+2",
+      "Pos": "49",
+      "P+": "-1",
       "Artist and Title": "Strat - GAME OVER (w/ Arab, HermesHermes, BeTaf Beats)",
-      "Days": "85",
+      "Days": "86",
       "Pk": "6",
       "(x?)": "",
-      "Streams": "26,918",
-      "Streams+": "+3,003",
-      "7Day": "163,208",
-      "7Day+": "+3,372",
-      "Total": "3,146,110",
+      "Streams": "29,919",
+      "Streams+": "+3,001",
+      "7Day": "169,669",
+      "7Day+": "+6,461",
+      "Total": "3,176,029",
       "track_id": "0xnBqZdLMIk0fgo9z44vwe",
       "artist_ids": [
         "48h12D3cJbqfn1ReVL9qbw",
@@ -872,34 +896,51 @@
       ]
     },
     {
-      "Pos": "49",
-      "P+": "-1",
-      "Artist and Title": "Saske - TAN LINES",
-      "Days": "63",
-      "Pk": "18",
+      "Pos": "50",
+      "P+": "-5",
+      "Artist and Title": "Light - omw",
+      "Days": "107",
+      "Pk": "5",
       "(x?)": "",
-      "Streams": "25,466",
-      "Streams+": "+214",
-      "7Day": "169,489",
-      "7Day+": "-646",
-      "Total": "2,017,430",
-      "track_id": "6C0qHv4iBCRnoykOLAaDGb",
+      "Streams": "29,562",
+      "Streams+": "+1,523",
+      "7Day": "201,524",
+      "7Day+": "-1,858",
+      "Total": "5,874,941",
+      "track_id": "4uLodgH5AnP3mgXMyZHPDO",
       "artist_ids": [
-        "1LxWE4LOhnqeaAx2tVUK6p"
+        "1UdbiTrv73Dp7F0s3OHmn2"
       ]
     },
     {
-      "Pos": "50",
-      "P+": "-1",
+      "Pos": "51",
+      "P+": "-20",
+      "Artist and Title": "Ivan Greko - KONTAKIES",
+      "Days": "30",
+      "Pk": "3",
+      "(x?)": "(x2)",
+      "Streams": "29,365",
+      "Streams+": "-4,514",
+      "7Day": "235,541",
+      "7Day+": "-9,134",
+      "Total": "1,740,279",
+      "track_id": "0oguLG6sMAtzEEzdZU8MoS",
+      "artist_ids": [
+        "0cy6ZMOTeautXRNJsR6PiV"
+      ]
+    },
+    {
+      "Pos": "52",
+      "P+": "-2",
       "Artist and Title": "RACK - YAMAS (w/ EVA, Beyond)",
-      "Days": "78",
+      "Days": "79",
       "Pk": "16",
       "(x?)": "",
-      "Streams": "25,367",
-      "Streams+": "+1,409",
-      "7Day": "167,771",
-      "7Day+": "+2,086",
-      "Total": "2,577,986",
+      "Streams": "29,082",
+      "Streams+": "+3,715",
+      "7Day": "172,397",
+      "7Day+": "+4,626",
+      "Total": "2,607,068",
       "track_id": "7gDcMIJpUEgVU9uLcQttTE",
       "artist_ids": [
         "6YYOTK6Qyv6PuFipPxCCoe",
@@ -908,35 +949,71 @@
       ]
     },
     {
-      "Pos": "51",
-      "P+": "-4",
-      "Artist and Title": "Giorgos Mazonakis - San Imouna Paidi (w/ Foivos)",
-      "Days": "30",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "25,362",
-      "Streams+": "-336",
-      "7Day": "182,261",
-      "7Day+": "+1,119",
-      "Total": "1,217,699",
-      "track_id": "2tNtc5xcZiQhGiy8dZBUzI",
+      "Pos": "53",
+      "P+": "+2",
+      "Artist and Title": "SNIK - GEN Z (w/ Trannos)",
+      "Days": "114",
+      "Pk": "2",
+      "(x?)": "(x6)",
+      "Streams": "27,980",
+      "Streams+": "+4,695",
+      "7Day": "169,067",
+      "7Day+": "+1,680",
+      "Total": "7,994,210",
+      "track_id": "4MNXP9RbzehazE3ZwyWrKJ",
       "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK",
-        "3ppjSilJ2mCYvCq2iiU1Vn"
+        "6wN4QyhoM6fN49kEB25rnl",
+        "6WzxopGY3sy97IeNFaDELc"
       ]
     },
     {
-      "Pos": "52",
-      "P+": "+9",
+      "Pos": "54",
+      "P+": "-7",
+      "Artist and Title": "Giorgos Mazonakis - Mou Leipeis",
+      "Days": "31",
+      "Pk": "19",
+      "(x?)": "",
+      "Streams": "27,263",
+      "Streams+": "+226",
+      "7Day": "196,668",
+      "7Day+": "-712",
+      "Total": "1,131,147",
+      "track_id": "3pm4f3A7SUyBllj2LvvGZ2",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "55",
+      "P+": "+6",
+      "Artist and Title": "SNIK - Lete Lete (w/ Trannos, Fy)",
+      "Days": "317",
+      "Pk": "1",
+      "(x?)": "(x38)",
+      "Streams": "27,164",
+      "Streams+": "+5,226",
+      "7Day": "147,159",
+      "7Day+": "+8,969",
+      "Total": "21,612,594",
+      "track_id": "676OyMHIOfootgShTPbJgC",
+      "artist_ids": [
+        "6wN4QyhoM6fN49kEB25rnl",
+        "6WzxopGY3sy97IeNFaDELc",
+        "0WxSlQlue0fq99fXfGBmxA"
+      ]
+    },
+    {
+      "Pos": "56",
+      "P+": "-4",
       "Artist and Title": "Likeboss - AVENTURA (w/ Arab, HermesHermes, GMBeaTz)",
-      "Days": "109",
+      "Days": "110",
       "Pk": "6",
       "(x?)": "",
-      "Streams": "24,351",
-      "Streams+": "+2,119",
-      "7Day": "161,570",
-      "7Day+": "+712",
-      "Total": "4,812,786",
+      "Streams": "27,095",
+      "Streams+": "+2,744",
+      "7Day": "163,512",
+      "7Day+": "+1,942",
+      "Total": "4,839,881",
       "track_id": "6S1gs8NVoVEi8ODwUHLvqW",
       "artist_ids": [
         "5gw7flNXQt0oQ5taY1as73",
@@ -946,193 +1023,17 @@
       ]
     },
     {
-      "Pos": "53",
-      "P+": "+3",
-      "Artist and Title": "ADÉLA - Nicole Kidman",
-      "Days": "25",
-      "Pk": "53",
-      "(x?)": "",
-      "Streams": "24,284",
-      "Streams+": "+1,799",
-      "7Day": "138,297",
-      "7Day+": "+6,563",
-      "Total": "464,659",
-      "track_id": "70cHKK8bHAfJrOGVnfRG9J",
-      "artist_ids": [
-        "2qanRMyA5bNuTvz1dK45OP"
-      ]
-    },
-    {
-      "Pos": "54",
-      "P+": "+4",
-      "Artist and Title": "Giorgos Mazonakis - Ela Na Deis",
-      "Days": "30",
-      "Pk": "30",
-      "(x?)": "",
-      "Streams": "23,698",
-      "Streams+": "+1,413",
-      "7Day": "147,088",
-      "7Day+": "+4,852",
-      "Total": "889,817",
-      "track_id": "2fRrLeMXfMqmoHBTTXNJsX",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "55",
-      "P+": "+2",
-      "Artist and Title": "SNIK - GEN Z (w/ Trannos)",
-      "Days": "113",
-      "Pk": "2",
-      "(x?)": "(x6)",
-      "Streams": "23,285",
-      "Streams+": "+940",
-      "7Day": "167,387",
-      "7Day+": "-2,225",
-      "Total": "7,966,230",
-      "track_id": "4MNXP9RbzehazE3ZwyWrKJ",
-      "artist_ids": [
-        "6wN4QyhoM6fN49kEB25rnl",
-        "6WzxopGY3sy97IeNFaDELc"
-      ]
-    },
-    {
-      "Pos": "56",
-      "P+": "-10",
-      "Artist and Title": "Giorgos Sabanis - Xartines Agapes (w/ Nikos Makropoulos)",
-      "Days": "4",
-      "Pk": "46",
-      "(x?)": "",
-      "Streams": "23,248",
-      "Streams+": "-3,334",
-      "7Day": "103,474",
-      "7Day+": "+23,248",
-      "Total": "103,474",
-      "track_id": "5eXyQ14v1MmHQq58DEA8r6",
-      "artist_ids": [
-        "6ZGwdAmu91r8mpA6SXodzd",
-        "5ETZ4zl1tAJe8zCTDEaoGO"
-      ]
-    },
-    {
       "Pos": "57",
-      "P+": "-2",
-      "Artist and Title": "Saske - OI KAIROI ALLAZOUNE",
-      "Days": "63",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "22,708",
-      "Streams+": "-294",
-      "7Day": "172,682",
-      "7Day+": "-4,469",
-      "Total": "2,436,524",
-      "track_id": "16mFMQBhGTOhcvP8ObXWuX",
-      "artist_ids": [
-        "1LxWE4LOhnqeaAx2tVUK6p"
-      ]
-    },
-    {
-      "Pos": "58",
-      "P+": "+1",
-      "Artist and Title": "TOQUEL - ANASA (w/ BoyPanda)",
-      "Days": "99",
-      "Pk": "14",
-      "(x?)": "",
-      "Streams": "22,163",
-      "Streams+": "-119",
-      "7Day": "154,255",
-      "7Day+": "-1,252",
-      "Total": "3,094,704",
-      "track_id": "11Armj1pAkue0iBdNbNRWp",
-      "artist_ids": [
-        "7AWAljMatr7bxddF4kWzXG",
-        "5ef7ha77ippshsIdZzGnaN"
-      ]
-    },
-    {
-      "Pos": "59",
-      "P+": "-8",
-      "Artist and Title": "Giorgos Mazonakis - maZW Akoma (Ola Mou Ta Thelo)",
-      "Days": "61",
-      "Pk": "19",
-      "(x?)": "",
-      "Streams": "22,074",
-      "Streams+": "-1,774",
-      "7Day": "186,331",
-      "7Day+": "-6,104",
-      "Total": "1,513,123",
-      "track_id": "49OvjhB5rxkF7KzfTEk9ri",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "60",
-      "P+": "+2",
-      "Artist and Title": "Saske - OPOU KI AN PAS (w/ Danae)",
-      "Days": "64",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "22,062",
-      "Streams+": "+73",
-      "7Day": "150,936",
-      "7Day+": "-1,401",
-      "Total": "2,124,456",
-      "track_id": "0MHTVZhRsPi9PcbTceEMq8",
-      "artist_ids": [
-        "1LxWE4LOhnqeaAx2tVUK6p",
-        "4j3tjX98PWp21sE1XWIBt8"
-      ]
-    },
-    {
-      "Pos": "61",
-      "P+": "+14",
-      "Artist and Title": "SNIK - Lete Lete (w/ Trannos, Fy)",
-      "Days": "316",
-      "Pk": "1",
-      "(x?)": "(x38)",
-      "Streams": "21,938",
-      "Streams+": "+2,873",
-      "7Day": "138,190",
-      "7Day+": "+4,277",
-      "Total": "21,585,430",
-      "track_id": "676OyMHIOfootgShTPbJgC",
-      "artist_ids": [
-        "6wN4QyhoM6fN49kEB25rnl",
-        "6WzxopGY3sy97IeNFaDELc",
-        "0WxSlQlue0fq99fXfGBmxA"
-      ]
-    },
-    {
-      "Pos": "62",
-      "P+": "+1",
-      "Artist and Title": "Giorgos Mazonakis - Kalos Sas Vrika",
-      "Days": "35",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "21,802",
-      "Streams+": "+264",
-      "7Day": "169,397",
-      "7Day+": "-4,698",
-      "Total": "1,361,729",
-      "track_id": "1sYjOirECizcC30XWxmESF",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "63",
-      "P+": "+19",
+      "P+": "+6",
       "Artist and Title": "Trannos - AGAINST ALL (w/ SKEZ, HermesHermes, LOSHA)",
-      "Days": "260",
+      "Days": "261",
       "Pk": "2",
       "(x?)": "(x4)",
-      "Streams": "21,674",
-      "Streams+": "+3,614",
-      "7Day": "137,704",
-      "7Day+": "+488",
-      "Total": "10,419,606",
+      "Streams": "26,198",
+      "Streams+": "+4,524",
+      "7Day": "144,998",
+      "7Day+": "+7,294",
+      "Total": "10,445,804",
       "track_id": "3klqwu80XOZBszq7TS214C",
       "artist_ids": [
         "6WzxopGY3sy97IeNFaDELc",
@@ -1142,34 +1043,104 @@
       ]
     },
     {
-      "Pos": "64",
-      "P+": "-4",
+      "Pos": "58",
+      "P+": "-9",
+      "Artist and Title": "Saske - TAN LINES",
+      "Days": "64",
+      "Pk": "18",
+      "(x?)": "",
+      "Streams": "25,990",
+      "Streams+": "+524",
+      "7Day": "170,179",
+      "7Day+": "+690",
+      "Total": "2,043,420",
+      "track_id": "6C0qHv4iBCRnoykOLAaDGb",
+      "artist_ids": [
+        "1LxWE4LOhnqeaAx2tVUK6p"
+      ]
+    },
+    {
+      "Pos": "59",
+      "P+": "-3",
+      "Artist and Title": "Giorgos Sabanis - Xartines Agapes (w/ Nikos Makropoulos)",
+      "Days": "5",
+      "Pk": "46",
+      "(x?)": "",
+      "Streams": "25,764",
+      "Streams+": "+2,516",
+      "7Day": "129,238",
+      "7Day+": "+25,764",
+      "Total": "129,238",
+      "track_id": "5eXyQ14v1MmHQq58DEA8r6",
+      "artist_ids": [
+        "6ZGwdAmu91r8mpA6SXodzd",
+        "5ETZ4zl1tAJe8zCTDEaoGO"
+      ]
+    },
+    {
+      "Pos": "60",
+      "P+": "-9",
+      "Artist and Title": "Giorgos Mazonakis - San Imouna Paidi (w/ Foivos)",
+      "Days": "31",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "25,443",
+      "Streams+": "+81",
+      "7Day": "183,094",
+      "7Day+": "+833",
+      "Total": "1,243,142",
+      "track_id": "2tNtc5xcZiQhGiy8dZBUzI",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK",
+        "3ppjSilJ2mCYvCq2iiU1Vn"
+      ]
+    },
+    {
+      "Pos": "61",
+      "P+": "-8",
+      "Artist and Title": "ADÉLA - Nicole Kidman",
+      "Days": "26",
+      "Pk": "53",
+      "(x?)": "",
+      "Streams": "25,107",
+      "Streams+": "+823",
+      "7Day": "145,602",
+      "7Day+": "+7,305",
+      "Total": "489,766",
+      "track_id": "70cHKK8bHAfJrOGVnfRG9J",
+      "artist_ids": [
+        "2qanRMyA5bNuTvz1dK45OP"
+      ]
+    },
+    {
+      "Pos": "62",
+      "P+": "+2",
       "Artist and Title": "Giorgos Mazonakis - Terma",
-      "Days": "30",
+      "Days": "31",
       "Pk": "11",
       "(x?)": "",
-      "Streams": "21,485",
-      "Streams+": "-775",
-      "7Day": "185,059",
-      "7Day+": "-5,935",
-      "Total": "1,245,254",
+      "Streams": "25,086",
+      "Streams+": "+3,601",
+      "7Day": "181,178",
+      "7Day+": "-3,881",
+      "Total": "1,270,340",
       "track_id": "3a6AfLaxOJB6hb6ev0fJpm",
       "artist_ids": [
         "1gyBRbQACz4JJX2HRROigK"
       ]
     },
     {
-      "Pos": "65",
-      "P+": "=",
+      "Pos": "63",
+      "P+": "+2",
       "Artist and Title": "SIDARTA - AMAZING - Remix (w/ RACK)",
-      "Days": "239",
+      "Days": "240",
       "Pk": "1",
       "(x?)": "(x25)",
-      "Streams": "21,212",
-      "Streams+": "+281",
-      "7Day": "148,850",
-      "7Day+": "-1,508",
-      "Total": "14,787,634",
+      "Streams": "24,252",
+      "Streams+": "+3,040",
+      "7Day": "150,393",
+      "7Day+": "+1,543",
+      "Total": "14,811,886",
       "track_id": "2lv40gMcnHgMTYnyBX1mL9",
       "artist_ids": [
         "3jPN2U65cMPzvozEBue5zp",
@@ -1177,17 +1148,173 @@
       ]
     },
     {
+      "Pos": "64",
+      "P+": "+6",
+      "Artist and Title": "Giorgos Mazonakis - Dianikterevo",
+      "Days": "356",
+      "Pk": "17",
+      "(x?)": "",
+      "Streams": "24,248",
+      "Streams+": "+3,767",
+      "7Day": "165,881",
+      "7Day+": "+3,509",
+      "Total": "1,870,491",
+      "track_id": "6Dit1erL7lMDu8Y2E8aUnR",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "65",
+      "P+": "-3",
+      "Artist and Title": "Giorgos Mazonakis - Kalos Sas Vrika",
+      "Days": "36",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "24,149",
+      "Streams+": "+2,347",
+      "7Day": "166,467",
+      "7Day+": "-2,930",
+      "Total": "1,385,878",
+      "track_id": "1sYjOirECizcC30XWxmESF",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
       "Pos": "66",
-      "P+": "-2",
+      "P+": "-9",
+      "Artist and Title": "Saske - OI KAIROI ALLAZOUNE",
+      "Days": "64",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "24,101",
+      "Streams+": "+1,393",
+      "7Day": "169,281",
+      "7Day+": "-3,401",
+      "Total": "2,460,625",
+      "track_id": "16mFMQBhGTOhcvP8ObXWuX",
+      "artist_ids": [
+        "1LxWE4LOhnqeaAx2tVUK6p"
+      ]
+    },
+    {
+      "Pos": "67",
+      "P+": "-8",
+      "Artist and Title": "Giorgos Mazonakis - maZW Akoma (Ola Mou Ta Thelo)",
+      "Days": "62",
+      "Pk": "19",
+      "(x?)": "",
+      "Streams": "23,746",
+      "Streams+": "+1,672",
+      "7Day": "182,009",
+      "7Day+": "-4,322",
+      "Total": "1,536,869",
+      "track_id": "49OvjhB5rxkF7KzfTEk9ri",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "68",
+      "P+": "-10",
+      "Artist and Title": "TOQUEL - ANASA (w/ BoyPanda)",
+      "Days": "100",
+      "Pk": "14",
+      "(x?)": "",
+      "Streams": "23,572",
+      "Streams+": "+1,409",
+      "7Day": "153,243",
+      "7Day+": "-1,012",
+      "Total": "3,118,276",
+      "track_id": "11Armj1pAkue0iBdNbNRWp",
+      "artist_ids": [
+        "7AWAljMatr7bxddF4kWzXG",
+        "5ef7ha77ippshsIdZzGnaN"
+      ]
+    },
+    {
+      "Pos": "69",
+      "P+": "+4",
+      "Artist and Title": "Giorgos Mazonakis - To Paraxeno Me Mena",
+      "Days": "31",
+      "Pk": "31",
+      "(x?)": "",
+      "Streams": "23,527",
+      "Streams+": "+3,257",
+      "7Day": "165,672",
+      "7Day+": "-4,388",
+      "Total": "1,019,526",
+      "track_id": "3WHP5PEzWjuZXoR8LK1eZi",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "70",
+      "P+": "-10",
+      "Artist and Title": "Saske - OPOU KI AN PAS (w/ Danae)",
+      "Days": "65",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "23,526",
+      "Streams+": "+1,464",
+      "7Day": "151,611",
+      "7Day+": "+675",
+      "Total": "2,147,982",
+      "track_id": "0MHTVZhRsPi9PcbTceEMq8",
+      "artist_ids": [
+        "1LxWE4LOhnqeaAx2tVUK6p",
+        "4j3tjX98PWp21sE1XWIBt8"
+      ]
+    },
+    {
+      "Pos": "71",
+      "P+": "-17",
+      "Artist and Title": "Giorgos Mazonakis - Ela Na Deis",
+      "Days": "31",
+      "Pk": "30",
+      "(x?)": "",
+      "Streams": "23,247",
+      "Streams+": "-451",
+      "7Day": "151,207",
+      "7Day+": "+4,119",
+      "Total": "913,064",
+      "track_id": "2fRrLeMXfMqmoHBTTXNJsX",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "72",
+      "P+": "+3",
+      "Artist and Title": "SNIK - YING YANG (w/ FLY LO)",
+      "Days": "190",
+      "Pk": "2",
+      "(x?)": "(x6)",
+      "Streams": "22,285",
+      "Streams+": "+2,432",
+      "7Day": "138,150",
+      "7Day+": "-483",
+      "Total": "8,282,586",
+      "track_id": "06yhYC3DfAAlnNc1jYj9td",
+      "artist_ids": [
+        "6wN4QyhoM6fN49kEB25rnl",
+        "1zeAbUJAbLOWeYpgRVnYmu"
+      ]
+    },
+    {
+      "Pos": "73",
+      "P+": "-7",
       "Artist and Title": "Strat - GIA SENA (w/ Arab, Trannos, BeTaf Beats)",
-      "Days": "85",
+      "Days": "86",
       "Pk": "10",
       "(x?)": "",
-      "Streams": "21,208",
-      "Streams+": "-140",
-      "7Day": "146,603",
-      "7Day+": "+346",
-      "Total": "2,880,582",
+      "Streams": "22,222",
+      "Streams+": "+1,014",
+      "7Day": "149,001",
+      "7Day+": "+2,398",
+      "Total": "2,902,804",
       "track_id": "7qxvloAG9lrxPuDnnwLe8S",
       "artist_ids": [
         "48h12D3cJbqfn1ReVL9qbw",
@@ -1197,52 +1324,68 @@
       ]
     },
     {
-      "Pos": "67",
-      "P+": "-13",
-      "Artist and Title": "Giorgos Mazonakis - Stigmes Pou De S'eho (Duvar)",
-      "Days": "30",
-      "Pk": "35",
+      "Pos": "74",
+      "P+": "-2",
+      "Artist and Title": "TOQUEL - SHOWTIME",
+      "Days": "100",
+      "Pk": "12",
       "(x?)": "",
-      "Streams": "21,132",
-      "Streams+": "-2,236",
-      "7Day": "171,653",
-      "7Day+": "-283",
-      "Total": "905,690",
-      "track_id": "7miJgzcdCPfS7OZTx4LIPX",
+      "Streams": "21,626",
+      "Streams+": "+1,333",
+      "7Day": "115,428",
+      "7Day+": "+6,871",
+      "Total": "2,254,435",
+      "track_id": "7y5vrGkdMOZYah82pzwNoc",
       "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
+        "7AWAljMatr7bxddF4kWzXG"
       ]
     },
     {
-      "Pos": "68",
-      "P+": "-15",
-      "Artist and Title": "Giorgos Mazonakis - Thelo Na Gyriso (w/ Goin' Through)",
-      "Days": "30",
-      "Pk": "25",
+      "Pos": "75",
+      "P+": "+1",
+      "Artist and Title": "Kidd - ALL EYES ON ME",
+      "Days": "31",
+      "Pk": "6",
       "(x?)": "",
-      "Streams": "20,818",
-      "Streams+": "-2,776",
-      "7Day": "183,132",
-      "7Day+": "-2,485",
-      "Total": "1,039,823",
-      "track_id": "4cFR2teyX5ruLaIsC1InGw",
+      "Streams": "21,417",
+      "Streams+": "+1,616",
+      "7Day": "149,180",
+      "7Day+": "-6,394",
+      "Total": "1,403,249",
+      "track_id": "4B9ea9mEIpJFGu9EM9OT6r",
       "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK",
-        "5QAp0ErwctTK9NhY9F0TuU"
+        "1RqOmrtivmvKrfBO81j1ou"
       ]
     },
     {
-      "Pos": "69",
-      "P+": "+11",
+      "Pos": "76",
+      "P+": "+2",
+      "Artist and Title": "Katerina Lioliou - Pagkosmia Mera Tou Psefti",
+      "Days": "36",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "21,287",
+      "Streams+": "+1,716",
+      "7Day": "139,359",
+      "7Day+": "+1,101",
+      "Total": "1,118,072",
+      "track_id": "0ZDl7l9iD4fidIBIkjQrl9",
+      "artist_ids": [
+        "6vgi3CIDWWdGEGJ6NMgQdD"
+      ]
+    },
+    {
+      "Pos": "77",
+      "P+": "-8",
       "Artist and Title": "HermesHermes - CHOCO FRESH (w/ Ivan Greko, Arab)",
-      "Days": "309",
+      "Days": "310",
       "Pk": "1",
       "(x?)": "(x1)",
-      "Streams": "20,765",
-      "Streams+": "+2,434",
-      "7Day": "122,253",
-      "7Day+": "+4,551",
-      "Total": "14,605,697",
+      "Streams": "21,109",
+      "Streams+": "+344",
+      "7Day": "126,237",
+      "7Day+": "+3,984",
+      "Total": "14,626,806",
       "track_id": "7Ku2O5h0e3NH1qGcuZvGWT",
       "artist_ids": [
         "5PeCMyf2BO8RlAujWP0erY",
@@ -1251,34 +1394,69 @@
       ]
     },
     {
-      "Pos": "70",
+      "Pos": "78",
       "P+": "-4",
-      "Artist and Title": "Giorgos Mazonakis - Dianikterevo",
-      "Days": "355",
-      "Pk": "17",
+      "Artist and Title": "APON - Kantada",
+      "Days": "148",
+      "Pk": "5",
       "(x?)": "",
-      "Streams": "20,481",
-      "Streams+": "-358",
-      "7Day": "162,372",
-      "7Day+": "-1,813",
-      "Total": "1,846,243",
-      "track_id": "6Dit1erL7lMDu8Y2E8aUnR",
+      "Streams": "20,984",
+      "Streams+": "+898",
+      "7Day": "131,830",
+      "7Day+": "+2,586",
+      "Total": "5,067,676",
+      "track_id": "4LSgjA6nzvd4u5bCgyIBN4",
+      "artist_ids": [
+        "2bucjueNUx2aVTUA7zj6w7"
+      ]
+    },
+    {
+      "Pos": "79",
+      "P+": "-11",
+      "Artist and Title": "Giorgos Mazonakis - Thelo Na Gyriso (w/ Goin' Through)",
+      "Days": "31",
+      "Pk": "25",
+      "(x?)": "",
+      "Streams": "20,784",
+      "Streams+": "-34",
+      "7Day": "178,254",
+      "7Day+": "-4,878",
+      "Total": "1,060,607",
+      "track_id": "4cFR2teyX5ruLaIsC1InGw",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK",
+        "5QAp0ErwctTK9NhY9F0TuU"
+      ]
+    },
+    {
+      "Pos": "80",
+      "P+": "-13",
+      "Artist and Title": "Giorgos Mazonakis - Stigmes Pou De S'eho (Duvar)",
+      "Days": "31",
+      "Pk": "35",
+      "(x?)": "",
+      "Streams": "20,339",
+      "Streams+": "-793",
+      "7Day": "169,213",
+      "7Day+": "-2,440",
+      "Total": "926,029",
+      "track_id": "7miJgzcdCPfS7OZTx4LIPX",
       "artist_ids": [
         "1gyBRbQACz4JJX2HRROigK"
       ]
     },
     {
-      "Pos": "71",
-      "P+": "-3",
+      "Pos": "81",
+      "P+": "-10",
       "Artist and Title": "FLY LO - YG (w/ TOQUEL, BLVD)",
-      "Days": "169",
+      "Days": "170",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "20,374",
-      "Streams+": "-292",
-      "7Day": "130,243",
-      "7Day+": "+758",
-      "Total": "5,566,294",
+      "Streams": "20,263",
+      "Streams+": "-111",
+      "7Day": "131,434",
+      "7Day+": "+1,191",
+      "Total": "5,586,557",
       "track_id": "6u2xj0TGjUO1240jJclQPw",
       "artist_ids": [
         "1zeAbUJAbLOWeYpgRVnYmu",
@@ -1287,103 +1465,34 @@
       ]
     },
     {
-      "Pos": "72",
-      "P+": "+16",
-      "Artist and Title": "TOQUEL - SHOWTIME",
-      "Days": "99",
-      "Pk": "12",
+      "Pos": "82",
+      "P+": "+3",
+      "Artist and Title": "Giorgos Mazonakis - To Gucci Forema",
+      "Days": "31",
+      "Pk": "45",
       "(x?)": "",
-      "Streams": "20,293",
-      "Streams+": "+3,404",
-      "7Day": "108,557",
-      "7Day+": "+5,587",
-      "Total": "2,232,809",
-      "track_id": "7y5vrGkdMOZYah82pzwNoc",
-      "artist_ids": [
-        "7AWAljMatr7bxddF4kWzXG"
-      ]
-    },
-    {
-      "Pos": "73",
-      "P+": "-3",
-      "Artist and Title": "Giorgos Mazonakis - To Paraxeno Me Mena",
-      "Days": "30",
-      "Pk": "31",
-      "(x?)": "",
-      "Streams": "20,270",
-      "Streams+": "+155",
-      "7Day": "170,060",
-      "7Day+": "-7,365",
-      "Total": "995,999",
-      "track_id": "3WHP5PEzWjuZXoR8LK1eZi",
+      "Streams": "20,238",
+      "Streams+": "+2,050",
+      "7Day": "141,343",
+      "7Day+": "-1,806",
+      "Total": "804,064",
+      "track_id": "4lCRX28Mg4THeZ70wyqi2U",
       "artist_ids": [
         "1gyBRbQACz4JJX2HRROigK"
       ]
     },
     {
-      "Pos": "74",
-      "P+": "+4",
-      "Artist and Title": "APON - Kantada",
-      "Days": "147",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "20,086",
-      "Streams+": "+1,387",
-      "7Day": "129,244",
-      "7Day+": "+1,878",
-      "Total": "5,046,692",
-      "track_id": "4LSgjA6nzvd4u5bCgyIBN4",
-      "artist_ids": [
-        "2bucjueNUx2aVTUA7zj6w7"
-      ]
-    },
-    {
-      "Pos": "75",
-      "P+": "+6",
-      "Artist and Title": "SNIK - YING YANG (w/ FLY LO)",
-      "Days": "189",
-      "Pk": "2",
-      "(x?)": "(x6)",
-      "Streams": "19,853",
-      "Streams+": "+1,745",
-      "7Day": "138,633",
-      "7Day+": "+9",
-      "Total": "8,260,301",
-      "track_id": "06yhYC3DfAAlnNc1jYj9td",
-      "artist_ids": [
-        "6wN4QyhoM6fN49kEB25rnl",
-        "1zeAbUJAbLOWeYpgRVnYmu"
-      ]
-    },
-    {
-      "Pos": "76",
-      "P+": "-9",
-      "Artist and Title": "Kidd - ALL EYES ON ME",
-      "Days": "30",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "19,801",
-      "Streams+": "-896",
-      "7Day": "155,574",
-      "7Day+": "-9,353",
-      "Total": "1,381,832",
-      "track_id": "4B9ea9mEIpJFGu9EM9OT6r",
-      "artist_ids": [
-        "1RqOmrtivmvKrfBO81j1ou"
-      ]
-    },
-    {
-      "Pos": "77",
-      "P+": "-8",
+      "Pos": "83",
+      "P+": "-6",
       "Artist and Title": "DIFF - NO THANX (w/ Bossikan, BeTaf Beats)",
-      "Days": "7",
+      "Days": "8",
       "Pk": "21",
       "(x?)": "",
-      "Streams": "19,742",
-      "Streams+": "-841",
-      "7Day": "184,319",
-      "7Day+": "+19,742",
-      "Total": "184,319",
+      "Streams": "20,195",
+      "Streams+": "+453",
+      "7Day": "161,862",
+      "7Day+": "-22,457",
+      "Total": "204,514",
       "track_id": "3diB98H60hekKcuRr1IUEX",
       "artist_ids": [
         "4rtNK25TiSGNcibilGWcQK",
@@ -1392,68 +1501,69 @@
       ]
     },
     {
-      "Pos": "78",
-      "P+": "-7",
-      "Artist and Title": "Katerina Lioliou - Pagkosmia Mera Tou Psefti",
-      "Days": "35",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "19,571",
-      "Streams+": "-206",
-      "7Day": "138,258",
-      "7Day+": "-1,879",
-      "Total": "1,096,785",
-      "track_id": "0ZDl7l9iD4fidIBIkjQrl9",
-      "artist_ids": [
-        "6vgi3CIDWWdGEGJ6NMgQdD"
-      ]
-    },
-    {
-      "Pos": "79",
-      "P+": "-2",
+      "Pos": "84",
+      "P+": "-5",
       "Artist and Title": "Thodoris Ferris - Eipes",
-      "Days": "308",
+      "Days": "309",
       "Pk": "5",
       "(x?)": "",
-      "Streams": "19,451",
-      "Streams+": "+677",
-      "7Day": "131,233",
-      "7Day+": "+1,872",
-      "Total": "10,314,746",
+      "Streams": "20,192",
+      "Streams+": "+741",
+      "7Day": "130,551",
+      "7Day+": "-682",
+      "Total": "10,334,938",
       "track_id": "1ibvHjnMqZZmayckoA4W5Y",
       "artist_ids": [
         "3JiKtJqdJ3qUhJRphJk1cT"
       ]
     },
     {
-      "Pos": "80",
-      "P+": "+4",
-      "Artist and Title": "Mad Clip - Sinthikes",
-      "Days": "1158",
-      "Pk": "16",
+      "Pos": "85",
+      "P+": "+3",
+      "Artist and Title": "SNIK - TONIGHT (w/ Trannos)",
+      "Days": "114",
+      "Pk": "4",
       "(x?)": "",
-      "Streams": "19,418",
-      "Streams+": "+1,561",
-      "7Day": "128,165",
-      "7Day+": "+3,298",
-      "Total": "15,117,906",
-      "track_id": "3aMmyk82Hs36APmNoEM0ZJ",
+      "Streams": "19,889",
+      "Streams+": "+2,090",
+      "7Day": "131,705",
+      "7Day+": "+1,003",
+      "Total": "5,624,496",
+      "track_id": "17UXnOQnvMEwbX9ou8dxLL",
       "artist_ids": [
-        "3KcZf8BFeFBtnGyOZmUggd"
+        "6wN4QyhoM6fN49kEB25rnl",
+        "6WzxopGY3sy97IeNFaDELc"
       ]
     },
     {
-      "Pos": "81",
-      "P+": "-2",
+      "Pos": "86",
+      "P+": "+12",
+      "Artist and Title": "Anna Vissi - Treno",
+      "Days": "17",
+      "Pk": "81",
+      "(x?)": "",
+      "Streams": "19,669",
+      "Streams+": "+3,248",
+      "7Day": "95,494",
+      "7Day+": "+6,272",
+      "Total": "237,838",
+      "track_id": "4vDGDJmyvY16A26gGCVONY",
+      "artist_ids": [
+        "3qg78GGGWP04yTv0ZQMsXl"
+      ]
+    },
+    {
+      "Pos": "87",
+      "P+": "-6",
       "Artist and Title": "Kidd - LIGO AKOMA (w/ Likeboss, Echo)",
-      "Days": "196",
+      "Days": "197",
       "Pk": "2",
       "(x?)": "(x1)",
-      "Streams": "18,693",
-      "Streams+": "+331",
-      "7Day": "132,886",
-      "7Day+": "-639",
-      "Total": "6,542,783",
+      "Streams": "19,273",
+      "Streams+": "+580",
+      "7Day": "132,806",
+      "7Day+": "-80",
+      "Total": "6,562,056",
       "track_id": "5QXZy0LU1kNhi9TAus1nVP",
       "artist_ids": [
         "1RqOmrtivmvKrfBO81j1ou",
@@ -1462,17 +1572,17 @@
       ]
     },
     {
-      "Pos": "82",
-      "P+": "+12",
+      "Pos": "88",
+      "P+": "-6",
       "Artist and Title": "Bloody Hawk - Aeroplana (w/ TOQUEL)",
-      "Days": "498",
+      "Days": "499",
       "Pk": "1",
       "(x?)": "(x21)",
-      "Streams": "18,582",
-      "Streams+": "+2,172",
-      "7Day": "107,905",
-      "7Day+": "+3,772",
-      "Total": "19,837,048",
+      "Streams": "19,234",
+      "Streams+": "+652",
+      "7Day": "111,800",
+      "7Day+": "+3,895",
+      "Total": "19,856,282",
       "track_id": "3lS1r65AbkPdljhDrRQEyV",
       "artist_ids": [
         "4NKSnDH3KS823DGnHDDDsy",
@@ -1480,17 +1590,17 @@
       ]
     },
     {
-      "Pos": "83",
-      "P+": "=",
+      "Pos": "89",
+      "P+": "-6",
       "Artist and Title": "Light - Cannes (w/ Saske)",
-      "Days": "106",
+      "Days": "107",
       "Pk": "9",
       "(x?)": "",
-      "Streams": "18,331",
-      "Streams+": "+356",
-      "7Day": "129,932",
-      "7Day+": "-814",
-      "Total": "3,422,574",
+      "Streams": "18,989",
+      "Streams+": "+658",
+      "7Day": "129,547",
+      "7Day+": "-385",
+      "Total": "3,441,563",
       "track_id": "6wDG7d2tf9FCIele4toCg3",
       "artist_ids": [
         "1UdbiTrv73Dp7F0s3OHmn2",
@@ -1498,122 +1608,36 @@
       ]
     },
     {
-      "Pos": "84",
-      "P+": "-12",
-      "Artist and Title": "Giorgos Mazonakis - Epiptoseis",
-      "Days": "32",
-      "Pk": "23",
-      "(x?)": "",
-      "Streams": "18,245",
-      "Streams+": "-1,517",
-      "7Day": "146,479",
-      "7Day+": "-2,486",
-      "Total": "1,002,403",
-      "track_id": "6dvpB2MjuzciJGECODPQdP",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "85",
-      "P+": "=",
-      "Artist and Title": "Giorgos Mazonakis - To Gucci Forema",
-      "Days": "30",
-      "Pk": "45",
-      "(x?)": "",
-      "Streams": "18,188",
-      "Streams+": "+473",
-      "7Day": "143,149",
-      "7Day+": "-2,354",
-      "Total": "783,826",
-      "track_id": "4lCRX28Mg4THeZ70wyqi2U",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "86",
-      "P+": "-12",
-      "Artist and Title": "Giorgos Mazonakis - Tosa Vradia",
-      "Days": "34",
-      "Pk": "21",
-      "(x?)": "",
-      "Streams": "18,166",
-      "Streams+": "-1,235",
-      "7Day": "165,789",
-      "7Day+": "-4,956",
-      "Total": "1,060,388",
-      "track_id": "2coEFYixErCzfLBZlJgkvC",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "87",
-      "P+": "+22",
-      "Artist and Title": "HermesHermes - BBB (w/ Stanley)",
-      "Days": "79",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "17,920",
-      "Streams+": "+3,283",
-      "7Day": "100,744",
-      "7Day+": "+3,540",
-      "Total": "1,928,258",
-      "track_id": "4ff2Xlgyc33wNP5a8dITfj",
-      "artist_ids": [
-        "5PeCMyf2BO8RlAujWP0erY",
-        "4bIKDIUQmRdbScZXFtAk75"
-      ]
-    },
-    {
-      "Pos": "88",
-      "P+": "-15",
-      "Artist and Title": "SNIK - TONIGHT (w/ Trannos)",
-      "Days": "113",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "17,799",
-      "Streams+": "-1,608",
-      "7Day": "130,702",
-      "7Day+": "-1,961",
-      "Total": "5,604,607",
-      "track_id": "17UXnOQnvMEwbX9ou8dxLL",
-      "artist_ids": [
-        "6wN4QyhoM6fN49kEB25rnl",
-        "6WzxopGY3sy97IeNFaDELc"
-      ]
-    },
-    {
-      "Pos": "89",
-      "P+": "=",
-      "Artist and Title": "Kidd - MOLIS GNORISTIKAME (w/ BLVD)",
-      "Days": "86",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "17,536",
-      "Streams+": "+665",
-      "7Day": "121,975",
-      "7Day+": "+71",
-      "Total": "2,910,246",
-      "track_id": "4SGfLxbpqOCh1xLCLDzK5g",
-      "artist_ids": [
-        "1RqOmrtivmvKrfBO81j1ou",
-        "3XVSWUdVDon1RGgHdPuqzR"
-      ]
-    },
-    {
       "Pos": "90",
-      "P+": "+8",
+      "P+": "+6",
+      "Artist and Title": "Rafa - Bijo Bijo (w/ RICTA, mi368)",
+      "Days": "23",
+      "Pk": "44",
+      "(x?)": "",
+      "Streams": "18,982",
+      "Streams+": "+2,377",
+      "7Day": "132,177",
+      "7Day+": "-2,614",
+      "Total": "511,780",
+      "track_id": "6TMlv6rPQCsjrBSa1mCfEe",
+      "artist_ids": [
+        "0lNKlkfQNTzhaqzejti1a0",
+        "4YiKEuOS5GwMujJMkIPGFN",
+        "5WpPX5v61a9sDy6lXDkQiK"
+      ]
+    },
+    {
+      "Pos": "91",
+      "P+": "-1",
       "Artist and Title": "CHEKKIS - HAHAHA 2 (w/ HermesHermes, SKEZ)",
-      "Days": "124",
+      "Days": "125",
       "Pk": "1",
       "(x?)": "(x1)",
-      "Streams": "17,299",
-      "Streams+": "+1,456",
-      "7Day": "116,835",
-      "7Day+": "+1,000",
-      "Total": "5,032,911",
+      "Streams": "18,947",
+      "Streams+": "+1,648",
+      "7Day": "118,503",
+      "7Day+": "+1,668",
+      "Total": "5,051,858",
       "track_id": "5EAy0J6wLVOb0qR9eR9Rsa",
       "artist_ids": [
         "43eXh1mPvuHJJg8xRELhYO",
@@ -1622,34 +1646,1898 @@
       ]
     },
     {
-      "Pos": "91",
+      "Pos": "92",
+      "P+": "-8",
+      "Artist and Title": "Giorgos Mazonakis - Epiptoseis",
+      "Days": "33",
+      "Pk": "23",
+      "(x?)": "",
+      "Streams": "18,714",
+      "Streams+": "+469",
+      "7Day": "143,049",
+      "7Day+": "-3,430",
+      "Total": "1,021,117",
+      "track_id": "6dvpB2MjuzciJGECODPQdP",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "93",
+      "P+": "-4",
+      "Artist and Title": "Kidd - MOLIS GNORISTIKAME (w/ BLVD)",
+      "Days": "87",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "18,231",
+      "Streams+": "+695",
+      "7Day": "122,465",
+      "7Day+": "+490",
+      "Total": "2,928,477",
+      "track_id": "4SGfLxbpqOCh1xLCLDzK5g",
+      "artist_ids": [
+        "1RqOmrtivmvKrfBO81j1ou",
+        "3XVSWUdVDon1RGgHdPuqzR"
+      ]
+    },
+    {
+      "Pos": "94",
+      "P+": "-14",
+      "Artist and Title": "Mad Clip - Sinthikes",
+      "Days": "1159",
+      "Pk": "16",
+      "(x?)": "",
+      "Streams": "18,125",
+      "Streams+": "-1,293",
+      "7Day": "128,545",
+      "7Day+": "+380",
+      "Total": "15,136,031",
+      "track_id": "3aMmyk82Hs36APmNoEM0ZJ",
+      "artist_ids": [
+        "3KcZf8BFeFBtnGyOZmUggd"
+      ]
+    },
+    {
+      "Pos": "95",
+      "P+": "-9",
+      "Artist and Title": "Giorgos Mazonakis - Tosa Vradia",
+      "Days": "35",
+      "Pk": "21",
+      "(x?)": "",
+      "Streams": "17,980",
+      "Streams+": "-186",
+      "7Day": "157,422",
+      "7Day+": "-8,367",
+      "Total": "1,078,368",
+      "track_id": "2coEFYixErCzfLBZlJgkvC",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "96",
+      "P+": "-1",
+      "Artist and Title": "Trannos - CHANEL (w/ SNIK, CHEKKIS)",
+      "Days": "261",
+      "Pk": "1",
+      "(x?)": "(x12)",
+      "Streams": "17,851",
+      "Streams+": "+1,142",
+      "7Day": "118,224",
+      "7Day+": "+1,353",
+      "Total": "13,091,105",
+      "track_id": "6AICejWzqrCsNSi6vBabb5",
+      "artist_ids": [
+        "6WzxopGY3sy97IeNFaDELc",
+        "6wN4QyhoM6fN49kEB25rnl",
+        "43eXh1mPvuHJJg8xRELhYO"
+      ]
+    },
+    {
+      "Pos": "97",
+      "P+": "=",
+      "Artist and Title": "Likeboss - VERSACE (w/ Arab, HermesHermes, Echo)",
+      "Days": "64",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "17,652",
+      "Streams+": "+1,089",
+      "7Day": "112,042",
+      "7Day+": "+167",
+      "Total": "1,744,934",
+      "track_id": "77Ncp4dEk7bVbDTpTwfj6I",
+      "artist_ids": [
+        "5gw7flNXQt0oQ5taY1as73",
+        "3h3WR8UDyRk15U74xAXE7a",
+        "5PeCMyf2BO8RlAujWP0erY",
+        "0JfrxGQOdnHYZWBAtzPezD"
+      ]
+    },
+    {
+      "Pos": "98",
+      "P+": "-4",
+      "Artist and Title": "Ivan Greko - BOGOTA",
+      "Days": "156",
+      "Pk": "1",
+      "(x?)": "(x21)",
+      "Streams": "17,589",
+      "Streams+": "+745",
+      "7Day": "114,335",
+      "7Day+": "+916",
+      "Total": "9,863,945",
+      "track_id": "0RVZgyIzq2mg3dboVj6up9",
+      "artist_ids": [
+        "0cy6ZMOTeautXRNJsR6PiV"
+      ]
+    },
+    {
+      "Pos": "99",
+      "P+": "+9",
+      "Artist and Title": "Donn - 3 FORES (w/ BLVD)",
+      "Days": "44",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "17,373",
+      "Streams+": "+1,937",
+      "7Day": "112,704",
+      "7Day+": "-1,137",
+      "Total": "1,375,978",
+      "track_id": "07BGGf3ZRVI7deiQMv3kW2",
+      "artist_ids": [
+        "5ZW3jmupWrQDBKilPyUVkv",
+        "3XVSWUdVDon1RGgHdPuqzR"
+      ]
+    },
+    {
+      "Pos": "100",
+      "P+": "=",
+      "Artist and Title": "RACK - CASINO (w/ Konstantinos Argiros, Sin Laurent)",
+      "Days": "79",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "17,285",
+      "Streams+": "+1,184",
+      "7Day": "125,468",
+      "7Day+": "-2,243",
+      "Total": "2,466,134",
+      "track_id": "0z0upHJWpIG4ZPkMpd9iYo",
+      "artist_ids": [
+        "6YYOTK6Qyv6PuFipPxCCoe",
+        "5YquORfLTx6nWMlBzJstx7",
+        "6OBgaDVTONTa4rkGpE7sVE"
+      ]
+    },
+    {
+      "Pos": "101",
+      "P+": "-8",
+      "Artist and Title": "DIFF - STIN TELIKI (w/ CARLA)",
+      "Days": "8",
+      "Pk": "40",
+      "(x?)": "",
+      "Streams": "17,080",
+      "Streams+": "-43",
+      "7Day": "158,253",
+      "7Day+": "-12,730",
+      "Total": "188,063",
+      "track_id": "4OFqWutrJUBOlwqhObiMSu",
+      "artist_ids": [
+        "4rtNK25TiSGNcibilGWcQK",
+        "0efzWCTqpsoaTZNUn3ar4z"
+      ]
+    },
+    {
+      "Pos": "102",
+      "P+": "+12",
+      "Artist and Title": "Anna Vissi - Lekes",
+      "Days": "233",
+      "Pk": "64",
+      "(x?)": "",
+      "Streams": "17,057",
+      "Streams+": "+1,805",
+      "7Day": "55,011",
+      "7Day+": "+5,296",
+      "Total": "3,052,357",
+      "track_id": "48tVeEffiTEE6v8sMMQjf8",
+      "artist_ids": [
+        "3qg78GGGWP04yTv0ZQMsXl"
+      ]
+    },
+    {
+      "Pos": "103",
+      "P+": "-2",
+      "Artist and Title": "FLY LO - 90th FLOOR (w/ SNIK, BLVD)",
+      "Days": "158",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "17,048",
+      "Streams+": "+953",
+      "7Day": "83,891",
+      "7Day+": "+4,378",
+      "Total": "2,745,949",
+      "track_id": "13pIYmBwI2u61NcbfM7kBG",
+      "artist_ids": [
+        "1zeAbUJAbLOWeYpgRVnYmu",
+        "6wN4QyhoM6fN49kEB25rnl",
+        "3XVSWUdVDon1RGgHdPuqzR"
+      ]
+    },
+    {
+      "Pos": "104",
+      "P+": "-17",
+      "Artist and Title": "HermesHermes - BBB (w/ Stanley)",
+      "Days": "80",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "16,994",
+      "Streams+": "-926",
+      "7Day": "103,035",
+      "7Day+": "+2,291",
+      "Total": "1,945,252",
+      "track_id": "4ff2Xlgyc33wNP5a8dITfj",
+      "artist_ids": [
+        "5PeCMyf2BO8RlAujWP0erY",
+        "4bIKDIUQmRdbScZXFtAk75"
+      ]
+    },
+    {
+      "Pos": "105",
+      "P+": "+5",
+      "Artist and Title": "Sicario - KOUKLA (w/ Beyond)",
+      "Days": "462",
+      "Pk": "1",
+      "(x?)": "(x22)",
+      "Streams": "16,921",
+      "Streams+": "+1,524",
+      "7Day": "98,397",
+      "7Day+": "+16,921",
+      "Total": "23,717,125",
+      "track_id": "2OtlJi8vzajxp51W9gYwCO",
+      "artist_ids": [
+        "6x0pz3N2n51qG75kjMR4uV",
+        "7KcIok6StqYSedgtjmtsqP"
+      ]
+    },
+    {
+      "Pos": "106",
+      "P+": "-1",
+      "Artist and Title": "TOQUEL - Sandra",
+      "Days": "2332",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "16,608",
+      "Streams+": "+977",
+      "7Day": "108,100",
+      "7Day+": "+1,103",
+      "Total": "26,329,318",
+      "track_id": "73KYTCSbVlj5E02qWj8DPF",
+      "artist_ids": [
+        "7AWAljMatr7bxddF4kWzXG"
+      ]
+    },
+    {
+      "Pos": "107",
+      "P+": "-8",
+      "Artist and Title": "Kidd - EXW NEA SOU (w/ Oge)",
+      "Days": "197",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "16,483",
+      "Streams+": "+96",
+      "7Day": "110,921",
+      "7Day+": "+897",
+      "Total": "5,274,279",
+      "track_id": "3s7rVHeKBsHuC1Qx8bciIG",
+      "artist_ids": [
+        "1RqOmrtivmvKrfBO81j1ou",
+        "5NFeyNwaFGFHFycOg6zvs9"
+      ]
+    },
+    {
+      "Pos": "108",
+      "P+": "+21",
+      "Artist and Title": "Giorgos Mazonakis - Fevgo Gia Mena",
+      "Days": "31",
+      "Pk": "27",
+      "(x?)": "",
+      "Streams": "16,469",
+      "Streams+": "+2,488",
+      "7Day": "109,263",
+      "7Day+": "+1,502",
+      "Total": "787,969",
+      "track_id": "05vT4vR55Z3ToRQJf3KYCn",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "109",
+      "P+": "-7",
+      "Artist and Title": "TOQUEL - KAKO (w/ ObieDaz)",
+      "Days": "513",
+      "Pk": "1",
+      "(x?)": "(x3)",
+      "Streams": "16,432",
+      "Streams+": "+508",
+      "7Day": "103,786",
+      "7Day+": "+2,757",
+      "Total": "17,473,867",
+      "track_id": "28kpCoILnxmKUc6AMO6NEu",
+      "artist_ids": [
+        "7AWAljMatr7bxddF4kWzXG",
+        "08GTkgJXi9tedLqjbLDLCP"
+      ]
+    },
+    {
+      "Pos": "110",
+      "P+": "-3",
+      "Artist and Title": "TOQUEL - XERIA KATHARA (w/ Beyond)",
+      "Days": "100",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "16,424",
+      "Streams+": "+850",
+      "7Day": "104,961",
+      "7Day+": "+699",
+      "Total": "2,311,663",
+      "track_id": "1WXeoUtGzzfv22TOINnM8e",
+      "artist_ids": [
+        "7AWAljMatr7bxddF4kWzXG",
+        "7KcIok6StqYSedgtjmtsqP"
+      ]
+    },
+    {
+      "Pos": "111",
+      "P+": "=",
+      "Artist and Title": "DIFF - TENPACK (w/ Tr4cer)",
+      "Days": "8",
+      "Pk": "35",
+      "(x?)": "",
+      "Streams": "16,267",
+      "Streams+": "+886",
+      "7Day": "139,216",
+      "7Day+": "-17,854",
+      "Total": "173,337",
+      "track_id": "2PRMCcg2nJkCurOj2kHBnw",
+      "artist_ids": [
+        "4rtNK25TiSGNcibilGWcQK",
+        "1pujt2kEecz5ystwtZxJ0w"
+      ]
+    },
+    {
+      "Pos": "112",
+      "P+": "RE",
+      "Artist and Title": "Ivan Greko - BLACK PHONE MAFIA (w/ Strat, Arab, DIFF, BeTaf Beats, Sanko)",
+      "Days": "182",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "16,090",
+      "Streams+": "",
+      "7Day": "16,090",
+      "7Day+": "+16,090",
+      "Total": "6,333,110",
+      "track_id": "6j884ppNhHrlqaYn7kQwLt",
+      "artist_ids": [
+        "0cy6ZMOTeautXRNJsR6PiV",
+        "48h12D3cJbqfn1ReVL9qbw",
+        "3h3WR8UDyRk15U74xAXE7a",
+        "4rtNK25TiSGNcibilGWcQK",
+        "5qDpS8QhKjNRZ6aRrcpY1Z",
+        "0ijA6WxysUZ8vZQL7JkUfx"
+      ]
+    },
+    {
+      "Pos": "113",
+      "P+": "-4",
+      "Artist and Title": "FLY LO - SIMECO (w/ BLVD)",
+      "Days": "148",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "16,051",
+      "Streams+": "+639",
+      "7Day": "92,147",
+      "7Day+": "+473",
+      "Total": "3,049,935",
+      "track_id": "4ngt8LbCwRCyqOmX7nKrrN",
+      "artist_ids": [
+        "1zeAbUJAbLOWeYpgRVnYmu",
+        "3XVSWUdVDon1RGgHdPuqzR"
+      ]
+    },
+    {
+      "Pos": "114",
       "P+": "+8",
+      "Artist and Title": "Sicario - FWTIA (w/ Beyond)",
+      "Days": "465",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "15,967",
+      "Streams+": "+1,592",
+      "7Day": "106,394",
+      "7Day+": "+485",
+      "Total": "14,566,427",
+      "track_id": "4NJzucf3s44ZN2E7kcoE0a",
+      "artist_ids": [
+        "6x0pz3N2n51qG75kjMR4uV",
+        "7KcIok6StqYSedgtjmtsqP"
+      ]
+    },
+    {
+      "Pos": "115",
+      "P+": "+74",
+      "Artist and Title": "Giorgos Mazonakis - Mi Mou Les Na Zo Me Anamnisis",
+      "Days": "31",
+      "Pk": "49",
+      "(x?)": "",
+      "Streams": "15,781",
+      "Streams+": "+4,583",
+      "7Day": "88,712",
+      "7Day+": "+2,441",
+      "Total": "619,910",
+      "track_id": "41wXzitv9hxD3yRnTF9oRd",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "116",
+      "P+": "+15",
+      "Artist and Title": "Light - Primo",
+      "Days": "1160",
+      "Pk": "3",
+      "(x?)": "(x3)",
+      "Streams": "15,709",
+      "Streams+": "+1,919",
+      "7Day": "100,799",
+      "7Day+": "+783",
+      "Total": "13,988,462",
+      "track_id": "4Sp2yyp8BbY0nIYrsbEqOz",
+      "artist_ids": [
+        "1UdbiTrv73Dp7F0s3OHmn2"
+      ]
+    },
+    {
+      "Pos": "117",
+      "P+": "-26",
       "Artist and Title": "TOQUEL - CHATGPT",
-      "Days": "211",
+      "Days": "212",
       "Pk": "2",
       "(x?)": "(x2)",
-      "Streams": "17,269",
-      "Streams+": "+1,573",
-      "7Day": "110,856",
-      "7Day+": "+2,346",
-      "Total": "7,515,320",
+      "Streams": "15,704",
+      "Streams+": "-1,565",
+      "7Day": "111,387",
+      "7Day+": "+531",
+      "Total": "7,531,024",
       "track_id": "5m9pK3a3oMIbZHThbyraDi",
       "artist_ids": [
         "7AWAljMatr7bxddF4kWzXG"
       ]
     },
     {
-      "Pos": "92",
+      "Pos": "118",
+      "P+": "+5",
+      "Artist and Title": "Strat - PHUKET (w/ Arab, BeTaf Beats)",
+      "Days": "86",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "15,696",
+      "Streams+": "+1,380",
+      "7Day": "100,434",
+      "7Day+": "-826",
+      "Total": "2,720,097",
+      "track_id": "2Vgi5hFpSkiB0yWHRwAWxj",
+      "artist_ids": [
+        "48h12D3cJbqfn1ReVL9qbw",
+        "3h3WR8UDyRk15U74xAXE7a",
+        "5qDpS8QhKjNRZ6aRrcpY1Z"
+      ]
+    },
+    {
+      "Pos": "119",
+      "P+": "+49",
+      "Artist and Title": "Giorgos Mazonakis - Ela Piso Sti Thesi Sou",
+      "Days": "31",
+      "Pk": "48",
+      "(x?)": "",
+      "Streams": "15,427",
+      "Streams+": "+3,466",
+      "7Day": "91,485",
+      "7Day+": "+2,581",
+      "Total": "586,609",
+      "track_id": "7wAKRaJox5WTNsAGpNGXmP",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "120",
+      "P+": "+6",
+      "Artist and Title": "Saske - 5 AM",
+      "Days": "522",
+      "Pk": "2",
+      "(x?)": "(x2)",
+      "Streams": "15,326",
+      "Streams+": "+1,141",
+      "7Day": "109,647",
+      "7Day+": "-2,247",
+      "Total": "16,753,644",
+      "track_id": "1JGntUi9e8Oe2N5lBdXYGU",
+      "artist_ids": [
+        "1LxWE4LOhnqeaAx2tVUK6p"
+      ]
+    },
+    {
+      "Pos": "121",
+      "P+": "-9",
+      "Artist and Title": "Giorgos Mazonakis - Pote, Pote",
+      "Days": "27",
+      "Pk": "66",
+      "(x?)": "",
+      "Streams": "15,279",
+      "Streams+": "-77",
+      "7Day": "119,322",
+      "7Day+": "-1,699",
+      "Total": "486,633",
+      "track_id": "4Th553MRrooLiOrQTXOPii",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "122",
+      "P+": "-1",
+      "Artist and Title": "RACK - MA BELLA (w/ TOQUEL, Beyond)",
+      "Days": "849",
+      "Pk": "1",
+      "(x?)": "(x44)",
+      "Streams": "15,237",
+      "Streams+": "+811",
+      "7Day": "100,523",
+      "7Day+": "-275",
+      "Total": "37,711,771",
+      "track_id": "6D5QFkJLHYuv5f7hvslZxz",
+      "artist_ids": [
+        "6YYOTK6Qyv6PuFipPxCCoe",
+        "7AWAljMatr7bxddF4kWzXG",
+        "7KcIok6StqYSedgtjmtsqP"
+      ]
+    },
+    {
+      "Pos": "123",
+      "P+": "-17",
+      "Artist and Title": "TOQUEL - MOU ZITAS (w/ FLY LO, Beyond)",
+      "Days": "668",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "15,194",
+      "Streams+": "-390",
+      "7Day": "105,983",
+      "7Day+": "-1,870",
+      "Total": "23,870,697",
+      "track_id": "3Q3e0KMeCinQONCLJyO69X",
+      "artist_ids": [
+        "7AWAljMatr7bxddF4kWzXG",
+        "1zeAbUJAbLOWeYpgRVnYmu",
+        "7KcIok6StqYSedgtjmtsqP"
+      ]
+    },
+    {
+      "Pos": "124",
+      "P+": "-21",
+      "Artist and Title": "TOQUEL - ILEGAL (w/ FLY LO, Beyond)",
+      "Days": "678",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "15,186",
+      "Streams+": "-500",
+      "7Day": "110,660",
+      "7Day+": "-806",
+      "Total": "26,447,133",
+      "track_id": "6R2utRyFhiEBnyz6afQ9Pe",
+      "artist_ids": [
+        "7AWAljMatr7bxddF4kWzXG",
+        "1zeAbUJAbLOWeYpgRVnYmu",
+        "7KcIok6StqYSedgtjmtsqP"
+      ]
+    },
+    {
+      "Pos": "125",
+      "P+": "+10",
+      "Artist and Title": "Giorgos Mazonakis - Opos Tha Fevgis",
+      "Days": "30",
+      "Pk": "77",
+      "(x?)": "",
+      "Streams": "15,175",
+      "Streams+": "+1,650",
+      "7Day": "104,493",
+      "7Day+": "-839",
+      "Total": "531,714",
+      "track_id": "7gWmPWBqxDqAwDP5p4eOKI",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "126",
+      "P+": "-10",
+      "Artist and Title": "Sicario - KSEHORISTO",
+      "Days": "949",
+      "Pk": "16",
+      "(x?)": "",
+      "Streams": "15,098",
+      "Streams+": "+99",
+      "7Day": "101,430",
+      "7Day+": "-1,917",
+      "Total": "22,553,290",
+      "track_id": "1mOLBCX3IRwGNDLqYzXpM5",
+      "artist_ids": [
+        "6x0pz3N2n51qG75kjMR4uV"
+      ]
+    },
+    {
+      "Pos": "127",
+      "P+": "+14",
+      "Artist and Title": "Merko - SPASIBA (w/ DIFF, Sanko, Spize)",
+      "Days": "89",
+      "Pk": "23",
+      "(x?)": "",
+      "Streams": "15,087",
+      "Streams+": "+1,914",
+      "7Day": "89,521",
+      "7Day+": "+1,940",
+      "Total": "1,464,984",
+      "track_id": "3d6S35CsRKcNdJ4mUDVN5y",
+      "artist_ids": [
+        "3NBuryo6MsorZpU4VRpHOJ",
+        "4rtNK25TiSGNcibilGWcQK",
+        "0ijA6WxysUZ8vZQL7JkUfx",
+        "35k7GJlhaFK7qHpOJ1JWbm"
+      ]
+    },
+    {
+      "Pos": "128",
+      "P+": "+19",
+      "Artist and Title": "Giorgos Mazonakis - An M' Akous",
+      "Days": "31",
+      "Pk": "40",
+      "(x?)": "",
+      "Streams": "14,988",
+      "Streams+": "+2,117",
+      "7Day": "121,415",
+      "7Day+": "-2,365",
+      "Total": "691,810",
+      "track_id": "02taeXGFYC32WRWZrbRwPX",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "129",
+      "P+": "-4",
+      "Artist and Title": "Sadam - Hallelujah (w/ Dof Twogee)",
+      "Days": "450",
+      "Pk": "1",
+      "(x?)": "(x2)",
+      "Streams": "14,948",
+      "Streams+": "+755",
+      "7Day": "106,277",
+      "7Day+": "+255",
+      "Total": "9,753,015",
+      "track_id": "6IJuO80Va9Vi7h1STTX87k",
+      "artist_ids": [
+        "5svarA8QyRUWetgH9ZouQq",
+        "1OJxI4NQfY6osMvhfRMMEX"
+      ]
+    },
+    {
+      "Pos": "130",
+      "P+": "-13",
+      "Artist and Title": "DIFF - HENNY (w/ Strat, Sanko, Spize)",
+      "Days": "154",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "14,940",
+      "Streams+": "+226",
+      "7Day": "98,999",
+      "7Day+": "-637",
+      "Total": "3,548,646",
+      "track_id": "3dxdL00ifuoBZLvslo0uMV",
+      "artist_ids": [
+        "4rtNK25TiSGNcibilGWcQK",
+        "48h12D3cJbqfn1ReVL9qbw",
+        "0ijA6WxysUZ8vZQL7JkUfx",
+        "35k7GJlhaFK7qHpOJ1JWbm"
+      ]
+    },
+    {
+      "Pos": "131",
+      "P+": "-1",
+      "Artist and Title": "Mad Clip - 2 Ores (w/ Strat, BeTaf Beats)",
+      "Days": "413",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "14,904",
+      "Streams+": "+1,039",
+      "7Day": "92,989",
+      "7Day+": "-1,754",
+      "Total": "5,290,530",
+      "track_id": "6tserlpy6hsTnLPImpw9Di",
+      "artist_ids": [
+        "3KcZf8BFeFBtnGyOZmUggd",
+        "48h12D3cJbqfn1ReVL9qbw",
+        "5qDpS8QhKjNRZ6aRrcpY1Z"
+      ]
+    },
+    {
+      "Pos": "132",
+      "P+": "+5",
+      "Artist and Title": "Ivan Greko - DYTIS",
+      "Days": "119",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "14,864",
+      "Streams+": "+1,521",
+      "7Day": "62,745",
+      "7Day+": "+3,312",
+      "Total": "3,176,809",
+      "track_id": "4q2m6RMjVxTYje601N1CZm",
+      "artist_ids": [
+        "0cy6ZMOTeautXRNJsR6PiV"
+      ]
+    },
+    {
+      "Pos": "133",
       "P+": "NEW",
-      "Artist and Title": "DJ Waif - State of Mind (w/ Hatemost, Mikros Kleftis, Sadomas, Thitis, RICTA, Pilotirio)",
+      "Artist and Title": "Konstantinos Argiros - Revma",
       "Days": "1",
+      "Pk": "133",
+      "(x?)": "",
+      "Streams": "14,711",
+      "Streams+": "",
+      "7Day": "14,711",
+      "7Day+": "+14,711",
+      "Total": "14,711",
+      "track_id": "4J7yq3ghKZmSublCTwRfF4",
+      "artist_ids": [
+        "5YquORfLTx6nWMlBzJstx7"
+      ]
+    },
+    {
+      "Pos": "134",
+      "P+": "-14",
+      "Artist and Title": "Light - Asteria (w/ Kida)",
+      "Days": "107",
+      "Pk": "12",
+      "(x?)": "",
+      "Streams": "14,689",
+      "Streams+": "+242",
+      "7Day": "99,961",
+      "7Day+": "-1,464",
+      "Total": "2,833,953",
+      "track_id": "1oYGhWA94grlWn5QQv9azt",
+      "artist_ids": [
+        "1UdbiTrv73Dp7F0s3OHmn2",
+        "0rtILhtW5MNyUqkZzKDd3J"
+      ]
+    },
+    {
+      "Pos": "135",
+      "P+": "-22",
+      "Artist and Title": "Giorgos Mazonakis - Ston Erota Paranois",
+      "Days": "31",
+      "Pk": "46",
+      "(x?)": "",
+      "Streams": "14,681",
+      "Streams+": "-623",
+      "7Day": "95,858",
+      "7Day+": "+2,017",
+      "Total": "600,549",
+      "track_id": "2nTriIzupJdEhuP2oVMKG3",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "136",
+      "P+": "+4",
+      "Artist and Title": "TOQUEL - XAPIA (w/ Beyond)",
+      "Days": "209",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "14,582",
+      "Streams+": "+1,400",
+      "7Day": "102,504",
+      "7Day+": "-1,588",
+      "Total": "5,181,646",
+      "track_id": "5jJof6Gm55PcMtSsh7Kfxz",
+      "artist_ids": [
+        "7AWAljMatr7bxddF4kWzXG",
+        "7KcIok6StqYSedgtjmtsqP"
+      ]
+    },
+    {
+      "Pos": "137",
+      "P+": "+21",
+      "Artist and Title": "TOQUEL - DOLCE GABBANA (w/ FLY LO, Beyond)",
+      "Days": "661",
+      "Pk": "1",
+      "(x?)": "(x22)",
+      "Streams": "14,498",
+      "Streams+": "+2,049",
+      "7Day": "88,186",
+      "7Day+": "+2,016",
+      "Total": "25,662,066",
+      "track_id": "7r0sYhhoM4hjeuCDlbCobZ",
+      "artist_ids": [
+        "7AWAljMatr7bxddF4kWzXG",
+        "1zeAbUJAbLOWeYpgRVnYmu",
+        "7KcIok6StqYSedgtjmtsqP"
+      ]
+    },
+    {
+      "Pos": "138",
+      "P+": "-20",
+      "Artist and Title": "Giorgos Sabanis - De M' Agapouses",
+      "Days": "193",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "14,404",
+      "Streams+": "-288",
+      "7Day": "98,897",
+      "7Day+": "+100",
+      "Total": "3,194,879",
+      "track_id": "6bz2oDXZjkyCYki5GnIz5O",
+      "artist_ids": [
+        "6ZGwdAmu91r8mpA6SXodzd"
+      ]
+    },
+    {
+      "Pos": "139",
+      "P+": "=",
+      "Artist and Title": "Saske - ALLAGI",
+      "Days": "65",
+      "Pk": "21",
+      "(x?)": "",
+      "Streams": "14,402",
+      "Streams+": "+1,168",
+      "7Day": "100,632",
+      "7Day+": "-528",
+      "Total": "1,345,986",
+      "track_id": "18UEog0bNaaJFdBACXaVoQ",
+      "artist_ids": [
+        "1LxWE4LOhnqeaAx2tVUK6p"
+      ]
+    },
+    {
+      "Pos": "140",
+      "P+": "-2",
+      "Artist and Title": "Nikos Oikonomopoulos - Enoho Kormi",
+      "Days": "96",
+      "Pk": "40",
+      "(x?)": "",
+      "Streams": "14,295",
+      "Streams+": "+967",
+      "7Day": "91,884",
+      "7Day+": "+952",
+      "Total": "1,610,703",
+      "track_id": "3pp70iNV0LptCA6kiaSMgd",
+      "artist_ids": [
+        "1MicVtcHS3vuNVCrd1un7s"
+      ]
+    },
+    {
+      "Pos": "141",
+      "P+": "-26",
+      "Artist and Title": "Likeboss - CRETA (w/ Paris Kalpos)",
+      "Days": "24",
+      "Pk": "46",
+      "(x?)": "",
+      "Streams": "14,241",
+      "Streams+": "-846",
+      "7Day": "107,352",
+      "7Day+": "-6,376",
+      "Total": "490,239",
+      "track_id": "5nj63xdbymspnKmHC5isVZ",
+      "artist_ids": [
+        "5gw7flNXQt0oQ5taY1as73",
+        "63z0gOosInxV2a7J8UPDzM"
+      ]
+    },
+    {
+      "Pos": "142",
+      "P+": "+3",
+      "Artist and Title": "Merko - PRESVHS (w/ Spize)",
+      "Days": "60",
+      "Pk": "55",
+      "(x?)": "",
+      "Streams": "14,224",
+      "Streams+": "+1,241",
+      "7Day": "92,528",
+      "7Day+": "-905",
+      "Total": "939,581",
+      "track_id": "2O4AqEMqtV8I6mXzlKKFKp",
+      "artist_ids": [
+        "3NBuryo6MsorZpU4VRpHOJ",
+        "35k7GJlhaFK7qHpOJ1JWbm"
+      ]
+    },
+    {
+      "Pos": "143",
+      "P+": "-11",
+      "Artist and Title": "Saske - PADOU (w/ Beyond, Issy)",
+      "Days": "1440",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "14,208",
+      "Streams+": "+529",
+      "7Day": "93,776",
+      "7Day+": "-486",
+      "Total": "26,903,183",
+      "track_id": "27GSRTfL7fEnLAEr3fB5YX",
+      "artist_ids": [
+        "1LxWE4LOhnqeaAx2tVUK6p",
+        "7KcIok6StqYSedgtjmtsqP",
+        "6symUxu7p0bp1z4kkyFGk6"
+      ]
+    },
+    {
+      "Pos": "144",
+      "P+": "+13",
+      "Artist and Title": "Katerina Lioliou - Logariasmos",
+      "Days": "259",
+      "Pk": "1",
+      "(x?)": "(x6)",
+      "Streams": "14,021",
+      "Streams+": "+1,552",
+      "7Day": "92,272",
+      "7Day+": "+1,276",
+      "Total": "10,055,047",
+      "track_id": "6qShG16XTy1emd18WVPZlh",
+      "artist_ids": [
+        "6vgi3CIDWWdGEGJ6NMgQdD"
+      ]
+    },
+    {
+      "Pos": "145",
+      "P+": "-21",
+      "Artist and Title": "LEX - Alitiki Agapi (w/ Dof Twogee)",
+      "Days": "682",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "14,020",
+      "Streams+": "-187",
+      "7Day": "90,135",
+      "7Day+": "+2,197",
+      "Total": "24,792,276",
+      "track_id": "4cevw8iIIMDXzI0XIEnCpv",
+      "artist_ids": [
+        "3ObDUGvTK5W2QJqBQyIkm1",
+        "1OJxI4NQfY6osMvhfRMMEX"
+      ]
+    },
+    {
+      "Pos": "146",
+      "P+": "+21",
+      "Artist and Title": "SNIK - KSANA (w/ Trannos, Oge)",
+      "Days": "190",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "13,997",
+      "Streams+": "+2,025",
+      "7Day": "96,302",
+      "7Day+": "-1,390",
+      "Total": "6,177,030",
+      "track_id": "6NmGemgtgnXl8dzdZ5irAq",
+      "artist_ids": [
+        "6wN4QyhoM6fN49kEB25rnl",
+        "6WzxopGY3sy97IeNFaDELc",
+        "5NFeyNwaFGFHFycOg6zvs9"
+      ]
+    },
+    {
+      "Pos": "147",
+      "P+": "-19",
+      "Artist and Title": "TOQUEL - G63 (w/ Bloody Hawk)",
+      "Days": "839",
+      "Pk": "1",
+      "(x?)": "(x13)",
+      "Streams": "13,941",
+      "Streams+": "-99",
+      "7Day": "61,877",
+      "7Day+": "+13,941",
+      "Total": "21,113,476",
+      "track_id": "0fxSLGBSsetmHSO98Xm0Km",
+      "artist_ids": [
+        "7AWAljMatr7bxddF4kWzXG",
+        "4NKSnDH3KS823DGnHDDDsy"
+      ]
+    },
+    {
+      "Pos": "148",
+      "P+": "NEW",
+      "Artist and Title": "ARES127 - YAMAHA",
+      "Days": "1",
+      "Pk": "148",
+      "(x?)": "",
+      "Streams": "13,874",
+      "Streams+": "",
+      "7Day": "13,874",
+      "7Day+": "+13,874",
+      "Total": "13,874",
+      "track_id": "0ML9BcMlT6NazBuYEPC48b",
+      "artist_ids": [
+        "76wYxxgwd7fLceClHmLo4N"
+      ]
+    },
+    {
+      "Pos": "149",
+      "P+": "+2",
+      "Artist and Title": "SNIK - KIPSELI (w/ Trannos)",
+      "Days": "114",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "13,657",
+      "Streams+": "+957",
+      "7Day": "96,368",
+      "7Day+": "-561",
+      "Total": "4,081,679",
+      "track_id": "1UTmz8GR18Bol9zWktQmXO",
+      "artist_ids": [
+        "6wN4QyhoM6fN49kEB25rnl",
+        "6WzxopGY3sy97IeNFaDELc"
+      ]
+    },
+    {
+      "Pos": "150",
+      "P+": "-31",
+      "Artist and Title": "Strat - AMA SARESW (w/ Arab, BeTaf Beats)",
+      "Days": "185",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "13,564",
+      "Streams+": "-1,108",
+      "7Day": "98,203",
+      "7Day+": "-191",
+      "Total": "7,339,023",
+      "track_id": "27YR9PvR67oRBOquAXS87Y",
+      "artist_ids": [
+        "48h12D3cJbqfn1ReVL9qbw",
+        "3h3WR8UDyRk15U74xAXE7a",
+        "5qDpS8QhKjNRZ6aRrcpY1Z"
+      ]
+    },
+    {
+      "Pos": "151",
+      "P+": "-7",
+      "Artist and Title": "Kidd - FUCK LOVE (w/ BLVD)",
+      "Days": "144",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "13,520",
+      "Streams+": "+456",
+      "7Day": "96,150",
+      "7Day+": "-938",
+      "Total": "3,469,122",
+      "track_id": "4ArBFP1logojblsR2c3r4d",
+      "artist_ids": [
+        "1RqOmrtivmvKrfBO81j1ou",
+        "3XVSWUdVDon1RGgHdPuqzR"
+      ]
+    },
+    {
+      "Pos": "152",
+      "P+": "+20",
+      "Artist and Title": "Pantelis Pantelidis - Pame Stihima Tha Xanarthis",
+      "Days": "353",
+      "Pk": "44",
+      "(x?)": "",
+      "Streams": "13,500",
+      "Streams+": "+1,674",
+      "7Day": "88,320",
+      "7Day+": "-1,067",
+      "Total": "4,695,351",
+      "track_id": "10e5QpjQtt9156Ie76zGg1",
+      "artist_ids": [
+        "1TubjoUgPPYHfMoUrvJxP3"
+      ]
+    },
+    {
+      "Pos": "153",
+      "P+": "-20",
+      "Artist and Title": "The Neighbourhood - Sweater Weather",
+      "Days": "872",
+      "Pk": "37",
+      "(x?)": "",
+      "Streams": "13,477",
+      "Streams+": "-153",
+      "7Day": "108,270",
+      "7Day+": "-11,163",
+      "Total": "5,687,064",
+      "track_id": "2QjOHCTQ1Jl3zawyYOpxh6",
+      "artist_ids": [
+        "77SW9BnxLY8rJ0RciFqkHh"
+      ]
+    },
+    {
+      "Pos": "154",
+      "P+": "+11",
+      "Artist and Title": "FLY LO - Prezi (w/ TOQUEL, Mike G)",
+      "Days": "364",
+      "Pk": "1",
+      "(x?)": "(x23)",
+      "Streams": "13,423",
+      "Streams+": "+1,334",
+      "7Day": "83,311",
+      "7Day+": "+1,303",
+      "Total": "11,666,472",
+      "track_id": "7pm3I8p2MWYcjEyZKoVMcd",
+      "artist_ids": [
+        "1zeAbUJAbLOWeYpgRVnYmu",
+        "7AWAljMatr7bxddF4kWzXG",
+        "7zYmrye7LvmpMkfHWrENu9"
+      ]
+    },
+    {
+      "Pos": "155",
+      "P+": "-19",
+      "Artist and Title": "Tame Impala - Loser",
+      "Days": "68",
+      "Pk": "79",
+      "(x?)": "",
+      "Streams": "13,409",
+      "Streams+": "+43",
+      "7Day": "89,481",
+      "7Day+": "+570",
+      "Total": "1,009,196",
+      "track_id": "7bxaFZ1O3cHkgLKMsdC3xR",
+      "artist_ids": [
+        "5INjqkS1o8h1imAzPqGZBb"
+      ]
+    },
+    {
+      "Pos": "156",
+      "P+": "+3",
+      "Artist and Title": "Light - Cc",
+      "Days": "1251",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "13,396",
+      "Streams+": "+1,037",
+      "7Day": "92,838",
+      "7Day+": "-2,559",
+      "Total": "18,071,470",
+      "track_id": "07qyw1D9R324YyFNZGUUdl",
+      "artist_ids": [
+        "1UdbiTrv73Dp7F0s3OHmn2"
+      ]
+    },
+    {
+      "Pos": "157",
+      "P+": "-2",
+      "Artist and Title": "Pantelis Pantelidis - Isos Isoun Kiria",
+      "Days": "406",
+      "Pk": "1",
+      "(x?)": "(x7)",
+      "Streams": "13,271",
+      "Streams+": "+755",
+      "7Day": "90,268",
+      "7Day+": "+1,449",
+      "Total": "12,608,672",
+      "track_id": "3wXwptbzcV60VOzQz0ODG4",
+      "artist_ids": [
+        "1TubjoUgPPYHfMoUrvJxP3"
+      ]
+    },
+    {
+      "Pos": "158",
+      "P+": "-4",
+      "Artist and Title": "Donn - GIA OLA TA PAIDIA (w/ HermesHermes, BLVD)",
+      "Days": "44",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "13,139",
+      "Streams+": "+613",
+      "7Day": "85,468",
+      "7Day+": "-790",
+      "Total": "1,041,385",
+      "track_id": "5oveagTOT3Jn6IUMhCwP4m",
+      "artist_ids": [
+        "5ZW3jmupWrQDBKilPyUVkv",
+        "5PeCMyf2BO8RlAujWP0erY",
+        "3XVSWUdVDon1RGgHdPuqzR"
+      ]
+    },
+    {
+      "Pos": "159",
+      "P+": "-32",
+      "Artist and Title": "SNIK - OPA (w/ Trannos)",
+      "Days": "114",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "13,097",
+      "Streams+": "-949",
+      "7Day": "90,037",
+      "7Day+": "-1,005",
+      "Total": "4,250,079",
+      "track_id": "5eUtUkRWRP7cSa8fZoKKU8",
+      "artist_ids": [
+        "6wN4QyhoM6fN49kEB25rnl",
+        "6WzxopGY3sy97IeNFaDELc"
+      ]
+    },
+    {
+      "Pos": "160",
+      "P+": "-26",
+      "Artist and Title": "Giorgos Mazonakis - San Duo Stagones Vroxis",
+      "Days": "31",
+      "Pk": "51",
+      "(x?)": "",
+      "Streams": "13,038",
+      "Streams+": "-542",
+      "7Day": "104,179",
+      "7Day+": "-4,548",
+      "Total": "646,790",
+      "track_id": "2EOKP4SK1djrtApbcXUCWb",
+      "artist_ids": [
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "161",
+      "P+": "-8",
+      "Artist and Title": "Bloody Hawk - Pano (w/ TOQUEL)",
+      "Days": "855",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "12,991",
+      "Streams+": "+338",
+      "7Day": "62,499",
+      "7Day+": "+1,188",
+      "Total": "19,957,805",
+      "track_id": "6vAZ49VeVb8fQuSenKUBH2",
+      "artist_ids": [
+        "4NKSnDH3KS823DGnHDDDsy",
+        "7AWAljMatr7bxddF4kWzXG"
+      ]
+    },
+    {
+      "Pos": "162",
+      "P+": "=",
+      "Artist and Title": "Giorgos Sabanis - Pros To Paron",
+      "Days": "343",
+      "Pk": "30",
+      "(x?)": "",
+      "Streams": "12,884",
+      "Streams+": "+679",
+      "7Day": "102,498",
+      "7Day+": "-2,060",
+      "Total": "5,278,238",
+      "track_id": "0Gppi7bYjmxwovvnqRKc1n",
+      "artist_ids": [
+        "6ZGwdAmu91r8mpA6SXodzd"
+      ]
+    },
+    {
+      "Pos": "163",
+      "P+": "+17",
+      "Artist and Title": "Donn - MAGKAS KAI ALITIS (w/ Kidd, BLVD)",
+      "Days": "44",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "12,810",
+      "Streams+": "+1,218",
+      "7Day": "84,892",
+      "7Day+": "-1,477",
+      "Total": "1,030,386",
+      "track_id": "5nG3S4ZF3P26oSfKYq0erY",
+      "artist_ids": [
+        "5ZW3jmupWrQDBKilPyUVkv",
+        "1RqOmrtivmvKrfBO81j1ou",
+        "3XVSWUdVDon1RGgHdPuqzR"
+      ]
+    },
+    {
+      "Pos": "164",
+      "P+": "+13",
+      "Artist and Title": "Notis Sfakianakis - Dose Ena Telos",
+      "Days": "144",
+      "Pk": "106",
+      "(x?)": "",
+      "Streams": "12,782",
+      "Streams+": "+1,092",
+      "7Day": "88,170",
+      "7Day+": "-385",
+      "Total": "1,838,308",
+      "track_id": "6ZUKDMX0eeDlM5Hu0ELYal",
+      "artist_ids": [
+        "31ID15xoalmnSgwPhHJZrR"
+      ]
+    },
+    {
+      "Pos": "165",
+      "P+": "-19",
+      "Artist and Title": "Kareem Kalokoh - PALI",
+      "Days": "266",
+      "Pk": "2",
+      "(x?)": "(x2)",
+      "Streams": "12,776",
+      "Streams+": "-191",
+      "7Day": "88,877",
+      "7Day+": "-858",
+      "Total": "7,686,970",
+      "track_id": "48tcwflLj2v1mDsPQnjxN7",
+      "artist_ids": [
+        "6fIBCdiEDMUziaNwDi2Awb"
+      ]
+    },
+    {
+      "Pos": "166",
+      "P+": "+13",
+      "Artist and Title": "Ria Ellinidou - Safari",
+      "Days": "134",
+      "Pk": "1",
+      "(x?)": "(x2)",
+      "Streams": "12,771",
+      "Streams+": "+1,090",
+      "7Day": "85,466",
+      "7Day+": "-732",
+      "Total": "4,713,616",
+      "track_id": "2hab1UeHfHnmoioglCfico",
+      "artist_ids": [
+        "5xs1rri2ZKfDpkKLqreHlc"
+      ]
+    },
+    {
+      "Pos": "167",
+      "P+": "-4",
+      "Artist and Title": "Wang - Tha Edina Ta Panta (w/ Bloody Hawk, Mateos Nps)",
+      "Days": "112",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "12,743",
+      "Streams+": "+621",
+      "7Day": "88,015",
+      "7Day+": "+12,743",
+      "Total": "2,786,854",
+      "track_id": "5tZeRqOJp0x6ffaXdodZVp",
+      "artist_ids": [
+        "3ef2an5giEP6Hc60lKEVEy",
+        "4NKSnDH3KS823DGnHDDDsy",
+        "24GETi9IpzvcwHLVIegWwV"
+      ]
+    },
+    {
+      "Pos": "168",
+      "P+": "+2",
+      "Artist and Title": "TOQUEL - Allou (w/ LILA, Beyond)",
+      "Days": "988",
+      "Pk": "1",
+      "(x?)": "(x33)",
+      "Streams": "12,735",
+      "Streams+": "+829",
+      "7Day": "84,568",
+      "7Day+": "-682",
+      "Total": "33,534,000",
+      "track_id": "4Fke1kIQz7pzIZYKqyzeNm",
+      "artist_ids": [
+        "7AWAljMatr7bxddF4kWzXG",
+        "69EosSfMcqIxCMw7VeVPVC",
+        "7KcIok6StqYSedgtjmtsqP"
+      ]
+    },
+    {
+      "Pos": "169",
+      "P+": "+13",
+      "Artist and Title": "Light - Mosca",
+      "Days": "1349",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "12,711",
+      "Streams+": "+1,302",
+      "7Day": "24,120",
+      "7Day+": "+12,711",
+      "Total": "12,092,046",
+      "track_id": "3rwuYQM6eEqTLWapNYAeZD",
+      "artist_ids": [
+        "1UdbiTrv73Dp7F0s3OHmn2"
+      ]
+    },
+    {
+      "Pos": "170",
+      "P+": "+4",
+      "Artist and Title": "Kidd - SUPERSTAR (w/ BLVD)",
+      "Days": "188",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "12,617",
+      "Streams+": "+856",
+      "7Day": "80,914",
+      "7Day+": "+956",
+      "Total": "4,059,812",
+      "track_id": "0W3PAUx1JAwQLaSom4Q8jA",
+      "artist_ids": [
+        "1RqOmrtivmvKrfBO81j1ou",
+        "3XVSWUdVDon1RGgHdPuqzR"
+      ]
+    },
+    {
+      "Pos": "171",
+      "P+": "-15",
+      "Artist and Title": "Kidd - Y2K (w/ Lil Koni)",
+      "Days": "125",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "12,592",
+      "Streams+": "+89",
+      "7Day": "84,276",
+      "7Day+": "+676",
+      "Total": "2,200,659",
+      "track_id": "06CNoyANKu3IGqaYNKsBOi",
+      "artist_ids": [
+        "1RqOmrtivmvKrfBO81j1ou",
+        "4md2OwykkDpAVx2keVXBBV"
+      ]
+    },
+    {
+      "Pos": "172",
+      "P+": "+3",
+      "Artist and Title": "Roi 6/12 - Vradia (w/ Evangelia)",
+      "Days": "660",
+      "Pk": "1",
+      "(x?)": "(x6)",
+      "Streams": "12,576",
+      "Streams+": "+835",
+      "7Day": "35,245",
+      "7Day+": "+12,576",
+      "Total": "20,029,031",
+      "track_id": "7m2z3y1R6K7ZXBMYeEK9zn",
+      "artist_ids": [
+        "1yBH6dqnD6xzSeCjXp9pKm",
+        "3J7SI1JrZt43ZBlH24IqCK"
+      ]
+    },
+    {
+      "Pos": "173",
+      "P+": "+27",
+      "Artist and Title": "Merko - MELANI (w/ Spize, Sanko)",
+      "Days": "57",
+      "Pk": "45",
+      "(x?)": "",
+      "Streams": "12,573",
+      "Streams+": "+1,800",
+      "7Day": "23,346",
+      "7Day+": "+12,573",
+      "Total": "880,358",
+      "track_id": "176kRJ2oc7kVDA6IBo1xVh",
+      "artist_ids": [
+        "3NBuryo6MsorZpU4VRpHOJ",
+        "35k7GJlhaFK7qHpOJ1JWbm",
+        "0ijA6WxysUZ8vZQL7JkUfx"
+      ]
+    },
+    {
+      "Pos": "174",
+      "P+": "+2",
+      "Artist and Title": "Katerina Lioliou - Ta Filia Mou",
+      "Days": "71",
+      "Pk": "56",
+      "(x?)": "",
+      "Streams": "12,462",
+      "Streams+": "+724",
+      "7Day": "24,200",
+      "7Day+": "+12,462",
+      "Total": "972,172",
+      "track_id": "5UiDrTbFxLH3at0i6Scun5",
+      "artist_ids": [
+        "6vgi3CIDWWdGEGJ6NMgQdD"
+      ]
+    },
+    {
+      "Pos": "175",
+      "P+": "-23",
+      "Artist and Title": "Ivan Greko - EMMONI IDEA (w/ Sicario, Oge)",
+      "Days": "558",
+      "Pk": "1",
+      "(x?)": "(x40)",
+      "Streams": "12,459",
+      "Streams+": "-216",
+      "7Day": "83,641",
+      "7Day+": "-95",
+      "Total": "26,890,630",
+      "track_id": "0kcQD5QcAG7jzY1gkHbEDY",
+      "artist_ids": [
+        "0cy6ZMOTeautXRNJsR6PiV",
+        "6x0pz3N2n51qG75kjMR4uV",
+        "5NFeyNwaFGFHFycOg6zvs9"
+      ]
+    },
+    {
+      "Pos": "176",
+      "P+": "-33",
+      "Artist and Title": "Emmanouela - San Esena (w/ Roi 6/12)",
+      "Days": "28",
+      "Pk": "50",
+      "(x?)": "",
+      "Streams": "12,283",
+      "Streams+": "-864",
+      "7Day": "49,409",
+      "7Day+": "+12,283",
+      "Total": "444,930",
+      "track_id": "2ND5ajIOU1PImVlsKtjlL7",
+      "artist_ids": [
+        "5M5XZEGQ9VyenOFcuaQwE1",
+        "1yBH6dqnD6xzSeCjXp9pKm"
+      ]
+    },
+    {
+      "Pos": "177",
+      "P+": "-27",
+      "Artist and Title": "The Neighbourhood - Reflections",
+      "Days": "11",
+      "Pk": "45",
+      "(x?)": "",
+      "Streams": "12,252",
+      "Streams+": "-507",
+      "7Day": "100,135",
+      "7Day+": "-10,216",
+      "Total": "185,272",
+      "track_id": "2xql0pid3EUwW38AsywxhV",
+      "artist_ids": [
+        "77SW9BnxLY8rJ0RciFqkHh"
+      ]
+    },
+    {
+      "Pos": "178",
+      "P+": "-18",
+      "Artist and Title": "HUGEL - I Adore You (w/ Topic, Arash, Daecolm)",
+      "Days": "654",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "12,210",
+      "Streams+": "-67",
+      "7Day": "57,419",
+      "7Day+": "+574",
+      "Total": "14,650,604",
+      "track_id": "5nPbKG04fhLkIAjcPFaZq7",
+      "artist_ids": [
+        "5PlfkPxwCpRRWQJBxCa0By",
+        "0u6GtibW46tFX7koQ6uNJZ",
+        "7hQmAXAzWI6D350VTgkKTG",
+        "1IFAU4mznUcfPVP9z2c24N"
+      ]
+    },
+    {
+      "Pos": "179",
+      "P+": "+7",
+      "Artist and Title": "Ioulia Kallimani - Sta Kalitera Pou Elkontai - Agapate Katallilous (w/ Michael Touratzidis)",
+      "Days": "106",
+      "Pk": "29",
+      "(x?)": "",
+      "Streams": "12,131",
+      "Streams+": "+820",
+      "7Day": "85,383",
+      "7Day+": "-1,282",
+      "Total": "2,438,757",
+      "track_id": "7w3CkiZG4r01ZZgHjTPYZY",
+      "artist_ids": [
+        "6HsM9NbNIunWMEFLOk4d9p",
+        "5dwadtCk3MY582FXpBAHwz"
+      ]
+    },
+    {
+      "Pos": "180",
+      "P+": "-76",
+      "Artist and Title": "Dion111 - GEITONIA (w/ 2shots, _OTS, Takanuva)",
+      "Days": "9",
+      "Pk": "64",
+      "(x?)": "",
+      "Streams": "12,100",
+      "Streams+": "-3,549",
+      "7Day": "98,059",
+      "7Day+": "-1,199",
+      "Total": "132,752",
+      "track_id": "635j0IxKeyng3JQR2axGEJ",
+      "artist_ids": [
+        "6fsHcYaHFScpZyJ7MqFsjf",
+        "0ZRgNmKNkngvESBVUqkICS",
+        "1duTYTeIWqrESenXtZ3a82",
+        "2ciuV1nz063tai3NKwomQs"
+      ]
+    },
+    {
+      "Pos": "181",
+      "P+": "+2",
+      "Artist and Title": "Stavento - Anadromika (w/ Alexandra)",
+      "Days": "210",
+      "Pk": "26",
+      "(x?)": "",
+      "Streams": "12,093",
+      "Streams+": "+692",
+      "7Day": "87,931",
+      "7Day+": "-2,420",
+      "Total": "4,653,742",
+      "track_id": "4SP5sNmfpJP5oV2LrqzE6A",
+      "artist_ids": [
+        "43LNzVQi3AUDm6NGSlg4BK",
+        "5chFd3WPxdTlKsUhEPmArx"
+      ]
+    },
+    {
+      "Pos": "182",
+      "P+": "RE",
+      "Artist and Title": "Ivi Adamou - Fotia Mou (w/ Giorgos Mazonakis)",
+      "Days": "93",
+      "Pk": "94",
+      "(x?)": "",
+      "Streams": "12,066",
+      "Streams+": "",
+      "7Day": "44,093",
+      "7Day+": "+12,066",
+      "Total": "672,230",
+      "track_id": "3olMbhB6NEScttDGk7yj2h",
+      "artist_ids": [
+        "2arQ0lfcNGLrJOHoJksWOw",
+        "1gyBRbQACz4JJX2HRROigK"
+      ]
+    },
+    {
+      "Pos": "183",
+      "P+": "NEW",
+      "Artist and Title": "Mel - LARGE (w/ Stolou)",
+      "Days": "1",
+      "Pk": "183",
+      "(x?)": "",
+      "Streams": "12,052",
+      "Streams+": "",
+      "7Day": "12,052",
+      "7Day+": "+12,052",
+      "Total": "12,052",
+      "track_id": "3zARsf3VwKlgocUA9pqJZ1",
+      "artist_ids": [
+        "0fo4hbtY8v9248tMgaR8i3",
+        "3dRTRPZYK8Wa3hQuyHMs0A"
+      ]
+    },
+    {
+      "Pos": "184",
+      "P+": "RE",
+      "Artist and Title": "Mad Clip - Montecristo (w/ Ypo, DJ Stephan)",
+      "Days": "874",
+      "Pk": "12",
+      "(x?)": "",
+      "Streams": "12,036",
+      "Streams+": "",
+      "7Day": "56,922",
+      "7Day+": "+12,036",
+      "Total": "6,625,184",
+      "track_id": "0g3fKXiX2AANAX3k6FnKib",
+      "artist_ids": [
+        "3KcZf8BFeFBtnGyOZmUggd",
+        "2ZXlAIBIejTdK0VlfsAqMV",
+        "0fxvzvlu3VQV3wDIhAxBmn"
+      ]
+    },
+    {
+      "Pos": "185",
+      "P+": "-12",
+      "Artist and Title": "ADÉLA - Ain't In LA",
+      "Days": "19",
+      "Pk": "164",
+      "(x?)": "",
+      "Streams": "12,014",
+      "Streams+": "+213",
+      "7Day": "80,649",
+      "7Day+": "+247",
+      "Total": "221,367",
+      "track_id": "6U9VpmP3dEinuezxCJ2Zg9",
+      "artist_ids": [
+        "2qanRMyA5bNuTvz1dK45OP"
+      ]
+    },
+    {
+      "Pos": "186",
+      "P+": "+7",
+      "Artist and Title": "Light - 24hrs (w/ Trannos)",
+      "Days": "1277",
+      "Pk": "1",
+      "(x?)": "(x21)",
+      "Streams": "11,985",
+      "Streams+": "+978",
+      "7Day": "75,292",
+      "7Day+": "-2,128",
+      "Total": "36,041,516",
+      "track_id": "2QDibAx72jveQXPBXOKjx2",
+      "artist_ids": [
+        "1UdbiTrv73Dp7F0s3OHmn2",
+        "6WzxopGY3sy97IeNFaDELc"
+      ]
+    },
+    {
+      "Pos": "187",
+      "P+": "RE",
+      "Artist and Title": "TOQUEL - Beverly Hills",
+      "Days": "1604",
+      "Pk": "1",
+      "(x?)": "(x2)",
+      "Streams": "11,868",
+      "Streams+": "",
+      "7Day": "70,911",
+      "7Day+": "-227",
+      "Total": "31,875,465",
+      "track_id": "5j2qq0EBEAceOdff92l4qZ",
+      "artist_ids": [
+        "7AWAljMatr7bxddF4kWzXG"
+      ]
+    },
+    {
+      "Pos": "188",
+      "P+": "-27",
+      "Artist and Title": "Light - C’est La Vie",
+      "Days": "107",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "11,855",
+      "Streams+": "-360",
+      "7Day": "84,456",
+      "7Day+": "-783",
+      "Total": "2,863,895",
+      "track_id": "5EeOJPGZHFoxGqGdGWKr3H",
+      "artist_ids": [
+        "1UdbiTrv73Dp7F0s3OHmn2"
+      ]
+    },
+    {
+      "Pos": "189",
+      "P+": "-1",
+      "Artist and Title": "Trouf - PARE ME STO ONEIRO (w/ Bloody Hawk)",
+      "Days": "8",
+      "Pk": "63",
+      "(x?)": "",
+      "Streams": "11,852",
+      "Streams+": "+613",
+      "7Day": "82,751",
+      "7Day+": "-11,867",
+      "Total": "106,470",
+      "track_id": "6Sk2IaIh3sgh68Pck8yeJq",
+      "artist_ids": [
+        "6tL1w9Zf5V0l3VBiYjxtZl",
+        "4NKSnDH3KS823DGnHDDDsy"
+      ]
+    },
+    {
+      "Pos": "190",
+      "P+": "-48",
+      "Artist and Title": "Light - Erotevmenos",
+      "Days": "103",
+      "Pk": "14",
+      "(x?)": "",
+      "Streams": "11,835",
+      "Streams+": "-1,316",
+      "7Day": "69,842",
+      "7Day+": "+11,835",
+      "Total": "2,351,992",
+      "track_id": "39p1gLfNuWEMSJTt91rO1e",
+      "artist_ids": [
+        "1UdbiTrv73Dp7F0s3OHmn2"
+      ]
+    },
+    {
+      "Pos": "191",
+      "P+": "-6",
+      "Artist and Title": "TOQUEL - PELIGROSA (w/ FLY LO, Beyond)",
+      "Days": "550",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "11,835",
+      "Streams+": "+475",
+      "7Day": "44,888",
+      "7Day+": "+11,835",
+      "Total": "17,349,057",
+      "track_id": "0ZUi3ZpCWC1DQnwW3bcFmH",
+      "artist_ids": [
+        "7AWAljMatr7bxddF4kWzXG",
+        "1zeAbUJAbLOWeYpgRVnYmu",
+        "7KcIok6StqYSedgtjmtsqP"
+      ]
+    },
+    {
+      "Pos": "192",
+      "P+": "-11",
+      "Artist and Title": "Kidd - HAKIMI (w/ BLVD)",
+      "Days": "149",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "11,825",
+      "Streams+": "+365",
+      "7Day": "80,457",
+      "7Day+": "+84",
+      "Total": "3,801,756",
+      "track_id": "7C6mJPmWkY2FDqYh20GVMj",
+      "artist_ids": [
+        "1RqOmrtivmvKrfBO81j1ou",
+        "3XVSWUdVDon1RGgHdPuqzR"
+      ]
+    },
+    {
+      "Pos": "193",
+      "P+": "-44",
+      "Artist and Title": "GAB - PLIGES (w/ XRS)",
+      "Days": "10",
+      "Pk": "68",
+      "(x?)": "",
+      "Streams": "11,820",
+      "Streams+": "-994",
+      "7Day": "38,593",
+      "7Day+": "+11,820",
+      "Total": "144,195",
+      "track_id": "05ghTuQFLOvTIUdS6QyZxb",
+      "artist_ids": [
+        "0LuYYFDRJd3PNTh1k4nFRN",
+        "4VaNTItXu9y1mVG63o9lF4"
+      ]
+    },
+    {
+      "Pos": "194",
+      "P+": "-3",
+      "Artist and Title": "Kidd - BELLA",
+      "Days": "186",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "11,817",
+      "Streams+": "+725",
+      "7Day": "77,935",
+      "7Day+": "+11,817",
+      "Total": "4,682,767",
+      "track_id": "0uOlfFtQMtPhXiaUraMUJA",
+      "artist_ids": [
+        "1RqOmrtivmvKrfBO81j1ou"
+      ]
+    },
+    {
+      "Pos": "195",
+      "P+": "-47",
+      "Artist and Title": "Pantelis Pantelidis - Lioma Se Gremo",
+      "Days": "244",
+      "Pk": "43",
+      "(x?)": "",
+      "Streams": "11,728",
+      "Streams+": "-1,133",
+      "7Day": "93,387",
+      "7Day+": "-2,559",
+      "Total": "3,739,736",
+      "track_id": "5AkFj1SDc22DKJoHADNsnS",
+      "artist_ids": [
+        "1TubjoUgPPYHfMoUrvJxP3"
+      ]
+    },
+    {
+      "Pos": "196",
+      "P+": "-32",
+      "Artist and Title": "Roi 6/12 - Normal",
+      "Days": "730",
+      "Pk": "3",
+      "(x?)": "(x5)",
+      "Streams": "11,649",
+      "Streams+": "-445",
+      "7Day": "35,420",
+      "7Day+": "+11,649",
+      "Total": "22,560,787",
+      "track_id": "766qL8sOkmsPswhAiOzrRC",
+      "artist_ids": [
+        "1yBH6dqnD6xzSeCjXp9pKm"
+      ]
+    },
+    {
+      "Pos": "197",
+      "P+": "-105",
+      "Artist and Title": "DJ Waif - State of Mind (w/ Hatemost, Mikros Kleftis, Sadomas, Thitis, RICTA, Pilotirio)",
+      "Days": "2",
       "Pk": "92",
       "(x?)": "",
-      "Streams": "17,136",
-      "Streams+": "",
-      "7Day": "17,136",
-      "7Day+": "+17,136",
-      "Total": "17,136",
+      "Streams": "11,630",
+      "Streams+": "-5,506",
+      "7Day": "28,766",
+      "7Day+": "+11,630",
+      "Total": "28,766",
       "track_id": "3dyhUzVahVbOFj1fMNgI3o",
       "artist_ids": [
         "34E7XSYuJQGWpBlVQS0jkv",
@@ -1662,1935 +3550,55 @@
       ]
     },
     {
-      "Pos": "93",
-      "P+": "-17",
-      "Artist and Title": "DIFF - STIN TELIKI (w/ CARLA)",
-      "Days": "7",
-      "Pk": "40",
-      "(x?)": "",
-      "Streams": "17,123",
-      "Streams+": "-1,806",
-      "7Day": "170,983",
-      "7Day+": "+17,123",
-      "Total": "170,983",
-      "track_id": "4OFqWutrJUBOlwqhObiMSu",
-      "artist_ids": [
-        "4rtNK25TiSGNcibilGWcQK",
-        "0efzWCTqpsoaTZNUn3ar4z"
-      ]
-    },
-    {
-      "Pos": "94",
-      "P+": "-2",
-      "Artist and Title": "Ivan Greko - BOGOTA",
-      "Days": "155",
-      "Pk": "1",
-      "(x?)": "(x21)",
-      "Streams": "16,844",
-      "Streams+": "+390",
-      "7Day": "113,419",
-      "7Day+": "-369",
-      "Total": "9,846,356",
-      "track_id": "0RVZgyIzq2mg3dboVj6up9",
-      "artist_ids": [
-        "0cy6ZMOTeautXRNJsR6PiV"
-      ]
-    },
-    {
-      "Pos": "95",
-      "P+": "-8",
-      "Artist and Title": "Trannos - CHANEL (w/ SNIK, CHEKKIS)",
-      "Days": "260",
-      "Pk": "1",
-      "(x?)": "(x12)",
-      "Streams": "16,709",
-      "Streams+": "-195",
-      "7Day": "116,871",
-      "7Day+": "+466",
-      "Total": "13,073,254",
-      "track_id": "6AICejWzqrCsNSi6vBabb5",
-      "artist_ids": [
-        "6WzxopGY3sy97IeNFaDELc",
-        "6wN4QyhoM6fN49kEB25rnl",
-        "43eXh1mPvuHJJg8xRELhYO"
-      ]
-    },
-    {
-      "Pos": "96",
-      "P+": "=",
-      "Artist and Title": "Rafa - Bijo Bijo (w/ RICTA, mi368)",
-      "Days": "22",
-      "Pk": "44",
-      "(x?)": "",
-      "Streams": "16,605",
-      "Streams+": "+421",
-      "7Day": "134,791",
-      "7Day+": "-9,774",
-      "Total": "492,798",
-      "track_id": "6TMlv6rPQCsjrBSa1mCfEe",
-      "artist_ids": [
-        "0lNKlkfQNTzhaqzejti1a0",
-        "4YiKEuOS5GwMujJMkIPGFN",
-        "5WpPX5v61a9sDy6lXDkQiK"
-      ]
-    },
-    {
-      "Pos": "97",
-      "P+": "+3",
-      "Artist and Title": "Likeboss - VERSACE (w/ Arab, HermesHermes, Echo)",
-      "Days": "63",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "16,563",
-      "Streams+": "+870",
-      "7Day": "111,875",
-      "7Day+": "-771",
-      "Total": "1,727,282",
-      "track_id": "77Ncp4dEk7bVbDTpTwfj6I",
-      "artist_ids": [
-        "5gw7flNXQt0oQ5taY1as73",
-        "3h3WR8UDyRk15U74xAXE7a",
-        "5PeCMyf2BO8RlAujWP0erY",
-        "0JfrxGQOdnHYZWBAtzPezD"
-      ]
-    },
-    {
-      "Pos": "98",
-      "P+": "+48",
-      "Artist and Title": "Anna Vissi - Treno",
-      "Days": "16",
-      "Pk": "81",
-      "(x?)": "",
-      "Streams": "16,421",
-      "Streams+": "+3,645",
-      "7Day": "89,222",
-      "7Day+": "+2,620",
-      "Total": "218,169",
-      "track_id": "4vDGDJmyvY16A26gGCVONY",
-      "artist_ids": [
-        "3qg78GGGWP04yTv0ZQMsXl"
-      ]
-    },
-    {
-      "Pos": "99",
-      "P+": "+4",
-      "Artist and Title": "Kidd - EXW NEA SOU (w/ Oge)",
-      "Days": "196",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "16,387",
-      "Streams+": "+998",
-      "7Day": "110,024",
-      "7Day+": "+447",
-      "Total": "5,257,796",
-      "track_id": "3s7rVHeKBsHuC1Qx8bciIG",
-      "artist_ids": [
-        "1RqOmrtivmvKrfBO81j1ou",
-        "5NFeyNwaFGFHFycOg6zvs9"
-      ]
-    },
-    {
-      "Pos": "100",
-      "P+": "-14",
-      "Artist and Title": "RACK - CASINO (w/ Konstantinos Argiros, Sin Laurent)",
-      "Days": "78",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "16,101",
-      "Streams+": "-1,212",
-      "7Day": "127,711",
-      "7Day+": "-4,382",
-      "Total": "2,448,849",
-      "track_id": "0z0upHJWpIG4ZPkMpd9iYo",
-      "artist_ids": [
-        "6YYOTK6Qyv6PuFipPxCCoe",
-        "5YquORfLTx6nWMlBzJstx7",
-        "6OBgaDVTONTa4rkGpE7sVE"
-      ]
-    },
-    {
-      "Pos": "101",
-      "P+": "+18",
-      "Artist and Title": "FLY LO - 90th FLOOR (w/ SNIK, BLVD)",
-      "Days": "157",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "16,095",
-      "Streams+": "+1,991",
-      "7Day": "79,513",
-      "7Day+": "+5,403",
-      "Total": "2,728,901",
-      "track_id": "13pIYmBwI2u61NcbfM7kBG",
-      "artist_ids": [
-        "1zeAbUJAbLOWeYpgRVnYmu",
-        "6wN4QyhoM6fN49kEB25rnl",
-        "3XVSWUdVDon1RGgHdPuqzR"
-      ]
-    },
-    {
-      "Pos": "102",
-      "P+": "=",
-      "Artist and Title": "TOQUEL - KAKO (w/ ObieDaz)",
-      "Days": "512",
-      "Pk": "1",
-      "(x?)": "(x3)",
-      "Streams": "15,924",
-      "Streams+": "+494",
-      "7Day": "101,029",
-      "7Day+": "+2,920",
-      "Total": "17,457,435",
-      "track_id": "28kpCoILnxmKUc6AMO6NEu",
-      "artist_ids": [
-        "7AWAljMatr7bxddF4kWzXG",
-        "08GTkgJXi9tedLqjbLDLCP"
-      ]
-    },
-    {
-      "Pos": "103",
-      "P+": "-10",
-      "Artist and Title": "TOQUEL - ILEGAL (w/ FLY LO, Beyond)",
-      "Days": "677",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "15,686",
-      "Streams+": "-759",
-      "7Day": "111,466",
-      "7Day+": "+1,230",
-      "Total": "26,431,947",
-      "track_id": "6R2utRyFhiEBnyz6afQ9Pe",
-      "artist_ids": [
-        "7AWAljMatr7bxddF4kWzXG",
-        "1zeAbUJAbLOWeYpgRVnYmu",
-        "7KcIok6StqYSedgtjmtsqP"
-      ]
-    },
-    {
-      "Pos": "104",
-      "P+": "-14",
-      "Artist and Title": "Dion111 - GEITONIA (w/ 2shots, _OTS, Takanuva)",
-      "Days": "8",
-      "Pk": "64",
-      "(x?)": "",
-      "Streams": "15,649",
-      "Streams+": "-1,163",
-      "7Day": "99,258",
-      "7Day+": "-5,745",
-      "Total": "120,652",
-      "track_id": "635j0IxKeyng3JQR2axGEJ",
-      "artist_ids": [
-        "6fsHcYaHFScpZyJ7MqFsjf",
-        "0ZRgNmKNkngvESBVUqkICS",
-        "1duTYTeIWqrESenXtZ3a82",
-        "2ciuV1nz063tai3NKwomQs"
-      ]
-    },
-    {
-      "Pos": "105",
-      "P+": "=",
-      "Artist and Title": "TOQUEL - Sandra",
-      "Days": "2331",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "15,631",
-      "Streams+": "+776",
-      "7Day": "106,997",
-      "7Day+": "+583",
-      "Total": "26,312,710",
-      "track_id": "73KYTCSbVlj5E02qWj8DPF",
-      "artist_ids": [
-        "7AWAljMatr7bxddF4kWzXG"
-      ]
-    },
-    {
-      "Pos": "106",
-      "P+": "-9",
-      "Artist and Title": "TOQUEL - MOU ZITAS (w/ FLY LO, Beyond)",
-      "Days": "667",
+      "Pos": "198",
+      "P+": "RE",
+      "Artist and Title": "LEX - Xeiroteri Genia (w/ Dof Twogee)",
+      "Days": "620",
       "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "15,584",
-      "Streams+": "-567",
-      "7Day": "107,853",
-      "7Day+": "-971",
-      "Total": "23,855,503",
-      "track_id": "3Q3e0KMeCinQONCLJyO69X",
-      "artist_ids": [
-        "7AWAljMatr7bxddF4kWzXG",
-        "1zeAbUJAbLOWeYpgRVnYmu",
-        "7KcIok6StqYSedgtjmtsqP"
-      ]
-    },
-    {
-      "Pos": "107",
-      "P+": "-1",
-      "Artist and Title": "TOQUEL - XERIA KATHARA (w/ Beyond)",
-      "Days": "99",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "15,574",
-      "Streams+": "+725",
-      "7Day": "104,262",
-      "7Day+": "+2,069",
-      "Total": "2,295,239",
-      "track_id": "1WXeoUtGzzfv22TOINnM8e",
-      "artist_ids": [
-        "7AWAljMatr7bxddF4kWzXG",
-        "7KcIok6StqYSedgtjmtsqP"
-      ]
-    },
-    {
-      "Pos": "108",
-      "P+": "-13",
-      "Artist and Title": "Donn - 3 FORES (w/ BLVD)",
-      "Days": "43",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "15,436",
-      "Streams+": "-943",
-      "7Day": "113,841",
-      "7Day+": "-2,634",
-      "Total": "1,358,605",
-      "track_id": "07BGGf3ZRVI7deiQMv3kW2",
-      "artist_ids": [
-        "5ZW3jmupWrQDBKilPyUVkv",
-        "3XVSWUdVDon1RGgHdPuqzR"
-      ]
-    },
-    {
-      "Pos": "109",
-      "P+": "+16",
-      "Artist and Title": "FLY LO - SIMECO (w/ BLVD)",
-      "Days": "147",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "15,412",
-      "Streams+": "+1,616",
-      "7Day": "91,674",
-      "7Day+": "+3,243",
-      "Total": "3,033,884",
-      "track_id": "4ngt8LbCwRCyqOmX7nKrrN",
-      "artist_ids": [
-        "1zeAbUJAbLOWeYpgRVnYmu",
-        "3XVSWUdVDon1RGgHdPuqzR"
-      ]
-    },
-    {
-      "Pos": "110",
-      "P+": "+22",
-      "Artist and Title": "Sicario - KOUKLA (w/ Beyond)",
-      "Days": "461",
-      "Pk": "1",
-      "(x?)": "(x22)",
-      "Streams": "15,397",
-      "Streams+": "+1,965",
-      "7Day": "81,476",
-      "7Day+": "+1,098",
-      "Total": "23,700,204",
-      "track_id": "2OtlJi8vzajxp51W9gYwCO",
-      "artist_ids": [
-        "6x0pz3N2n51qG75kjMR4uV",
-        "7KcIok6StqYSedgtjmtsqP"
-      ]
-    },
-    {
-      "Pos": "111",
-      "P+": "-20",
-      "Artist and Title": "DIFF - TENPACK (w/ Tr4cer)",
-      "Days": "7",
-      "Pk": "35",
-      "(x?)": "",
-      "Streams": "15,381",
-      "Streams+": "-1,135",
-      "7Day": "157,070",
-      "7Day+": "+15,381",
-      "Total": "157,070",
-      "track_id": "2PRMCcg2nJkCurOj2kHBnw",
-      "artist_ids": [
-        "4rtNK25TiSGNcibilGWcQK",
-        "1pujt2kEecz5ystwtZxJ0w"
-      ]
-    },
-    {
-      "Pos": "112",
-      "P+": "-11",
-      "Artist and Title": "Giorgos Mazonakis - Pote, Pote",
-      "Days": "26",
-      "Pk": "66",
-      "(x?)": "",
-      "Streams": "15,356",
-      "Streams+": "-199",
-      "7Day": "121,021",
-      "7Day+": "-741",
-      "Total": "471,354",
-      "track_id": "4Th553MRrooLiOrQTXOPii",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "113",
-      "P+": "+25",
-      "Artist and Title": "Giorgos Mazonakis - Ston Erota Paranois",
-      "Days": "30",
-      "Pk": "46",
-      "(x?)": "",
-      "Streams": "15,304",
-      "Streams+": "+2,137",
-      "7Day": "93,841",
-      "7Day+": "+3,279",
-      "Total": "585,868",
-      "track_id": "2nTriIzupJdEhuP2oVMKG3",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "114",
-      "P+": "+48",
-      "Artist and Title": "Anna Vissi - Lekes",
-      "Days": "232",
-      "Pk": "64",
-      "(x?)": "",
-      "Streams": "15,252",
-      "Streams+": "+3,339",
-      "7Day": "49,715",
-      "7Day+": "+4,036",
-      "Total": "3,035,300",
-      "track_id": "48tVeEffiTEE6v8sMMQjf8",
-      "artist_ids": [
-        "3qg78GGGWP04yTv0ZQMsXl"
-      ]
-    },
-    {
-      "Pos": "115",
-      "P+": "+1",
-      "Artist and Title": "Likeboss - CRETA (w/ Paris Kalpos)",
-      "Days": "23",
-      "Pk": "46",
-      "(x?)": "",
-      "Streams": "15,087",
-      "Streams+": "+833",
-      "7Day": "113,728",
-      "7Day+": "-2,576",
-      "Total": "475,998",
-      "track_id": "5nj63xdbymspnKmHC5isVZ",
-      "artist_ids": [
-        "5gw7flNXQt0oQ5taY1as73",
-        "63z0gOosInxV2a7J8UPDzM"
-      ]
-    },
-    {
-      "Pos": "116",
-      "P+": "+6",
-      "Artist and Title": "Sicario - KSEHORISTO",
-      "Days": "948",
-      "Pk": "16",
-      "(x?)": "",
-      "Streams": "14,999",
-      "Streams+": "+968",
-      "7Day": "103,347",
-      "7Day+": "-1,304",
-      "Total": "22,538,192",
-      "track_id": "1mOLBCX3IRwGNDLqYzXpM5",
-      "artist_ids": [
-        "6x0pz3N2n51qG75kjMR4uV"
-      ]
-    },
-    {
-      "Pos": "117",
-      "P+": "-6",
-      "Artist and Title": "DIFF - HENNY (w/ Strat, Sanko, Spize)",
-      "Days": "153",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "14,714",
-      "Streams+": "+263",
-      "7Day": "99,636",
-      "7Day+": "-1,307",
-      "Total": "3,533,706",
-      "track_id": "3dxdL00ifuoBZLvslo0uMV",
-      "artist_ids": [
-        "4rtNK25TiSGNcibilGWcQK",
-        "48h12D3cJbqfn1ReVL9qbw",
-        "0ijA6WxysUZ8vZQL7JkUfx",
-        "35k7GJlhaFK7qHpOJ1JWbm"
-      ]
-    },
-    {
-      "Pos": "118",
-      "P+": "-1",
-      "Artist and Title": "Giorgos Sabanis - De M' Agapouses",
-      "Days": "192",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "14,692",
-      "Streams+": "+454",
-      "7Day": "98,797",
-      "7Day+": "+1,542",
-      "Total": "3,180,475",
-      "track_id": "6bz2oDXZjkyCYki5GnIz5O",
-      "artist_ids": [
-        "6ZGwdAmu91r8mpA6SXodzd"
-      ]
-    },
-    {
-      "Pos": "119",
-      "P+": "-1",
-      "Artist and Title": "Strat - AMA SARESW (w/ Arab, BeTaf Beats)",
-      "Days": "184",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "14,672",
-      "Streams+": "+540",
-      "7Day": "98,394",
-      "7Day+": "+529",
-      "Total": "7,325,459",
-      "track_id": "27YR9PvR67oRBOquAXS87Y",
-      "artist_ids": [
-        "48h12D3cJbqfn1ReVL9qbw",
-        "3h3WR8UDyRk15U74xAXE7a",
-        "5qDpS8QhKjNRZ6aRrcpY1Z"
-      ]
-    },
-    {
-      "Pos": "120",
-      "P+": "-8",
-      "Artist and Title": "Light - Asteria (w/ Kida)",
-      "Days": "106",
-      "Pk": "12",
-      "(x?)": "",
-      "Streams": "14,447",
-      "Streams+": "+67",
-      "7Day": "101,425",
-      "7Day+": "-1,604",
-      "Total": "2,819,264",
-      "track_id": "1oYGhWA94grlWn5QQv9azt",
-      "artist_ids": [
-        "1UdbiTrv73Dp7F0s3OHmn2",
-        "0rtILhtW5MNyUqkZzKDd3J"
-      ]
-    },
-    {
-      "Pos": "121",
-      "P+": "+3",
-      "Artist and Title": "RACK - MA BELLA (w/ TOQUEL, Beyond)",
-      "Days": "848",
-      "Pk": "1",
-      "(x?)": "(x44)",
-      "Streams": "14,426",
-      "Streams+": "+586",
-      "7Day": "100,798",
-      "7Day+": "+677",
-      "Total": "37,696,534",
-      "track_id": "6D5QFkJLHYuv5f7hvslZxz",
-      "artist_ids": [
-        "6YYOTK6Qyv6PuFipPxCCoe",
-        "7AWAljMatr7bxddF4kWzXG",
-        "7KcIok6StqYSedgtjmtsqP"
-      ]
-    },
-    {
-      "Pos": "122",
-      "P+": "-15",
-      "Artist and Title": "Sicario - FWTIA (w/ Beyond)",
-      "Days": "464",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "14,375",
-      "Streams+": "-464",
-      "7Day": "105,909",
-      "7Day+": "+1,377",
-      "Total": "14,550,460",
-      "track_id": "4NJzucf3s44ZN2E7kcoE0a",
-      "artist_ids": [
-        "6x0pz3N2n51qG75kjMR4uV",
-        "7KcIok6StqYSedgtjmtsqP"
-      ]
-    },
-    {
-      "Pos": "123",
-      "P+": "+14",
-      "Artist and Title": "Strat - PHUKET (w/ Arab, BeTaf Beats)",
-      "Days": "85",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "14,316",
-      "Streams+": "+1,111",
-      "7Day": "101,260",
-      "7Day+": "-1,761",
-      "Total": "2,704,401",
-      "track_id": "2Vgi5hFpSkiB0yWHRwAWxj",
-      "artist_ids": [
-        "48h12D3cJbqfn1ReVL9qbw",
-        "3h3WR8UDyRk15U74xAXE7a",
-        "5qDpS8QhKjNRZ6aRrcpY1Z"
-      ]
-    },
-    {
-      "Pos": "124",
-      "P+": "+7",
-      "Artist and Title": "LEX - Alitiki Agapi (w/ Dof Twogee)",
-      "Days": "681",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "14,207",
-      "Streams+": "+766",
-      "7Day": "87,938",
-      "7Day+": "+1,764",
-      "Total": "24,778,256",
-      "track_id": "4cevw8iIIMDXzI0XIEnCpv",
+      "(x?)": "(x6)",
+      "Streams": "11,521",
+      "Streams+": "",
+      "7Day": "44,623",
+      "7Day+": "+11,521",
+      "Total": "22,126,936",
+      "track_id": "5RquJn4F0DjTTzroC5pQRY",
       "artist_ids": [
         "3ObDUGvTK5W2QJqBQyIkm1",
         "1OJxI4NQfY6osMvhfRMMEX"
       ]
     },
     {
-      "Pos": "125",
-      "P+": "-21",
-      "Artist and Title": "Sadam - Hallelujah (w/ Dof Twogee)",
-      "Days": "449",
-      "Pk": "1",
-      "(x?)": "(x2)",
-      "Streams": "14,193",
-      "Streams+": "-1,055",
-      "7Day": "106,022",
-      "7Day+": "-3,622",
-      "Total": "9,738,067",
-      "track_id": "6IJuO80Va9Vi7h1STTX87k",
-      "artist_ids": [
-        "5svarA8QyRUWetgH9ZouQq",
-        "1OJxI4NQfY6osMvhfRMMEX"
-      ]
-    },
-    {
-      "Pos": "126",
-      "P+": "-16",
-      "Artist and Title": "Saske - 5 AM",
-      "Days": "521",
-      "Pk": "2",
-      "(x?)": "(x2)",
-      "Streams": "14,185",
-      "Streams+": "-376",
-      "7Day": "111,894",
-      "7Day+": "-2,314",
-      "Total": "16,738,318",
-      "track_id": "1JGntUi9e8Oe2N5lBdXYGU",
-      "artist_ids": [
-        "1LxWE4LOhnqeaAx2tVUK6p"
-      ]
-    },
-    {
-      "Pos": "127",
-      "P+": "+9",
-      "Artist and Title": "SNIK - OPA (w/ Trannos)",
-      "Days": "113",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "14,046",
-      "Streams+": "+834",
-      "7Day": "91,042",
-      "7Day+": "+739",
-      "Total": "4,236,982",
-      "track_id": "5eUtUkRWRP7cSa8fZoKKU8",
-      "artist_ids": [
-        "6wN4QyhoM6fN49kEB25rnl",
-        "6WzxopGY3sy97IeNFaDELc"
-      ]
-    },
-    {
-      "Pos": "128",
-      "P+": "+32",
-      "Artist and Title": "TOQUEL - G63 (w/ Bloody Hawk)",
-      "Days": "838",
-      "Pk": "1",
-      "(x?)": "(x13)",
-      "Streams": "14,040",
-      "Streams+": "+2,088",
-      "7Day": "47,936",
-      "7Day+": "+2,984",
-      "Total": "21,099,535",
-      "track_id": "0fxSLGBSsetmHSO98Xm0Km",
-      "artist_ids": [
-        "7AWAljMatr7bxddF4kWzXG",
-        "4NKSnDH3KS823DGnHDDDsy"
-      ]
-    },
-    {
-      "Pos": "129",
-      "P+": "-9",
-      "Artist and Title": "Giorgos Mazonakis - Fevgo Gia Mena",
-      "Days": "30",
-      "Pk": "27",
-      "(x?)": "",
-      "Streams": "13,981",
-      "Streams+": "-115",
-      "7Day": "107,761",
-      "7Day+": "-1,139",
-      "Total": "771,500",
-      "track_id": "05vT4vR55Z3ToRQJf3KYCn",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "130",
-      "P+": "-17",
-      "Artist and Title": "Mad Clip - 2 Ores (w/ Strat, BeTaf Beats)",
-      "Days": "412",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "13,865",
-      "Streams+": "-508",
-      "7Day": "94,743",
-      "7Day+": "-267",
-      "Total": "5,275,626",
-      "track_id": "6tserlpy6hsTnLPImpw9Di",
-      "artist_ids": [
-        "3KcZf8BFeFBtnGyOZmUggd",
-        "48h12D3cJbqfn1ReVL9qbw",
-        "5qDpS8QhKjNRZ6aRrcpY1Z"
-      ]
-    },
-    {
-      "Pos": "131",
-      "P+": "-2",
-      "Artist and Title": "Light - Primo",
-      "Days": "1159",
-      "Pk": "3",
-      "(x?)": "(x3)",
-      "Streams": "13,790",
-      "Streams+": "+241",
-      "7Day": "100,016",
-      "7Day+": "-1,605",
-      "Total": "13,972,753",
-      "track_id": "4Sp2yyp8BbY0nIYrsbEqOz",
-      "artist_ids": [
-        "1UdbiTrv73Dp7F0s3OHmn2"
-      ]
-    },
-    {
-      "Pos": "132",
-      "P+": "+8",
-      "Artist and Title": "Saske - PADOU (w/ Beyond, Issy)",
-      "Days": "1439",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "13,679",
-      "Streams+": "+649",
-      "7Day": "94,262",
-      "7Day+": "-1,688",
-      "Total": "26,888,975",
-      "track_id": "27GSRTfL7fEnLAEr3fB5YX",
-      "artist_ids": [
-        "1LxWE4LOhnqeaAx2tVUK6p",
-        "7KcIok6StqYSedgtjmtsqP",
-        "6symUxu7p0bp1z4kkyFGk6"
-      ]
-    },
-    {
-      "Pos": "133",
-      "P+": "-7",
-      "Artist and Title": "The Neighbourhood - Sweater Weather",
-      "Days": "871",
-      "Pk": "37",
-      "(x?)": "",
-      "Streams": "13,630",
-      "Streams+": "-145",
-      "7Day": "119,433",
-      "7Day+": "-15,576",
-      "Total": "5,673,587",
-      "track_id": "2QjOHCTQ1Jl3zawyYOpxh6",
-      "artist_ids": [
-        "77SW9BnxLY8rJ0RciFqkHh"
-      ]
-    },
-    {
-      "Pos": "134",
-      "P+": "-13",
-      "Artist and Title": "Giorgos Mazonakis - San Duo Stagones Vroxis",
-      "Days": "30",
-      "Pk": "51",
-      "(x?)": "",
-      "Streams": "13,580",
-      "Streams+": "-515",
-      "7Day": "108,727",
-      "7Day+": "-1,550",
-      "Total": "633,752",
-      "track_id": "2EOKP4SK1djrtApbcXUCWb",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "135",
-      "P+": "-20",
-      "Artist and Title": "Giorgos Mazonakis - Opos Tha Fevgis",
-      "Days": "29",
-      "Pk": "77",
-      "(x?)": "",
-      "Streams": "13,525",
-      "Streams+": "-729",
-      "7Day": "105,332",
-      "7Day+": "-912",
-      "Total": "516,539",
-      "track_id": "7gWmPWBqxDqAwDP5p4eOKI",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "136",
-      "P+": "-2",
-      "Artist and Title": "Tame Impala - Loser",
-      "Days": "67",
-      "Pk": "79",
-      "(x?)": "",
-      "Streams": "13,366",
-      "Streams+": "-26",
-      "7Day": "88,911",
-      "7Day+": "+193",
-      "Total": "995,787",
-      "track_id": "7bxaFZ1O3cHkgLKMsdC3xR",
-      "artist_ids": [
-        "5INjqkS1o8h1imAzPqGZBb"
-      ]
-    },
-    {
-      "Pos": "137",
-      "P+": "+34",
-      "Artist and Title": "Ivan Greko - DYTIS",
-      "Days": "118",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "13,343",
-      "Streams+": "+1,695",
-      "7Day": "59,433",
-      "7Day+": "+2,036",
-      "Total": "3,161,945",
-      "track_id": "4q2m6RMjVxTYje601N1CZm",
-      "artist_ids": [
-        "0cy6ZMOTeautXRNJsR6PiV"
-      ]
-    },
-    {
-      "Pos": "138",
-      "P+": "+4",
-      "Artist and Title": "Nikos Oikonomopoulos - Enoho Kormi",
-      "Days": "95",
-      "Pk": "40",
-      "(x?)": "",
-      "Streams": "13,328",
-      "Streams+": "+403",
-      "7Day": "90,932",
-      "7Day+": "+335",
-      "Total": "1,596,408",
-      "track_id": "3pp70iNV0LptCA6kiaSMgd",
-      "artist_ids": [
-        "1MicVtcHS3vuNVCrd1un7s"
-      ]
-    },
-    {
-      "Pos": "139",
-      "P+": "-11",
-      "Artist and Title": "Saske - ALLAGI",
-      "Days": "64",
-      "Pk": "21",
-      "(x?)": "",
-      "Streams": "13,234",
-      "Streams+": "-393",
-      "7Day": "101,160",
-      "7Day+": "-3,243",
-      "Total": "1,331,584",
-      "track_id": "18UEog0bNaaJFdBACXaVoQ",
-      "artist_ids": [
-        "1LxWE4LOhnqeaAx2tVUK6p"
-      ]
-    },
-    {
-      "Pos": "140",
-      "P+": "-26",
-      "Artist and Title": "TOQUEL - XAPIA (w/ Beyond)",
-      "Days": "208",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "13,182",
-      "Streams+": "-1,092",
-      "7Day": "104,092",
-      "7Day+": "-2,131",
-      "Total": "5,167,064",
-      "track_id": "5jJof6Gm55PcMtSsh7Kfxz",
-      "artist_ids": [
-        "7AWAljMatr7bxddF4kWzXG",
-        "7KcIok6StqYSedgtjmtsqP"
-      ]
-    },
-    {
-      "Pos": "141",
-      "P+": "+25",
-      "Artist and Title": "Merko - SPASIBA (w/ DIFF, Sanko, Spize)",
-      "Days": "88",
-      "Pk": "23",
-      "(x?)": "",
-      "Streams": "13,173",
-      "Streams+": "+1,425",
-      "7Day": "87,581",
-      "7Day+": "+480",
-      "Total": "1,449,897",
-      "track_id": "3d6S35CsRKcNdJ4mUDVN5y",
-      "artist_ids": [
-        "3NBuryo6MsorZpU4VRpHOJ",
-        "4rtNK25TiSGNcibilGWcQK",
-        "0ijA6WxysUZ8vZQL7JkUfx",
-        "35k7GJlhaFK7qHpOJ1JWbm"
-      ]
-    },
-    {
-      "Pos": "142",
-      "P+": "+1",
-      "Artist and Title": "Light - Erotevmenos",
-      "Days": "102",
-      "Pk": "14",
-      "(x?)": "",
-      "Streams": "13,151",
-      "Streams+": "+259",
-      "7Day": "58,007",
-      "7Day+": "+2,164",
-      "Total": "2,340,157",
-      "track_id": "39p1gLfNuWEMSJTt91rO1e",
-      "artist_ids": [
-        "1UdbiTrv73Dp7F0s3OHmn2"
-      ]
-    },
-    {
-      "Pos": "143",
-      "P+": "+4",
-      "Artist and Title": "Emmanouela - San Esena (w/ Roi 6/12)",
-      "Days": "27",
-      "Pk": "50",
-      "(x?)": "",
-      "Streams": "13,147",
-      "Streams+": "+471",
-      "7Day": "37,126",
-      "7Day+": "+2,552",
-      "Total": "432,647",
-      "track_id": "2ND5ajIOU1PImVlsKtjlL7",
-      "artist_ids": [
-        "5M5XZEGQ9VyenOFcuaQwE1",
-        "1yBH6dqnD6xzSeCjXp9pKm"
-      ]
-    },
-    {
-      "Pos": "144",
-      "P+": "-9",
-      "Artist and Title": "Kidd - FUCK LOVE (w/ BLVD)",
-      "Days": "143",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "13,064",
-      "Streams+": "-298",
-      "7Day": "97,088",
-      "7Day+": "-837",
-      "Total": "3,455,602",
-      "track_id": "4ArBFP1logojblsR2c3r4d",
-      "artist_ids": [
-        "1RqOmrtivmvKrfBO81j1ou",
-        "3XVSWUdVDon1RGgHdPuqzR"
-      ]
-    },
-    {
-      "Pos": "145",
-      "P+": "-12",
-      "Artist and Title": "Merko - PRESVHS (w/ Spize)",
-      "Days": "59",
-      "Pk": "55",
-      "(x?)": "",
-      "Streams": "12,983",
-      "Streams+": "-422",
-      "7Day": "93,433",
-      "7Day+": "-1,730",
-      "Total": "925,357",
-      "track_id": "2O4AqEMqtV8I6mXzlKKFKp",
-      "artist_ids": [
-        "3NBuryo6MsorZpU4VRpHOJ",
-        "35k7GJlhaFK7qHpOJ1JWbm"
-      ]
-    },
-    {
-      "Pos": "146",
-      "P+": "-19",
-      "Artist and Title": "Kareem Kalokoh - PALI",
-      "Days": "265",
-      "Pk": "2",
-      "(x?)": "(x2)",
-      "Streams": "12,967",
-      "Streams+": "-703",
-      "7Day": "89,735",
-      "7Day+": "-698",
-      "Total": "7,674,194",
-      "track_id": "48tcwflLj2v1mDsPQnjxN7",
-      "artist_ids": [
-        "6fIBCdiEDMUziaNwDi2Awb"
-      ]
-    },
-    {
-      "Pos": "147",
-      "P+": "-39",
-      "Artist and Title": "Giorgos Mazonakis - An M' Akous",
-      "Days": "30",
-      "Pk": "40",
-      "(x?)": "",
-      "Streams": "12,871",
-      "Streams+": "-1,927",
-      "7Day": "123,780",
-      "7Day+": "-6,423",
-      "Total": "676,822",
-      "track_id": "02taeXGFYC32WRWZrbRwPX",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "148",
-      "P+": "+1",
-      "Artist and Title": "Pantelis Pantelidis - Lioma Se Gremo",
-      "Days": "243",
-      "Pk": "43",
-      "(x?)": "",
-      "Streams": "12,861",
-      "Streams+": "+380",
-      "7Day": "95,946",
-      "7Day+": "+112",
-      "Total": "3,728,008",
-      "track_id": "5AkFj1SDc22DKJoHADNsnS",
-      "artist_ids": [
-        "1TubjoUgPPYHfMoUrvJxP3"
-      ]
-    },
-    {
-      "Pos": "149",
-      "P+": "-26",
-      "Artist and Title": "GAB - PLIGES (w/ XRS)",
-      "Days": "9",
-      "Pk": "68",
-      "(x?)": "",
-      "Streams": "12,814",
-      "Streams+": "-1,145",
-      "7Day": "26,773",
-      "7Day+": "+1,219",
-      "Total": "132,375",
-      "track_id": "05ghTuQFLOvTIUdS6QyZxb",
-      "artist_ids": [
-        "0LuYYFDRJd3PNTh1k4nFRN",
-        "4VaNTItXu9y1mVG63o9lF4"
-      ]
-    },
-    {
-      "Pos": "150",
-      "P+": "-9",
-      "Artist and Title": "The Neighbourhood - Reflections",
-      "Days": "10",
-      "Pk": "45",
-      "(x?)": "",
-      "Streams": "12,759",
-      "Streams+": "-252",
-      "7Day": "110,351",
-      "7Day+": "-13,835",
-      "Total": "173,020",
-      "track_id": "2xql0pid3EUwW38AsywxhV",
-      "artist_ids": [
-        "77SW9BnxLY8rJ0RciFqkHh"
-      ]
-    },
-    {
-      "Pos": "151",
+      "Pos": "199",
       "P+": "-1",
-      "Artist and Title": "SNIK - KIPSELI (w/ Trannos)",
-      "Days": "113",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "12,700",
-      "Streams+": "+339",
-      "7Day": "96,929",
-      "7Day+": "-166",
-      "Total": "4,068,022",
-      "track_id": "1UTmz8GR18Bol9zWktQmXO",
-      "artist_ids": [
-        "6wN4QyhoM6fN49kEB25rnl",
-        "6WzxopGY3sy97IeNFaDELc"
-      ]
-    },
-    {
-      "Pos": "152",
-      "P+": "+7",
-      "Artist and Title": "Ivan Greko - EMMONI IDEA (w/ Sicario, Oge)",
-      "Days": "557",
-      "Pk": "1",
-      "(x?)": "(x40)",
-      "Streams": "12,675",
-      "Streams+": "+705",
-      "7Day": "83,736",
-      "7Day+": "+23",
-      "Total": "26,878,171",
-      "track_id": "0kcQD5QcAG7jzY1gkHbEDY",
-      "artist_ids": [
-        "0cy6ZMOTeautXRNJsR6PiV",
-        "6x0pz3N2n51qG75kjMR4uV",
-        "5NFeyNwaFGFHFycOg6zvs9"
-      ]
-    },
-    {
-      "Pos": "153",
-      "P+": "+1",
-      "Artist and Title": "Bloody Hawk - Pano (w/ TOQUEL)",
-      "Days": "854",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "12,653",
-      "Streams+": "+463",
-      "7Day": "61,311",
-      "7Day+": "+1,601",
-      "Total": "19,944,814",
-      "track_id": "6vAZ49VeVb8fQuSenKUBH2",
-      "artist_ids": [
-        "4NKSnDH3KS823DGnHDDDsy",
-        "7AWAljMatr7bxddF4kWzXG"
-      ]
-    },
-    {
-      "Pos": "154",
-      "P+": "+4",
-      "Artist and Title": "Donn - GIA OLA TA PAIDIA (w/ HermesHermes, BLVD)",
-      "Days": "43",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "12,526",
-      "Streams+": "+549",
-      "7Day": "86,258",
-      "7Day+": "-1,379",
-      "Total": "1,028,246",
-      "track_id": "5oveagTOT3Jn6IUMhCwP4m",
-      "artist_ids": [
-        "5ZW3jmupWrQDBKilPyUVkv",
-        "5PeCMyf2BO8RlAujWP0erY",
-        "3XVSWUdVDon1RGgHdPuqzR"
-      ]
-    },
-    {
-      "Pos": "155",
-      "P+": "-10",
-      "Artist and Title": "Pantelis Pantelidis - Isos Isoun Kiria",
-      "Days": "405",
-      "Pk": "1",
-      "(x?)": "(x7)",
-      "Streams": "12,516",
-      "Streams+": "-308",
-      "7Day": "88,819",
-      "7Day+": "+12,516",
-      "Total": "12,595,401",
-      "track_id": "3wXwptbzcV60VOzQz0ODG4",
-      "artist_ids": [
-        "1TubjoUgPPYHfMoUrvJxP3"
-      ]
-    },
-    {
-      "Pos": "156",
-      "P+": "+1",
-      "Artist and Title": "Kidd - Y2K (w/ Lil Koni)",
-      "Days": "124",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "12,503",
-      "Streams+": "+489",
-      "7Day": "83,600",
-      "7Day+": "+266",
-      "Total": "2,188,067",
-      "track_id": "06CNoyANKu3IGqaYNKsBOi",
-      "artist_ids": [
-        "1RqOmrtivmvKrfBO81j1ou",
-        "4md2OwykkDpAVx2keVXBBV"
-      ]
-    },
-    {
-      "Pos": "157",
-      "P+": "-4",
-      "Artist and Title": "Katerina Lioliou - Logariasmos",
-      "Days": "258",
-      "Pk": "1",
-      "(x?)": "(x6)",
-      "Streams": "12,469",
-      "Streams+": "+191",
-      "7Day": "90,996",
-      "7Day+": "-456",
-      "Total": "10,041,026",
-      "track_id": "6qShG16XTy1emd18WVPZlh",
-      "artist_ids": [
-        "6vgi3CIDWWdGEGJ6NMgQdD"
-      ]
-    },
-    {
-      "Pos": "158",
-      "P+": "+14",
-      "Artist and Title": "TOQUEL - DOLCE GABBANA (w/ FLY LO, Beyond)",
-      "Days": "660",
-      "Pk": "1",
-      "(x?)": "(x22)",
-      "Streams": "12,449",
-      "Streams+": "+874",
-      "7Day": "86,170",
-      "7Day+": "+626",
-      "Total": "25,647,568",
-      "track_id": "7r0sYhhoM4hjeuCDlbCobZ",
-      "artist_ids": [
-        "7AWAljMatr7bxddF4kWzXG",
-        "1zeAbUJAbLOWeYpgRVnYmu",
-        "7KcIok6StqYSedgtjmtsqP"
-      ]
-    },
-    {
-      "Pos": "159",
-      "P+": "-20",
-      "Artist and Title": "Light - Cc",
-      "Days": "1250",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "12,359",
-      "Streams+": "-717",
-      "7Day": "95,397",
-      "7Day+": "-2,629",
-      "Total": "18,058,074",
-      "track_id": "07qyw1D9R324YyFNZGUUdl",
-      "artist_ids": [
-        "1UdbiTrv73Dp7F0s3OHmn2"
-      ]
-    },
-    {
-      "Pos": "160",
-      "P+": "+14",
-      "Artist and Title": "HUGEL - I Adore You (w/ Topic, Arash, Daecolm)",
-      "Days": "653",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "12,277",
-      "Streams+": "+732",
-      "7Day": "56,845",
-      "7Day+": "+1,440",
-      "Total": "14,638,394",
-      "track_id": "5nPbKG04fhLkIAjcPFaZq7",
-      "artist_ids": [
-        "5PlfkPxwCpRRWQJBxCa0By",
-        "0u6GtibW46tFX7koQ6uNJZ",
-        "7hQmAXAzWI6D350VTgkKTG",
-        "1IFAU4mznUcfPVP9z2c24N"
-      ]
-    },
-    {
-      "Pos": "161",
-      "P+": "-10",
-      "Artist and Title": "Light - C’est La Vie",
-      "Days": "106",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "12,215",
-      "Streams+": "-116",
-      "7Day": "85,239",
-      "7Day+": "-1,271",
-      "Total": "2,852,040",
-      "track_id": "5EeOJPGZHFoxGqGdGWKr3H",
-      "artist_ids": [
-        "1UdbiTrv73Dp7F0s3OHmn2"
-      ]
-    },
-    {
-      "Pos": "162",
-      "P+": "-32",
-      "Artist and Title": "Giorgos Sabanis - Pros To Paron",
-      "Days": "342",
-      "Pk": "30",
-      "(x?)": "",
-      "Streams": "12,205",
-      "Streams+": "-1,272",
-      "7Day": "104,558",
-      "7Day+": "-469",
-      "Total": "5,265,354",
-      "track_id": "0Gppi7bYjmxwovvnqRKc1n",
-      "artist_ids": [
-        "6ZGwdAmu91r8mpA6SXodzd"
-      ]
-    },
-    {
-      "Pos": "163",
-      "P+": "-11",
-      "Artist and Title": "Wang - Tha Edina Ta Panta (w/ Bloody Hawk, Mateos Nps)",
-      "Days": "111",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "12,122",
-      "Streams+": "-163",
-      "7Day": "75,272",
-      "7Day+": "+1,479",
-      "Total": "2,774,111",
-      "track_id": "5tZeRqOJp0x6ffaXdodZVp",
-      "artist_ids": [
-        "3ef2an5giEP6Hc60lKEVEy",
-        "4NKSnDH3KS823DGnHDDDsy",
-        "24GETi9IpzvcwHLVIegWwV"
-      ]
-    },
-    {
-      "Pos": "164",
-      "P+": "+5",
-      "Artist and Title": "Roi 6/12 - Normal",
-      "Days": "729",
-      "Pk": "3",
-      "(x?)": "(x5)",
-      "Streams": "12,094",
-      "Streams+": "+417",
-      "7Day": "23,771",
-      "7Day+": "+12,094",
-      "Total": "22,549,138",
-      "track_id": "766qL8sOkmsPswhAiOzrRC",
-      "artist_ids": [
-        "1yBH6dqnD6xzSeCjXp9pKm"
-      ]
-    },
-    {
-      "Pos": "165",
-      "P+": "+21",
-      "Artist and Title": "FLY LO - Prezi (w/ TOQUEL, Mike G)",
-      "Days": "363",
-      "Pk": "1",
-      "(x?)": "(x23)",
-      "Streams": "12,089",
-      "Streams+": "+1,040",
-      "7Day": "82,008",
-      "7Day+": "+439",
-      "Total": "11,653,049",
-      "track_id": "7pm3I8p2MWYcjEyZKoVMcd",
-      "artist_ids": [
-        "1zeAbUJAbLOWeYpgRVnYmu",
-        "7AWAljMatr7bxddF4kWzXG",
-        "7zYmrye7LvmpMkfHWrENu9"
-      ]
-    },
-    {
-      "Pos": "166",
-      "P+": "-10",
-      "Artist and Title": "Giorgos Mazonakis - Trelos",
-      "Days": "28",
-      "Pk": "65",
-      "(x?)": "",
-      "Streams": "12,025",
-      "Streams+": "+5",
-      "7Day": "47,607",
-      "7Day+": "+1,303",
-      "Total": "480,738",
-      "track_id": "1Ao9QXmacFq2T3mUmfbmj9",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "167",
-      "P+": "-23",
-      "Artist and Title": "SNIK - KSANA (w/ Trannos, Oge)",
-      "Days": "189",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "11,972",
-      "Streams+": "-908",
-      "7Day": "97,692",
-      "7Day+": "-1,378",
-      "Total": "6,163,033",
-      "track_id": "6NmGemgtgnXl8dzdZ5irAq",
-      "artist_ids": [
-        "6wN4QyhoM6fN49kEB25rnl",
-        "6WzxopGY3sy97IeNFaDELc",
-        "5NFeyNwaFGFHFycOg6zvs9"
-      ]
-    },
-    {
-      "Pos": "168",
-      "P+": "-13",
-      "Artist and Title": "Giorgos Mazonakis - Ela Piso Sti Thesi Sou",
-      "Days": "30",
-      "Pk": "48",
-      "(x?)": "",
-      "Streams": "11,961",
-      "Streams+": "-114",
-      "7Day": "88,904",
-      "7Day+": "+166",
-      "Total": "571,182",
-      "track_id": "7wAKRaJox5WTNsAGpNGXmP",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "169",
-      "P+": "RE",
-      "Artist and Title": "FLY LO - BADMAN (w/ BLVD)",
-      "Days": "109",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "11,912",
-      "Streams+": "",
-      "7Day": "11,912",
-      "7Day+": "+11,912",
-      "Total": "2,812,737",
-      "track_id": "0B015hZa7aYSZCpPAa4iPy",
-      "artist_ids": [
-        "1zeAbUJAbLOWeYpgRVnYmu",
-        "3XVSWUdVDon1RGgHdPuqzR"
-      ]
-    },
-    {
-      "Pos": "170",
-      "P+": "-6",
-      "Artist and Title": "TOQUEL - Allou (w/ LILA, Beyond)",
-      "Days": "987",
-      "Pk": "1",
-      "(x?)": "(x33)",
-      "Streams": "11,906",
-      "Streams+": "+94",
-      "7Day": "85,250",
-      "7Day+": "-895",
-      "Total": "33,521,265",
-      "track_id": "4Fke1kIQz7pzIZYKqyzeNm",
-      "artist_ids": [
-        "7AWAljMatr7bxddF4kWzXG",
-        "69EosSfMcqIxCMw7VeVPVC",
-        "7KcIok6StqYSedgtjmtsqP"
-      ]
-    },
-    {
-      "Pos": "171",
-      "P+": "RE",
-      "Artist and Title": "Sicario - ISOS",
-      "Days": "857",
-      "Pk": "3",
-      "(x?)": "(x3)",
-      "Streams": "11,895",
-      "Streams+": "",
-      "7Day": "11,895",
-      "7Day+": "+11,895",
-      "Total": "30,701,808",
-      "track_id": "3CdFVH8SOVnvT0sJLT198p",
-      "artist_ids": [
-        "6x0pz3N2n51qG75kjMR4uV"
-      ]
-    },
-    {
-      "Pos": "172",
-      "P+": "+4",
-      "Artist and Title": "Pantelis Pantelidis - Pame Stihima Tha Xanarthis",
-      "Days": "352",
-      "Pk": "44",
-      "(x?)": "",
-      "Streams": "11,826",
-      "Streams+": "+411",
-      "7Day": "89,387",
-      "7Day+": "-2,252",
-      "Total": "4,681,851",
-      "track_id": "10e5QpjQtt9156Ie76zGg1",
-      "artist_ids": [
-        "1TubjoUgPPYHfMoUrvJxP3"
-      ]
-    },
-    {
-      "Pos": "173",
-      "P+": "+7",
-      "Artist and Title": "ADÉLA - Ain't In LA",
-      "Days": "18",
-      "Pk": "164",
-      "(x?)": "",
-      "Streams": "11,801",
-      "Streams+": "+495",
-      "7Day": "80,402",
-      "7Day+": "+346",
-      "Total": "209,353",
-      "track_id": "6U9VpmP3dEinuezxCJ2Zg9",
-      "artist_ids": [
-        "2qanRMyA5bNuTvz1dK45OP"
-      ]
-    },
-    {
-      "Pos": "174",
-      "P+": "+10",
-      "Artist and Title": "Kidd - SUPERSTAR (w/ BLVD)",
-      "Days": "187",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "11,761",
-      "Streams+": "+666",
-      "7Day": "79,958",
-      "7Day+": "+426",
-      "Total": "4,047,195",
-      "track_id": "0W3PAUx1JAwQLaSom4Q8jA",
-      "artist_ids": [
-        "1RqOmrtivmvKrfBO81j1ou",
-        "3XVSWUdVDon1RGgHdPuqzR"
-      ]
-    },
-    {
-      "Pos": "175",
-      "P+": "+12",
-      "Artist and Title": "Roi 6/12 - Vradia (w/ Evangelia)",
-      "Days": "659",
-      "Pk": "1",
-      "(x?)": "(x6)",
-      "Streams": "11,741",
-      "Streams+": "+813",
-      "7Day": "22,669",
-      "7Day+": "+11,741",
-      "Total": "20,016,455",
-      "track_id": "7m2z3y1R6K7ZXBMYeEK9zn",
-      "artist_ids": [
-        "1yBH6dqnD6xzSeCjXp9pKm",
-        "3J7SI1JrZt43ZBlH24IqCK"
-      ]
-    },
-    {
-      "Pos": "176",
-      "P+": "RE",
-      "Artist and Title": "Katerina Lioliou - Ta Filia Mou",
-      "Days": "70",
-      "Pk": "56",
-      "(x?)": "",
-      "Streams": "11,738",
-      "Streams+": "",
-      "7Day": "11,738",
-      "7Day+": "+11,738",
-      "Total": "959,710",
-      "track_id": "5UiDrTbFxLH3at0i6Scun5",
-      "artist_ids": [
-        "6vgi3CIDWWdGEGJ6NMgQdD"
-      ]
-    },
-    {
-      "Pos": "177",
-      "P+": "-4",
-      "Artist and Title": "Notis Sfakianakis - Dose Ena Telos",
-      "Days": "143",
-      "Pk": "106",
-      "(x?)": "",
-      "Streams": "11,690",
-      "Streams+": "+138",
-      "7Day": "88,555",
-      "7Day+": "-1,701",
-      "Total": "1,825,526",
-      "track_id": "6ZUKDMX0eeDlM5Hu0ELYal",
-      "artist_ids": [
-        "31ID15xoalmnSgwPhHJZrR"
-      ]
-    },
-    {
-      "Pos": "178",
-      "P+": "-11",
-      "Artist and Title": "Dave - Raindance (w/ Tems)",
-      "Days": "274",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "11,687",
-      "Streams+": "-50",
-      "7Day": "82,801",
-      "7Day+": "-53",
-      "Total": "6,289,673",
-      "track_id": "3oTuTpF1F3A7rEC6RKsMRz",
-      "artist_ids": [
-        "6Ip8FS7vWT1uKkJSweANQK",
-        "687cZJR45JO7jhk1LHIbgq"
-      ]
-    },
-    {
-      "Pos": "179",
-      "P+": "=",
-      "Artist and Title": "Ria Ellinidou - Safari",
-      "Days": "133",
-      "Pk": "1",
-      "(x?)": "(x2)",
-      "Streams": "11,681",
-      "Streams+": "+350",
-      "7Day": "86,198",
-      "7Day+": "-1,221",
-      "Total": "4,700,845",
-      "track_id": "2hab1UeHfHnmoioglCfico",
-      "artist_ids": [
-        "5xs1rri2ZKfDpkKLqreHlc"
-      ]
-    },
-    {
-      "Pos": "180",
-      "P+": "-15",
-      "Artist and Title": "Donn - MAGKAS KAI ALITIS (w/ Kidd, BLVD)",
-      "Days": "43",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "11,592",
-      "Streams+": "-206",
-      "7Day": "86,369",
-      "7Day+": "-2,508",
-      "Total": "1,017,576",
-      "track_id": "5nG3S4ZF3P26oSfKYq0erY",
-      "artist_ids": [
-        "5ZW3jmupWrQDBKilPyUVkv",
-        "1RqOmrtivmvKrfBO81j1ou",
-        "3XVSWUdVDon1RGgHdPuqzR"
-      ]
-    },
-    {
-      "Pos": "181",
-      "P+": "+1",
-      "Artist and Title": "Kidd - HAKIMI (w/ BLVD)",
-      "Days": "148",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "11,460",
-      "Streams+": "+317",
-      "7Day": "80,373",
-      "7Day+": "-49",
-      "Total": "3,789,931",
-      "track_id": "7C6mJPmWkY2FDqYh20GVMj",
-      "artist_ids": [
-        "1RqOmrtivmvKrfBO81j1ou",
-        "3XVSWUdVDon1RGgHdPuqzR"
-      ]
-    },
-    {
-      "Pos": "182",
-      "P+": "RE",
-      "Artist and Title": "Light - Mosca",
-      "Days": "1348",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "11,409",
-      "Streams+": "",
-      "7Day": "11,409",
-      "7Day+": "+11,409",
-      "Total": "12,079,335",
-      "track_id": "3rwuYQM6eEqTLWapNYAeZD",
-      "artist_ids": [
-        "1UdbiTrv73Dp7F0s3OHmn2"
-      ]
-    },
-    {
-      "Pos": "183",
-      "P+": "-22",
-      "Artist and Title": "Stavento - Anadromika (w/ Alexandra)",
-      "Days": "209",
-      "Pk": "26",
-      "(x?)": "",
-      "Streams": "11,401",
-      "Streams+": "-516",
-      "7Day": "90,351",
-      "7Day+": "-1,798",
-      "Total": "4,641,649",
-      "track_id": "4SP5sNmfpJP5oV2LrqzE6A",
-      "artist_ids": [
-        "43LNzVQi3AUDm6NGSlg4BK",
-        "5chFd3WPxdTlKsUhEPmArx"
-      ]
-    },
-    {
-      "Pos": "184",
-      "P+": "+9",
-      "Artist and Title": "Giorgos Mazonakis - Paidi Tis Nixtas (w/ APON)",
-      "Days": "176",
-      "Pk": "31",
-      "(x?)": "",
-      "Streams": "11,397",
-      "Streams+": "+669",
-      "7Day": "33,723",
-      "7Day+": "+11,397",
-      "Total": "2,715,225",
-      "track_id": "7j6ac94YXlQeZHIteZ8y18",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK",
-        "2bucjueNUx2aVTUA7zj6w7"
-      ]
-    },
-    {
-      "Pos": "185",
-      "P+": "+5",
-      "Artist and Title": "TOQUEL - PELIGROSA (w/ FLY LO, Beyond)",
-      "Days": "549",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "11,360",
-      "Streams+": "+567",
-      "7Day": "33,053",
-      "7Day+": "+11,360",
-      "Total": "17,337,222",
-      "track_id": "0ZUi3ZpCWC1DQnwW3bcFmH",
-      "artist_ids": [
-        "7AWAljMatr7bxddF4kWzXG",
-        "1zeAbUJAbLOWeYpgRVnYmu",
-        "7KcIok6StqYSedgtjmtsqP"
-      ]
-    },
-    {
-      "Pos": "186",
-      "P+": "-11",
-      "Artist and Title": "Ioulia Kallimani - Sta Kalitera Pou Elkontai - Agapate Katallilous (w/ Michael Touratzidis)",
-      "Days": "105",
-      "Pk": "29",
-      "(x?)": "",
-      "Streams": "11,311",
-      "Streams+": "-121",
-      "7Day": "86,665",
-      "7Day+": "-1,096",
-      "Total": "2,426,626",
-      "track_id": "7w3CkiZG4r01ZZgHjTPYZY",
-      "artist_ids": [
-        "6HsM9NbNIunWMEFLOk4d9p",
-        "5dwadtCk3MY582FXpBAHwz"
-      ]
-    },
-    {
-      "Pos": "187",
-      "P+": "RE",
-      "Artist and Title": "Light - GKD (w/ Arab, Onad)",
-      "Days": "89",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "11,305",
-      "Streams+": "",
-      "7Day": "11,305",
-      "7Day+": "+11,305",
-      "Total": "2,019,194",
-      "track_id": "18CrgcLdzD1I3c0Iq0bBlP",
-      "artist_ids": [
-        "1UdbiTrv73Dp7F0s3OHmn2",
-        "3h3WR8UDyRk15U74xAXE7a",
-        "4RTFt1VFxH6TYHIpVDCmpV"
-      ]
-    },
-    {
-      "Pos": "188",
-      "P+": "-7",
-      "Artist and Title": "Trouf - PARE ME STO ONEIRO (w/ Bloody Hawk)",
-      "Days": "7",
-      "Pk": "63",
-      "(x?)": "",
-      "Streams": "11,239",
-      "Streams+": "-65",
-      "7Day": "94,618",
-      "7Day+": "+11,239",
-      "Total": "94,618",
-      "track_id": "6Sk2IaIh3sgh68Pck8yeJq",
-      "artist_ids": [
-        "6tL1w9Zf5V0l3VBiYjxtZl",
-        "4NKSnDH3KS823DGnHDDDsy"
-      ]
-    },
-    {
-      "Pos": "189",
-      "P+": "+7",
-      "Artist and Title": "Giorgos Mazonakis - Mi Mou Les Na Zo Me Anamnisis",
-      "Days": "30",
-      "Pk": "49",
-      "(x?)": "",
-      "Streams": "11,198",
-      "Streams+": "+575",
-      "7Day": "86,271",
-      "7Day+": "-488",
-      "Total": "604,129",
-      "track_id": "41wXzitv9hxD3yRnTF9oRd",
-      "artist_ids": [
-        "1gyBRbQACz4JJX2HRROigK"
-      ]
-    },
-    {
-      "Pos": "190",
-      "P+": "-42",
-      "Artist and Title": "DIFF - DEN EISAI EKEI (w/ BeTaf Beats)",
-      "Days": "7",
-      "Pk": "65",
-      "(x?)": "",
-      "Streams": "11,190",
-      "Streams+": "-1,295",
-      "7Day": "106,984",
-      "7Day+": "+11,190",
-      "Total": "106,984",
-      "track_id": "057S9wPgMUoX8AAkxM2JKA",
-      "artist_ids": [
-        "4rtNK25TiSGNcibilGWcQK",
-        "5qDpS8QhKjNRZ6aRrcpY1Z"
-      ]
-    },
-    {
-      "Pos": "191",
-      "P+": "+4",
-      "Artist and Title": "Kidd - BELLA",
-      "Days": "185",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "11,092",
-      "Streams+": "+398",
-      "7Day": "66,118",
-      "7Day+": "+314",
-      "Total": "4,670,950",
-      "track_id": "0uOlfFtQMtPhXiaUraMUJA",
-      "artist_ids": [
-        "1RqOmrtivmvKrfBO81j1ou"
-      ]
-    },
-    {
-      "Pos": "192",
-      "P+": "+5",
-      "Artist and Title": "Dimitris Mitropanos - Gia Na S' Ekdikitho (w/ Lakis Papadopoulos)",
-      "Days": "222",
-      "Pk": "55",
-      "(x?)": "",
-      "Streams": "11,029",
-      "Streams+": "+432",
-      "7Day": "57,780",
-      "7Day+": "+111",
-      "Total": "2,904,897",
-      "track_id": "2kz837aCEmpdo4xVDEG2sv",
-      "artist_ids": [
-        "3xqrfI4xL7FnBawAoiOTxe",
-        "1vhL7DQsMAxapgKbSJEYJM"
-      ]
-    },
-    {
-      "Pos": "193",
-      "P+": "RE",
-      "Artist and Title": "Light - 24hrs (w/ Trannos)",
-      "Days": "1276",
-      "Pk": "1",
-      "(x?)": "(x21)",
-      "Streams": "11,007",
-      "Streams+": "",
-      "7Day": "77,420",
-      "7Day+": "-2,411",
-      "Total": "36,029,531",
-      "track_id": "2QDibAx72jveQXPBXOKjx2",
-      "artist_ids": [
-        "1UdbiTrv73Dp7F0s3OHmn2",
-        "6WzxopGY3sy97IeNFaDELc"
-      ]
-    },
-    {
-      "Pos": "194",
-      "P+": "-2",
-      "Artist and Title": "2shots - Street Code (w/ Bres)",
-      "Days": "62",
-      "Pk": "16",
-      "(x?)": "",
-      "Streams": "10,979",
-      "Streams+": "+231",
-      "7Day": "44,651",
-      "7Day+": "-449",
-      "Total": "1,053,844",
-      "track_id": "7kKKZHhsyuOla0U2iMCoJZ",
-      "artist_ids": [
-        "0ZRgNmKNkngvESBVUqkICS",
-        "3KqadO00DMt4lSqyEE5CTr"
-      ]
-    },
-    {
-      "Pos": "195",
-      "P+": "RE",
-      "Artist and Title": "Bloody Hawk - Valaoritou",
-      "Days": "797",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "10,884",
-      "Streams+": "",
-      "7Day": "21,579",
-      "7Day+": "+10,884",
-      "Total": "15,010,206",
-      "track_id": "1qnGRggChnWJ6FWM2FRL7n",
-      "artist_ids": [
-        "4NKSnDH3KS823DGnHDDDsy"
-      ]
-    },
-    {
-      "Pos": "196",
-      "P+": "NEW",
-      "Artist and Title": "Ashe - Stop The Wedding!",
-      "Days": "1",
-      "Pk": "196",
-      "(x?)": "",
-      "Streams": "10,869",
-      "Streams+": "",
-      "7Day": "10,869",
-      "7Day+": "+10,869",
-      "Total": "10,869",
-      "track_id": "3zOYmiNOuyDL0ClxJcEJ0T",
-      "artist_ids": [
-        "6P5NO5hzJbuOqSdyPB7SJM"
-      ]
-    },
-    {
-      "Pos": "197",
-      "P+": "-29",
-      "Artist and Title": "Temper City - Self Aware",
-      "Days": "112",
-      "Pk": "90",
-      "(x?)": "",
-      "Streams": "10,853",
-      "Streams+": "-867",
-      "7Day": "81,047",
-      "7Day+": "-1,319",
-      "Total": "1,459,165",
-      "track_id": "4qW3BbQAwZsrnu8a3ZRdyT",
-      "artist_ids": [
-        "5mHUmlJWkcoOk1NbjfrXWz"
-      ]
-    },
-    {
-      "Pos": "198",
-      "P+": "-35",
       "Artist and Title": "Giorgos Mazonakis - Sopa Ki Akou",
-      "Days": "28",
+      "Days": "29",
       "Pk": "69",
       "(x?)": "",
-      "Streams": "10,800",
-      "Streams+": "-1,087",
-      "7Day": "85,655",
-      "7Day+": "-738",
-      "Total": "480,849",
+      "Streams": "11,515",
+      "Streams+": "+715",
+      "7Day": "84,591",
+      "7Day+": "-1,064",
+      "Total": "492,364",
       "track_id": "5i4X9HhGjrR0QgC6shWKfn",
       "artist_ids": [
         "1gyBRbQACz4JJX2HRROigK"
       ]
     },
     {
-      "Pos": "199",
-      "P+": "RE",
-      "Artist and Title": "FLY LO - DISTIXISMENOI PLOUSIOI (w/ BLVD)",
-      "Days": "38",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "10,778",
-      "Streams+": "",
-      "7Day": "10,778",
-      "7Day+": "+10,778",
-      "Total": "1,017,466",
-      "track_id": "422UcY6YZIdPfyJXmA7n79",
-      "artist_ids": [
-        "1zeAbUJAbLOWeYpgRVnYmu",
-        "3XVSWUdVDon1RGgHdPuqzR"
-      ]
-    },
-    {
       "Pos": "200",
-      "P+": "RE",
-      "Artist and Title": "Merko - MELANI (w/ Spize, Sanko)",
-      "Days": "56",
-      "Pk": "45",
-      "(x?)": "",
-      "Streams": "10,773",
-      "Streams+": "",
-      "7Day": "10,773",
-      "7Day+": "-428",
-      "Total": "867,785",
-      "track_id": "176kRJ2oc7kVDA6IBo1xVh",
+      "P+": "-29",
+      "Artist and Title": "Sicario - ISOS",
+      "Days": "858",
+      "Pk": "3",
+      "(x?)": "(x3)",
+      "Streams": "11,441",
+      "Streams+": "-454",
+      "7Day": "23,336",
+      "7Day+": "+11,441",
+      "Total": "30,713,249",
+      "track_id": "3CdFVH8SOVnvT0sJLT198p",
       "artist_ids": [
-        "3NBuryo6MsorZpU4VRpHOJ",
-        "35k7GJlhaFK7qHpOJ1JWbm",
-        "0ijA6WxysUZ8vZQL7JkUfx"
+        "6x0pz3N2n51qG75kjMR4uV"
       ]
     }
   ]
