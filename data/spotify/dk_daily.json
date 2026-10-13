@@ -1,19 +1,19 @@
 {
   "source": "https://kworb.net/spotify/country/dk_daily.html",
-  "title": "Spotify Daily Chart - Denmark - 2026/10/10",
+  "title": "Spotify Daily Chart - Denmark - 2026/10/11",
   "chart": [
     {
       "Pos": "1",
-      "P+": "+2",
+      "P+": "=",
       "Artist and Title": "Karoline Mousing - Sygt jeg stadig savner dig",
-      "Days": "2",
+      "Days": "3",
       "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "57,085",
-      "Streams+": "-24,546",
-      "7Day": "138,716",
-      "7Day+": "+57,085",
-      "Total": "138,716",
+      "(x?)": "(x2)",
+      "Streams": "53,496",
+      "Streams+": "-3,589",
+      "7Day": "192,212",
+      "7Day+": "+53,496",
+      "Total": "192,212",
       "track_id": "3YT4FLkIGMuMzht3erEUWX",
       "artist_ids": [
         "0BqpiQJEK4jycSLmjLN6z0"
@@ -21,16 +21,16 @@
     },
     {
       "Pos": "2",
-      "P+": "+5",
+      "P+": "=",
       "Artist and Title": "Christopher - Elsker Dig Så Meget Jeg Ku' Gå I Stykker",
-      "Days": "37",
+      "Days": "38",
       "Pk": "1",
       "(x?)": "(x1)",
-      "Streams": "55,983",
-      "Streams+": "-9,224",
-      "7Day": "372,954",
-      "7Day+": "+5,024",
-      "Total": "2,391,530",
+      "Streams": "48,855",
+      "Streams+": "-7,128",
+      "7Day": "378,462",
+      "7Day+": "+5,508",
+      "Total": "2,440,385",
       "track_id": "3mpPDxIpKT484rULyXa82j",
       "artist_ids": [
         "3zDRCqOhJXJfS2YWOEwGMC"
@@ -39,66 +39,15 @@
     {
       "Pos": "3",
       "P+": "+3",
-      "Artist and Title": "Kundo - Shen Mao",
-      "Days": "65",
-      "Pk": "1",
-      "(x?)": "(x44)",
-      "Streams": "55,657",
-      "Streams+": "-10,095",
-      "7Day": "392,629",
-      "7Day+": "-6,555",
-      "Total": "5,769,451",
-      "track_id": "087oAJywUltu0v3jetQzAm",
-      "artist_ids": [
-        "2GGL93jyTZ4X7uidHSJhIr"
-      ]
-    },
-    {
-      "Pos": "4",
-      "P+": "+17",
-      "Artist and Title": "APHACA - En drøm om et menneske",
-      "Days": "520",
-      "Pk": "1",
-      "(x?)": "(x51)",
-      "Streams": "55,158",
-      "Streams+": "+11,074",
-      "7Day": "268,271",
-      "7Day+": "+15,906",
-      "Total": "32,437,812",
-      "track_id": "2WwWecb8U1bvv0LiKXQUsF",
-      "artist_ids": [
-        "5Ppbc55kNdjvxP8Tw2P8S9"
-      ]
-    },
-    {
-      "Pos": "5",
-      "P+": "+4",
-      "Artist and Title": "Gobs - Har Du Mærket Dig Selv?",
-      "Days": "9",
-      "Pk": "1",
-      "(x?)": "(x6)",
-      "Streams": "48,795",
-      "Streams+": "-14,009",
-      "7Day": "409,123",
-      "7Day+": "-4,378",
-      "Total": "555,154",
-      "track_id": "2nBgC1YA1LjpqyNkbeaXUA",
-      "artist_ids": [
-        "4ysmSq2N7badobfVT6YZ82"
-      ]
-    },
-    {
-      "Pos": "6",
-      "P+": "-5",
       "Artist and Title": "Christopher - Larger Than Life ft. Benjamin Hav (w/ Benjamin Hav)",
-      "Days": "2",
+      "Days": "3",
       "Pk": "1",
       "(x?)": "(x1)",
-      "Streams": "48,138",
-      "Streams+": "-41,720",
-      "7Day": "137,996",
-      "7Day+": "+48,138",
-      "Total": "137,996",
+      "Streams": "44,915",
+      "Streams+": "-3,223",
+      "7Day": "182,911",
+      "7Day+": "+44,915",
+      "Total": "182,911",
       "track_id": "5oz5hbrPeOH7HUPdy1YP8x",
       "artist_ids": [
         "3zDRCqOhJXJfS2YWOEwGMC",
@@ -106,34 +55,119 @@
       ]
     },
     {
-      "Pos": "7",
-      "P+": "+7",
+      "Pos": "4",
+      "P+": "-1",
+      "Artist and Title": "Kundo - Shen Mao",
+      "Days": "66",
+      "Pk": "1",
+      "(x?)": "(x44)",
+      "Streams": "43,152",
+      "Streams+": "-12,505",
+      "7Day": "384,680",
+      "7Day+": "-7,949",
+      "Total": "5,812,603",
+      "track_id": "087oAJywUltu0v3jetQzAm",
+      "artist_ids": [
+        "2GGL93jyTZ4X7uidHSJhIr"
+      ]
+    },
+    {
+      "Pos": "5",
+      "P+": "-1",
+      "Artist and Title": "APHACA - En drøm om et menneske",
+      "Days": "521",
+      "Pk": "1",
+      "(x?)": "(x51)",
+      "Streams": "39,096",
+      "Streams+": "-16,062",
+      "7Day": "275,473",
+      "7Day+": "+7,202",
+      "Total": "32,476,908",
+      "track_id": "2WwWecb8U1bvv0LiKXQUsF",
+      "artist_ids": [
+        "5Ppbc55kNdjvxP8Tw2P8S9"
+      ]
+    },
+    {
+      "Pos": "6",
+      "P+": "+1",
       "Artist and Title": "Christopher - Ringer Om Natten",
-      "Days": "135",
+      "Days": "136",
       "Pk": "1",
       "(x?)": "(x20)",
-      "Streams": "46,997",
-      "Streams+": "-5,242",
-      "7Day": "316,028",
-      "7Day+": "-3,766",
-      "Total": "9,784,389",
+      "Streams": "38,142",
+      "Streams+": "-8,855",
+      "7Day": "311,426",
+      "7Day+": "-4,602",
+      "Total": "9,822,531",
       "track_id": "3hVpBthKR5ma6GznWp5f1j",
       "artist_ids": [
         "3zDRCqOhJXJfS2YWOEwGMC"
       ]
     },
     {
+      "Pos": "7",
+      "P+": "-2",
+      "Artist and Title": "Gobs - Har Du Mærket Dig Selv?",
+      "Days": "10",
+      "Pk": "1",
+      "(x?)": "(x6)",
+      "Streams": "37,522",
+      "Streams+": "-11,273",
+      "7Day": "390,223",
+      "7Day+": "-18,900",
+      "Total": "592,676",
+      "track_id": "2nBgC1YA1LjpqyNkbeaXUA",
+      "artist_ids": [
+        "4ysmSq2N7badobfVT6YZ82"
+      ]
+    },
+    {
       "Pos": "8",
-      "P+": "+10",
+      "P+": "+7",
+      "Artist and Title": "Noah Carter - Ingen Kommentar",
+      "Days": "3",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "36,683",
+      "Streams+": "-2,444",
+      "7Day": "145,911",
+      "7Day+": "+36,683",
+      "Total": "145,911",
+      "track_id": "5iK37UFKFmMbn1DsM436To",
+      "artist_ids": [
+        "2dfY7zXIP61MKHtD175hFp"
+      ]
+    },
+    {
+      "Pos": "9",
+      "P+": "+2",
+      "Artist and Title": "Noah Carter - Push It",
+      "Days": "3",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "36,649",
+      "Streams+": "-5,269",
+      "7Day": "161,876",
+      "7Day+": "+36,649",
+      "Total": "161,876",
+      "track_id": "1EZXjJCv0agDuBhIUAL6ks",
+      "artist_ids": [
+        "2dfY7zXIP61MKHtD175hFp"
+      ]
+    },
+    {
+      "Pos": "10",
+      "P+": "-2",
       "Artist and Title": "Guldimund - Vil du noget? (w/ Saveus)",
-      "Days": "373",
+      "Days": "374",
       "Pk": "1",
       "(x?)": "(x48)",
-      "Streams": "44,435",
-      "Streams+": "-4,055",
-      "7Day": "282,127",
-      "7Day+": "+1,469",
-      "Total": "21,340,588",
+      "Streams": "35,343",
+      "Streams+": "-9,092",
+      "7Day": "280,665",
+      "7Day+": "-1,462",
+      "Total": "21,375,931",
       "track_id": "4BDFCtjvCP99vx5bhvsFH4",
       "artist_ids": [
         "5269oiQ5yjMDcgXoJr6zkw",
@@ -141,137 +175,17 @@
       ]
     },
     {
-      "Pos": "9",
-      "P+": "+7",
-      "Artist and Title": "Lamin - Hold Mit Tempo",
-      "Days": "114",
-      "Pk": "1",
-      "(x?)": "(x28)",
-      "Streams": "42,887",
-      "Streams+": "-6,717",
-      "7Day": "287,018",
-      "7Day+": "+1,191",
-      "Total": "8,573,735",
-      "track_id": "1AiduuJNTQikQ4edzuTcUM",
-      "artist_ids": [
-        "4ZwOlDVAGXQo66ykbLQ8dP"
-      ]
-    },
-    {
-      "Pos": "10",
-      "P+": "+23",
-      "Artist and Title": "APHACA - Flue i et spind",
-      "Days": "226",
-      "Pk": "1",
-      "(x?)": "(x20)",
-      "Streams": "41,950",
-      "Streams+": "+8,060",
-      "7Day": "202,577",
-      "7Day+": "+14,146",
-      "Total": "10,871,666",
-      "track_id": "1pN93ulisXKKrrlgi17IxN",
-      "artist_ids": [
-        "5Ppbc55kNdjvxP8Tw2P8S9"
-      ]
-    },
-    {
       "Pos": "11",
-      "P+": "-9",
-      "Artist and Title": "Noah Carter - Push It",
-      "Days": "2",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "41,918",
-      "Streams+": "-41,391",
-      "7Day": "125,227",
-      "7Day+": "+41,918",
-      "Total": "125,227",
-      "track_id": "1EZXjJCv0agDuBhIUAL6ks",
-      "artist_ids": [
-        "2dfY7zXIP61MKHtD175hFp"
-      ]
-    },
-    {
-      "Pos": "12",
       "P+": "+5",
-      "Artist and Title": "Gilli - Falder Fra Månen (w/ D1MA)",
-      "Days": "23",
-      "Pk": "1",
-      "(x?)": "(x2)",
-      "Streams": "40,743",
-      "Streams+": "-7,906",
-      "7Day": "323,063",
-      "7Day+": "-6,166",
-      "Total": "1,375,177",
-      "track_id": "19JSG4O2wKnhBXCkfg0ZIH",
-      "artist_ids": [
-        "2KbikmQKGiUPR2ARs1h0sq",
-        "5RaTuqY7SJHvh6MNzMagut"
-      ]
-    },
-    {
-      "Pos": "13",
-      "P+": "+34",
-      "Artist and Title": "APHACA - Smelter Under Månen",
-      "Days": "781",
-      "Pk": "2",
-      "(x?)": "(x9)",
-      "Streams": "40,133",
-      "Streams+": "+10,534",
-      "7Day": "170,185",
-      "7Day+": "+20,731",
-      "Total": "33,312,632",
-      "track_id": "0nVUuzrVZc5t9S48ifesg6",
-      "artist_ids": [
-        "5Ppbc55kNdjvxP8Tw2P8S9"
-      ]
-    },
-    {
-      "Pos": "14",
-      "P+": "+5",
-      "Artist and Title": "Annika - Desperado",
-      "Days": "107",
-      "Pk": "1",
-      "(x?)": "(x20)",
-      "Streams": "39,874",
-      "Streams+": "-7,240",
-      "7Day": "271,146",
-      "7Day+": "-3,666",
-      "Total": "7,507,762",
-      "track_id": "1ZsuzTGF2ZNlfndPmwOgUD",
-      "artist_ids": [
-        "1GKN1Js8fa19K23eIhOMhg"
-      ]
-    },
-    {
-      "Pos": "15",
-      "P+": "-10",
-      "Artist and Title": "Noah Carter - Ingen Kommentar",
-      "Days": "2",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "39,127",
-      "Streams+": "-30,974",
-      "7Day": "109,228",
-      "7Day+": "+39,127",
-      "Total": "109,228",
-      "track_id": "5iK37UFKFmMbn1DsM436To",
-      "artist_ids": [
-        "2dfY7zXIP61MKHtD175hFp"
-      ]
-    },
-    {
-      "Pos": "16",
-      "P+": "-12",
       "Artist and Title": "Noah Carter - Ude Fra Indre (w/ Freyy)",
-      "Days": "2",
+      "Days": "3",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "38,297",
-      "Streams+": "-35,750",
-      "7Day": "112,344",
-      "7Day+": "+38,297",
-      "Total": "112,344",
+      "Streams": "32,883",
+      "Streams+": "-5,414",
+      "7Day": "145,227",
+      "7Day+": "+32,883",
+      "Total": "145,227",
       "track_id": "680scZlQIxfYaYbL7thyQY",
       "artist_ids": [
         "2dfY7zXIP61MKHtD175hFp",
@@ -279,17 +193,103 @@
       ]
     },
     {
+      "Pos": "12",
+      "P+": "-3",
+      "Artist and Title": "Lamin - Hold Mit Tempo",
+      "Days": "115",
+      "Pk": "1",
+      "(x?)": "(x28)",
+      "Streams": "31,733",
+      "Streams+": "-11,154",
+      "7Day": "281,722",
+      "7Day+": "-5,296",
+      "Total": "8,605,468",
+      "track_id": "1AiduuJNTQikQ4edzuTcUM",
+      "artist_ids": [
+        "4ZwOlDVAGXQo66ykbLQ8dP"
+      ]
+    },
+    {
+      "Pos": "13",
+      "P+": "+1",
+      "Artist and Title": "Annika - Desperado",
+      "Days": "108",
+      "Pk": "1",
+      "(x?)": "(x20)",
+      "Streams": "30,464",
+      "Streams+": "-9,410",
+      "7Day": "267,146",
+      "7Day+": "-4,000",
+      "Total": "7,538,226",
+      "track_id": "1ZsuzTGF2ZNlfndPmwOgUD",
+      "artist_ids": [
+        "1GKN1Js8fa19K23eIhOMhg"
+      ]
+    },
+    {
+      "Pos": "14",
+      "P+": "+4",
+      "Artist and Title": "SIENNA SPIRO - Great Expectation",
+      "Days": "99",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "29,877",
+      "Streams+": "-4,957",
+      "7Day": "253,986",
+      "7Day+": "-3,963",
+      "Total": "3,327,869",
+      "track_id": "7ujApz6iFP3PmKIDGcaGbe",
+      "artist_ids": [
+        "02gSuSAWEdWa5UOvqzjX6v"
+      ]
+    },
+    {
+      "Pos": "15",
+      "P+": "+6",
+      "Artist and Title": "Noah Carter - Brune Øjne",
+      "Days": "3",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "29,288",
+      "Streams+": "-2,780",
+      "7Day": "126,433",
+      "7Day+": "+29,288",
+      "Total": "126,433",
+      "track_id": "5dKRU44j9KSXl7rO4wercK",
+      "artist_ids": [
+        "2dfY7zXIP61MKHtD175hFp"
+      ]
+    },
+    {
+      "Pos": "16",
+      "P+": "-4",
+      "Artist and Title": "Gilli - Falder Fra Månen (w/ D1MA)",
+      "Days": "24",
+      "Pk": "1",
+      "(x?)": "(x2)",
+      "Streams": "28,943",
+      "Streams+": "-11,800",
+      "7Day": "312,194",
+      "7Day+": "-10,869",
+      "Total": "1,404,120",
+      "track_id": "19JSG4O2wKnhBXCkfg0ZIH",
+      "artist_ids": [
+        "2KbikmQKGiUPR2ARs1h0sq",
+        "5RaTuqY7SJHvh6MNzMagut"
+      ]
+    },
+    {
       "Pos": "17",
-      "P+": "+8",
+      "P+": "=",
       "Artist and Title": "Christopher - Ham Med Guitaren",
-      "Days": "212",
+      "Days": "213",
       "Pk": "2",
       "(x?)": "(x13)",
-      "Streams": "35,508",
-      "Streams+": "-3,797",
-      "7Day": "233,523",
-      "7Day+": "-1,100",
-      "Total": "12,007,278",
+      "Streams": "28,667",
+      "Streams+": "-6,841",
+      "7Day": "232,133",
+      "7Day+": "-1,390",
+      "Total": "12,035,945",
       "track_id": "5cKNn5VQXGSxwZ68yzeVQi",
       "artist_ids": [
         "3zDRCqOhJXJfS2YWOEwGMC"
@@ -297,171 +297,67 @@
     },
     {
       "Pos": "18",
-      "P+": "+6",
-      "Artist and Title": "SIENNA SPIRO - Great Expectation",
-      "Days": "98",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "34,834",
-      "Streams+": "-6,841",
-      "7Day": "257,949",
-      "7Day+": "-2,296",
-      "Total": "3,297,992",
-      "track_id": "7ujApz6iFP3PmKIDGcaGbe",
+      "P+": "-8",
+      "Artist and Title": "APHACA - Flue i et spind",
+      "Days": "227",
+      "Pk": "1",
+      "(x?)": "(x20)",
+      "Streams": "28,594",
+      "Streams+": "-13,356",
+      "7Day": "208,168",
+      "7Day+": "+5,591",
+      "Total": "10,900,260",
+      "track_id": "1pN93ulisXKKrrlgi17IxN",
       "artist_ids": [
-        "02gSuSAWEdWa5UOvqzjX6v"
+        "5Ppbc55kNdjvxP8Tw2P8S9"
       ]
     },
     {
       "Pos": "19",
-      "P+": "+8",
-      "Artist and Title": "Annika - Livsforladt",
-      "Days": "205",
-      "Pk": "1",
-      "(x?)": "(x22)",
-      "Streams": "32,735",
-      "Streams+": "-4,910",
-      "7Day": "211,040",
-      "7Day+": "+1,015",
-      "Total": "12,058,425",
-      "track_id": "2aUYoSnTwdmAbeDEIyuGKo",
+      "P+": "-6",
+      "Artist and Title": "APHACA - Smelter Under Månen",
+      "Days": "782",
+      "Pk": "2",
+      "(x?)": "(x9)",
+      "Streams": "26,692",
+      "Streams+": "-13,441",
+      "7Day": "180,006",
+      "7Day+": "+9,821",
+      "Total": "33,339,324",
+      "track_id": "0nVUuzrVZc5t9S48ifesg6",
       "artist_ids": [
-        "1GKN1Js8fa19K23eIhOMhg"
+        "5Ppbc55kNdjvxP8Tw2P8S9"
       ]
     },
     {
       "Pos": "20",
-      "P+": "+9",
-      "Artist and Title": "The Minds Of 99 - 9mm",
-      "Days": "44",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "32,190",
-      "Streams+": "-4,363",
-      "7Day": "213,113",
-      "7Day+": "-849",
-      "Total": "1,910,909",
-      "track_id": "1MGrdDiI0RUOwTp9AZh1tJ",
-      "artist_ids": [
-        "6GTwMrB4u3hwcUyc9sU1UL"
-      ]
-    },
-    {
-      "Pos": "21",
-      "P+": "-13",
-      "Artist and Title": "Noah Carter - Brune Øjne",
-      "Days": "2",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "32,068",
-      "Streams+": "-33,009",
-      "7Day": "97,145",
-      "7Day+": "+32,068",
-      "Total": "97,145",
-      "track_id": "5dKRU44j9KSXl7rO4wercK",
-      "artist_ids": [
-        "2dfY7zXIP61MKHtD175hFp"
-      ]
-    },
-    {
-      "Pos": "22",
-      "P+": "+9",
-      "Artist and Title": "KESI - Drukner (w/ Annika)",
-      "Days": "156",
-      "Pk": "1",
-      "(x?)": "(x23)",
-      "Streams": "30,717",
-      "Streams+": "-5,310",
-      "7Day": "207,852",
-      "7Day+": "-1,517",
-      "Total": "11,903,213",
-      "track_id": "6smQDSmvTjn5wCtTmL8tSt",
-      "artist_ids": [
-        "2d7AMvzFwh5wUTuqQl3BAE",
-        "1GKN1Js8fa19K23eIhOMhg"
-      ]
-    },
-    {
-      "Pos": "23",
-      "P+": "-13",
+      "P+": "+3",
       "Artist and Title": "Noah Carter - Blod",
-      "Days": "2",
+      "Days": "3",
       "Pk": "10",
       "(x?)": "",
-      "Streams": "30,431",
-      "Streams+": "-25,169",
-      "7Day": "86,031",
-      "7Day+": "+30,431",
-      "Total": "86,031",
+      "Streams": "26,590",
+      "Streams+": "-3,841",
+      "7Day": "112,621",
+      "7Day+": "+26,590",
+      "Total": "112,621",
       "track_id": "75pme3Ywol4lQNgV1h4kLZ",
       "artist_ids": [
         "2dfY7zXIP61MKHtD175hFp"
       ]
     },
     {
-      "Pos": "24",
-      "P+": "-13",
-      "Artist and Title": "Noah Carter - Peberkorn (w/ MAS)",
-      "Days": "2",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "29,662",
-      "Streams+": "-25,880",
-      "7Day": "85,204",
-      "7Day+": "+29,662",
-      "Total": "85,204",
-      "track_id": "5UDQp7qtq1MwLzcGidVm0N",
-      "artist_ids": [
-        "2dfY7zXIP61MKHtD175hFp",
-        "3Tg0bQKDqc4ONwmKywDq72"
-      ]
-    },
-    {
-      "Pos": "25",
-      "P+": "-12",
-      "Artist and Title": "Noah Carter - Byen Lidt",
-      "Days": "2",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "29,534",
-      "Streams+": "-24,102",
-      "7Day": "83,170",
-      "7Day+": "+29,534",
-      "Total": "83,170",
-      "track_id": "6jfQGAr8HVMjoT232tkwMI",
-      "artist_ids": [
-        "2dfY7zXIP61MKHtD175hFp"
-      ]
-    },
-    {
-      "Pos": "26",
-      "P+": "+10",
-      "Artist and Title": "The Minds Of 99 - Dét Der Udenfor",
-      "Days": "205",
-      "Pk": "2",
-      "(x?)": "(x2)",
-      "Streams": "29,076",
-      "Streams+": "-4,035",
-      "7Day": "187,335",
-      "7Day+": "+979",
-      "Total": "7,219,941",
-      "track_id": "1o0UmpUR0GcQLZ8LFY40b8",
-      "artist_ids": [
-        "6GTwMrB4u3hwcUyc9sU1UL"
-      ]
-    },
-    {
-      "Pos": "27",
-      "P+": "-15",
+      "Pos": "21",
+      "P+": "+6",
       "Artist and Title": "Noah Carter - Culture Box (w/ Hans Philip)",
-      "Days": "2",
+      "Days": "3",
       "Pk": "12",
       "(x?)": "",
-      "Streams": "29,065",
-      "Streams+": "-24,778",
-      "7Day": "82,908",
-      "7Day+": "+29,065",
-      "Total": "82,908",
+      "Streams": "25,596",
+      "Streams+": "-3,469",
+      "7Day": "108,504",
+      "7Day+": "+25,596",
+      "Total": "108,504",
       "track_id": "2Ho9KN8b1Y7olpRSFYOF4L",
       "artist_ids": [
         "2dfY7zXIP61MKHtD175hFp",
@@ -469,35 +365,155 @@
       ]
     },
     {
-      "Pos": "28",
-      "P+": "+2",
-      "Artist and Title": "Gilli - Ik Giv Slip (w/ Mille)",
-      "Days": "23",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "28,455",
-      "Streams+": "-7,576",
-      "7Day": "232,343",
-      "7Day+": "-6,770",
-      "Total": "1,032,780",
-      "track_id": "2iknADh87vHUnBMMlJfzLM",
+      "Pos": "22",
+      "P+": "-3",
+      "Artist and Title": "Annika - Livsforladt",
+      "Days": "206",
+      "Pk": "1",
+      "(x?)": "(x22)",
+      "Streams": "25,432",
+      "Streams+": "-7,303",
+      "7Day": "210,906",
+      "7Day+": "-134",
+      "Total": "12,083,857",
+      "track_id": "2aUYoSnTwdmAbeDEIyuGKo",
       "artist_ids": [
-        "2KbikmQKGiUPR2ARs1h0sq",
-        "1WLr84Nec3Bb8xuxgQZGb9"
+        "1GKN1Js8fa19K23eIhOMhg"
+      ]
+    },
+    {
+      "Pos": "23",
+      "P+": "-3",
+      "Artist and Title": "The Minds Of 99 - 9mm",
+      "Days": "45",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "24,827",
+      "Streams+": "-7,363",
+      "7Day": "210,893",
+      "7Day+": "-2,220",
+      "Total": "1,935,736",
+      "track_id": "1MGrdDiI0RUOwTp9AZh1tJ",
+      "artist_ids": [
+        "6GTwMrB4u3hwcUyc9sU1UL"
+      ]
+    },
+    {
+      "Pos": "24",
+      "P+": "+7",
+      "Artist and Title": "Noah Carter - Vis Dit Hjerte",
+      "Days": "3",
+      "Pk": "15",
+      "(x?)": "",
+      "Streams": "24,663",
+      "Streams+": "-3,473",
+      "7Day": "104,276",
+      "7Day+": "+24,663",
+      "Total": "104,276",
+      "track_id": "5ZBMJCWOf1zulDDVdhFymO",
+      "artist_ids": [
+        "2dfY7zXIP61MKHtD175hFp"
+      ]
+    },
+    {
+      "Pos": "25",
+      "P+": "-1",
+      "Artist and Title": "Noah Carter - Peberkorn (w/ MAS)",
+      "Days": "3",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "24,326",
+      "Streams+": "-5,336",
+      "7Day": "109,530",
+      "7Day+": "+24,326",
+      "Total": "109,530",
+      "track_id": "5UDQp7qtq1MwLzcGidVm0N",
+      "artist_ids": [
+        "2dfY7zXIP61MKHtD175hFp",
+        "3Tg0bQKDqc4ONwmKywDq72"
+      ]
+    },
+    {
+      "Pos": "26",
+      "P+": "-4",
+      "Artist and Title": "KESI - Drukner (w/ Annika)",
+      "Days": "157",
+      "Pk": "1",
+      "(x?)": "(x23)",
+      "Streams": "24,181",
+      "Streams+": "-6,536",
+      "7Day": "206,104",
+      "7Day+": "-1,748",
+      "Total": "11,927,394",
+      "track_id": "6smQDSmvTjn5wCtTmL8tSt",
+      "artist_ids": [
+        "2d7AMvzFwh5wUTuqQl3BAE",
+        "1GKN1Js8fa19K23eIhOMhg"
+      ]
+    },
+    {
+      "Pos": "27",
+      "P+": "-2",
+      "Artist and Title": "Noah Carter - Byen Lidt",
+      "Days": "3",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "24,080",
+      "Streams+": "-5,454",
+      "7Day": "107,250",
+      "7Day+": "+24,080",
+      "Total": "107,250",
+      "track_id": "6jfQGAr8HVMjoT232tkwMI",
+      "artist_ids": [
+        "2dfY7zXIP61MKHtD175hFp"
+      ]
+    },
+    {
+      "Pos": "28",
+      "P+": "-2",
+      "Artist and Title": "The Minds Of 99 - Dét Der Udenfor",
+      "Days": "206",
+      "Pk": "2",
+      "(x?)": "(x2)",
+      "Streams": "23,656",
+      "Streams+": "-5,420",
+      "7Day": "187,814",
+      "7Day+": "+479",
+      "Total": "7,243,597",
+      "track_id": "1o0UmpUR0GcQLZ8LFY40b8",
+      "artist_ids": [
+        "6GTwMrB4u3hwcUyc9sU1UL"
       ]
     },
     {
       "Pos": "29",
-      "P+": "+12",
+      "P+": "+10",
+      "Artist and Title": "Kind mod Kind - Danser Med Minder",
+      "Days": "74",
+      "Pk": "19",
+      "(x?)": "",
+      "Streams": "23,417",
+      "Streams+": "-1,971",
+      "7Day": "167,310",
+      "7Day+": "+4,709",
+      "Total": "1,702,018",
+      "track_id": "1ZOOtzolAVDQlzUf7thUZf",
+      "artist_ids": [
+        "0cc3y7owJCbx8MuYJZI6As"
+      ]
+    },
+    {
+      "Pos": "30",
+      "P+": "-1",
       "Artist and Title": "Omar - Hele Vejen (w/ Mumle)",
-      "Days": "610",
+      "Days": "611",
       "Pk": "1",
       "(x?)": "(x37)",
-      "Streams": "28,331",
-      "Streams+": "-2,368",
-      "7Day": "187,610",
-      "7Day+": "-3,938",
-      "Total": "29,904,840",
+      "Streams": "23,171",
+      "Streams+": "-5,160",
+      "7Day": "185,327",
+      "7Day+": "-2,283",
+      "Total": "29,928,011",
       "track_id": "2p4cYfKQbg8xHXNG4eQaGo",
       "artist_ids": [
         "1GLzVjVa7bLnAcD1At98j3",
@@ -505,51 +521,69 @@
       ]
     },
     {
-      "Pos": "30",
-      "P+": "+49",
-      "Artist and Title": "APHACA - Et sted hvor vi de første",
-      "Days": "587",
-      "Pk": "2",
-      "(x?)": "(x10)",
-      "Streams": "28,300",
-      "Streams+": "+10,197",
-      "7Day": "107,124",
-      "7Day+": "+16,276",
-      "Total": "20,621,993",
-      "track_id": "0Y7lLJhJEb2B9EMOiOc94Z",
-      "artist_ids": [
-        "5Ppbc55kNdjvxP8Tw2P8S9"
-      ]
-    },
-    {
       "Pos": "31",
-      "P+": "-16",
-      "Artist and Title": "Noah Carter - Vis Dit Hjerte",
-      "Days": "2",
-      "Pk": "15",
-      "(x?)": "",
-      "Streams": "28,136",
-      "Streams+": "-23,341",
-      "7Day": "79,613",
-      "7Day+": "+28,136",
-      "Total": "79,613",
-      "track_id": "5ZBMJCWOf1zulDDVdhFymO",
+      "P+": "-3",
+      "Artist and Title": "Gilli - Ik Giv Slip (w/ Mille)",
+      "Days": "24",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "22,036",
+      "Streams+": "-6,419",
+      "7Day": "224,556",
+      "7Day+": "-7,787",
+      "Total": "1,054,816",
+      "track_id": "2iknADh87vHUnBMMlJfzLM",
       "artist_ids": [
-        "2dfY7zXIP61MKHtD175hFp"
+        "2KbikmQKGiUPR2ARs1h0sq",
+        "1WLr84Nec3Bb8xuxgQZGb9"
       ]
     },
     {
       "Pos": "32",
-      "P+": "+2",
+      "P+": "+1",
+      "Artist and Title": "Olivia Dean - Man I Need",
+      "Days": "423",
+      "Pk": "1",
+      "(x?)": "(x7)",
+      "Streams": "21,660",
+      "Streams+": "-5,974",
+      "7Day": "178,815",
+      "7Day+": "-774",
+      "Total": "18,781,526",
+      "track_id": "1qbmS6ep2hbBRaEZFpn7BX",
+      "artist_ids": [
+        "00x1fYSGhdqScXBRpSj3DW"
+      ]
+    },
+    {
+      "Pos": "33",
+      "P+": "+5",
+      "Artist and Title": "Katinka - Kogeplade",
+      "Days": "452",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "21,509",
+      "Streams+": "-4,330",
+      "7Day": "153,204",
+      "7Day+": "+4,449",
+      "Total": "12,592,242",
+      "track_id": "3CSmqvgWBYmGUnGqLeXYLC",
+      "artist_ids": [
+        "05tsGKo76eTXi0yrK4e4rZ"
+      ]
+    },
+    {
+      "Pos": "34",
+      "P+": "-2",
       "Artist and Title": "Rune Rask - En Som Dig (w/ Hampenberg, Blæst, ADAAM, Back To Back)",
-      "Days": "93",
+      "Days": "94",
       "Pk": "14",
       "(x?)": "",
-      "Streams": "28,009",
-      "Streams+": "-5,658",
-      "7Day": "185,819",
-      "7Day+": "-439",
-      "Total": "2,815,859",
+      "Streams": "21,134",
+      "Streams+": "-6,875",
+      "7Day": "184,497",
+      "7Day+": "-1,322",
+      "Total": "2,836,993",
       "track_id": "2zRpuPGERrbAfRXqjCAKix",
       "artist_ids": [
         "3zuy1LOMq0y8aHZn4Ogax0",
@@ -560,52 +594,17 @@
       ]
     },
     {
-      "Pos": "33",
-      "P+": "+11",
-      "Artist and Title": "Olivia Dean - Man I Need",
-      "Days": "422",
-      "Pk": "1",
-      "(x?)": "(x7)",
-      "Streams": "27,634",
-      "Streams+": "-2,555",
-      "7Day": "179,589",
-      "7Day+": "+438",
-      "Total": "18,759,866",
-      "track_id": "1qbmS6ep2hbBRaEZFpn7BX",
-      "artist_ids": [
-        "00x1fYSGhdqScXBRpSj3DW"
-      ]
-    },
-    {
-      "Pos": "34",
-      "P+": "-2",
-      "Artist and Title": "Gilli - Herinde (w/ Hans Philip)",
-      "Days": "23",
-      "Pk": "1",
-      "(x?)": "(x5)",
-      "Streams": "27,513",
-      "Streams+": "-7,757",
-      "7Day": "229,213",
-      "7Day+": "-12,524",
-      "Total": "1,267,998",
-      "track_id": "1HKeYplMmWJwrRYyX0bImw",
-      "artist_ids": [
-        "2KbikmQKGiUPR2ARs1h0sq",
-        "6idjJt47PjFydVRrAlNw4C"
-      ]
-    },
-    {
       "Pos": "35",
-      "P+": "+16",
+      "P+": "=",
       "Artist and Title": "Shakira - Dai Dai (w/ Burna Boy)",
-      "Days": "123",
+      "Days": "124",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "26,895",
-      "Streams+": "-991",
-      "7Day": "174,857",
-      "7Day+": "-4,160",
-      "Total": "4,572,032",
+      "Streams": "20,660",
+      "Streams+": "-6,235",
+      "7Day": "169,797",
+      "7Day+": "-5,060",
+      "Total": "4,592,692",
       "track_id": "0kosUz0jePvjiz4ctmR6wL",
       "artist_ids": [
         "0EmeFodog0BfCgMzAIvKQp",
@@ -614,16 +613,102 @@
     },
     {
       "Pos": "36",
+      "P+": "+6",
+      "Artist and Title": "Noah Carter - Peak",
+      "Days": "3",
+      "Pk": "20",
+      "(x?)": "",
+      "Streams": "20,593",
+      "Streams+": "-4,270",
+      "7Day": "90,679",
+      "7Day+": "+20,593",
+      "Total": "90,679",
+      "track_id": "5se2Y774jv4KDDwqj5WP7n",
+      "artist_ids": [
+        "2dfY7zXIP61MKHtD175hFp"
+      ]
+    },
+    {
+      "Pos": "37",
       "P+": "+4",
+      "Artist and Title": "ADÉLA - Nicole Kidman",
+      "Days": "28",
+      "Pk": "25",
+      "(x?)": "",
+      "Streams": "20,207",
+      "Streams+": "-4,680",
+      "7Day": "154,489",
+      "7Day+": "+6,807",
+      "Total": "455,341",
+      "track_id": "70cHKK8bHAfJrOGVnfRG9J",
+      "artist_ids": [
+        "2qanRMyA5bNuTvz1dK45OP"
+      ]
+    },
+    {
+      "Pos": "38",
+      "P+": "+7",
+      "Artist and Title": "Noah Carter - Behov",
+      "Days": "3",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "19,544",
+      "Streams+": "-4,247",
+      "7Day": "86,490",
+      "7Day+": "+19,544",
+      "Total": "86,490",
+      "track_id": "7x6gqACeRCNmk5SDV7kMBa",
+      "artist_ids": [
+        "2dfY7zXIP61MKHtD175hFp"
+      ]
+    },
+    {
+      "Pos": "39",
+      "P+": "-5",
+      "Artist and Title": "Gilli - Herinde (w/ Hans Philip)",
+      "Days": "24",
+      "Pk": "1",
+      "(x?)": "(x5)",
+      "Streams": "19,397",
+      "Streams+": "-8,116",
+      "7Day": "218,317",
+      "7Day+": "-10,896",
+      "Total": "1,287,395",
+      "track_id": "1HKeYplMmWJwrRYyX0bImw",
+      "artist_ids": [
+        "2KbikmQKGiUPR2ARs1h0sq",
+        "6idjJt47PjFydVRrAlNw4C"
+      ]
+    },
+    {
+      "Pos": "40",
+      "P+": "+4",
+      "Artist and Title": "Taylor Swift - Patient Zero",
+      "Days": "17",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "19,371",
+      "Streams+": "-5,401",
+      "7Day": "192,427",
+      "7Day+": "-9,330",
+      "Total": "602,778",
+      "track_id": "11hcBLPtbMp4aQI6zGQLub",
+      "artist_ids": [
+        "06HL4z0CvFAxyc27GXpf02"
+      ]
+    },
+    {
+      "Pos": "41",
+      "P+": "-5",
       "Artist and Title": "D1MA - PPC (w/ Gilli)",
-      "Days": "73",
+      "Days": "74",
       "Pk": "1",
       "(x?)": "(x2)",
-      "Streams": "26,661",
-      "Streams+": "-4,291",
-      "7Day": "202,493",
-      "7Day+": "-5,856",
-      "Total": "2,857,368",
+      "Streams": "18,869",
+      "Streams+": "-7,792",
+      "7Day": "195,080",
+      "7Day+": "-7,413",
+      "Total": "2,876,237",
       "track_id": "7M9Fk9ftwb9VxiImk28LBL",
       "artist_ids": [
         "5RaTuqY7SJHvh6MNzMagut",
@@ -631,170 +716,34 @@
       ]
     },
     {
-      "Pos": "37",
-      "P+": "+51",
-      "Artist and Title": "APHACA - Vi pumper hjertet op",
-      "Days": "378",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "26,404",
-      "Streams+": "+9,729",
-      "7Day": "106,998",
-      "7Day+": "+13,569",
-      "Total": "8,217,383",
-      "track_id": "62ZQfNv9W5HlIOYEjsrc33",
-      "artist_ids": [
-        "5Ppbc55kNdjvxP8Tw2P8S9"
-      ]
-    },
-    {
-      "Pos": "38",
-      "P+": "+11",
-      "Artist and Title": "Katinka - Kogeplade",
-      "Days": "451",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "25,839",
-      "Streams+": "-2,441",
-      "7Day": "148,755",
-      "7Day+": "+5,568",
-      "Total": "12,570,733",
-      "track_id": "3CSmqvgWBYmGUnGqLeXYLC",
-      "artist_ids": [
-        "05tsGKo76eTXi0yrK4e4rZ"
-      ]
-    },
-    {
-      "Pos": "39",
-      "P+": "+6",
-      "Artist and Title": "Kind mod Kind - Danser Med Minder",
-      "Days": "73",
-      "Pk": "19",
-      "(x?)": "",
-      "Streams": "25,388",
-      "Streams+": "-4,778",
-      "7Day": "162,601",
-      "7Day+": "+3,316",
-      "Total": "1,678,601",
-      "track_id": "1ZOOtzolAVDQlzUf7thUZf",
-      "artist_ids": [
-        "0cc3y7owJCbx8MuYJZI6As"
-      ]
-    },
-    {
-      "Pos": "40",
-      "P+": "+6",
-      "Artist and Title": "Gilli - Vinden Blæser",
-      "Days": "23",
-      "Pk": "14",
-      "(x?)": "",
-      "Streams": "25,052",
-      "Streams+": "-4,903",
-      "7Day": "176,428",
-      "7Day+": "-650",
-      "Total": "737,280",
-      "track_id": "54a4KNL27zQgM2dljamEsn",
-      "artist_ids": [
-        "2KbikmQKGiUPR2ARs1h0sq"
-      ]
-    },
-    {
-      "Pos": "41",
-      "P+": "+7",
-      "Artist and Title": "ADÉLA - Nicole Kidman",
-      "Days": "27",
-      "Pk": "25",
-      "(x?)": "",
-      "Streams": "24,887",
-      "Streams+": "-4,031",
-      "7Day": "147,682",
-      "7Day+": "+10,122",
-      "Total": "435,134",
-      "track_id": "70cHKK8bHAfJrOGVnfRG9J",
-      "artist_ids": [
-        "2qanRMyA5bNuTvz1dK45OP"
-      ]
-    },
-    {
       "Pos": "42",
-      "P+": "-22",
-      "Artist and Title": "Noah Carter - Peak",
-      "Days": "2",
-      "Pk": "20",
+      "P+": "+8",
+      "Artist and Title": "Noah Carter - Hovedpine",
+      "Days": "3",
+      "Pk": "23",
       "(x?)": "",
-      "Streams": "24,863",
-      "Streams+": "-20,360",
-      "7Day": "70,086",
-      "7Day+": "+24,863",
-      "Total": "70,086",
-      "track_id": "5se2Y774jv4KDDwqj5WP7n",
+      "Streams": "18,835",
+      "Streams+": "-3,705",
+      "7Day": "84,484",
+      "7Day+": "+18,835",
+      "Total": "84,484",
+      "track_id": "3bRsDUZWyClvMWKCpdfcNE",
       "artist_ids": [
         "2dfY7zXIP61MKHtD175hFp"
       ]
     },
     {
       "Pos": "43",
-      "P+": "-4",
-      "Artist and Title": "Gilli - Lille Hjerte",
-      "Days": "23",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "24,819",
-      "Streams+": "-6,383",
-      "7Day": "205,909",
-      "7Day+": "-6,410",
-      "Total": "971,066",
-      "track_id": "0O08IPl7Ug0vbu8i9wHhjA",
-      "artist_ids": [
-        "2KbikmQKGiUPR2ARs1h0sq"
-      ]
-    },
-    {
-      "Pos": "44",
-      "P+": "+6",
-      "Artist and Title": "Taylor Swift - Patient Zero",
-      "Days": "16",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "24,772",
-      "Streams+": "-3,504",
-      "7Day": "201,757",
-      "7Day+": "-9,385",
-      "Total": "583,407",
-      "track_id": "11hcBLPtbMp4aQI6zGQLub",
-      "artist_ids": [
-        "06HL4z0CvFAxyc27GXpf02"
-      ]
-    },
-    {
-      "Pos": "45",
-      "P+": "-23",
-      "Artist and Title": "Noah Carter - Behov",
-      "Days": "2",
-      "Pk": "22",
-      "(x?)": "",
-      "Streams": "23,791",
-      "Streams+": "-19,364",
-      "7Day": "66,946",
-      "7Day+": "+23,791",
-      "Total": "66,946",
-      "track_id": "7x6gqACeRCNmk5SDV7kMBa",
-      "artist_ids": [
-        "2dfY7zXIP61MKHtD175hFp"
-      ]
-    },
-    {
-      "Pos": "46",
-      "P+": "+6",
+      "P+": "+3",
       "Artist and Title": "Rosa - Bliv hvor du er (w/ Artigeardit)",
-      "Days": "198",
+      "Days": "199",
       "Pk": "2",
       "(x?)": "(x10)",
-      "Streams": "23,668",
-      "Streams+": "-4,084",
-      "7Day": "164,186",
-      "7Day+": "+542",
-      "Total": "8,989,569",
+      "Streams": "18,414",
+      "Streams+": "-5,254",
+      "7Day": "162,984",
+      "7Day+": "-1,202",
+      "Total": "9,007,983",
       "track_id": "18wTOhWtLK0DYvJAR1kzS7",
       "artist_ids": [
         "5RacSDArd3wuqKnWx46sTM",
@@ -802,52 +751,68 @@
       ]
     },
     {
-      "Pos": "47",
-      "P+": "+6",
-      "Artist and Title": "Annika - Stolt (w/ Lamin)",
-      "Days": "520",
+      "Pos": "44",
+      "P+": "-7",
+      "Artist and Title": "APHACA - Vi pumper hjertet op",
+      "Days": "379",
       "Pk": "1",
-      "(x?)": "(x52)",
-      "Streams": "23,282",
-      "Streams+": "-4,180",
-      "7Day": "154,861",
-      "7Day+": "-171",
-      "Total": "28,411,990",
-      "track_id": "1klqiFFmUA44dKHWCX0V5l",
-      "artist_ids": [
-        "1GKN1Js8fa19K23eIhOMhg",
-        "4ZwOlDVAGXQo66ykbLQ8dP"
-      ]
-    },
-    {
-      "Pos": "48",
-      "P+": "+81",
-      "Artist and Title": "APHACA - Klip Klap Sandaler",
-      "Days": "597",
-      "Pk": "21",
-      "(x?)": "",
-      "Streams": "22,792",
-      "Streams+": "+9,376",
-      "7Day": "83,955",
-      "7Day+": "+12,099",
-      "Total": "10,675,729",
-      "track_id": "0H2DdxpCOXES3vw1dNmf4V",
+      "(x?)": "(x1)",
+      "Streams": "18,289",
+      "Streams+": "-8,115",
+      "7Day": "113,583",
+      "7Day+": "+6,585",
+      "Total": "8,235,672",
+      "track_id": "62ZQfNv9W5HlIOYEjsrc33",
       "artist_ids": [
         "5Ppbc55kNdjvxP8Tw2P8S9"
       ]
     },
     {
-      "Pos": "49",
-      "P+": "-14",
+      "Pos": "45",
+      "P+": "-2",
+      "Artist and Title": "Gilli - Lille Hjerte",
+      "Days": "24",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "18,235",
+      "Streams+": "-6,584",
+      "7Day": "199,972",
+      "7Day+": "-5,937",
+      "Total": "989,301",
+      "track_id": "0O08IPl7Ug0vbu8i9wHhjA",
+      "artist_ids": [
+        "2KbikmQKGiUPR2ARs1h0sq"
+      ]
+    },
+    {
+      "Pos": "46",
+      "P+": "-16",
+      "Artist and Title": "APHACA - Et sted hvor vi de første",
+      "Days": "588",
+      "Pk": "2",
+      "(x?)": "(x10)",
+      "Streams": "18,094",
+      "Streams+": "-10,206",
+      "7Day": "114,444",
+      "7Day+": "+7,320",
+      "Total": "20,640,087",
+      "track_id": "0Y7lLJhJEb2B9EMOiOc94Z",
+      "artist_ids": [
+        "5Ppbc55kNdjvxP8Tw2P8S9"
+      ]
+    },
+    {
+      "Pos": "47",
+      "P+": "+2",
       "Artist and Title": "Thor Farlov - Hver Eneste Gang (w/ KESI, MAS)",
-      "Days": "16",
+      "Days": "17",
       "Pk": "1",
       "(x?)": "(x1)",
-      "Streams": "22,593",
-      "Streams+": "-10,692",
-      "7Day": "193,282",
-      "7Day+": "-8,701",
-      "Total": "585,979",
+      "Streams": "17,633",
+      "Streams+": "-4,960",
+      "7Day": "185,842",
+      "7Day+": "-7,440",
+      "Total": "603,612",
       "track_id": "1p8AjTC2doJ2gau4MNbnZ8",
       "artist_ids": [
         "0YF2oUwHHPo0VTGuqgYG0X",
@@ -856,172 +821,52 @@
       ]
     },
     {
-      "Pos": "50",
-      "P+": "-27",
-      "Artist and Title": "Noah Carter - Hovedpine",
-      "Days": "2",
-      "Pk": "23",
-      "(x?)": "",
-      "Streams": "22,540",
-      "Streams+": "-20,569",
-      "7Day": "65,649",
-      "7Day+": "+22,540",
-      "Total": "65,649",
-      "track_id": "3bRsDUZWyClvMWKCpdfcNE",
+      "Pos": "48",
+      "P+": "-1",
+      "Artist and Title": "Annika - Stolt (w/ Lamin)",
+      "Days": "521",
+      "Pk": "1",
+      "(x?)": "(x52)",
+      "Streams": "17,329",
+      "Streams+": "-5,953",
+      "7Day": "152,498",
+      "7Day+": "-2,363",
+      "Total": "28,429,319",
+      "track_id": "1klqiFFmUA44dKHWCX0V5l",
       "artist_ids": [
-        "2dfY7zXIP61MKHtD175hFp"
+        "1GKN1Js8fa19K23eIhOMhg",
+        "4ZwOlDVAGXQo66ykbLQ8dP"
       ]
     },
     {
-      "Pos": "51",
-      "P+": "-8",
-      "Artist and Title": "Gilli - Lesgo (w/ KESI)",
-      "Days": "23",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "22,487",
-      "Streams+": "-7,831",
-      "7Day": "187,647",
-      "7Day+": "-4,062",
-      "Total": "882,309",
-      "track_id": "2ykOQPxyep90Q0rHQnBJvi",
-      "artist_ids": [
-        "2KbikmQKGiUPR2ARs1h0sq",
-        "2d7AMvzFwh5wUTuqQl3BAE"
-      ]
-    },
-    {
-      "Pos": "52",
-      "P+": "+2",
+      "Pos": "49",
+      "P+": "+3",
       "Artist and Title": "Jamie Miller - Babydoll",
-      "Days": "27",
+      "Days": "28",
       "Pk": "29",
       "(x?)": "",
-      "Streams": "21,836",
-      "Streams+": "-4,837",
-      "7Day": "156,416",
-      "7Day+": "+1,234",
-      "Total": "412,684",
+      "Streams": "16,947",
+      "Streams+": "-4,889",
+      "7Day": "155,781",
+      "7Day+": "-635",
+      "Total": "429,631",
       "track_id": "1o9mAOmNm3wT2NdyGV1Ard",
       "artist_ids": [
         "2LkkwxA19J8C52wPQl5bG6"
       ]
     },
     {
-      "Pos": "53",
-      "P+": "+86",
-      "Artist and Title": "APHACA - Til Solen Er Sort",
-      "Days": "566",
-      "Pk": "15",
-      "(x?)": "",
-      "Streams": "21,651",
-      "Streams+": "+8,645",
-      "7Day": "82,943",
-      "7Day+": "+11,674",
-      "Total": "10,893,930",
-      "track_id": "0h35J8A4GHIlQXcxVAEmF5",
-      "artist_ids": [
-        "5Ppbc55kNdjvxP8Tw2P8S9"
-      ]
-    },
-    {
-      "Pos": "54",
-      "P+": "+13",
-      "Artist and Title": "P!nk - Just Give Me a Reason (w/ Nate Ruess)",
-      "Days": "53",
-      "Pk": "48",
-      "(x?)": "",
-      "Streams": "21,375",
-      "Streams+": "-411",
-      "7Day": "119,332",
-      "7Day+": "+7,031",
-      "Total": "653,208",
-      "track_id": "1mKXFLRA179hdOWQBwUk9e",
-      "artist_ids": [
-        "1KCSPY1glIKqW2TotWuXOR",
-        "1qUjOF5fzrpoNycD36b2jZ"
-      ]
-    },
-    {
-      "Pos": "55",
-      "P+": "=",
-      "Artist and Title": "Berg - Hvem er det der græder nu?",
-      "Days": "37",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "20,926",
-      "Streams+": "-4,929",
-      "7Day": "151,943",
-      "7Day+": "-3,202",
-      "Total": "1,078,834",
-      "track_id": "6UngwLrGYSueVi0PPIUZpt",
-      "artist_ids": [
-        "4DZ5VR6bUEFtiXoi6IsfcD"
-      ]
-    },
-    {
-      "Pos": "56",
-      "P+": "-30",
-      "Artist and Title": "Noah Carter - Brug For",
-      "Days": "2",
-      "Pk": "26",
-      "(x?)": "",
-      "Streams": "20,819",
-      "Streams+": "-17,728",
-      "7Day": "59,366",
-      "7Day+": "+20,819",
-      "Total": "59,366",
-      "track_id": "6TRMPXbA8NGrAx6IpDK7ss",
-      "artist_ids": [
-        "2dfY7zXIP61MKHtD175hFp"
-      ]
-    },
-    {
-      "Pos": "57",
-      "P+": "-1",
-      "Artist and Title": "Mille - hader ik mig selv sammen med dig",
-      "Days": "379",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "20,733",
-      "Streams+": "-4,825",
-      "7Day": "161,148",
-      "7Day+": "-4,065",
-      "Total": "12,710,321",
-      "track_id": "3Jrggxbj3XXCodbGhORmGo",
-      "artist_ids": [
-        "1WLr84Nec3Bb8xuxgQZGb9"
-      ]
-    },
-    {
-      "Pos": "58",
-      "P+": "+2",
-      "Artist and Title": "Mille - kendt mig en uge",
-      "Days": "568",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "20,634",
-      "Streams+": "-2,871",
-      "7Day": "150,833",
-      "7Day+": "-5,255",
-      "Total": "19,673,367",
-      "track_id": "1xpHTbZ3NnvTDEXCFcwGWk",
-      "artist_ids": [
-        "1WLr84Nec3Bb8xuxgQZGb9"
-      ]
-    },
-    {
-      "Pos": "59",
-      "P+": "-31",
+      "Pos": "50",
+      "P+": "+9",
       "Artist and Title": "Noah Carter - Helt Væk (w/ Nikolaj Manuel Vonsild)",
-      "Days": "2",
+      "Days": "3",
       "Pk": "28",
       "(x?)": "",
-      "Streams": "20,510",
-      "Streams+": "-16,844",
-      "7Day": "57,864",
-      "7Day+": "+20,510",
-      "Total": "57,864",
+      "Streams": "16,524",
+      "Streams+": "-3,986",
+      "7Day": "74,388",
+      "7Day+": "+16,524",
+      "Total": "74,388",
       "track_id": "1oVTwSkgCx4lDJp1tbrdaK",
       "artist_ids": [
         "2dfY7zXIP61MKHtD175hFp",
@@ -1029,34 +874,189 @@
       ]
     },
     {
-      "Pos": "60",
-      "P+": "-2",
+      "Pos": "51",
+      "P+": "-11",
+      "Artist and Title": "Gilli - Vinden Blæser",
+      "Days": "24",
+      "Pk": "14",
+      "(x?)": "",
+      "Streams": "16,309",
+      "Streams+": "-8,743",
+      "7Day": "172,517",
+      "7Day+": "-3,911",
+      "Total": "753,589",
+      "track_id": "54a4KNL27zQgM2dljamEsn",
+      "artist_ids": [
+        "2KbikmQKGiUPR2ARs1h0sq"
+      ]
+    },
+    {
+      "Pos": "52",
+      "P+": "+2",
+      "Artist and Title": "P!nk - Just Give Me a Reason (w/ Nate Ruess)",
+      "Days": "54",
+      "Pk": "48",
+      "(x?)": "",
+      "Streams": "16,306",
+      "Streams+": "-5,069",
+      "7Day": "122,332",
+      "7Day+": "+3,000",
+      "Total": "669,514",
+      "track_id": "1mKXFLRA179hdOWQBwUk9e",
+      "artist_ids": [
+        "1KCSPY1glIKqW2TotWuXOR",
+        "1qUjOF5fzrpoNycD36b2jZ"
+      ]
+    },
+    {
+      "Pos": "53",
+      "P+": "+3",
+      "Artist and Title": "Noah Carter - Brug For",
+      "Days": "3",
+      "Pk": "26",
+      "(x?)": "",
+      "Streams": "16,266",
+      "Streams+": "-4,553",
+      "7Day": "75,632",
+      "7Day+": "+16,266",
+      "Total": "75,632",
+      "track_id": "6TRMPXbA8NGrAx6IpDK7ss",
+      "artist_ids": [
+        "2dfY7zXIP61MKHtD175hFp"
+      ]
+    },
+    {
+      "Pos": "54",
+      "P+": "+3",
+      "Artist and Title": "Mille - hader ik mig selv sammen med dig",
+      "Days": "380",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "15,747",
+      "Streams+": "-4,986",
+      "7Day": "154,781",
+      "7Day+": "-6,367",
+      "Total": "12,726,068",
+      "track_id": "3Jrggxbj3XXCodbGhORmGo",
+      "artist_ids": [
+        "1WLr84Nec3Bb8xuxgQZGb9"
+      ]
+    },
+    {
+      "Pos": "55",
+      "P+": "-4",
+      "Artist and Title": "Gilli - Lesgo (w/ KESI)",
+      "Days": "24",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "15,357",
+      "Streams+": "-7,130",
+      "7Day": "177,862",
+      "7Day+": "-9,785",
+      "Total": "897,666",
+      "track_id": "2ykOQPxyep90Q0rHQnBJvi",
+      "artist_ids": [
+        "2KbikmQKGiUPR2ARs1h0sq",
+        "2d7AMvzFwh5wUTuqQl3BAE"
+      ]
+    },
+    {
+      "Pos": "56",
+      "P+": "-1",
+      "Artist and Title": "Berg - Hvem er det der græder nu?",
+      "Days": "38",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "14,959",
+      "Streams+": "-5,967",
+      "7Day": "147,875",
+      "7Day+": "-4,068",
+      "Total": "1,093,793",
+      "track_id": "6UngwLrGYSueVi0PPIUZpt",
+      "artist_ids": [
+        "4DZ5VR6bUEFtiXoi6IsfcD"
+      ]
+    },
+    {
+      "Pos": "57",
+      "P+": "+3",
       "Artist and Title": "Mille - GØR NOGET",
-      "Days": "72",
+      "Days": "73",
       "Pk": "7",
       "(x?)": "",
-      "Streams": "20,191",
-      "Streams+": "-4,126",
-      "7Day": "130,894",
-      "7Day+": "+5,648",
-      "Total": "1,978,348",
+      "Streams": "14,869",
+      "Streams+": "-5,322",
+      "7Day": "132,753",
+      "7Day+": "+1,859",
+      "Total": "1,993,217",
       "track_id": "1iEBaWNVcztn9z1JQ1N9ly",
       "artist_ids": [
         "1WLr84Nec3Bb8xuxgQZGb9"
       ]
     },
     {
+      "Pos": "58",
+      "P+": "+11",
+      "Artist and Title": "Mumle - Det Modsatte",
+      "Days": "1038",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "14,868",
+      "Streams+": "-2,902",
+      "7Day": "101,455",
+      "7Day+": "+2,243",
+      "Total": "30,460,054",
+      "track_id": "6vdsc40TnfCdZsWj7GecQV",
+      "artist_ids": [
+        "6xfKNngTw1zxViM96HSTCq"
+      ]
+    },
+    {
+      "Pos": "59",
+      "P+": "-1",
+      "Artist and Title": "Mille - kendt mig en uge",
+      "Days": "569",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "14,399",
+      "Streams+": "-6,235",
+      "7Day": "143,624",
+      "7Day+": "-7,209",
+      "Total": "19,687,766",
+      "track_id": "1xpHTbZ3NnvTDEXCFcwGWk",
+      "artist_ids": [
+        "1WLr84Nec3Bb8xuxgQZGb9"
+      ]
+    },
+    {
+      "Pos": "60",
+      "P+": "-12",
+      "Artist and Title": "APHACA - Klip Klap Sandaler",
+      "Days": "598",
+      "Pk": "21",
+      "(x?)": "",
+      "Streams": "14,313",
+      "Streams+": "-8,479",
+      "7Day": "89,312",
+      "7Day+": "+5,357",
+      "Total": "10,690,042",
+      "track_id": "0H2DdxpCOXES3vw1dNmf4V",
+      "artist_ids": [
+        "5Ppbc55kNdjvxP8Tw2P8S9"
+      ]
+    },
+    {
       "Pos": "61",
-      "P+": "-19",
+      "P+": "=",
       "Artist and Title": "KLIKEN - Det Voldsomt",
-      "Days": "2",
+      "Days": "3",
       "Pk": "42",
       "(x?)": "",
-      "Streams": "19,815",
-      "Streams+": "-10,716",
-      "7Day": "50,346",
-      "7Day+": "+19,815",
-      "Total": "50,346",
+      "Streams": "13,860",
+      "Streams+": "-5,955",
+      "7Day": "64,206",
+      "7Day+": "+13,860",
+      "Total": "64,206",
       "track_id": "2oHa5vQV6dSEjf1dPbRXim",
       "artist_ids": [
         "67BbnG370WnGcK7Thdx7OC"
@@ -1064,414 +1064,67 @@
     },
     {
       "Pos": "62",
-      "P+": "+1",
-      "Artist and Title": "Artigeardit - Ivrig",
-      "Days": "135",
-      "Pk": "3",
-      "(x?)": "(x2)",
-      "Streams": "19,694",
-      "Streams+": "-3,290",
-      "7Day": "145,411",
-      "7Day+": "-352",
-      "Total": "4,265,656",
-      "track_id": "0c15Rz4i6ri8pFONJHhCib",
-      "artist_ids": [
-        "6a3WaWgxrVmNIvaiTCI0Kk"
-      ]
-    },
-    {
-      "Pos": "63",
-      "P+": "+87",
-      "Artist and Title": "APHACA - En Som Dig",
-      "Days": "365",
-      "Pk": "58",
-      "(x?)": "",
-      "Streams": "19,210",
-      "Streams+": "+6,641",
-      "7Day": "78,541",
-      "7Day+": "+19,210",
-      "Total": "4,602,024",
-      "track_id": "51eppFARcbsrsPYqnIMPFx",
-      "artist_ids": [
-        "5Ppbc55kNdjvxP8Tw2P8S9"
-      ]
-    },
-    {
-      "Pos": "64",
-      "P+": "-3",
-      "Artist and Title": "Anton Westerlin - Ærlig Freestyle (w/ Annika)",
-      "Days": "163",
-      "Pk": "1",
-      "(x?)": "(x7)",
-      "Streams": "18,977",
-      "Streams+": "-4,431",
-      "7Day": "131,881",
-      "7Day+": "-2,145",
-      "Total": "7,575,029",
-      "track_id": "2Mkjva2JDjVAcFjriEWnWF",
-      "artist_ids": [
-        "5NYUb39ntjgN7cRtN4y25T",
-        "1GKN1Js8fa19K23eIhOMhg"
-      ]
-    },
-    {
-      "Pos": "65",
-      "P+": "-3",
-      "Artist and Title": "Artigeardit - Louisiana",
-      "Days": "170",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "18,799",
-      "Streams+": "-4,288",
-      "7Day": "142,792",
-      "7Day+": "-3,518",
-      "Total": "5,663,028",
-      "track_id": "2dxtzQZFTEo8YuEvGBPwR3",
-      "artist_ids": [
-        "6a3WaWgxrVmNIvaiTCI0Kk"
-      ]
-    },
-    {
-      "Pos": "66",
-      "P+": "+12",
+      "P+": "+4",
       "Artist and Title": "Benjamin Hav - Portugal",
-      "Days": "142",
+      "Days": "143",
       "Pk": "11",
       "(x?)": "",
-      "Streams": "17,950",
-      "Streams+": "-234",
-      "7Day": "105,107",
-      "7Day+": "-231",
-      "Total": "4,072,618",
+      "Streams": "13,787",
+      "Streams+": "-4,163",
+      "7Day": "104,973",
+      "7Day+": "-134",
+      "Total": "4,086,405",
       "track_id": "1nCEAmmOXmXmODiY5KnEHX",
       "artist_ids": [
         "67pwWZtcg7U2P2keoeC9jW"
       ]
     },
     {
-      "Pos": "67",
-      "P+": "-8",
-      "Artist and Title": "D1MA - NATTEN BLIVER MORGEN",
-      "Days": "463",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "17,932",
-      "Streams+": "-5,724",
-      "7Day": "139,310",
-      "7Day+": "-2,774",
-      "Total": "13,644,241",
-      "track_id": "5wAsvoOWg6LzSSmiBQGWKk",
-      "artist_ids": [
-        "5RaTuqY7SJHvh6MNzMagut"
-      ]
-    },
-    {
-      "Pos": "68",
-      "P+": "-3",
-      "Artist and Title": "Tove Lo - Talking Body",
-      "Days": "310",
-      "Pk": "18",
-      "(x?)": "",
-      "Streams": "17,873",
-      "Streams+": "-4,585",
-      "7Day": "133,062",
-      "7Day+": "-1,713",
-      "Total": "5,174,603",
-      "track_id": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "artist_ids": [
-        "4NHQUGzhtTLFvgF5SZesLK"
-      ]
-    },
-    {
-      "Pos": "69",
-      "P+": "+16",
-      "Artist and Title": "Mumle - Det Modsatte",
-      "Days": "1037",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "17,770",
-      "Streams+": "+791",
-      "7Day": "99,212",
-      "7Day+": "+2,120",
-      "Total": "30,445,186",
-      "track_id": "6vdsc40TnfCdZsWj7GecQV",
-      "artist_ids": [
-        "6xfKNngTw1zxViM96HSTCq"
-      ]
-    },
-    {
-      "Pos": "70",
-      "P+": "RE",
-      "Artist and Title": "APHACA - Hjertet På Gaden",
-      "Days": "408",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "17,536",
-      "Streams+": "",
-      "7Day": "17,536",
-      "7Day+": "+17,536",
-      "Total": "9,789,184",
-      "track_id": "62EPQ5REuZwGqWoRsPP5Bx",
-      "artist_ids": [
-        "5Ppbc55kNdjvxP8Tw2P8S9"
-      ]
-    },
-    {
-      "Pos": "71",
-      "P+": "-33",
-      "Artist and Title": "Noah Carter - Lært Mig",
-      "Days": "2",
-      "Pk": "38",
-      "(x?)": "",
-      "Streams": "17,438",
-      "Streams+": "-14,603",
-      "7Day": "49,479",
-      "7Day+": "+17,438",
-      "Total": "49,479",
-      "track_id": "1TOyVf4y3bDCS4AttCaFEG",
-      "artist_ids": [
-        "2dfY7zXIP61MKHtD175hFp"
-      ]
-    },
-    {
-      "Pos": "72",
-      "P+": "=",
-      "Artist and Title": "Rune Rask - Alle Mine Veninder (w/ Medina)",
-      "Days": "98",
-      "Pk": "20",
-      "(x?)": "",
-      "Streams": "17,430",
-      "Streams+": "-3,260",
-      "7Day": "111,407",
-      "7Day+": "-2,306",
-      "Total": "1,355,802",
-      "track_id": "4qbVKrjy8c0DyfpKLBSUX4",
-      "artist_ids": [
-        "3zuy1LOMq0y8aHZn4Ogax0",
-        "7c7ZeiPKWHf2E1rsf1P4VF"
-      ]
-    },
-    {
-      "Pos": "73",
-      "P+": "-2",
-      "Artist and Title": "Merro8 - Vant Til (w/ KESI)",
-      "Days": "9",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "17,032",
-      "Streams+": "-4,257",
-      "7Day": "155,098",
-      "7Day+": "-5,678",
-      "Total": "228,482",
-      "track_id": "0HuDb66kQr9d0Y0nHaG37U",
-      "artist_ids": [
-        "5LcNaarbF34TMSkVLE7YQc",
-        "2d7AMvzFwh5wUTuqQl3BAE"
-      ]
-    },
-    {
-      "Pos": "74",
-      "P+": "-4",
-      "Artist and Title": "Gilli - Cabaret",
-      "Days": "23",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "16,864",
-      "Streams+": "-4,502",
-      "7Day": "146,418",
-      "7Day+": "-8,620",
-      "Total": "840,593",
-      "track_id": "2h9FJPS3zN0d0U4F7n6GOC",
-      "artist_ids": [
-        "2KbikmQKGiUPR2ARs1h0sq"
-      ]
-    },
-    {
-      "Pos": "75",
-      "P+": "-9",
-      "Artist and Title": "KLIKEN - Wild (w/ Englando)",
-      "Days": "72",
-      "Pk": "30",
-      "(x?)": "",
-      "Streams": "16,806",
-      "Streams+": "-5,014",
-      "7Day": "98,725",
-      "7Day+": "+4,001",
-      "Total": "1,205,905",
-      "track_id": "73osRCXJBKH6n7DUnYd6P4",
-      "artist_ids": [
-        "67BbnG370WnGcK7Thdx7OC",
-        "2bvjuwumvVePZDZjIFu1jA"
-      ]
-    },
-    {
-      "Pos": "76",
-      "P+": "-12",
-      "Artist and Title": "Gilli - Monaco",
-      "Days": "23",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "16,464",
-      "Streams+": "-6,337",
-      "7Day": "151,000",
-      "7Day+": "-8,531",
-      "Total": "934,093",
-      "track_id": "7ioSpzKdkBjG9FvgCwBVdr",
-      "artist_ids": [
-        "2KbikmQKGiUPR2ARs1h0sq"
-      ]
-    },
-    {
-      "Pos": "77",
-      "P+": "+5",
-      "Artist and Title": "Suspekt - Tænker Ik På Andre (w/ URO)",
-      "Days": "771",
-      "Pk": "1",
-      "(x?)": "(x47)",
-      "Streams": "16,239",
-      "Streams+": "-1,428",
-      "7Day": "103,642",
-      "7Day+": "-1,695",
-      "Total": "25,200,585",
-      "track_id": "7CW3Tjll8pUMZxsuo8GZgV",
-      "artist_ids": [
-        "74HomvqoUecDcUPRespyqg",
-        "5FIdLxucf1EKqZfxeeXZzD"
-      ]
-    },
-    {
-      "Pos": "78",
-      "P+": "RE",
-      "Artist and Title": "APHACA - Hvor kommer vi fra",
-      "Days": "54",
-      "Pk": "3",
-      "(x?)": "(x2)",
-      "Streams": "16,040",
-      "Streams+": "",
-      "7Day": "16,040",
-      "7Day+": "+16,040",
-      "Total": "1,545,588",
-      "track_id": "1IGDc3ewhLeAvangxXnfwN",
-      "artist_ids": [
-        "5Ppbc55kNdjvxP8Tw2P8S9"
-      ]
-    },
-    {
-      "Pos": "79",
-      "P+": "+20",
-      "Artist and Title": "Michael Jackson - Billie Jean",
-      "Days": "260",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "15,643",
-      "Streams+": "+340",
-      "7Day": "90,203",
-      "7Day+": "+99",
-      "Total": "5,557,322",
-      "track_id": "7J1uxwnxfQLu4APicE5Rnj",
-      "artist_ids": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ]
-    },
-    {
-      "Pos": "80",
-      "P+": "+9",
+      "Pos": "63",
+      "P+": "+17",
       "Artist and Title": "Alex Warren - Ordinary",
-      "Days": "610",
+      "Days": "611",
       "Pk": "1",
       "(x?)": "(x5)",
-      "Streams": "15,616",
-      "Streams+": "-976",
-      "7Day": "102,660",
-      "7Day+": "+231",
-      "Total": "21,961,692",
+      "Streams": "13,642",
+      "Streams+": "-1,974",
+      "7Day": "102,909",
+      "7Day+": "+249",
+      "Total": "21,975,334",
       "track_id": "2RkZ5LkEzeHGRsmDqKwmaJ",
       "artist_ids": [
         "0fTSzq9jAh4c36UVb4V7CB"
       ]
     },
     {
-      "Pos": "81",
-      "P+": "-6",
-      "Artist and Title": "Lamin - Cohiba",
-      "Days": "114",
-      "Pk": "2",
-      "(x?)": "(x3)",
-      "Streams": "15,525",
-      "Streams+": "-4,019",
-      "7Day": "115,537",
-      "7Day+": "-4,741",
-      "Total": "4,567,931",
-      "track_id": "4xEZEFfN67HGEQBFH16Cmw",
-      "artist_ids": [
-        "4ZwOlDVAGXQo66ykbLQ8dP"
-      ]
-    },
-    {
-      "Pos": "82",
-      "P+": "-45",
-      "Artist and Title": "Kind mod Kind - Føles For Godt (w/ Soleima)",
-      "Days": "2",
-      "Pk": "37",
+      "Pos": "64",
+      "P+": "+7",
+      "Artist and Title": "Noah Carter - Lært Mig",
+      "Days": "3",
+      "Pk": "38",
       "(x?)": "",
-      "Streams": "15,395",
-      "Streams+": "-17,480",
-      "7Day": "48,270",
-      "7Day+": "+15,395",
-      "Total": "48,270",
-      "track_id": "53deYp0ybqe2d5qGcmjEYi",
+      "Streams": "13,473",
+      "Streams+": "-3,965",
+      "7Day": "62,952",
+      "7Day+": "+13,473",
+      "Total": "62,952",
+      "track_id": "1TOyVf4y3bDCS4AttCaFEG",
       "artist_ids": [
-        "0cc3y7owJCbx8MuYJZI6As",
-        "71le7jtjw9hq389Fnvi6XM"
+        "2dfY7zXIP61MKHtD175hFp"
       ]
     },
     {
-      "Pos": "83",
-      "P+": "-7",
-      "Artist and Title": "Scarlet Pleasure - Wide Awake (w/ SHARMA)",
-      "Days": "114",
-      "Pk": "20",
-      "(x?)": "",
-      "Streams": "15,359",
-      "Streams+": "-3,392",
-      "7Day": "106,215",
-      "7Day+": "-1,850",
-      "Total": "2,410,774",
-      "track_id": "0FZz13L4T6U9vIVHwUL6Uu",
-      "artist_ids": [
-        "7wrulS1dfanckBnoxxEuS6",
-        "1o9oTtjGFR4ONTjVKVvnrL"
-      ]
-    },
-    {
-      "Pos": "84",
-      "P+": "-3",
-      "Artist and Title": "TopGunn - dø med dig",
-      "Days": "16",
-      "Pk": "16",
-      "(x?)": "",
-      "Streams": "15,211",
-      "Streams+": "-2,622",
-      "7Day": "103,583",
-      "7Day+": "-1,083",
-      "Total": "301,815",
-      "track_id": "2q5nkpJMREI1QHUEOKFBJj",
-      "artist_ids": [
-        "4nXezpatStChCEWVvYLjd5"
-      ]
-    },
-    {
-      "Pos": "85",
-      "P+": "-2",
+      "Pos": "65",
+      "P+": "+20",
       "Artist and Title": "Christopher - Jeg Ka' Ik' Mærke Noget (w/ Thomas Helmig)",
-      "Days": "86",
+      "Days": "87",
       "Pk": "1",
       "(x?)": "(x1)",
-      "Streams": "15,027",
-      "Streams+": "-2,609",
-      "7Day": "98,583",
-      "7Day+": "-1,156",
-      "Total": "2,633,911",
+      "Streams": "13,347",
+      "Streams+": "-1,680",
+      "7Day": "98,357",
+      "7Day+": "-226",
+      "Total": "2,647,258",
       "track_id": "6rQtbOONmDKLD8mA1Dfbrr",
       "artist_ids": [
         "3zDRCqOhJXJfS2YWOEwGMC",
@@ -1479,17 +1132,69 @@
       ]
     },
     {
-      "Pos": "86",
-      "P+": "=",
+      "Pos": "66",
+      "P+": "-13",
+      "Artist and Title": "APHACA - Til Solen Er Sort",
+      "Days": "567",
+      "Pk": "15",
+      "(x?)": "",
+      "Streams": "13,142",
+      "Streams+": "-8,509",
+      "7Day": "87,143",
+      "7Day+": "+4,200",
+      "Total": "10,907,072",
+      "track_id": "0h35J8A4GHIlQXcxVAEmF5",
+      "artist_ids": [
+        "5Ppbc55kNdjvxP8Tw2P8S9"
+      ]
+    },
+    {
+      "Pos": "67",
+      "P+": "+10",
+      "Artist and Title": "Suspekt - Tænker Ik På Andre (w/ URO)",
+      "Days": "772",
+      "Pk": "1",
+      "(x?)": "(x47)",
+      "Streams": "13,078",
+      "Streams+": "-3,161",
+      "7Day": "103,510",
+      "7Day+": "-132",
+      "Total": "25,213,663",
+      "track_id": "7CW3Tjll8pUMZxsuo8GZgV",
+      "artist_ids": [
+        "74HomvqoUecDcUPRespyqg",
+        "5FIdLxucf1EKqZfxeeXZzD"
+      ]
+    },
+    {
+      "Pos": "68",
+      "P+": "-6",
+      "Artist and Title": "Artigeardit - Ivrig",
+      "Days": "136",
+      "Pk": "3",
+      "(x?)": "(x2)",
+      "Streams": "12,824",
+      "Streams+": "-6,870",
+      "7Day": "140,241",
+      "7Day+": "-5,170",
+      "Total": "4,278,480",
+      "track_id": "0c15Rz4i6ri8pFONJHhCib",
+      "artist_ids": [
+        "6a3WaWgxrVmNIvaiTCI0Kk"
+      ]
+    },
+    {
+      "Pos": "69",
+      "P+": "+17",
       "Artist and Title": "Sam Fender - Rein Me In (w/ Olivia Dean)",
-      "Days": "220",
+      "Days": "221",
       "Pk": "54",
       "(x?)": "",
-      "Streams": "14,993",
-      "Streams+": "-1,877",
-      "7Day": "98,489",
-      "7Day+": "+1,953",
-      "Total": "3,104,727",
+      "Streams": "12,759",
+      "Streams+": "-2,234",
+      "7Day": "99,613",
+      "7Day+": "+1,124",
+      "Total": "3,117,486",
       "track_id": "0MUXBhPUDF8or0kfQ0EHwV",
       "artist_ids": [
         "6zlR5ttMfMNmwf2lecU9Cc",
@@ -1497,35 +1202,276 @@
       ]
     },
     {
-      "Pos": "87",
-      "P+": "+4",
-      "Artist and Title": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj)",
-      "Days": "203",
-      "Pk": "4",
+      "Pos": "70",
+      "P+": "+12",
+      "Artist and Title": "Kind mod Kind - Føles For Godt (w/ Soleima)",
+      "Days": "3",
+      "Pk": "37",
       "(x?)": "",
-      "Streams": "14,518",
-      "Streams+": "-1,904",
-      "7Day": "91,245",
-      "7Day+": "-312",
-      "Total": "5,496,502",
-      "track_id": "6QFCMUUq1T2Vf5sFUXcuQ7",
+      "Streams": "12,720",
+      "Streams+": "-2,675",
+      "7Day": "60,990",
+      "7Day+": "+12,720",
+      "Total": "60,990",
+      "track_id": "53deYp0ybqe2d5qGcmjEYi",
       "artist_ids": [
-        "1uNFoZAHBGtllmzznpCI3s",
-        "0hCNtLu0JehylgoiP8L4Gh"
+        "0cc3y7owJCbx8MuYJZI6As",
+        "71le7jtjw9hq389Fnvi6XM"
       ]
     },
     {
-      "Pos": "88",
-      "P+": "+2",
+      "Pos": "71",
+      "P+": "-3",
+      "Artist and Title": "Tove Lo - Talking Body",
+      "Days": "311",
+      "Pk": "18",
+      "(x?)": "",
+      "Streams": "12,719",
+      "Streams+": "-5,154",
+      "7Day": "130,748",
+      "7Day+": "-2,314",
+      "Total": "5,187,322",
+      "track_id": "7cgu4JBW3hq1GwTM1ilkKQ",
+      "artist_ids": [
+        "4NHQUGzhtTLFvgF5SZesLK"
+      ]
+    },
+    {
+      "Pos": "72",
+      "P+": "-8",
+      "Artist and Title": "Anton Westerlin - Ærlig Freestyle (w/ Annika)",
+      "Days": "164",
+      "Pk": "1",
+      "(x?)": "(x7)",
+      "Streams": "12,706",
+      "Streams+": "-6,271",
+      "7Day": "127,492",
+      "7Day+": "-4,389",
+      "Total": "7,587,735",
+      "track_id": "2Mkjva2JDjVAcFjriEWnWF",
+      "artist_ids": [
+        "5NYUb39ntjgN7cRtN4y25T",
+        "1GKN1Js8fa19K23eIhOMhg"
+      ]
+    },
+    {
+      "Pos": "73",
+      "P+": "+10",
+      "Artist and Title": "Scarlet Pleasure - Wide Awake (w/ SHARMA)",
+      "Days": "115",
+      "Pk": "20",
+      "(x?)": "",
+      "Streams": "12,551",
+      "Streams+": "-2,808",
+      "7Day": "104,079",
+      "7Day+": "-2,136",
+      "Total": "2,423,325",
+      "track_id": "0FZz13L4T6U9vIVHwUL6Uu",
+      "artist_ids": [
+        "7wrulS1dfanckBnoxxEuS6",
+        "1o9oTtjGFR4ONTjVKVvnrL"
+      ]
+    },
+    {
+      "Pos": "74",
+      "P+": "+5",
+      "Artist and Title": "Michael Jackson - Billie Jean",
+      "Days": "261",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "12,525",
+      "Streams+": "-3,118",
+      "7Day": "91,026",
+      "7Day+": "+823",
+      "Total": "5,569,847",
+      "track_id": "7J1uxwnxfQLu4APicE5Rnj",
+      "artist_ids": [
+        "3fMbdgg4jU18AjLCKBhRSm"
+      ]
+    },
+    {
+      "Pos": "75",
+      "P+": "-12",
+      "Artist and Title": "APHACA - En Som Dig",
+      "Days": "366",
+      "Pk": "58",
+      "(x?)": "",
+      "Streams": "12,512",
+      "Streams+": "-6,698",
+      "7Day": "82,155",
+      "7Day+": "+3,614",
+      "Total": "4,614,536",
+      "track_id": "51eppFARcbsrsPYqnIMPFx",
+      "artist_ids": [
+        "5Ppbc55kNdjvxP8Tw2P8S9"
+      ]
+    },
+    {
+      "Pos": "76",
+      "P+": "+18",
+      "Artist and Title": "URO - Dø Ung",
+      "Days": "17",
+      "Pk": "36",
+      "(x?)": "",
+      "Streams": "12,451",
+      "Streams+": "-1,408",
+      "7Day": "102,104",
+      "7Day+": "+560",
+      "Total": "263,895",
+      "track_id": "0fK8CkAbc7QHfbXL79GmkS",
+      "artist_ids": [
+        "5FIdLxucf1EKqZfxeeXZzD"
+      ]
+    },
+    {
+      "Pos": "77",
+      "P+": "-12",
+      "Artist and Title": "Artigeardit - Louisiana",
+      "Days": "171",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "12,415",
+      "Streams+": "-6,384",
+      "7Day": "136,526",
+      "7Day+": "-6,266",
+      "Total": "5,675,443",
+      "track_id": "2dxtzQZFTEo8YuEvGBPwR3",
+      "artist_ids": [
+        "6a3WaWgxrVmNIvaiTCI0Kk"
+      ]
+    },
+    {
+      "Pos": "78",
+      "P+": "-11",
+      "Artist and Title": "D1MA - NATTEN BLIVER MORGEN",
+      "Days": "464",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "12,266",
+      "Streams+": "-5,666",
+      "7Day": "134,165",
+      "7Day+": "-5,145",
+      "Total": "13,656,507",
+      "track_id": "5wAsvoOWg6LzSSmiBQGWKk",
+      "artist_ids": [
+        "5RaTuqY7SJHvh6MNzMagut"
+      ]
+    },
+    {
+      "Pos": "79",
+      "P+": "+22",
+      "Artist and Title": "SIENNA SPIRO - Die On This Hill",
+      "Days": "265",
+      "Pk": "18",
+      "(x?)": "",
+      "Streams": "12,142",
+      "Streams+": "-1,030",
+      "7Day": "99,731",
+      "7Day+": "-1,870",
+      "Total": "4,370,118",
+      "track_id": "2gYTC8DsplN3RNdpdBcCOQ",
+      "artist_ids": [
+        "02gSuSAWEdWa5UOvqzjX6v"
+      ]
+    },
+    {
+      "Pos": "80",
+      "P+": "+4",
+      "Artist and Title": "TopGunn - dø med dig",
+      "Days": "17",
+      "Pk": "16",
+      "(x?)": "",
+      "Streams": "12,139",
+      "Streams+": "-3,072",
+      "7Day": "105,110",
+      "7Day+": "+1,527",
+      "Total": "313,954",
+      "track_id": "2q5nkpJMREI1QHUEOKFBJj",
+      "artist_ids": [
+        "4nXezpatStChCEWVvYLjd5"
+      ]
+    },
+    {
+      "Pos": "81",
+      "P+": "-9",
+      "Artist and Title": "Rune Rask - Alle Mine Veninder (w/ Medina)",
+      "Days": "99",
+      "Pk": "20",
+      "(x?)": "",
+      "Streams": "12,071",
+      "Streams+": "-5,359",
+      "7Day": "109,570",
+      "7Day+": "-1,837",
+      "Total": "1,367,873",
+      "track_id": "4qbVKrjy8c0DyfpKLBSUX4",
+      "artist_ids": [
+        "3zuy1LOMq0y8aHZn4Ogax0",
+        "7c7ZeiPKWHf2E1rsf1P4VF"
+      ]
+    },
+    {
+      "Pos": "82",
+      "P+": "-12",
+      "Artist and Title": "APHACA - Hjertet På Gaden",
+      "Days": "409",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "11,887",
+      "Streams+": "-5,649",
+      "7Day": "29,423",
+      "7Day+": "+11,887",
+      "Total": "9,801,071",
+      "track_id": "62EPQ5REuZwGqWoRsPP5Bx",
+      "artist_ids": [
+        "5Ppbc55kNdjvxP8Tw2P8S9"
+      ]
+    },
+    {
+      "Pos": "83",
+      "P+": "-2",
+      "Artist and Title": "Lamin - Cohiba",
+      "Days": "115",
+      "Pk": "2",
+      "(x?)": "(x3)",
+      "Streams": "11,813",
+      "Streams+": "-3,712",
+      "7Day": "112,612",
+      "7Day+": "-2,925",
+      "Total": "4,579,744",
+      "track_id": "4xEZEFfN67HGEQBFH16Cmw",
+      "artist_ids": [
+        "4ZwOlDVAGXQo66ykbLQ8dP"
+      ]
+    },
+    {
+      "Pos": "84",
+      "P+": "+22",
+      "Artist and Title": "sombr - My Body Isn't Ready",
+      "Days": "65",
+      "Pk": "62",
+      "(x?)": "",
+      "Streams": "11,806",
+      "Streams+": "-1,169",
+      "7Day": "94,760",
+      "7Day+": "+767",
+      "Total": "786,737",
+      "track_id": "79RJg6MqIJlBuedcMqB9F0",
+      "artist_ids": [
+        "4G9NDjRyZFDlJKMRL8hx3S"
+      ]
+    },
+    {
+      "Pos": "85",
+      "P+": "+3",
       "Artist and Title": "Gobs - igen & igen (w/ One Two)",
-      "Days": "555",
+      "Days": "556",
       "Pk": "1",
       "(x?)": "(x6)",
-      "Streams": "14,364",
-      "Streams+": "-2,075",
-      "7Day": "92,707",
-      "7Day+": "-598",
-      "Total": "14,812,834",
+      "Streams": "11,783",
+      "Streams+": "-2,581",
+      "7Day": "94,798",
+      "7Day+": "+2,091",
+      "Total": "14,824,617",
       "track_id": "2Ikfha5EGyRU9TML7oi8zz",
       "artist_ids": [
         "4ysmSq2N7badobfVT6YZ82",
@@ -1533,70 +1479,69 @@
       ]
     },
     {
+      "Pos": "86",
+      "P+": "-11",
+      "Artist and Title": "KLIKEN - Wild (w/ Englando)",
+      "Days": "73",
+      "Pk": "30",
+      "(x?)": "",
+      "Streams": "11,533",
+      "Streams+": "-5,273",
+      "7Day": "100,615",
+      "7Day+": "+1,890",
+      "Total": "1,217,438",
+      "track_id": "73osRCXJBKH6n7DUnYd6P4",
+      "artist_ids": [
+        "67BbnG370WnGcK7Thdx7OC",
+        "2bvjuwumvVePZDZjIFu1jA"
+      ]
+    },
+    {
+      "Pos": "87",
+      "P+": "+73",
+      "Artist and Title": "Temper City - Self Aware",
+      "Days": "188",
+      "Pk": "60",
+      "(x?)": "",
+      "Streams": "11,484",
+      "Streams+": "+628",
+      "7Day": "82,635",
+      "7Day+": "+102",
+      "Total": "2,523,846",
+      "track_id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "artist_ids": [
+        "5mHUmlJWkcoOk1NbjfrXWz"
+      ]
+    },
+    {
+      "Pos": "88",
+      "P+": "+65",
+      "Artist and Title": "Trine Therkelsen - Puff - Den Magiske Drage",
+      "Days": "154",
+      "Pk": "62",
+      "(x?)": "",
+      "Streams": "11,446",
+      "Streams+": "+336",
+      "7Day": "79,224",
+      "7Day+": "-222",
+      "Total": "1,622,553",
+      "track_id": "2lIC7fGq2yNDgiA80MlTcA",
+      "artist_ids": [
+        "05gAr4rfrOofxGPewzWnAF"
+      ]
+    },
+    {
       "Pos": "89",
-      "P+": "-12",
-      "Artist and Title": "Tessa - Backshots (w/ Roc Boyz)",
-      "Days": "71",
-      "Pk": "45",
-      "(x?)": "",
-      "Streams": "14,330",
-      "Streams+": "-3,856",
-      "7Day": "90,139",
-      "7Day+": "-1,745",
-      "Total": "855,548",
-      "track_id": "05rmBmmwJEk2qvhoK9PK98",
-      "artist_ids": [
-        "3pJK3CUpbnyX7ogDfAwa9J",
-        "09qHO1fFJ6iIeTuCjO7Bfa"
-      ]
-    },
-    {
-      "Pos": "90",
-      "P+": "+6",
-      "Artist and Title": "Nik & Jay - KBH",
-      "Days": "52",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "14,239",
-      "Streams+": "-1,448",
-      "7Day": "83,054",
-      "7Day+": "+2,021",
-      "Total": "1,264,502",
-      "track_id": "5LMvsLJm6cEAxKiUJKPdyS",
-      "artist_ids": [
-        "71k6SmcYKiIPq8M2RxK2Jr"
-      ]
-    },
-    {
-      "Pos": "91",
-      "P+": "-18",
-      "Artist and Title": "Gilli - 10/5 (w/ Benny Jamz)",
-      "Days": "23",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "13,929",
-      "Streams+": "-6,613",
-      "7Day": "128,992",
-      "7Day+": "-6,404",
-      "Total": "676,144",
-      "track_id": "59pdHO38QvQM8lBy2VmI5V",
-      "artist_ids": [
-        "2KbikmQKGiUPR2ARs1h0sq",
-        "2eBqkaIfoNsOPCQCQEy5fD"
-      ]
-    },
-    {
-      "Pos": "92",
       "P+": "+3",
       "Artist and Title": "DJ Goja - Mi Chico - Official - Jason Derulo x Melody (w/ Jason Derulo, Melody)",
-      "Days": "17",
+      "Days": "18",
       "Pk": "58",
       "(x?)": "",
-      "Streams": "13,892",
-      "Streams+": "-1,833",
-      "7Day": "99,667",
-      "7Day+": "-233",
-      "Total": "231,498",
+      "Streams": "11,406",
+      "Streams+": "-2,486",
+      "7Day": "98,755",
+      "7Day+": "-912",
+      "Total": "242,904",
       "track_id": "6c2ZcdXHkEFdsNArdJXrHX",
       "artist_ids": [
         "2bHWbDN72wdIF0Y48669zg",
@@ -1605,17 +1550,52 @@
       ]
     },
     {
-      "Pos": "93",
-      "P+": "-6",
+      "Pos": "90",
+      "P+": "-3",
+      "Artist and Title": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj)",
+      "Days": "204",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "11,346",
+      "Streams+": "-3,172",
+      "7Day": "91,105",
+      "7Day+": "-140",
+      "Total": "5,507,848",
+      "track_id": "6QFCMUUq1T2Vf5sFUXcuQ7",
+      "artist_ids": [
+        "1uNFoZAHBGtllmzznpCI3s",
+        "0hCNtLu0JehylgoiP8L4Gh"
+      ]
+    },
+    {
+      "Pos": "91",
+      "P+": "+7",
+      "Artist and Title": "Olivia Dean - So Easy (To Fall In Love)",
+      "Days": "380",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "11,303",
+      "Streams+": "-2,206",
+      "7Day": "85,140",
+      "7Day+": "+265",
+      "Total": "9,500,983",
+      "track_id": "6sGIMrtIzQjdzNndVxe397",
+      "artist_ids": [
+        "00x1fYSGhdqScXBRpSj3DW"
+      ]
+    },
+    {
+      "Pos": "92",
+      "P+": "+1",
       "Artist and Title": "Artigeardit - Hvis væggene kunne tale (w/ ozzy)",
-      "Days": "128",
+      "Days": "129",
       "Pk": "5",
       "(x?)": "",
-      "Streams": "13,873",
-      "Streams+": "-2,893",
-      "7Day": "102,790",
-      "7Day+": "-2,029",
-      "Total": "3,805,580",
+      "Streams": "11,280",
+      "Streams+": "-2,593",
+      "7Day": "100,472",
+      "7Day+": "-2,318",
+      "Total": "3,816,860",
       "track_id": "0gGnep1DDoJa74jcYidaY9",
       "artist_ids": [
         "6a3WaWgxrVmNIvaiTCI0Kk",
@@ -1623,51 +1603,51 @@
       ]
     },
     {
-      "Pos": "94",
-      "P+": "-2",
-      "Artist and Title": "URO - Dø Ung",
-      "Days": "16",
-      "Pk": "36",
+      "Pos": "93",
+      "P+": "+10",
+      "Artist and Title": "Teddy Swims - Mr. Know It All",
+      "Days": "154",
+      "Pk": "28",
       "(x?)": "",
-      "Streams": "13,859",
-      "Streams+": "-2,483",
-      "7Day": "101,544",
-      "7Day+": "+980",
-      "Total": "251,444",
-      "track_id": "0fK8CkAbc7QHfbXL79GmkS",
+      "Streams": "11,255",
+      "Streams+": "-1,821",
+      "7Day": "92,423",
+      "7Day+": "-180",
+      "Total": "2,103,450",
+      "track_id": "2g5kPQh1EexoG8kGZH2nOZ",
       "artist_ids": [
-        "5FIdLxucf1EKqZfxeeXZzD"
+        "33qOK5uJ8AR2xuQQAhHump"
+      ]
+    },
+    {
+      "Pos": "94",
+      "P+": "+3",
+      "Artist and Title": "The Minds Of 99 - Under Din Sne",
+      "Days": "1767",
+      "Pk": "2",
+      "(x?)": "(x7)",
+      "Streams": "11,160",
+      "Streams+": "-2,416",
+      "7Day": "81,584",
+      "7Day+": "+1,258",
+      "Total": "38,406,043",
+      "track_id": "3LlqJkcXMBIAE5X1uUiZUN",
+      "artist_ids": [
+        "6GTwMrB4u3hwcUyc9sU1UL"
       ]
     },
     {
       "Pos": "95",
-      "P+": "+19",
-      "Artist and Title": "KALASET - Tag Mig Som Jeg Er",
-      "Days": "637",
-      "Pk": "24",
-      "(x?)": "",
-      "Streams": "13,813",
-      "Streams+": "-547",
-      "7Day": "79,209",
-      "7Day+": "+1,832",
-      "Total": "11,694,682",
-      "track_id": "3ng6kO3MEzOMBUDyWJxTHM",
-      "artist_ids": [
-        "2Wqxw6V3d9ZzAf32jTjwW7"
-      ]
-    },
-    {
-      "Pos": "96",
-      "P+": "+30",
+      "P+": "+1",
       "Artist and Title": "Benjamin Hav - Du ligner din mor (w/ Lukas Graham)",
-      "Days": "649",
+      "Days": "650",
       "Pk": "1",
       "(x?)": "(x19)",
-      "Streams": "13,703",
-      "Streams+": "+149",
-      "7Day": "77,435",
-      "7Day+": "-253",
-      "Total": "21,331,975",
+      "Streams": "11,153",
+      "Streams+": "-2,550",
+      "7Day": "78,655",
+      "7Day+": "+1,220",
+      "Total": "21,343,128",
       "track_id": "2v5RxyOtY5uSH2EAtz94SL",
       "artist_ids": [
         "67pwWZtcg7U2P2keoeC9jW",
@@ -1675,103 +1655,68 @@
       ]
     },
     {
-      "Pos": "97",
-      "P+": "+19",
-      "Artist and Title": "The Minds Of 99 - Under Din Sne",
-      "Days": "1766",
-      "Pk": "2",
-      "(x?)": "(x7)",
-      "Streams": "13,576",
-      "Streams+": "-699",
-      "7Day": "80,326",
-      "7Day+": "+895",
-      "Total": "38,394,883",
-      "track_id": "3LlqJkcXMBIAE5X1uUiZUN",
+      "Pos": "96",
+      "P+": "-6",
+      "Artist and Title": "Nik & Jay - KBH",
+      "Days": "53",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "11,151",
+      "Streams+": "-3,088",
+      "7Day": "85,605",
+      "7Day+": "+2,551",
+      "Total": "1,275,653",
+      "track_id": "5LMvsLJm6cEAxKiUJKPdyS",
       "artist_ids": [
-        "6GTwMrB4u3hwcUyc9sU1UL"
+        "71k6SmcYKiIPq8M2RxK2Jr"
+      ]
+    },
+    {
+      "Pos": "97",
+      "P+": "+13",
+      "Artist and Title": "ADÉLA - Ain't In LA",
+      "Days": "34",
+      "Pk": "76",
+      "(x?)": "",
+      "Streams": "11,119",
+      "Streams+": "-1,677",
+      "7Day": "85,826",
+      "7Day+": "-137",
+      "Total": "399,426",
+      "track_id": "6U9VpmP3dEinuezxCJ2Zg9",
+      "artist_ids": [
+        "2qanRMyA5bNuTvz1dK45OP"
       ]
     },
     {
       "Pos": "98",
-      "P+": "+22",
-      "Artist and Title": "Olivia Dean - So Easy (To Fall In Love)",
-      "Days": "379",
-      "Pk": "8",
+      "P+": "+11",
+      "Artist and Title": "Blæst - Elsker Dig Så Meget",
+      "Days": "816",
+      "Pk": "16",
       "(x?)": "",
-      "Streams": "13,509",
-      "Streams+": "-420",
-      "7Day": "84,875",
-      "7Day+": "+526",
-      "Total": "9,489,680",
-      "track_id": "6sGIMrtIzQjdzNndVxe397",
+      "Streams": "11,049",
+      "Streams+": "-1,751",
+      "7Day": "82,123",
+      "7Day+": "-2,454",
+      "Total": "17,421,990",
+      "track_id": "2doTTX8MLsVnAyAQqmqV7j",
       "artist_ids": [
-        "00x1fYSGhdqScXBRpSj3DW"
+        "3elCsuJ1JjDeAd8mjlRRX5"
       ]
     },
     {
       "Pos": "99",
-      "P+": "+28",
-      "Artist and Title": "Rocazino - All My Love",
-      "Days": "2551",
-      "Pk": "14",
-      "(x?)": "",
-      "Streams": "13,464",
-      "Streams+": "-76",
-      "7Day": "56,098",
-      "7Day+": "+861",
-      "Total": "32,786,621",
-      "track_id": "49clGe0PtbYUx3vB7tyk3A",
-      "artist_ids": [
-        "62ytrJr6FZ6W1boNI1Y0O3"
-      ]
-    },
-    {
-      "Pos": "100",
-      "P+": "RE",
-      "Artist and Title": "APHACA - Hvornår Kommer Du Hjem (w/ Bette)",
-      "Days": "241",
-      "Pk": "41",
-      "(x?)": "",
-      "Streams": "13,183",
-      "Streams+": "",
-      "7Day": "13,183",
-      "7Day+": "+13,183",
-      "Total": "3,663,672",
-      "track_id": "657CttNzh41EseXiePl3qC",
-      "artist_ids": [
-        "5Ppbc55kNdjvxP8Tw2P8S9",
-        "4gepV1NXit1T15YxX0Bv27"
-      ]
-    },
-    {
-      "Pos": "101",
       "P+": "+3",
-      "Artist and Title": "SIENNA SPIRO - Die On This Hill",
-      "Days": "264",
-      "Pk": "18",
-      "(x?)": "",
-      "Streams": "13,172",
-      "Streams+": "-1,938",
-      "7Day": "101,601",
-      "7Day+": "-1,166",
-      "Total": "4,357,976",
-      "track_id": "2gYTC8DsplN3RNdpdBcCOQ",
-      "artist_ids": [
-        "02gSuSAWEdWa5UOvqzjX6v"
-      ]
-    },
-    {
-      "Pos": "102",
-      "P+": "+20",
       "Artist and Title": "Dave - Raindance (w/ Tems)",
-      "Days": "352",
+      "Days": "353",
       "Pk": "3",
       "(x?)": "(x6)",
-      "Streams": "13,117",
-      "Streams+": "-762",
-      "7Day": "98,831",
-      "7Day+": "-1,768",
-      "Total": "10,006,615",
+      "Streams": "11,040",
+      "Streams+": "-2,077",
+      "7Day": "96,356",
+      "7Day+": "-2,475",
+      "Total": "10,017,655",
       "track_id": "3oTuTpF1F3A7rEC6RKsMRz",
       "artist_ids": [
         "6Ip8FS7vWT1uKkJSweANQK",
@@ -1779,170 +1724,444 @@
       ]
     },
     {
-      "Pos": "103",
-      "P+": "+7",
-      "Artist and Title": "Teddy Swims - Mr. Know It All",
-      "Days": "153",
-      "Pk": "28",
-      "(x?)": "",
-      "Streams": "13,076",
-      "Streams+": "-1,702",
-      "7Day": "92,603",
-      "7Day+": "-301",
-      "Total": "2,092,195",
-      "track_id": "2g5kPQh1EexoG8kGZH2nOZ",
+      "Pos": "100",
+      "P+": "-24",
+      "Artist and Title": "Gilli - Monaco",
+      "Days": "24",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "10,995",
+      "Streams+": "-5,469",
+      "7Day": "141,392",
+      "7Day+": "-9,608",
+      "Total": "945,088",
+      "track_id": "7ioSpzKdkBjG9FvgCwBVdr",
       "artist_ids": [
-        "33qOK5uJ8AR2xuQQAhHump"
+        "2KbikmQKGiUPR2ARs1h0sq"
+      ]
+    },
+    {
+      "Pos": "101",
+      "P+": "+20",
+      "Artist and Title": "Annika - Knuser Hjerter",
+      "Days": "959",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "10,985",
+      "Streams+": "-1,489",
+      "7Day": "83,608",
+      "7Day+": "-312",
+      "Total": "27,144,112",
+      "track_id": "6KliOBbtUUSwHHFjDzYVPe",
+      "artist_ids": [
+        "1GKN1Js8fa19K23eIhOMhg"
+      ]
+    },
+    {
+      "Pos": "102",
+      "P+": "+33",
+      "Artist and Title": "Ashe - Stop The Wedding!",
+      "Days": "9",
+      "Pk": "69",
+      "(x?)": "",
+      "Streams": "10,975",
+      "Streams+": "-754",
+      "7Day": "86,559",
+      "7Day+": "+1,166",
+      "Total": "105,571",
+      "track_id": "3zOYmiNOuyDL0ClxJcEJ0T",
+      "artist_ids": [
+        "6P5NO5hzJbuOqSdyPB7SJM"
+      ]
+    },
+    {
+      "Pos": "103",
+      "P+": "+10",
+      "Artist and Title": "Kind mod Kind - Livet Er For Kort",
+      "Days": "195",
+      "Pk": "49",
+      "(x?)": "",
+      "Streams": "10,975",
+      "Streams+": "-1,758",
+      "7Day": "78,433",
+      "7Day+": "+2,632",
+      "Total": "2,695,662",
+      "track_id": "6QynJvly6ZcSpcEweJwQEt",
+      "artist_ids": [
+        "0cc3y7owJCbx8MuYJZI6As"
       ]
     },
     {
       "Pos": "104",
-      "P+": "+42",
-      "Artist and Title": "Carl Emil Petersen - Amager Forbrænding",
-      "Days": "118",
-      "Pk": "67",
+      "P+": "+13",
+      "Artist and Title": "The Goo Goo Dolls - Iris",
+      "Days": "425",
+      "Pk": "61",
       "(x?)": "",
-      "Streams": "12,984",
-      "Streams+": "+260",
-      "7Day": "75,456",
-      "7Day+": "+736",
-      "Total": "1,341,047",
-      "track_id": "5oFMpxzRKxZG55d94SDY0E",
+      "Streams": "10,946",
+      "Streams+": "-1,652",
+      "7Day": "85,932",
+      "7Day+": "+327",
+      "Total": "4,778,119",
+      "track_id": "6Qyc6fS4DsZjB2mRW9DsQs",
       "artist_ids": [
-        "110Rr0Zj9wSL6vOlh9DEyW"
+        "2sil8z5kiy4r76CRTXxBCA"
       ]
     },
     {
       "Pos": "105",
-      "P+": "+19",
+      "P+": "-10",
+      "Artist and Title": "KALASET - Tag Mig Som Jeg Er",
+      "Days": "638",
+      "Pk": "24",
+      "(x?)": "",
+      "Streams": "10,901",
+      "Streams+": "-2,912",
+      "7Day": "80,894",
+      "7Day+": "+1,685",
+      "Total": "11,705,583",
+      "track_id": "3ng6kO3MEzOMBUDyWJxTHM",
+      "artist_ids": [
+        "2Wqxw6V3d9ZzAf32jTjwW7"
+      ]
+    },
+    {
+      "Pos": "106",
+      "P+": "+24",
+      "Artist and Title": "Ravyn Lenae - Love Me Not",
+      "Days": "419",
+      "Pk": "44",
+      "(x?)": "",
+      "Streams": "10,878",
+      "Streams+": "-1,143",
+      "7Day": "79,710",
+      "7Day+": "+948",
+      "Total": "5,494,022",
+      "track_id": "4WFgvKVfEhb3IUAFGrutTR",
+      "artist_ids": [
+        "5RTLRtXjbXI2lSXc6jxlAz"
+      ]
+    },
+    {
+      "Pos": "107",
+      "P+": "+11",
+      "Artist and Title": "Annika - Der så meget jeg ikke fortæller",
+      "Days": "368",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "10,837",
+      "Streams+": "-1,749",
+      "7Day": "81,885",
+      "7Day+": "+481",
+      "Total": "6,109,574",
+      "track_id": "0RMqPnXgdZoP6dmvFUZfEP",
+      "artist_ids": [
+        "1GKN1Js8fa19K23eIhOMhg"
+      ]
+    },
+    {
+      "Pos": "108",
+      "P+": "-19",
+      "Artist and Title": "Tessa - Backshots (w/ Roc Boyz)",
+      "Days": "72",
+      "Pk": "45",
+      "(x?)": "",
+      "Streams": "10,596",
+      "Streams+": "-3,734",
+      "7Day": "89,839",
+      "7Day+": "-300",
+      "Total": "866,144",
+      "track_id": "05rmBmmwJEk2qvhoK9PK98",
+      "artist_ids": [
+        "3pJK3CUpbnyX7ogDfAwa9J",
+        "09qHO1fFJ6iIeTuCjO7Bfa"
+      ]
+    },
+    {
+      "Pos": "109",
+      "P+": "-4",
       "Artist and Title": "TLC - No Scrubs",
-      "Days": "39",
+      "Days": "40",
       "Pk": "53",
       "(x?)": "",
-      "Streams": "12,977",
-      "Streams+": "-613",
-      "7Day": "82,264",
-      "7Day+": "+545",
-      "Total": "463,772",
+      "Streams": "10,546",
+      "Streams+": "-2,431",
+      "7Day": "82,763",
+      "7Day+": "+499",
+      "Total": "474,318",
       "track_id": "1KGi9sZVMeszgZOWivFpxs",
       "artist_ids": [
         "0TImkz4nPqjegtVSMZnMRq"
       ]
     },
     {
-      "Pos": "106",
-      "P+": "=",
-      "Artist and Title": "sombr - My Body Isn't Ready",
-      "Days": "64",
-      "Pk": "62",
+      "Pos": "110",
+      "P+": "-36",
+      "Artist and Title": "Gilli - Cabaret",
+      "Days": "24",
+      "Pk": "5",
       "(x?)": "",
-      "Streams": "12,975",
-      "Streams+": "-2,047",
-      "7Day": "93,993",
-      "7Day+": "+2,468",
-      "Total": "774,931",
-      "track_id": "79RJg6MqIJlBuedcMqB9F0",
+      "Streams": "10,514",
+      "Streams+": "-6,350",
+      "7Day": "137,510",
+      "7Day+": "-8,908",
+      "Total": "851,107",
+      "track_id": "2h9FJPS3zN0d0U4F7n6GOC",
       "artist_ids": [
-        "4G9NDjRyZFDlJKMRL8hx3S"
+        "2KbikmQKGiUPR2ARs1h0sq"
       ]
     },
     {
-      "Pos": "107",
-      "P+": "-6",
-      "Artist and Title": "Rihanna - Only Girl (In The World)",
-      "Days": "762",
-      "Pk": "37",
-      "(x?)": "",
-      "Streams": "12,935",
-      "Streams+": "-2,276",
-      "7Day": "80,675",
-      "7Day+": "+442",
-      "Total": "8,948,500",
-      "track_id": "2ENexcMEMsYk0rVJigVD3i",
+      "Pos": "111",
+      "P+": "+23",
+      "Artist and Title": "Shawn Mendes - Treat You Better",
+      "Days": "599",
+      "Pk": "2",
+      "(x?)": "(x2)",
+      "Streams": "10,459",
+      "Streams+": "-1,324",
+      "7Day": "81,545",
+      "7Day+": "-107",
+      "Total": "15,954,412",
+      "track_id": "3QGsuHI8jO1Rx4JWLUh9jd",
       "artist_ids": [
-        "5pKCCKE2ajJHZ9KAiaK11H"
+        "7n2wHs1TKAczGzO7Dd2rGr"
       ]
     },
     {
-      "Pos": "108",
-      "P+": "+4",
+      "Pos": "112",
+      "P+": "+28",
+      "Artist and Title": "Alberte Winding - Lyse Nætter",
+      "Days": "158",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "10,440",
+      "Streams+": "-1,123",
+      "7Day": "74,195",
+      "7Day+": "-240",
+      "Total": "2,406,710",
+      "track_id": "2qrxwBsuhtAopI7inJxW6u",
+      "artist_ids": [
+        "42mipk3GhuRQ8CjFTBDGqt"
+      ]
+    },
+    {
+      "Pos": "113",
+      "P+": "+1",
+      "Artist and Title": "Tobias Rahim - Den Danske Sommer (w/ Birthe Kjær)",
+      "Days": "185",
+      "Pk": "1",
+      "(x?)": "(x20)",
+      "Streams": "10,406",
+      "Streams+": "-2,311",
+      "7Day": "77,821",
+      "7Day+": "-322",
+      "Total": "7,989,306",
+      "track_id": "3oRnLpv1REaIDhxIR8F0zw",
+      "artist_ids": [
+        "1w2fVGZN37TieWhlqS8UwB",
+        "0IfpyCP48pZ9kkFVSeHbC5"
+      ]
+    },
+    {
+      "Pos": "114",
+      "P+": "+12",
+      "Artist and Title": "Zara Larsson - Lush Life",
+      "Days": "1128",
+      "Pk": "2",
+      "(x?)": "(x13)",
+      "Streams": "10,371",
+      "Streams+": "-1,841",
+      "7Day": "75,134",
+      "7Day+": "+640",
+      "Total": "23,727,558",
+      "track_id": "1rIKgCH4H52lrvDcz50hS8",
+      "artist_ids": [
+        "1Xylc3o4UrD53lo9CvFvVg"
+      ]
+    },
+    {
+      "Pos": "115",
+      "P+": "+23",
+      "Artist and Title": "Katy Perry - The One That Got Away",
+      "Days": "166",
+      "Pk": "67",
+      "(x?)": "",
+      "Streams": "10,326",
+      "Streams+": "-1,347",
+      "7Day": "80,375",
+      "7Day+": "+6",
+      "Total": "2,202,511",
+      "track_id": "2009X8GyWTqyxIdzAEYW6N",
+      "artist_ids": [
+        "6jJ0s89eD6GaHleKKya26X"
+      ]
+    },
+    {
+      "Pos": "116",
+      "P+": "-1",
+      "Artist and Title": "Rosa - Skyklapper",
+      "Days": "306",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "10,298",
+      "Streams+": "-2,319",
+      "7Day": "74,052",
+      "7Day+": "-47",
+      "Total": "7,417,534",
+      "track_id": "6duCMFaYET6WicI5rTD9jz",
+      "artist_ids": [
+        "5RacSDArd3wuqKnWx46sTM"
+      ]
+    },
+    {
+      "Pos": "117",
+      "P+": "-13",
+      "Artist and Title": "Carl Emil Petersen - Amager Forbrænding",
+      "Days": "119",
+      "Pk": "67",
+      "(x?)": "",
+      "Streams": "10,294",
+      "Streams+": "-2,690",
+      "7Day": "75,870",
+      "7Day+": "+414",
+      "Total": "1,351,341",
+      "track_id": "5oFMpxzRKxZG55d94SDY0E",
+      "artist_ids": [
+        "110Rr0Zj9wSL6vOlh9DEyW"
+      ]
+    },
+    {
+      "Pos": "118",
+      "P+": "+23",
+      "Artist and Title": "Tame Impala - Loser",
+      "Days": "68",
+      "Pk": "53",
+      "(x?)": "",
+      "Streams": "10,289",
+      "Streams+": "-1,234",
+      "7Day": "80,908",
+      "7Day+": "-542",
+      "Total": "859,637",
+      "track_id": "7bxaFZ1O3cHkgLKMsdC3xR",
+      "artist_ids": [
+        "5INjqkS1o8h1imAzPqGZBb"
+      ]
+    },
+    {
+      "Pos": "119",
+      "P+": "+79",
+      "Artist and Title": "Trine Therkelsen - Under Stjernerne På Himlen",
+      "Days": "85",
+      "Pk": "83",
+      "(x?)": "",
+      "Streams": "10,251",
+      "Streams+": "+226",
+      "7Day": "62,252",
+      "7Day+": "-449",
+      "Total": "860,884",
+      "track_id": "1lZ6u1mye7jlEVu7D5vnBz",
+      "artist_ids": [
+        "05gAr4rfrOofxGPewzWnAF"
+      ]
+    },
+    {
+      "Pos": "120",
+      "P+": "-12",
       "Artist and Title": "Annika - Hun",
-      "Days": "851",
+      "Days": "852",
       "Pk": "16",
       "(x?)": "",
-      "Streams": "12,867",
-      "Streams+": "-1,727",
-      "7Day": "86,313",
-      "7Day+": "-509",
-      "Total": "15,671,478",
+      "Streams": "10,208",
+      "Streams+": "-2,659",
+      "7Day": "84,121",
+      "7Day+": "-2,192",
+      "Total": "15,681,686",
       "track_id": "6ZC9iIWBCy4VtBhoY1YTuR",
       "artist_ids": [
         "1GKN1Js8fa19K23eIhOMhg"
       ]
     },
     {
-      "Pos": "109",
-      "P+": "+53",
-      "Artist and Title": "Blæst - Elsker Dig Så Meget",
-      "Days": "815",
-      "Pk": "16",
+      "Pos": "121",
+      "P+": "+42",
+      "Artist and Title": "The Neighbourhood - Sweater Weather",
+      "Days": "526",
+      "Pk": "58",
       "(x?)": "",
-      "Streams": "12,800",
-      "Streams+": "+687",
-      "7Day": "84,577",
-      "7Day+": "-4,560",
-      "Total": "17,410,941",
-      "track_id": "2doTTX8MLsVnAyAQqmqV7j",
+      "Streams": "10,179",
+      "Streams+": "-642",
+      "7Day": "78,401",
+      "7Day+": "-422",
+      "Total": "5,113,679",
+      "track_id": "2QjOHCTQ1Jl3zawyYOpxh6",
       "artist_ids": [
-        "3elCsuJ1JjDeAd8mjlRRX5"
+        "77SW9BnxLY8rJ0RciFqkHh"
       ]
     },
     {
-      "Pos": "110",
-      "P+": "+20",
-      "Artist and Title": "ADÉLA - Ain't In LA",
-      "Days": "33",
-      "Pk": "76",
+      "Pos": "122",
+      "P+": "-15",
+      "Artist and Title": "Rihanna - Only Girl (In The World)",
+      "Days": "763",
+      "Pk": "37",
       "(x?)": "",
-      "Streams": "12,796",
-      "Streams+": "-616",
-      "7Day": "85,963",
-      "7Day+": "+150",
-      "Total": "388,307",
-      "track_id": "6U9VpmP3dEinuezxCJ2Zg9",
+      "Streams": "10,173",
+      "Streams+": "-2,762",
+      "7Day": "81,818",
+      "7Day+": "+1,143",
+      "Total": "8,958,673",
+      "track_id": "2ENexcMEMsYk0rVJigVD3i",
       "artist_ids": [
-        "2qanRMyA5bNuTvz1dK45OP"
+        "5pKCCKE2ajJHZ9KAiaK11H"
       ]
     },
     {
-      "Pos": "111",
-      "P+": "+36",
-      "Artist and Title": "The Minds Of 99 - Hurtige Hænder - Acoustic Version - Moyo Live P3",
-      "Days": "2632",
-      "Pk": "16",
+      "Pos": "123",
+      "P+": "+9",
+      "Artist and Title": "Ariana Grande - hate that i made you love me",
+      "Days": "135",
+      "Pk": "12",
       "(x?)": "",
-      "Streams": "12,792",
-      "Streams+": "+152",
-      "7Day": "77,069",
-      "7Day+": "-275",
-      "Total": "32,788,423",
-      "track_id": "3D0VPp6nCN9dsyUjFv2BvP",
+      "Streams": "10,147",
+      "Streams+": "-1,798",
+      "7Day": "83,289",
+      "7Day+": "-1,119",
+      "Total": "3,211,251",
+      "track_id": "20jbSiX29FDX4oQxBXyUEi",
       "artist_ids": [
-        "6GTwMrB4u3hwcUyc9sU1UL"
+        "66CXWjxzNUsdJxJ2JdwvnR"
       ]
     },
     {
-      "Pos": "112",
-      "P+": "+5",
+      "Pos": "124",
+      "P+": "-5",
+      "Artist and Title": "Jonah Blacksmith - House On Fire",
+      "Days": "491",
+      "Pk": "20",
+      "(x?)": "",
+      "Streams": "10,099",
+      "Streams+": "-2,466",
+      "7Day": "45,148",
+      "7Day+": "+10,099",
+      "Total": "6,079,935",
+      "track_id": "4OqBSwyAzEEMnESPYmb1Xp",
+      "artist_ids": [
+        "3oM2douHxNqMYMbRNkT1tr"
+      ]
+    },
+    {
+      "Pos": "125",
+      "P+": "-13",
       "Artist and Title": "Anton Westerlin - Hørt Det Før (w/ Pil, Annika, Mille, Medina)",
-      "Days": "505",
+      "Days": "506",
       "Pk": "2",
       "(x?)": "(x1)",
-      "Streams": "12,757",
-      "Streams+": "-1,464",
-      "7Day": "83,010",
-      "7Day+": "-583",
-      "Total": "18,445,426",
+      "Streams": "10,053",
+      "Streams+": "-2,704",
+      "7Day": "82,279",
+      "7Day+": "-731",
+      "Total": "18,455,479",
       "track_id": "2MOH9hDRMYCpNzmHzCRjPh",
       "artist_ids": [
         "5NYUb39ntjgN7cRtN4y25T",
@@ -1953,291 +2172,68 @@
       ]
     },
     {
-      "Pos": "113",
-      "P+": "-10",
-      "Artist and Title": "Kind mod Kind - Livet Er For Kort",
-      "Days": "194",
-      "Pk": "49",
-      "(x?)": "",
-      "Streams": "12,733",
-      "Streams+": "-2,388",
-      "7Day": "75,801",
-      "7Day+": "+2,294",
-      "Total": "2,684,687",
-      "track_id": "6QynJvly6ZcSpcEweJwQEt",
-      "artist_ids": [
-        "0cc3y7owJCbx8MuYJZI6As"
-      ]
-    },
-    {
-      "Pos": "114",
-      "P+": "+9",
-      "Artist and Title": "Tobias Rahim - Den Danske Sommer (w/ Birthe Kjær)",
-      "Days": "184",
-      "Pk": "1",
-      "(x?)": "(x20)",
-      "Streams": "12,717",
-      "Streams+": "-1,113",
-      "7Day": "78,143",
-      "7Day+": "-166",
-      "Total": "7,978,900",
-      "track_id": "3oRnLpv1REaIDhxIR8F0zw",
-      "artist_ids": [
-        "1w2fVGZN37TieWhlqS8UwB",
-        "0IfpyCP48pZ9kkFVSeHbC5"
-      ]
-    },
-    {
-      "Pos": "115",
-      "P+": "+42",
-      "Artist and Title": "Rosa - Skyklapper",
-      "Days": "305",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "12,617",
-      "Streams+": "+354",
-      "7Day": "74,099",
-      "7Day+": "-181",
-      "Total": "7,407,236",
-      "track_id": "6duCMFaYET6WicI5rTD9jz",
-      "artist_ids": [
-        "5RacSDArd3wuqKnWx46sTM"
-      ]
-    },
-    {
-      "Pos": "116",
-      "P+": "-16",
-      "Artist and Title": "Rihanna - Don't Stop The Music",
-      "Days": "368",
-      "Pk": "48",
-      "(x?)": "",
-      "Streams": "12,614",
-      "Streams+": "-2,656",
-      "7Day": "79,680",
-      "7Day+": "+92",
-      "Total": "4,290,846",
-      "track_id": "1Jo0Zg7XlrA6z0mFTZVdkn",
-      "artist_ids": [
-        "5pKCCKE2ajJHZ9KAiaK11H"
-      ]
-    },
-    {
-      "Pos": "117",
-      "P+": "+2",
-      "Artist and Title": "The Goo Goo Dolls - Iris",
-      "Days": "424",
-      "Pk": "61",
-      "(x?)": "",
-      "Streams": "12,598",
-      "Streams+": "-1,331",
-      "7Day": "85,605",
-      "7Day+": "+941",
-      "Total": "4,767,173",
-      "track_id": "6Qyc6fS4DsZjB2mRW9DsQs",
-      "artist_ids": [
-        "2sil8z5kiy4r76CRTXxBCA"
-      ]
-    },
-    {
-      "Pos": "118",
-      "P+": "-20",
-      "Artist and Title": "Annika - Der så meget jeg ikke fortæller",
-      "Days": "367",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "12,586",
-      "Streams+": "-2,780",
-      "7Day": "81,404",
-      "7Day+": "+1,297",
-      "Total": "6,098,737",
-      "track_id": "0RMqPnXgdZoP6dmvFUZfEP",
-      "artist_ids": [
-        "1GKN1Js8fa19K23eIhOMhg"
-      ]
-    },
-    {
-      "Pos": "119",
-      "P+": "+39",
-      "Artist and Title": "Jonah Blacksmith - House On Fire",
-      "Days": "490",
-      "Pk": "20",
-      "(x?)": "",
-      "Streams": "12,565",
-      "Streams+": "+310",
-      "7Day": "35,049",
-      "7Day+": "+12,565",
-      "Total": "6,069,836",
-      "track_id": "4OqBSwyAzEEMnESPYmb1Xp",
-      "artist_ids": [
-        "3oM2douHxNqMYMbRNkT1tr"
-      ]
-    },
-    {
-      "Pos": "120",
-      "P+": "-18",
-      "Artist and Title": "D1MA - I KNOW",
-      "Days": "1200",
-      "Pk": "1",
-      "(x?)": "(x13)",
-      "Streams": "12,565",
-      "Streams+": "-2,572",
-      "7Day": "89,726",
-      "7Day+": "-1,512",
-      "Total": "34,809,925",
-      "track_id": "3aQzeklWllLWZSH4xk7Udj",
-      "artist_ids": [
-        "5RaTuqY7SJHvh6MNzMagut"
-      ]
-    },
-    {
-      "Pos": "121",
-      "P+": "=",
-      "Artist and Title": "Annika - Knuser Hjerter",
-      "Days": "958",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "12,474",
-      "Streams+": "-1,424",
-      "7Day": "83,920",
-      "7Day+": "-711",
-      "Total": "27,133,127",
-      "track_id": "6KliOBbtUUSwHHFjDzYVPe",
-      "artist_ids": [
-        "1GKN1Js8fa19K23eIhOMhg"
-      ]
-    },
-    {
-      "Pos": "122",
-      "P+": "+12",
-      "Artist and Title": "Mille - drømmefanger (w/ URO)",
-      "Days": "275",
-      "Pk": "1",
-      "(x?)": "(x5)",
-      "Streams": "12,456",
-      "Streams+": "-754",
-      "7Day": "85,695",
-      "7Day+": "-3,350",
-      "Total": "7,822,041",
-      "track_id": "4XgxdK8qm0K6EVUmg7ROMl",
-      "artist_ids": [
-        "1WLr84Nec3Bb8xuxgQZGb9",
-        "5FIdLxucf1EKqZfxeeXZzD"
-      ]
-    },
-    {
-      "Pos": "123",
-      "P+": "+30",
-      "Artist and Title": "Medina - Kun For Mig",
-      "Days": "779",
-      "Pk": "34",
-      "(x?)": "",
-      "Streams": "12,406",
-      "Streams+": "-40",
-      "7Day": "24,852",
-      "7Day+": "+1,002",
-      "Total": "9,605,826",
-      "track_id": "7hBGy8DIYXuUZf5ZUjKHPO",
-      "artist_ids": [
-        "7c7ZeiPKWHf2E1rsf1P4VF"
-      ]
-    },
-    {
-      "Pos": "124",
-      "P+": "-11",
-      "Artist and Title": "Gilli - Knokler Hårdt",
-      "Days": "1364",
-      "Pk": "28",
-      "(x?)": "",
-      "Streams": "12,259",
-      "Streams+": "-2,110",
-      "7Day": "81,609",
-      "7Day+": "-757",
-      "Total": "17,052,676",
-      "track_id": "5RR4sBH4TRqyFp386kf99d",
-      "artist_ids": [
-        "2KbikmQKGiUPR2ARs1h0sq"
-      ]
-    },
-    {
-      "Pos": "125",
-      "P+": "-32",
-      "Artist and Title": "Suspekt - 9 Liv",
-      "Days": "16",
-      "Pk": "12",
-      "(x?)": "",
-      "Streams": "12,241",
-      "Streams+": "-3,969",
-      "7Day": "99,579",
-      "7Day+": "-7,054",
-      "Total": "325,117",
-      "track_id": "3GStI8qvcZAKgc2Rsu5qBv",
-      "artist_ids": [
-        "74HomvqoUecDcUPRespyqg"
-      ]
-    },
-    {
       "Pos": "126",
-      "P+": "-1",
-      "Artist and Title": "Zara Larsson - Lush Life",
-      "Days": "1127",
-      "Pk": "2",
-      "(x?)": "(x13)",
-      "Streams": "12,212",
-      "Streams+": "-1,360",
-      "7Day": "74,494",
-      "7Day+": "-153",
-      "Total": "23,717,187",
-      "track_id": "1rIKgCH4H52lrvDcz50hS8",
+      "P+": "-15",
+      "Artist and Title": "The Minds Of 99 - Hurtige Hænder - Acoustic Version - Moyo Live P3",
+      "Days": "2633",
+      "Pk": "16",
+      "(x?)": "",
+      "Streams": "10,024",
+      "Streams+": "-2,768",
+      "7Day": "76,702",
+      "7Day+": "-367",
+      "Total": "32,798,447",
+      "track_id": "3D0VPp6nCN9dsyUjFv2BvP",
       "artist_ids": [
-        "1Xylc3o4UrD53lo9CvFvVg"
+        "6GTwMrB4u3hwcUyc9sU1UL"
       ]
     },
     {
       "Pos": "127",
-      "P+": "-33",
-      "Artist and Title": "URO - Dag Etter",
-      "Days": "9",
-      "Pk": "21",
-      "(x?)": "",
-      "Streams": "12,150",
-      "Streams+": "-3,600",
-      "7Day": "123,234",
-      "7Day+": "-8,092",
-      "Total": "178,474",
-      "track_id": "0yXbholP1jDYnkFXo7XwqH",
-      "artist_ids": [
-        "5FIdLxucf1EKqZfxeeXZzD"
-      ]
-    },
-    {
-      "Pos": "128",
-      "P+": "-23",
+      "P+": "+1",
       "Artist and Title": "D1MA - CLEOPATRA",
-      "Days": "742",
+      "Days": "743",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "12,121",
-      "Streams+": "-2,986",
-      "7Day": "89,798",
-      "7Day+": "-1,105",
-      "Total": "15,484,654",
+      "Streams": "10,018",
+      "Streams+": "-2,103",
+      "7Day": "88,657",
+      "7Day+": "-1,141",
+      "Total": "15,494,672",
       "track_id": "65C4AmFA6oyMJ2lwLNPiIB",
       "artist_ids": [
         "5RaTuqY7SJHvh6MNzMagut"
       ]
     },
     {
+      "Pos": "128",
+      "P+": "+5",
+      "Artist and Title": "Ella Augusta - Baglæns",
+      "Days": "600",
+      "Pk": "18",
+      "(x?)": "",
+      "Streams": "10,012",
+      "Streams+": "-1,903",
+      "7Day": "73,592",
+      "7Day+": "+295",
+      "Total": "10,906,140",
+      "track_id": "5O2NovuSaij0nsULxUt8V5",
+      "artist_ids": [
+        "77Y8znH6FsXmoGzwxbFlOz"
+      ]
+    },
+    {
       "Pos": "129",
-      "P+": "-11",
+      "P+": "=",
       "Artist and Title": "Gobs - 1000 År (w/ Rasmus Seebach, Ankerstjerne)",
-      "Days": "198",
+      "Days": "199",
       "Pk": "2",
       "(x?)": "(x1)",
-      "Streams": "12,083",
-      "Streams+": "-2,055",
-      "7Day": "79,708",
-      "7Day+": "+2,189",
-      "Total": "4,086,258",
+      "Streams": "9,972",
+      "Streams+": "-2,111",
+      "7Day": "81,180",
+      "7Day+": "+1,472",
+      "Total": "4,096,230",
       "track_id": "6zt65jHkZGhMlpr8hmSFBS",
       "artist_ids": [
         "4ysmSq2N7badobfVT6YZ82",
@@ -2247,446 +2243,85 @@
     },
     {
       "Pos": "130",
-      "P+": "+10",
-      "Artist and Title": "Ravyn Lenae - Love Me Not",
-      "Days": "418",
-      "Pk": "44",
-      "(x?)": "",
-      "Streams": "12,021",
-      "Streams+": "-936",
-      "7Day": "78,762",
-      "7Day+": "+1,050",
-      "Total": "5,483,144",
-      "track_id": "4WFgvKVfEhb3IUAFGrutTR",
-      "artist_ids": [
-        "5RTLRtXjbXI2lSXc6jxlAz"
-      ]
-    },
-    {
-      "Pos": "131",
-      "P+": "-47",
-      "Artist and Title": "D1MA - spøgelse",
-      "Days": "73",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "11,992",
-      "Streams+": "-5,034",
-      "7Day": "91,564",
-      "7Day+": "-680",
-      "Total": "1,706,577",
-      "track_id": "1n6JDny8iDA8btrO21y53p",
-      "artist_ids": [
-        "5RaTuqY7SJHvh6MNzMagut"
-      ]
-    },
-    {
-      "Pos": "132",
-      "P+": "+12",
-      "Artist and Title": "Ariana Grande - hate that i made you love me",
-      "Days": "134",
-      "Pk": "12",
-      "(x?)": "",
-      "Streams": "11,945",
-      "Streams+": "-832",
-      "7Day": "84,408",
-      "7Day+": "-1,037",
-      "Total": "3,201,104",
-      "track_id": "20jbSiX29FDX4oQxBXyUEi",
-      "artist_ids": [
-        "66CXWjxzNUsdJxJ2JdwvnR"
-      ]
-    },
-    {
-      "Pos": "133",
-      "P+": "+31",
-      "Artist and Title": "Ella Augusta - Baglæns",
-      "Days": "599",
-      "Pk": "18",
-      "(x?)": "",
-      "Streams": "11,915",
-      "Streams+": "-160",
-      "7Day": "73,297",
-      "7Day+": "-195",
-      "Total": "10,896,128",
-      "track_id": "5O2NovuSaij0nsULxUt8V5",
-      "artist_ids": [
-        "77Y8znH6FsXmoGzwxbFlOz"
-      ]
-    },
-    {
-      "Pos": "134",
-      "P+": "+4",
-      "Artist and Title": "Shawn Mendes - Treat You Better",
-      "Days": "598",
-      "Pk": "2",
-      "(x?)": "(x2)",
-      "Streams": "11,783",
-      "Streams+": "-1,275",
-      "7Day": "81,652",
-      "7Day+": "+134",
-      "Total": "15,943,953",
-      "track_id": "3QGsuHI8jO1Rx4JWLUh9jd",
-      "artist_ids": [
-        "7n2wHs1TKAczGzO7Dd2rGr"
-      ]
-    },
-    {
-      "Pos": "135",
-      "P+": "-4",
-      "Artist and Title": "Ashe - Stop The Wedding!",
-      "Days": "8",
-      "Pk": "69",
-      "(x?)": "",
-      "Streams": "11,729",
-      "Streams+": "-1,664",
-      "7Day": "85,393",
-      "7Day+": "+11,729",
-      "Total": "94,596",
-      "track_id": "3zOYmiNOuyDL0ClxJcEJ0T",
-      "artist_ids": [
-        "6P5NO5hzJbuOqSdyPB7SJM"
-      ]
-    },
-    {
-      "Pos": "136",
-      "P+": "-1",
-      "Artist and Title": "Lamin - Låst Inde",
-      "Days": "177",
-      "Pk": "2",
-      "(x?)": "(x8)",
-      "Streams": "11,718",
-      "Streams+": "-1,467",
-      "7Day": "80,679",
-      "7Day+": "-1,607",
-      "Total": "6,084,825",
-      "track_id": "71GXry0HuU8KjxW1yqU2Ik",
-      "artist_ids": [
-        "4ZwOlDVAGXQo66ykbLQ8dP"
-      ]
-    },
-    {
-      "Pos": "137",
-      "P+": "-80",
-      "Artist and Title": "Cizzo - Blackjack",
-      "Days": "2",
-      "Pk": "57",
-      "(x?)": "",
-      "Streams": "11,686",
-      "Streams+": "-13,745",
-      "7Day": "37,117",
-      "7Day+": "+11,686",
-      "Total": "37,117",
-      "track_id": "5jUGkXx4UEwl22L6Q8YxBc",
-      "artist_ids": [
-        "4mDyp9yRHugUnXvIBrt9xP"
-      ]
-    },
-    {
-      "Pos": "138",
-      "P+": "-2",
-      "Artist and Title": "Katy Perry - The One That Got Away",
-      "Days": "165",
-      "Pk": "67",
-      "(x?)": "",
-      "Streams": "11,673",
-      "Streams+": "-1,511",
-      "7Day": "80,369",
-      "7Day+": "-497",
-      "Total": "2,192,185",
-      "track_id": "2009X8GyWTqyxIdzAEYW6N",
-      "artist_ids": [
-        "6jJ0s89eD6GaHleKKya26X"
-      ]
-    },
-    {
-      "Pos": "139",
-      "P+": "-24",
-      "Artist and Title": "Scarlet Pleasure - Good Together",
-      "Days": "403",
+      "P+": "-57",
+      "Artist and Title": "Merro8 - Vant Til (w/ KESI)",
+      "Days": "10",
       "Pk": "6",
       "(x?)": "",
-      "Streams": "11,590",
-      "Streams+": "-2,765",
-      "7Day": "83,982",
-      "7Day+": "-3,155",
-      "Total": "8,708,419",
-      "track_id": "4iZrD0uy5IxST6eKg3uJHr",
+      "Streams": "9,955",
+      "Streams+": "-7,077",
+      "7Day": "140,857",
+      "7Day+": "-14,241",
+      "Total": "238,437",
+      "track_id": "0HuDb66kQr9d0Y0nHaG37U",
       "artist_ids": [
-        "7wrulS1dfanckBnoxxEuS6"
-      ]
-    },
-    {
-      "Pos": "140",
-      "P+": "+52",
-      "Artist and Title": "Alberte Winding - Lyse Nætter",
-      "Days": "157",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "11,563",
-      "Streams+": "+398",
-      "7Day": "74,435",
-      "7Day+": "-502",
-      "Total": "2,396,270",
-      "track_id": "2qrxwBsuhtAopI7inJxW6u",
-      "artist_ids": [
-        "42mipk3GhuRQ8CjFTBDGqt"
-      ]
-    },
-    {
-      "Pos": "141",
-      "P+": "+13",
-      "Artist and Title": "Tame Impala - Loser",
-      "Days": "67",
-      "Pk": "53",
-      "(x?)": "",
-      "Streams": "11,523",
-      "Streams+": "-825",
-      "7Day": "81,450",
-      "7Day+": "-599",
-      "Total": "849,348",
-      "track_id": "7bxaFZ1O3cHkgLKMsdC3xR",
-      "artist_ids": [
-        "5INjqkS1o8h1imAzPqGZBb"
-      ]
-    },
-    {
-      "Pos": "142",
-      "P+": "-9",
-      "Artist and Title": "HUGEL - Movin' To The Sun (w/ Imael Angel, Ultra Naté)",
-      "Days": "95",
-      "Pk": "49",
-      "(x?)": "",
-      "Streams": "11,491",
-      "Streams+": "-1,780",
-      "7Day": "80,874",
-      "7Day+": "-1,714",
-      "Total": "1,315,254",
-      "track_id": "4vTsKN15Kqo3Geo9r7FhAN",
-      "artist_ids": [
-        "5PlfkPxwCpRRWQJBxCa0By",
-        "17yREPqyU875WJnX9U082A",
-        "1cK2Abwkni7m51wJCSGllN"
-      ]
-    },
-    {
-      "Pos": "143",
-      "P+": "-11",
-      "Artist and Title": "Artigeardit - Er Her (Artigeardit, KESI) (w/ KESI)",
-      "Days": "1731",
-      "Pk": "1",
-      "(x?)": "(x18)",
-      "Streams": "11,397",
-      "Streams+": "-1,918",
-      "7Day": "64,408",
-      "7Day+": "-62",
-      "Total": "39,590,890",
-      "track_id": "6BxGGPBdNexcy53euZsrga",
-      "artist_ids": [
-        "6a3WaWgxrVmNIvaiTCI0Kk",
+        "5LcNaarbF34TMSkVLE7YQc",
         "2d7AMvzFwh5wUTuqQl3BAE"
       ]
     },
     {
-      "Pos": "144",
-      "P+": "+7",
-      "Artist and Title": "Ella Langley - Choosin' Texas",
-      "Days": "72",
-      "Pk": "36",
+      "Pos": "131",
+      "P+": "-15",
+      "Artist and Title": "Rihanna - Don't Stop The Music",
+      "Days": "369",
+      "Pk": "48",
       "(x?)": "",
-      "Streams": "11,390",
-      "Streams+": "-1,159",
-      "7Day": "79,233",
-      "7Day+": "-1,494",
-      "Total": "836,875",
-      "track_id": "7scFxt9VhL4FJwuPSfRlfN",
+      "Streams": "9,929",
+      "Streams+": "-2,685",
+      "7Day": "80,359",
+      "7Day+": "+679",
+      "Total": "4,300,775",
+      "track_id": "1Jo0Zg7XlrA6z0mFTZVdkn",
       "artist_ids": [
-        "6BRxQ8cD3eqnrVj6WKDok8"
+        "5pKCCKE2ajJHZ9KAiaK11H"
       ]
     },
     {
-      "Pos": "145",
-      "P+": "-8",
-      "Artist and Title": "Mille - ingen andre (w/ Annika)",
-      "Days": "261",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "11,365",
-      "Streams+": "-1,814",
-      "7Day": "77,869",
-      "7Day+": "+1,668",
-      "Total": "5,902,376",
-      "track_id": "5rq9wIneeqXYPnohfYVzv7",
-      "artist_ids": [
-        "1WLr84Nec3Bb8xuxgQZGb9",
-        "1GKN1Js8fa19K23eIhOMhg"
-      ]
-    },
-    {
-      "Pos": "146",
-      "P+": "-5",
+      "Pos": "132",
+      "P+": "+14",
       "Artist and Title": "Miguel - Sure Thing",
-      "Days": "171",
+      "Days": "172",
       "Pk": "19",
       "(x?)": "",
-      "Streams": "11,267",
-      "Streams+": "-1,683",
-      "7Day": "90,173",
-      "7Day+": "-1,938",
-      "Total": "2,604,811",
+      "Streams": "9,907",
+      "Streams+": "-1,360",
+      "7Day": "87,557",
+      "7Day+": "-2,616",
+      "Total": "2,614,718",
       "track_id": "0JXXNGljqupsJaZsgSbMZV",
       "artist_ids": [
         "360IAlyVv4PCEVjgyMZrxK"
       ]
     },
     {
-      "Pos": "147",
-      "P+": "+43",
-      "Artist and Title": "Michael Jackson - Beat It",
-      "Days": "166",
-      "Pk": "21",
-      "(x?)": "",
-      "Streams": "11,261",
-      "Streams+": "+58",
-      "7Day": "49,793",
-      "7Day+": "-686",
-      "Total": "3,283,520",
-      "track_id": "3BovdzfaX4jb5KFQwoPfAw",
-      "artist_ids": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ]
-    },
-    {
-      "Pos": "148",
-      "P+": "+19",
+      "Pos": "133",
+      "P+": "+15",
       "Artist and Title": "STELLA LEFTY - Boston",
-      "Days": "30",
+      "Days": "31",
       "Pk": "109",
       "(x?)": "",
-      "Streams": "11,256",
-      "Streams+": "-611",
-      "7Day": "77,182",
-      "7Day+": "+208",
-      "Total": "312,219",
+      "Streams": "9,884",
+      "Streams+": "-1,372",
+      "7Day": "77,749",
+      "7Day+": "+567",
+      "Total": "322,103",
       "track_id": "36idurZmYRjJ56KQ8JD9bN",
       "artist_ids": [
         "6hp2uD84OrQ3u3ukmTjLz2"
       ]
     },
     {
-      "Pos": "149",
-      "P+": "RE",
-      "Artist and Title": "APHACA - Mig Og Min Mund",
-      "Days": "207",
-      "Pk": "55",
-      "(x?)": "",
-      "Streams": "11,252",
-      "Streams+": "",
-      "7Day": "11,252",
-      "7Day+": "+11,252",
-      "Total": "3,021,580",
-      "track_id": "6zJFMDkfoTGtCW9mUZurqn",
-      "artist_ids": [
-        "5Ppbc55kNdjvxP8Tw2P8S9"
-      ]
-    },
-    {
-      "Pos": "150",
+      "Pos": "134",
       "P+": "+21",
-      "Artist and Title": "Christopher - Orbit",
-      "Days": "413",
-      "Pk": "20",
-      "(x?)": "",
-      "Streams": "11,219",
-      "Streams+": "-581",
-      "7Day": "70,091",
-      "7Day+": "-33",
-      "Total": "6,093,002",
-      "track_id": "6LBMBIzdGj4RKhJeTcTBjr",
-      "artist_ids": [
-        "3zDRCqOhJXJfS2YWOEwGMC"
-      ]
-    },
-    {
-      "Pos": "151",
-      "P+": "+24",
-      "Artist and Title": "Mumle - Hvor Solen Ik' Skinner (w/ Svea S)",
-      "Days": "808",
-      "Pk": "12",
-      "(x?)": "",
-      "Streams": "11,138",
-      "Streams+": "-644",
-      "7Day": "75,503",
-      "7Day+": "-2,981",
-      "Total": "21,202,481",
-      "track_id": "6EfIo8vxfIBT2IZrzGHbpP",
-      "artist_ids": [
-        "6xfKNngTw1zxViM96HSTCq",
-        "7nCIXUCqZmxntAGJMyls5c"
-      ]
-    },
-    {
-      "Pos": "152",
-      "P+": "+30",
-      "Artist and Title": "Fleetwood Mac - Dreams - 2001 Remaster",
-      "Days": "156",
-      "Pk": "94",
-      "(x?)": "",
-      "Streams": "11,123",
-      "Streams+": "-413",
-      "7Day": "71,920",
-      "7Day+": "-430",
-      "Total": "1,731,310",
-      "track_id": "53qkszfgztIvkFyF31GfdQ",
-      "artist_ids": [
-        "08GQAI4eElDnROBrJRGE0X"
-      ]
-    },
-    {
-      "Pos": "153",
-      "P+": "+47",
-      "Artist and Title": "Trine Therkelsen - Puff - Den Magiske Drage",
-      "Days": "153",
-      "Pk": "62",
-      "(x?)": "",
-      "Streams": "11,110",
-      "Streams+": "+140",
-      "7Day": "79,446",
-      "7Day+": "+79",
-      "Total": "1,611,107",
-      "track_id": "2lIC7fGq2yNDgiA80MlTcA",
-      "artist_ids": [
-        "05gAr4rfrOofxGPewzWnAF"
-      ]
-    },
-    {
-      "Pos": "154",
-      "P+": "RE",
-      "Artist and Title": "Mumle - Fire Uger",
-      "Days": "359",
-      "Pk": "19",
-      "(x?)": "",
-      "Streams": "11,097",
-      "Streams+": "",
-      "7Day": "38,514",
-      "7Day+": "+645",
-      "Total": "5,777,269",
-      "track_id": "2fGbVht5HksMkvkIXvlPzc",
-      "artist_ids": [
-        "6xfKNngTw1zxViM96HSTCq"
-      ]
-    },
-    {
-      "Pos": "155",
-      "P+": "+23",
       "Artist and Title": "Rasmus Seebach - Sprækker ft. Søn (w/ Søn)",
-      "Days": "121",
+      "Days": "122",
       "Pk": "13",
       "(x?)": "",
-      "Streams": "11,076",
-      "Streams+": "-649",
-      "7Day": "75,286",
-      "7Day+": "-616",
-      "Total": "2,278,169",
+      "Streams": "9,789",
+      "Streams+": "-1,287",
+      "7Day": "74,734",
+      "7Day+": "-552",
+      "Total": "2,287,958",
       "track_id": "1n9crbeZNJCUnj6bZcJgxP",
       "artist_ids": [
         "0yqCOSZ1i0c49UUbE8AzbQ",
@@ -2694,17 +2329,170 @@
       ]
     },
     {
-      "Pos": "156",
-      "P+": "+5",
+      "Pos": "135",
+      "P+": "+15",
+      "Artist and Title": "Christopher - Orbit",
+      "Days": "414",
+      "Pk": "20",
+      "(x?)": "",
+      "Streams": "9,780",
+      "Streams+": "-1,439",
+      "7Day": "70,390",
+      "7Day+": "+299",
+      "Total": "6,102,782",
+      "track_id": "6LBMBIzdGj4RKhJeTcTBjr",
+      "artist_ids": [
+        "3zDRCqOhJXJfS2YWOEwGMC"
+      ]
+    },
+    {
+      "Pos": "136",
+      "P+": "+1",
+      "Artist and Title": "Cizzo - Blackjack",
+      "Days": "3",
+      "Pk": "57",
+      "(x?)": "",
+      "Streams": "9,632",
+      "Streams+": "-2,054",
+      "7Day": "46,749",
+      "7Day+": "+9,632",
+      "Total": "46,749",
+      "track_id": "5jUGkXx4UEwl22L6Q8YxBc",
+      "artist_ids": [
+        "4mDyp9yRHugUnXvIBrt9xP"
+      ]
+    },
+    {
+      "Pos": "137",
+      "P+": "-38",
+      "Artist and Title": "Rocazino - All My Love",
+      "Days": "2552",
+      "Pk": "14",
+      "(x?)": "",
+      "Streams": "9,625",
+      "Streams+": "-3,839",
+      "7Day": "57,228",
+      "7Day+": "+1,130",
+      "Total": "32,796,246",
+      "track_id": "49clGe0PtbYUx3vB7tyk3A",
+      "artist_ids": [
+        "62ytrJr6FZ6W1boNI1Y0O3"
+      ]
+    },
+    {
+      "Pos": "138",
+      "P+": "-18",
+      "Artist and Title": "D1MA - I KNOW",
+      "Days": "1201",
+      "Pk": "1",
+      "(x?)": "(x13)",
+      "Streams": "9,594",
+      "Streams+": "-2,971",
+      "7Day": "87,643",
+      "7Day+": "-2,083",
+      "Total": "34,819,519",
+      "track_id": "3aQzeklWllLWZSH4xk7Udj",
+      "artist_ids": [
+        "5RaTuqY7SJHvh6MNzMagut"
+      ]
+    },
+    {
+      "Pos": "139",
+      "P+": "+48",
+      "Artist and Title": "Malcolm Todd - Earrings",
+      "Days": "130",
+      "Pk": "80",
+      "(x?)": "",
+      "Streams": "9,529",
+      "Streams+": "-646",
+      "7Day": "71,946",
+      "7Day+": "+233",
+      "Total": "1,462,258",
+      "track_id": "0eAuGrXyGFYwur9ARUe7LJ",
+      "artist_ids": [
+        "7eKkW1zo5uzW8kUntiiBvz"
+      ]
+    },
+    {
+      "Pos": "140",
+      "P+": "-9",
+      "Artist and Title": "D1MA - spøgelse",
+      "Days": "74",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "9,512",
+      "Streams+": "-2,480",
+      "7Day": "90,902",
+      "7Day+": "-662",
+      "Total": "1,716,089",
+      "track_id": "1n6JDny8iDA8btrO21y53p",
+      "artist_ids": [
+        "5RaTuqY7SJHvh6MNzMagut"
+      ]
+    },
+    {
+      "Pos": "141",
+      "P+": "+45",
+      "Artist and Title": "Alyssa Grace - bloodstream",
+      "Days": "83",
+      "Pk": "71",
+      "(x?)": "",
+      "Streams": "9,507",
+      "Streams+": "-672",
+      "7Day": "74,428",
+      "7Day+": "-558",
+      "Total": "953,170",
+      "track_id": "2oWFJJW9d1bIra3zHjR6GO",
+      "artist_ids": [
+        "4eZer1QvRM8Pna0rLToV1K"
+      ]
+    },
+    {
+      "Pos": "142",
+      "P+": "+2",
+      "Artist and Title": "Ella Langley - Choosin' Texas",
+      "Days": "73",
+      "Pk": "36",
+      "(x?)": "",
+      "Streams": "9,483",
+      "Streams+": "-1,907",
+      "7Day": "78,550",
+      "7Day+": "-683",
+      "Total": "846,358",
+      "track_id": "7scFxt9VhL4FJwuPSfRlfN",
+      "artist_ids": [
+        "6BRxQ8cD3eqnrVj6WKDok8"
+      ]
+    },
+    {
+      "Pos": "143",
+      "P+": "+49",
+      "Artist and Title": "Olivia Rodrigo - the cure",
+      "Days": "111",
+      "Pk": "42",
+      "(x?)": "",
+      "Streams": "9,477",
+      "Streams+": "-599",
+      "7Day": "73,248",
+      "7Day+": "-470",
+      "Total": "1,383,814",
+      "track_id": "55pBIZO1cqoldeqpp5WR7H",
+      "artist_ids": [
+        "1McMsnEElThX1knmY4oliG"
+      ]
+    },
+    {
+      "Pos": "144",
+      "P+": "+12",
       "Artist and Title": "Lady Gaga - Die With A Smile (w/ Bruno Mars)",
-      "Days": "575",
+      "Days": "576",
       "Pk": "3",
       "(x?)": "(x1)",
-      "Streams": "11,066",
-      "Streams+": "-1,049",
-      "7Day": "34,380",
-      "7Day+": "+11,066",
-      "Total": "16,679,052",
+      "Streams": "9,459",
+      "Streams+": "-1,607",
+      "7Day": "43,839",
+      "7Day+": "+9,459",
+      "Total": "16,688,511",
       "track_id": "7so0lgd0zP2Sbgs2d7a1SZ",
       "artist_ids": [
         "1HY2Jd0NmPuamShAr6KMms",
@@ -2712,17 +2500,68 @@
       ]
     },
     {
-      "Pos": "157",
-      "P+": "-46",
+      "Pos": "145",
+      "P+": "-67",
+      "Artist and Title": "APHACA - Hvor kommer vi fra",
+      "Days": "55",
+      "Pk": "3",
+      "(x?)": "(x2)",
+      "Streams": "9,450",
+      "Streams+": "-6,590",
+      "7Day": "25,490",
+      "7Day+": "+9,450",
+      "Total": "1,555,038",
+      "track_id": "1IGDc3ewhLeAvangxXnfwN",
+      "artist_ids": [
+        "5Ppbc55kNdjvxP8Tw2P8S9"
+      ]
+    },
+    {
+      "Pos": "146",
+      "P+": "+6",
+      "Artist and Title": "Fleetwood Mac - Dreams - 2001 Remaster",
+      "Days": "157",
+      "Pk": "94",
+      "(x?)": "",
+      "Streams": "9,401",
+      "Streams+": "-1,722",
+      "7Day": "71,992",
+      "7Day+": "+72",
+      "Total": "1,740,711",
+      "track_id": "53qkszfgztIvkFyF31GfdQ",
+      "artist_ids": [
+        "08GQAI4eElDnROBrJRGE0X"
+      ]
+    },
+    {
+      "Pos": "147",
+      "P+": "-23",
+      "Artist and Title": "Gilli - Knokler Hårdt",
+      "Days": "1365",
+      "Pk": "28",
+      "(x?)": "",
+      "Streams": "9,387",
+      "Streams+": "-2,872",
+      "7Day": "81,190",
+      "7Day+": "-419",
+      "Total": "17,062,063",
+      "track_id": "5RR4sBH4TRqyFp386kf99d",
+      "artist_ids": [
+        "2KbikmQKGiUPR2ARs1h0sq"
+      ]
+    },
+    {
+      "Pos": "148",
+      "P+": "+9",
       "Artist and Title": "KEDDE - If u kno u kno (w/ Karoline Mousing)",
-      "Days": "289",
+      "Days": "290",
       "Pk": "2",
       "(x?)": "(x4)",
-      "Streams": "11,053",
-      "Streams+": "-3,645",
-      "7Day": "77,175",
-      "7Day+": "+155",
-      "Total": "6,036,849",
+      "Streams": "9,378",
+      "Streams+": "-1,675",
+      "7Day": "77,205",
+      "7Day+": "+30",
+      "Total": "6,046,227",
       "track_id": "4baTMQfOgmcWJwzYHXM0rf",
       "artist_ids": [
         "1Vh77WpgUBG9bYi1X0kMQZ",
@@ -2730,17 +2569,158 @@
       ]
     },
     {
-      "Pos": "158",
+      "Pos": "149",
+      "P+": "+44",
+      "Artist and Title": "Olivia Rodrigo - stupid song",
+      "Days": "111",
+      "Pk": "19",
+      "(x?)": "",
+      "Streams": "9,365",
+      "Streams+": "-708",
+      "7Day": "73,244",
+      "7Day+": "+51",
+      "Total": "1,569,757",
+      "track_id": "49j6SvuvWfbEKZKzsHCdLJ",
+      "artist_ids": [
+        "1McMsnEElThX1knmY4oliG"
+      ]
+    },
+    {
+      "Pos": "150",
+      "P+": "+1",
+      "Artist and Title": "Mumle - Hvor Solen Ik' Skinner (w/ Svea S)",
+      "Days": "809",
+      "Pk": "12",
+      "(x?)": "",
+      "Streams": "9,342",
+      "Streams+": "-1,796",
+      "7Day": "73,290",
+      "7Day+": "-2,213",
+      "Total": "21,211,823",
+      "track_id": "6EfIo8vxfIBT2IZrzGHbpP",
+      "artist_ids": [
+        "6xfKNngTw1zxViM96HSTCq",
+        "7nCIXUCqZmxntAGJMyls5c"
+      ]
+    },
+    {
+      "Pos": "151",
+      "P+": "+30",
+      "Artist and Title": "Annika - Luk Mig Ind",
+      "Days": "681",
+      "Pk": "2",
+      "(x?)": "(x3)",
+      "Streams": "9,342",
+      "Streams+": "-909",
+      "7Day": "75,704",
+      "7Day+": "-398",
+      "Total": "20,538,776",
+      "track_id": "4GZt2BpQpWhkEAgmfUrQOu",
+      "artist_ids": [
+        "1GKN1Js8fa19K23eIhOMhg"
+      ]
+    },
+    {
+      "Pos": "152",
+      "P+": "-16",
+      "Artist and Title": "Lamin - Låst Inde",
+      "Days": "178",
+      "Pk": "2",
+      "(x?)": "(x8)",
+      "Streams": "9,290",
+      "Streams+": "-2,428",
+      "7Day": "79,839",
+      "7Day+": "-840",
+      "Total": "6,094,115",
+      "track_id": "71GXry0HuU8KjxW1yqU2Ik",
+      "artist_ids": [
+        "4ZwOlDVAGXQo66ykbLQ8dP"
+      ]
+    },
+    {
+      "Pos": "153",
+      "P+": "-14",
+      "Artist and Title": "Scarlet Pleasure - Good Together",
+      "Days": "404",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "9,274",
+      "Streams+": "-2,316",
+      "7Day": "81,529",
+      "7Day+": "-2,453",
+      "Total": "8,717,693",
+      "track_id": "4iZrD0uy5IxST6eKg3uJHr",
+      "artist_ids": [
+        "7wrulS1dfanckBnoxxEuS6"
+      ]
+    },
+    {
+      "Pos": "154",
+      "P+": "-7",
+      "Artist and Title": "Michael Jackson - Beat It",
+      "Days": "167",
+      "Pk": "21",
+      "(x?)": "",
+      "Streams": "9,191",
+      "Streams+": "-2,070",
+      "7Day": "49,426",
+      "7Day+": "-367",
+      "Total": "3,292,711",
+      "track_id": "3BovdzfaX4jb5KFQwoPfAw",
+      "artist_ids": [
+        "3fMbdgg4jU18AjLCKBhRSm"
+      ]
+    },
+    {
+      "Pos": "155",
       "P+": "RE",
+      "Artist and Title": "HUNTR/X - Golden (w/ EJae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",
+      "Days": "414",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "9,119",
+      "Streams+": "",
+      "7Day": "9,119",
+      "7Day+": "+259",
+      "Total": "11,417,989",
+      "track_id": "1CPZ5BxNNd0n0nF4Orb9JS",
+      "artist_ids": [
+        "2yNNYQBChuox9A5Ka93BIn",
+        "60zQmrKu2GiveOybrvx5Wj",
+        "0Wwji82sLA0Hcvtuak3omb",
+        "6U1dV7aL68N7Gb0Naq34V5",
+        "7mW7Tv7NvywKKXqafZo0Lc"
+      ]
+    },
+    {
+      "Pos": "156",
+      "P+": "+28",
+      "Artist and Title": "sombr - 12 to 12",
+      "Days": "440",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "9,081",
+      "Streams+": "-1,115",
+      "7Day": "76,502",
+      "7Day+": "-1,069",
+      "Total": "8,463,090",
+      "track_id": "05od2qm2MTSKCHxy1GBp5W",
+      "artist_ids": [
+        "4G9NDjRyZFDlJKMRL8hx3S"
+      ]
+    },
+    {
+      "Pos": "157",
+      "P+": "+1",
       "Artist and Title": "Tobias Rahim - STOR MAND (w/ andreas odbjerg)",
-      "Days": "1737",
+      "Days": "1738",
       "Pk": "1",
       "(x?)": "(x107)",
-      "Streams": "11,020",
-      "Streams+": "",
-      "7Day": "11,020",
-      "7Day+": "+443",
-      "Total": "63,573,834",
+      "Streams": "9,046",
+      "Streams+": "-1,974",
+      "7Day": "20,066",
+      "7Day+": "+9,046",
+      "Total": "63,582,880",
       "track_id": "56Ua2ypj5HWnotoIF3lEHc",
       "artist_ids": [
         "1w2fVGZN37TieWhlqS8UwB",
@@ -2748,576 +2728,34 @@
       ]
     },
     {
-      "Pos": "159",
-      "P+": "-79",
-      "Artist and Title": "Gilli - En Som Dig",
-      "Days": "23",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "10,986",
-      "Streams+": "-6,868",
-      "7Day": "125,881",
-      "7Day+": "-11,920",
-      "Total": "693,279",
-      "track_id": "236TF1OI21TFeua4Cvq2ZT",
-      "artist_ids": [
-        "2KbikmQKGiUPR2ARs1h0sq"
-      ]
-    },
-    {
-      "Pos": "160",
-      "P+": "+17",
-      "Artist and Title": "Temper City - Self Aware",
-      "Days": "187",
-      "Pk": "60",
-      "(x?)": "",
-      "Streams": "10,856",
-      "Streams+": "-916",
-      "7Day": "82,533",
-      "7Day+": "-1,604",
-      "Total": "2,512,362",
-      "track_id": "4qW3BbQAwZsrnu8a3ZRdyT",
-      "artist_ids": [
-        "5mHUmlJWkcoOk1NbjfrXWz"
-      ]
-    },
-    {
-      "Pos": "161",
-      "P+": "-33",
-      "Artist and Title": "Marstein - SAVNER ET MENNESKE (w/ Tobias Rahim)",
-      "Days": "30",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "10,850",
-      "Streams+": "-2,577",
-      "7Day": "84,756",
-      "7Day+": "-922",
-      "Total": "637,286",
-      "track_id": "7E7WgbepTMLByxdDZ6Vxgu",
-      "artist_ids": [
-        "7KjsjftPKKarTvZlawniPi",
-        "1w2fVGZN37TieWhlqS8UwB"
-      ]
-    },
-    {
-      "Pos": "162",
-      "P+": "+27",
-      "Artist and Title": "The Police - Every Breath You Take",
-      "Days": "406",
-      "Pk": "31",
-      "(x?)": "",
-      "Streams": "10,843",
-      "Streams+": "-399",
-      "7Day": "67,526",
-      "7Day+": "+151",
-      "Total": "4,916,532",
-      "track_id": "1JSTJqkT5qHq8MDJnJbRE1",
-      "artist_ids": [
-        "5NGO30tJxFlKixkPSgXcFE"
-      ]
-    },
-    {
-      "Pos": "163",
-      "P+": "+5",
-      "Artist and Title": "The Neighbourhood - Sweater Weather",
-      "Days": "525",
-      "Pk": "58",
-      "(x?)": "",
-      "Streams": "10,821",
-      "Streams+": "-1,035",
-      "7Day": "78,823",
-      "7Day+": "+114",
-      "Total": "5,103,500",
-      "track_id": "2QjOHCTQ1Jl3zawyYOpxh6",
-      "artist_ids": [
-        "77SW9BnxLY8rJ0RciFqkHh"
-      ]
-    },
-    {
-      "Pos": "164",
-      "P+": "-56",
-      "Artist and Title": "Gilli - Casio (w/ Noah Carter)",
-      "Days": "23",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "10,792",
-      "Streams+": "-4,072",
-      "7Day": "107,399",
-      "7Day+": "-8,127",
-      "Total": "705,606",
-      "track_id": "554sRZ5jFnY9ndo6Z9cvVa",
-      "artist_ids": [
-        "2KbikmQKGiUPR2ARs1h0sq",
-        "2dfY7zXIP61MKHtD175hFp"
-      ]
-    },
-    {
-      "Pos": "165",
-      "P+": "RE",
-      "Artist and Title": "andreas odbjerg - jeg tror jeg elsker dig for evigt",
-      "Days": "215",
-      "Pk": "16",
-      "(x?)": "",
-      "Streams": "10,724",
-      "Streams+": "",
-      "7Day": "19,028",
-      "7Day+": "-283",
-      "Total": "3,072,669",
-      "track_id": "2bsahf0KRgkJB8LDE4rmAb",
-      "artist_ids": [
-        "6aHaYKL09sA8L260zXNlVR"
-      ]
-    },
-    {
-      "Pos": "166",
-      "P+": "-59",
-      "Artist and Title": "Gilli - Fina",
-      "Days": "23",
-      "Pk": "21",
-      "(x?)": "",
-      "Streams": "10,710",
-      "Streams+": "-4,307",
-      "7Day": "91,725",
-      "7Day+": "-2,536",
-      "Total": "513,846",
-      "track_id": "30ORQCrSquMQWznnMLFevN",
-      "artist_ids": [
-        "2KbikmQKGiUPR2ARs1h0sq"
-      ]
-    },
-    {
-      "Pos": "167",
-      "P+": "RE",
-      "Artist and Title": "Ida Laurberg - Jeg Ka' Rigtig Godt Li' Dig (w/ andreas odbjerg)",
-      "Days": "976",
-      "Pk": "2",
-      "(x?)": "(x12)",
-      "Streams": "10,683",
-      "Streams+": "",
-      "7Day": "20,238",
-      "7Day+": "+10,683",
-      "Total": "24,509,191",
-      "track_id": "6P8HH4mh0jmGlOhHwAkY5o",
-      "artist_ids": [
-        "03IbEiokQjTDfvdyIYV5D4",
-        "6aHaYKL09sA8L260zXNlVR"
-      ]
-    },
-    {
-      "Pos": "168",
-      "P+": "+29",
-      "Artist and Title": "Ankerstjerne - Olivia For Altid (w/ Omar, Svea S)",
-      "Days": "364",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "10,669",
-      "Streams+": "-376",
-      "7Day": "51,396",
-      "7Day+": "-1,144",
-      "Total": "7,866,360",
-      "track_id": "1NOXdz32HLzPiFbqFQHUh7",
-      "artist_ids": [
-        "7JoViNQIqOIaxcBswboN5d",
-        "1GLzVjVa7bLnAcD1At98j3",
-        "7nCIXUCqZmxntAGJMyls5c"
-      ]
-    },
-    {
-      "Pos": "169",
-      "P+": "RE",
-      "Artist and Title": "APHACA - Våde Øjne",
-      "Days": "90",
-      "Pk": "74",
-      "(x?)": "",
-      "Streams": "10,654",
-      "Streams+": "",
-      "7Day": "10,654",
-      "7Day+": "+10,654",
-      "Total": "1,107,252",
-      "track_id": "4XunMFl1O0cR5CO3drkjIc",
-      "artist_ids": [
-        "5Ppbc55kNdjvxP8Tw2P8S9"
-      ]
-    },
-    {
-      "Pos": "170",
-      "P+": "+6",
+      "Pos": "158",
+      "P+": "+12",
       "Artist and Title": "RAYE - WHERE IS MY HUSBAND!",
-      "Days": "379",
+      "Days": "380",
       "Pk": "7",
       "(x?)": "",
-      "Streams": "10,652",
-      "Streams+": "-1,126",
-      "7Day": "70,809",
-      "7Day+": "+473",
-      "Total": "9,132,942",
+      "Streams": "9,037",
+      "Streams+": "-1,615",
+      "7Day": "71,270",
+      "7Day+": "+461",
+      "Total": "9,141,979",
       "track_id": "55lijDD6OAjLFFUHU9tcDm",
       "artist_ids": [
         "5KKpBU5eC2tJDzf0wmlRp2"
       ]
     },
     {
-      "Pos": "171",
-      "P+": "+3",
-      "Artist and Title": "Lukas Graham - Drunk In The Morning",
-      "Days": "347",
-      "Pk": "52",
-      "(x?)": "",
-      "Streams": "10,631",
-      "Streams+": "-1,155",
-      "7Day": "67,293",
-      "7Day+": "-784",
-      "Total": "3,134,433",
-      "track_id": "7IiIVORBnoCqpq59upc67R",
-      "artist_ids": [
-        "25u4wHJWxCA9vO0CzxAbK7"
-      ]
-    },
-    {
-      "Pos": "172",
-      "P+": "-98",
-      "Artist and Title": "Forty - Alias (w/ Jamaika)",
-      "Days": "2",
-      "Pk": "74",
-      "(x?)": "",
-      "Streams": "10,622",
-      "Streams+": "-9,602",
-      "7Day": "30,846",
-      "7Day+": "+10,622",
-      "Total": "30,846",
-      "track_id": "4Y6rOZhHbvgNcRpbcanmFG",
-      "artist_ids": [
-        "3KoqqxDnw3bcWJi0JAJZVl",
-        "7EJcUkbBsR4kN822bEa0ZS"
-      ]
-    },
-    {
-      "Pos": "173",
-      "P+": "-18",
-      "Artist and Title": "Emil Kruse - Copenhagen City (w/ OK OK, Anthon Edwards)",
-      "Days": "346",
-      "Pk": "19",
-      "(x?)": "",
-      "Streams": "10,585",
-      "Streams+": "-1,716",
-      "7Day": "41,639",
-      "7Day+": "-187",
-      "Total": "7,555,198",
-      "track_id": "5ePUy0MpnORgr9PQ897KJ0",
-      "artist_ids": [
-        "4WnhWF0prnUJ7sHHi5Aoun",
-        "0h4efFgEzH6VH5DP5Yqtqt",
-        "3CARGGRdALf2e9oj7bzFti"
-      ]
-    },
-    {
-      "Pos": "174",
-      "P+": "-15",
-      "Artist and Title": "Benny Jamz - Reposado (w/ Gilli)",
-      "Days": "841",
-      "Pk": "2",
-      "(x?)": "(x19)",
-      "Streams": "10,503",
-      "Streams+": "-1,620",
-      "7Day": "73,217",
-      "7Day+": "-2,806",
-      "Total": "28,345,682",
-      "track_id": "3xJeUxbt51wpvGk3YzqxLi",
-      "artist_ids": [
-        "2eBqkaIfoNsOPCQCQEy5fD",
-        "2KbikmQKGiUPR2ARs1h0sq"
-      ]
-    },
-    {
-      "Pos": "175",
-      "P+": "+21",
-      "Artist and Title": "KESI - Blå Himmel (w/ Hans Philip)",
-      "Days": "1985",
-      "Pk": "1",
-      "(x?)": "(x21)",
-      "Streams": "10,491",
-      "Streams+": "-579",
-      "7Day": "38,931",
-      "7Day+": "+199",
-      "Total": "42,613,292",
-      "track_id": "0qA2qykpcGdVl3tiiYum4g",
-      "artist_ids": [
-        "2d7AMvzFwh5wUTuqQl3BAE",
-        "6idjJt47PjFydVRrAlNw4C"
-      ]
-    },
-    {
-      "Pos": "176",
-      "P+": "+8",
-      "Artist and Title": "Billie Eilish - BIRDS OF A FEATHER",
-      "Days": "805",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "10,488",
-      "Streams+": "-924",
-      "7Day": "50,279",
-      "7Day+": "+702",
-      "Total": "23,619,162",
-      "track_id": "6dOtVTDdiauQNBQEDOtlAB",
-      "artist_ids": [
-        "6qqNVTkY8uBg9cP3Jd7DAH"
-      ]
-    },
-    {
-      "Pos": "177",
-      "P+": "RE",
-      "Artist and Title": "HUGORM - HUGORM NEDLÆGGER FORSVARET (w/ Peter Sommer)",
-      "Days": "211",
-      "Pk": "55",
-      "(x?)": "",
-      "Streams": "10,359",
-      "Streams+": "",
-      "7Day": "56,500",
-      "7Day+": "-931",
-      "Total": "2,511,871",
-      "track_id": "2BcCtKjAaHfsYhSLWVUvx8",
-      "artist_ids": [
-        "2MaqdTB8EUuYLUPDJipWG2",
-        "5EXeUuYgGRA1RnXHqALLDL"
-      ]
-    },
-    {
-      "Pos": "178",
-      "P+": "-69",
-      "Artist and Title": "Gilli - Sky Priority (w/ Lamin)",
-      "Days": "23",
-      "Pk": "15",
-      "(x?)": "",
-      "Streams": "10,303",
-      "Streams+": "-4,551",
-      "7Day": "92,841",
-      "7Day+": "-8,199",
-      "Total": "596,269",
-      "track_id": "2u93yYc7np2Ci3JKketMCw",
-      "artist_ids": [
-        "2KbikmQKGiUPR2ARs1h0sq",
-        "4ZwOlDVAGXQo66ykbLQ8dP"
-      ]
-    },
-    {
-      "Pos": "179",
-      "P+": "-111",
-      "Artist and Title": "JONATHAN - tyde dine intentioner.",
-      "Days": "2",
-      "Pk": "68",
-      "(x?)": "",
-      "Streams": "10,259",
-      "Streams+": "-11,431",
-      "7Day": "31,949",
-      "7Day+": "+10,259",
-      "Total": "31,949",
-      "track_id": "6U68BZqj7bLh65W14UqfS4",
-      "artist_ids": [
-        "5v96GtI5k2NSfheYWSMNTZ"
-      ]
-    },
-    {
-      "Pos": "180",
-      "P+": "-15",
-      "Artist and Title": "dreng&piger - Hvor du er",
-      "Days": "42",
-      "Pk": "35",
-      "(x?)": "",
-      "Streams": "10,257",
-      "Streams+": "-1,762",
-      "7Day": "48,721",
-      "7Day+": "+145",
-      "Total": "591,613",
-      "track_id": "5WsRf49ETqbpwOTBcufFbQ",
-      "artist_ids": [
-        "07JRf49TUGMnobtGeXPY73"
-      ]
-    },
-    {
-      "Pos": "181",
-      "P+": "-33",
-      "Artist and Title": "Annika - Luk Mig Ind",
-      "Days": "680",
-      "Pk": "2",
-      "(x?)": "(x3)",
-      "Streams": "10,251",
-      "Streams+": "-2,351",
-      "7Day": "76,102",
-      "7Day+": "-1,558",
-      "Total": "20,529,434",
-      "track_id": "4GZt2BpQpWhkEAgmfUrQOu",
-      "artist_ids": [
-        "1GKN1Js8fa19K23eIhOMhg"
-      ]
-    },
-    {
-      "Pos": "182",
-      "P+": "-26",
-      "Artist and Title": "D1MA - MOONLIGHT",
-      "Days": "1232",
-      "Pk": "1",
-      "(x?)": "(x17)",
-      "Streams": "10,205",
-      "Streams+": "-2,084",
-      "7Day": "62,492",
-      "7Day+": "-211",
-      "Total": "30,732,330",
-      "track_id": "3neYAjvKDOfvBUpIgReOkC",
-      "artist_ids": [
-        "5RaTuqY7SJHvh6MNzMagut"
-      ]
-    },
-    {
-      "Pos": "183",
-      "P+": "RE",
-      "Artist and Title": "Blæst - Den nye pige",
-      "Days": "166",
-      "Pk": "18",
-      "(x?)": "",
-      "Streams": "10,203",
-      "Streams+": "",
-      "7Day": "27,752",
-      "7Day+": "-1,098",
-      "Total": "2,876,956",
-      "track_id": "62ULtmT9IgrELMOpd4SJqi",
-      "artist_ids": [
-        "3elCsuJ1JjDeAd8mjlRRX5"
-      ]
-    },
-    {
-      "Pos": "184",
-      "P+": "-39",
-      "Artist and Title": "sombr - 12 to 12",
-      "Days": "439",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "10,196",
-      "Streams+": "-2,555",
-      "7Day": "77,571",
-      "7Day+": "-1,239",
-      "Total": "8,454,009",
-      "track_id": "05od2qm2MTSKCHxy1GBp5W",
-      "artist_ids": [
-        "4G9NDjRyZFDlJKMRL8hx3S"
-      ]
-    },
-    {
-      "Pos": "185",
-      "P+": "-25",
-      "Artist and Title": "Malte Ebert - Vagabond (w/ Mumle)",
-      "Days": "33",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "10,194",
-      "Streams+": "-1,928",
-      "7Day": "49,934",
-      "7Day+": "+10,194",
-      "Total": "685,415",
-      "track_id": "0Gn5ihOi3h3714FvTjvacN",
-      "artist_ids": [
-        "3UaEtP4pJGDhyEzy47AMzl",
-        "6xfKNngTw1zxViM96HSTCq"
-      ]
-    },
-    {
-      "Pos": "186",
-      "P+": "+2",
-      "Artist and Title": "Alyssa Grace - bloodstream",
-      "Days": "82",
-      "Pk": "71",
-      "(x?)": "",
-      "Streams": "10,179",
-      "Streams+": "-1,083",
-      "7Day": "74,986",
-      "7Day+": "+336",
-      "Total": "943,663",
-      "track_id": "2oWFJJW9d1bIra3zHjR6GO",
-      "artist_ids": [
-        "4eZer1QvRM8Pna0rLToV1K"
-      ]
-    },
-    {
-      "Pos": "187",
-      "P+": "+4",
-      "Artist and Title": "Malcolm Todd - Earrings",
-      "Days": "129",
-      "Pk": "80",
-      "(x?)": "",
-      "Streams": "10,175",
-      "Streams+": "-1,008",
-      "7Day": "71,713",
-      "7Day+": "+368",
-      "Total": "1,452,729",
-      "track_id": "0eAuGrXyGFYwur9ARUe7LJ",
-      "artist_ids": [
-        "7eKkW1zo5uzW8kUntiiBvz"
-      ]
-    },
-    {
-      "Pos": "188",
-      "P+": "RE",
-      "Artist and Title": "Lukas Graham - 7 Years",
-      "Days": "1596",
-      "Pk": "1",
-      "(x?)": "(x39)",
-      "Streams": "10,161",
-      "Streams+": "",
-      "7Day": "37,659",
-      "7Day+": "-98",
-      "Total": "33,536,979",
-      "track_id": "5kqIPrATaCc2LqxVWzQGbk",
-      "artist_ids": [
-        "25u4wHJWxCA9vO0CzxAbK7"
-      ]
-    },
-    {
-      "Pos": "189",
-      "P+": "-40",
-      "Artist and Title": "D1MA - LOSSES",
-      "Days": "177",
-      "Pk": "45",
-      "(x?)": "",
-      "Streams": "10,142",
-      "Streams+": "-2,435",
-      "7Day": "84,542",
-      "7Day+": "-3,005",
-      "Total": "2,435,855",
-      "track_id": "6jiJlhoKrtnqbEwn9rwLzg",
-      "artist_ids": [
-        "5RaTuqY7SJHvh6MNzMagut"
-      ]
-    },
-    {
-      "Pos": "190",
-      "P+": "RE",
-      "Artist and Title": "Ankerstjerne - Børn Af Natten (Hola Bonita) (w/ Daniel Schulz, Panamah)",
-      "Days": "792",
-      "Pk": "1",
-      "(x?)": "(x4)",
-      "Streams": "10,114",
-      "Streams+": "",
-      "7Day": "48,275",
-      "7Day+": "-1,303",
-      "Total": "25,651,727",
-      "track_id": "3ZNTae1ZOrSaURxMZAVFq6",
-      "artist_ids": [
-        "7JoViNQIqOIaxcBswboN5d",
-        "3pVuaUisHmRfVy53qWwmql",
-        "3SyJZpVRYuncgXPtjAceOJ"
-      ]
-    },
-    {
-      "Pos": "191",
-      "P+": "-11",
+      "Pos": "159",
+      "P+": "+32",
       "Artist and Title": "Rasmus Seebach - Sandheden (w/ Artigeardit)",
-      "Days": "386",
+      "Days": "387",
       "Pk": "1",
       "(x?)": "(x11)",
-      "Streams": "10,099",
-      "Streams+": "-1,532",
-      "7Day": "71,481",
-      "7Day+": "-985",
-      "Total": "11,175,970",
+      "Streams": "8,977",
+      "Streams+": "-1,122",
+      "7Day": "71,860",
+      "7Day+": "+379",
+      "Total": "11,184,947",
       "track_id": "1pcAE3WQaCpKDcZZFgItv4",
       "artist_ids": [
         "0yqCOSZ1i0c49UUbE8AzbQ",
@@ -3325,136 +2763,295 @@
       ]
     },
     {
-      "Pos": "192",
-      "P+": "+1",
-      "Artist and Title": "Olivia Rodrigo - the cure",
-      "Days": "110",
-      "Pk": "42",
+      "Pos": "160",
+      "P+": "RE",
+      "Artist and Title": "Vance Joy - Riptide",
+      "Days": "633",
+      "Pk": "32",
       "(x?)": "",
-      "Streams": "10,076",
-      "Streams+": "-1,071",
-      "7Day": "73,718",
-      "7Day+": "+10,076",
-      "Total": "1,374,337",
-      "track_id": "55pBIZO1cqoldeqpp5WR7H",
+      "Streams": "8,971",
+      "Streams+": "",
+      "7Day": "36,639",
+      "7Day+": "+8,971",
+      "Total": "6,430,137",
+      "track_id": "7yq4Qj7cqayVTp3FF9CWbm",
       "artist_ids": [
-        "1McMsnEElThX1knmY4oliG"
+        "10exVja0key0uqUkk6LJRT"
       ]
     },
     {
-      "Pos": "193",
-      "P+": "-8",
-      "Artist and Title": "Olivia Rodrigo - stupid song",
-      "Days": "110",
+      "Pos": "161",
+      "P+": "-7",
+      "Artist and Title": "Mumle - Fire Uger",
+      "Days": "360",
       "Pk": "19",
       "(x?)": "",
-      "Streams": "10,073",
-      "Streams+": "-1,298",
-      "7Day": "73,193",
-      "7Day+": "+47",
-      "Total": "1,560,392",
-      "track_id": "49j6SvuvWfbEKZKzsHCdLJ",
+      "Streams": "8,953",
+      "Streams+": "-2,144",
+      "7Day": "47,467",
+      "7Day+": "+8,953",
+      "Total": "5,786,222",
+      "track_id": "2fGbVht5HksMkvkIXvlPzc",
       "artist_ids": [
-        "1McMsnEElThX1knmY4oliG"
+        "6xfKNngTw1zxViM96HSTCq"
       ]
     },
     {
-      "Pos": "194",
-      "P+": "-13",
-      "Artist and Title": "URO - Nirvana",
-      "Days": "33",
-      "Pk": "21",
-      "(x?)": "",
-      "Streams": "10,065",
-      "Streams+": "-1,541",
-      "7Day": "72,448",
-      "7Day+": "-783",
-      "Total": "415,377",
-      "track_id": "5l0J0cKWIo0lBSGqXvyucp",
-      "artist_ids": [
-        "5FIdLxucf1EKqZfxeeXZzD"
-      ]
-    },
-    {
-      "Pos": "195",
-      "P+": "RE",
-      "Artist and Title": "Journey - Don't Stop Believin' (2022 Remaster)",
-      "Days": "258",
-      "Pk": "94",
-      "(x?)": "",
-      "Streams": "10,051",
-      "Streams+": "",
-      "7Day": "27,666",
-      "7Day+": "-327",
-      "Total": "2,974,208",
-      "track_id": "5RKQ5NdjSh2QzD4MaunT91",
-      "artist_ids": [
-        "0rvjqX7ttXeg3mTy8Xscbt"
-      ]
-    },
-    {
-      "Pos": "196",
-      "P+": "-44",
+      "Pos": "162",
+      "P+": "+34",
       "Artist and Title": "Ukendt Kunstner - Uden Dig",
-      "Days": "1078",
+      "Days": "1079",
       "Pk": "1",
       "(x?)": "(x24)",
-      "Streams": "10,051",
-      "Streams+": "-2,498",
-      "7Day": "74,729",
-      "7Day+": "-1,636",
-      "Total": "30,265,980",
+      "Streams": "8,936",
+      "Streams+": "-1,115",
+      "7Day": "73,313",
+      "7Day+": "-1,416",
+      "Total": "30,274,916",
       "track_id": "5dNSfOZb6AlEF0Xg6C970o",
       "artist_ids": [
         "1d5Y2zrhRQ6R0plv652L67"
       ]
     },
     {
-      "Pos": "197",
+      "Pos": "163",
+      "P+": "RE",
+      "Artist and Title": "SIENNA SPIRO - Pure",
+      "Days": "61",
+      "Pk": "86",
+      "(x?)": "",
+      "Streams": "8,935",
+      "Streams+": "",
+      "7Day": "54,393",
+      "7Day+": "-2,288",
+      "Total": "656,025",
+      "track_id": "31IKMjvv6Oskp4hjGVeYsT",
+      "artist_ids": [
+        "02gSuSAWEdWa5UOvqzjX6v"
+      ]
+    },
+    {
+      "Pos": "164",
+      "P+": "RE",
+      "Artist and Title": "sombr - back to friends",
+      "Days": "473",
+      "Pk": "27",
+      "(x?)": "",
+      "Streams": "8,862",
+      "Streams+": "",
+      "7Day": "60,872",
+      "7Day+": "-163",
+      "Total": "7,122,291",
+      "track_id": "7qjZnBKE73H4Oxkopwulqe",
+      "artist_ids": [
+        "4G9NDjRyZFDlJKMRL8hx3S"
+      ]
+    },
+    {
+      "Pos": "165",
+      "P+": "RE",
+      "Artist and Title": "Rihanna - Stay (w/ Mikky Ekko)",
+      "Days": "571",
+      "Pk": "67",
+      "(x?)": "",
+      "Streams": "8,855",
+      "Streams+": "",
+      "7Day": "51,400",
+      "7Day+": "+8,855",
+      "Total": "5,618,230",
+      "track_id": "789CxjEOtO76BVD1A9yJQH",
+      "artist_ids": [
+        "5pKCCKE2ajJHZ9KAiaK11H",
+        "1buzCmyYZE4kcdLRudsb8V"
+      ]
+    },
+    {
+      "Pos": "166",
+      "P+": "+19",
+      "Artist and Title": "Malte Ebert - Vagabond (w/ Mumle)",
+      "Days": "34",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "8,815",
+      "Streams+": "-1,379",
+      "7Day": "58,749",
+      "7Day+": "+8,815",
+      "Total": "694,230",
+      "track_id": "0Gn5ihOi3h3714FvTjvacN",
+      "artist_ids": [
+        "3UaEtP4pJGDhyEzy47AMzl",
+        "6xfKNngTw1zxViM96HSTCq"
+      ]
+    },
+    {
+      "Pos": "167",
       "P+": "-24",
-      "Artist and Title": "Rihanna - S&M",
-      "Days": "269",
+      "Artist and Title": "Artigeardit - Er Her (Artigeardit, KESI) (w/ KESI)",
+      "Days": "1732",
+      "Pk": "1",
+      "(x?)": "(x18)",
+      "Streams": "8,761",
+      "Streams+": "-2,636",
+      "7Day": "73,169",
+      "7Day+": "+8,761",
+      "Total": "39,599,651",
+      "track_id": "6BxGGPBdNexcy53euZsrga",
+      "artist_ids": [
+        "6a3WaWgxrVmNIvaiTCI0Kk",
+        "2d7AMvzFwh5wUTuqQl3BAE"
+      ]
+    },
+    {
+      "Pos": "168",
+      "P+": "-46",
+      "Artist and Title": "Mille - drømmefanger (w/ URO)",
+      "Days": "276",
+      "Pk": "1",
+      "(x?)": "(x5)",
+      "Streams": "8,747",
+      "Streams+": "-3,709",
+      "7Day": "81,040",
+      "7Day+": "-4,655",
+      "Total": "7,830,788",
+      "track_id": "4XgxdK8qm0K6EVUmg7ROMl",
+      "artist_ids": [
+        "1WLr84Nec3Bb8xuxgQZGb9",
+        "5FIdLxucf1EKqZfxeeXZzD"
+      ]
+    },
+    {
+      "Pos": "169",
+      "P+": "+13",
+      "Artist and Title": "D1MA - MOONLIGHT",
+      "Days": "1233",
+      "Pk": "1",
+      "(x?)": "(x17)",
+      "Streams": "8,688",
+      "Streams+": "-1,517",
+      "7Day": "71,180",
+      "7Day+": "+8,688",
+      "Total": "30,741,018",
+      "track_id": "3neYAjvKDOfvBUpIgReOkC",
+      "artist_ids": [
+        "5RaTuqY7SJHvh6MNzMagut"
+      ]
+    },
+    {
+      "Pos": "170",
+      "P+": "-45",
+      "Artist and Title": "Suspekt - 9 Liv",
+      "Days": "17",
+      "Pk": "12",
+      "(x?)": "",
+      "Streams": "8,678",
+      "Streams+": "-3,563",
+      "7Day": "95,441",
+      "7Day+": "-4,138",
+      "Total": "333,795",
+      "track_id": "3GStI8qvcZAKgc2Rsu5qBv",
+      "artist_ids": [
+        "74HomvqoUecDcUPRespyqg"
+      ]
+    },
+    {
+      "Pos": "171",
+      "P+": "-80",
+      "Artist and Title": "Gilli - 10/5 (w/ Benny Jamz)",
+      "Days": "24",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "8,655",
+      "Streams+": "-5,274",
+      "7Day": "120,252",
+      "7Day+": "-8,740",
+      "Total": "684,799",
+      "track_id": "59pdHO38QvQM8lBy2VmI5V",
+      "artist_ids": [
+        "2KbikmQKGiUPR2ARs1h0sq",
+        "2eBqkaIfoNsOPCQCQEy5fD"
+      ]
+    },
+    {
+      "Pos": "172",
+      "P+": "RE",
+      "Artist and Title": "Taylor Swift - The Fate of Ophelia",
+      "Days": "368",
+      "Pk": "1",
+      "(x?)": "(x13)",
+      "Streams": "8,653",
+      "Streams+": "",
+      "7Day": "47,654",
+      "7Day+": "-730",
+      "Total": "10,680,101",
+      "track_id": "53iuhJlwXhSER5J2IYYv1W",
+      "artist_ids": [
+        "06HL4z0CvFAxyc27GXpf02"
+      ]
+    },
+    {
+      "Pos": "173",
+      "P+": "+3",
+      "Artist and Title": "Billie Eilish - BIRDS OF A FEATHER",
+      "Days": "806",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "8,650",
+      "Streams+": "-1,838",
+      "7Day": "50,732",
+      "7Day+": "+453",
+      "Total": "23,627,812",
+      "track_id": "6dOtVTDdiauQNBQEDOtlAB",
+      "artist_ids": [
+        "6qqNVTkY8uBg9cP3Jd7DAH"
+      ]
+    },
+    {
+      "Pos": "174",
+      "P+": "-10",
+      "Artist and Title": "Gilli - Casio (w/ Noah Carter)",
+      "Days": "24",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "8,639",
+      "Streams+": "-2,153",
+      "7Day": "101,111",
+      "7Day+": "-6,288",
+      "Total": "714,245",
+      "track_id": "554sRZ5jFnY9ndo6Z9cvVa",
+      "artist_ids": [
+        "2KbikmQKGiUPR2ARs1h0sq",
+        "2dfY7zXIP61MKHtD175hFp"
+      ]
+    },
+    {
+      "Pos": "175",
+      "P+": "-4",
+      "Artist and Title": "Lukas Graham - Drunk In The Morning",
+      "Days": "348",
       "Pk": "52",
       "(x?)": "",
-      "Streams": "10,046",
-      "Streams+": "-1,748",
-      "7Day": "68,332",
-      "7Day+": "-1,212",
-      "Total": "3,064,924",
-      "track_id": "7ySUcLPVX7KudhnmNcgY2D",
+      "Streams": "8,629",
+      "Streams+": "-2,002",
+      "7Day": "67,367",
+      "7Day+": "+74",
+      "Total": "3,143,062",
+      "track_id": "7IiIVORBnoCqpq59upc67R",
       "artist_ids": [
-        "5pKCCKE2ajJHZ9KAiaK11H"
+        "25u4wHJWxCA9vO0CzxAbK7"
       ]
     },
     {
-      "Pos": "198",
-      "P+": "RE",
-      "Artist and Title": "Trine Therkelsen - Under Stjernerne På Himlen",
-      "Days": "84",
-      "Pk": "83",
-      "(x?)": "",
-      "Streams": "10,025",
-      "Streams+": "",
-      "7Day": "62,701",
-      "7Day+": "-6",
-      "Total": "850,633",
-      "track_id": "1lZ6u1mye7jlEVu7D5vnBz",
-      "artist_ids": [
-        "05gAr4rfrOofxGPewzWnAF"
-      ]
-    },
-    {
-      "Pos": "199",
-      "P+": "-29",
+      "Pos": "176",
+      "P+": "+23",
       "Artist and Title": "Macklemore & Ryan Lewis - Can't Hold Us (w/ Macklemore, Ryan Lewis, Ray Dalton)",
-      "Days": "981",
+      "Days": "982",
       "Pk": "56",
       "(x?)": "",
-      "Streams": "9,992",
-      "Streams+": "-1,826",
-      "7Day": "76,139",
-      "7Day+": "-2,466",
-      "Total": "10,828,879",
+      "Streams": "8,566",
+      "Streams+": "-1,426",
+      "7Day": "74,722",
+      "7Day+": "-1,417",
+      "Total": "10,837,445",
       "track_id": "22skzmqfdWrjJylampe0kt",
       "artist_ids": [
         "5BcAKTbp20cv7tC5VqPFoC",
@@ -3464,20 +3061,420 @@
       ]
     },
     {
-      "Pos": "200",
-      "P+": "-21",
+      "Pos": "177",
+      "P+": "-16",
+      "Artist and Title": "Marstein - SAVNER ET MENNESKE (w/ Tobias Rahim)",
+      "Days": "31",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "8,541",
+      "Streams+": "-2,309",
+      "7Day": "82,934",
+      "7Day+": "-1,822",
+      "Total": "645,827",
+      "track_id": "7E7WgbepTMLByxdDZ6Vxgu",
+      "artist_ids": [
+        "7KjsjftPKKarTvZlawniPi",
+        "1w2fVGZN37TieWhlqS8UwB"
+      ]
+    },
+    {
+      "Pos": "178",
+      "P+": "+10",
+      "Artist and Title": "Lukas Graham - 7 Years",
+      "Days": "1597",
+      "Pk": "1",
+      "(x?)": "(x39)",
+      "Streams": "8,532",
+      "Streams+": "-1,629",
+      "7Day": "37,241",
+      "7Day+": "-418",
+      "Total": "33,545,511",
+      "track_id": "5kqIPrATaCc2LqxVWzQGbk",
+      "artist_ids": [
+        "25u4wHJWxCA9vO0CzxAbK7"
+      ]
+    },
+    {
+      "Pos": "179",
+      "P+": "-17",
+      "Artist and Title": "The Police - Every Breath You Take",
+      "Days": "407",
+      "Pk": "31",
+      "(x?)": "",
+      "Streams": "8,530",
+      "Streams+": "-2,313",
+      "7Day": "67,673",
+      "7Day+": "+147",
+      "Total": "4,925,062",
+      "track_id": "1JSTJqkT5qHq8MDJnJbRE1",
+      "artist_ids": [
+        "5NGO30tJxFlKixkPSgXcFE"
+      ]
+    },
+    {
+      "Pos": "180",
+      "P+": "-35",
+      "Artist and Title": "Mille - ingen andre (w/ Annika)",
+      "Days": "262",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "8,525",
+      "Streams+": "-2,840",
+      "7Day": "77,074",
+      "7Day+": "-795",
+      "Total": "5,910,901",
+      "track_id": "5rq9wIneeqXYPnohfYVzv7",
+      "artist_ids": [
+        "1WLr84Nec3Bb8xuxgQZGb9",
+        "1GKN1Js8fa19K23eIhOMhg"
+      ]
+    },
+    {
+      "Pos": "181",
+      "P+": "+19",
       "Artist and Title": "sombr - Homewrecker",
-      "Days": "242",
+      "Days": "243",
       "Pk": "12",
       "(x?)": "",
-      "Streams": "9,971",
-      "Streams+": "-1,720",
-      "7Day": "71,205",
-      "7Day+": "0",
-      "Total": "4,091,109",
+      "Streams": "8,502",
+      "Streams+": "-1,469",
+      "7Day": "70,698",
+      "7Day+": "-507",
+      "Total": "4,099,611",
       "track_id": "7tICCrK3CcyRFKza7yrR0z",
       "artist_ids": [
         "4G9NDjRyZFDlJKMRL8hx3S"
+      ]
+    },
+    {
+      "Pos": "182",
+      "P+": "RE",
+      "Artist and Title": "SIENNA SPIRO - Material Lover - from The Devil Wears Prada 2 Original Motion Picture",
+      "Days": "87",
+      "Pk": "100",
+      "(x?)": "",
+      "Streams": "8,497",
+      "Streams+": "",
+      "7Day": "49,010",
+      "7Day+": "-1,133",
+      "Total": "937,635",
+      "track_id": "2aQcGu5C6qFcicPsaywTEK",
+      "artist_ids": [
+        "02gSuSAWEdWa5UOvqzjX6v"
+      ]
+    },
+    {
+      "Pos": "183",
+      "P+": "-41",
+      "Artist and Title": "HUGEL - Movin' To The Sun (w/ Imael Angel, Ultra Naté)",
+      "Days": "96",
+      "Pk": "49",
+      "(x?)": "",
+      "Streams": "8,475",
+      "Streams+": "-3,016",
+      "7Day": "79,368",
+      "7Day+": "-1,506",
+      "Total": "1,323,729",
+      "track_id": "4vTsKN15Kqo3Geo9r7FhAN",
+      "artist_ids": [
+        "5PlfkPxwCpRRWQJBxCa0By",
+        "17yREPqyU875WJnX9U082A",
+        "1cK2Abwkni7m51wJCSGllN"
+      ]
+    },
+    {
+      "Pos": "184",
+      "P+": "-16",
+      "Artist and Title": "Ankerstjerne - Olivia For Altid (w/ Omar, Svea S)",
+      "Days": "365",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "8,450",
+      "Streams+": "-2,219",
+      "7Day": "50,100",
+      "7Day+": "-1,296",
+      "Total": "7,874,810",
+      "track_id": "1NOXdz32HLzPiFbqFQHUh7",
+      "artist_ids": [
+        "7JoViNQIqOIaxcBswboN5d",
+        "1GLzVjVa7bLnAcD1At98j3",
+        "7nCIXUCqZmxntAGJMyls5c"
+      ]
+    },
+    {
+      "Pos": "185",
+      "P+": "RE",
+      "Artist and Title": "Djo - End of Beginning",
+      "Days": "478",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "8,439",
+      "Streams+": "",
+      "7Day": "27,663",
+      "7Day+": "+8,439",
+      "Total": "9,311,464",
+      "track_id": "3qhlB30KknSejmIvZZLjOD",
+      "artist_ids": [
+        "5p9HO3XC5P3BLxJs5Mtrhm"
+      ]
+    },
+    {
+      "Pos": "186",
+      "P+": "RE",
+      "Artist and Title": "Dominic Fike - Babydoll",
+      "Days": "227",
+      "Pk": "16",
+      "(x?)": "",
+      "Streams": "8,438",
+      "Streams+": "",
+      "7Day": "44,607",
+      "7Day+": "+92",
+      "Total": "4,293,264",
+      "track_id": "7yNf9YjeO5JXUE3JEBgnYc",
+      "artist_ids": [
+        "6USv9qhCn6zfxlBQIYJ9qs"
+      ]
+    },
+    {
+      "Pos": "187",
+      "P+": "RE",
+      "Artist and Title": "Bella Kay - iloveitiloveitiloveit",
+      "Days": "233",
+      "Pk": "3",
+      "(x?)": "(x2)",
+      "Streams": "8,335",
+      "Streams+": "",
+      "7Day": "49,526",
+      "7Day+": "-744",
+      "Total": "5,864,105",
+      "track_id": "5IMpnpD0tQVcqWlVIgtAtV",
+      "artist_ids": [
+        "4Z8MrrKMBHMPa8d04Ivur8"
+      ]
+    },
+    {
+      "Pos": "188",
+      "P+": "-65",
+      "Artist and Title": "Medina - Kun For Mig",
+      "Days": "780",
+      "Pk": "34",
+      "(x?)": "",
+      "Streams": "8,331",
+      "Streams+": "-4,075",
+      "7Day": "33,183",
+      "7Day+": "+8,331",
+      "Total": "9,614,157",
+      "track_id": "7hBGy8DIYXuUZf5ZUjKHPO",
+      "artist_ids": [
+        "7c7ZeiPKWHf2E1rsf1P4VF"
+      ]
+    },
+    {
+      "Pos": "189",
+      "P+": "RE",
+      "Artist and Title": "Mille - beholder mit tøj på",
+      "Days": "463",
+      "Pk": "16",
+      "(x?)": "",
+      "Streams": "8,331",
+      "Streams+": "",
+      "7Day": "46,199",
+      "7Day+": "-1,029",
+      "Total": "7,675,914",
+      "track_id": "6XkLzHg4OmaWNltw6HZVBx",
+      "artist_ids": [
+        "1WLr84Nec3Bb8xuxgQZGb9"
+      ]
+    },
+    {
+      "Pos": "190",
+      "P+": "-1",
+      "Artist and Title": "D1MA - LOSSES",
+      "Days": "178",
+      "Pk": "45",
+      "(x?)": "",
+      "Streams": "8,285",
+      "Streams+": "-1,857",
+      "7Day": "81,958",
+      "7Day+": "-2,584",
+      "Total": "2,444,140",
+      "track_id": "6jiJlhoKrtnqbEwn9rwLzg",
+      "artist_ids": [
+        "5RaTuqY7SJHvh6MNzMagut"
+      ]
+    },
+    {
+      "Pos": "191",
+      "P+": "RE",
+      "Artist and Title": "Benson Boone - Beautiful Things",
+      "Days": "828",
+      "Pk": "3",
+      "(x?)": "(x12)",
+      "Streams": "8,282",
+      "Streams+": "",
+      "7Day": "47,068",
+      "7Day+": "-736",
+      "Total": "19,753,729",
+      "track_id": "3xkHsmpQCBMytMJNiDf3Ii",
+      "artist_ids": [
+        "22wbnEMDvgVIAGdFeek6ET"
+      ]
+    },
+    {
+      "Pos": "192",
+      "P+": "RE",
+      "Artist and Title": "Teddy Swims - Lose Control",
+      "Days": "818",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "8,276",
+      "Streams+": "",
+      "7Day": "47,359",
+      "7Day+": "-809",
+      "Total": "20,107,074",
+      "track_id": "17phhZDn6oGtzMe56NuWvj",
+      "artist_ids": [
+        "33qOK5uJ8AR2xuQQAhHump"
+      ]
+    },
+    {
+      "Pos": "193",
+      "P+": "RE",
+      "Artist and Title": "Christopher - A Beautiful Life (From the Netflix Film ‘A Beautiful Life’)",
+      "Days": "180",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "8,273",
+      "Streams+": "",
+      "7Day": "8,273",
+      "7Day+": "+8,273",
+      "Total": "3,681,068",
+      "track_id": "2e6JU6XBm7w0FnHyQqrqMs",
+      "artist_ids": [
+        "3zDRCqOhJXJfS2YWOEwGMC"
+      ]
+    },
+    {
+      "Pos": "194",
+      "P+": "-22",
+      "Artist and Title": "Forty - Alias (w/ Jamaika)",
+      "Days": "3",
+      "Pk": "74",
+      "(x?)": "",
+      "Streams": "8,233",
+      "Streams+": "-2,389",
+      "7Day": "39,079",
+      "7Day+": "+8,233",
+      "Total": "39,079",
+      "track_id": "4Y6rOZhHbvgNcRpbcanmFG",
+      "artist_ids": [
+        "3KoqqxDnw3bcWJi0JAJZVl",
+        "7EJcUkbBsR4kN822bEa0ZS"
+      ]
+    },
+    {
+      "Pos": "195",
+      "P+": "-20",
+      "Artist and Title": "KESI - Blå Himmel (w/ Hans Philip)",
+      "Days": "1986",
+      "Pk": "1",
+      "(x?)": "(x21)",
+      "Streams": "8,203",
+      "Streams+": "-2,288",
+      "7Day": "38,869",
+      "7Day+": "-62",
+      "Total": "42,621,495",
+      "track_id": "0qA2qykpcGdVl3tiiYum4g",
+      "artist_ids": [
+        "2d7AMvzFwh5wUTuqQl3BAE",
+        "6idjJt47PjFydVRrAlNw4C"
+      ]
+    },
+    {
+      "Pos": "196",
+      "P+": "-29",
+      "Artist and Title": "Ida Laurberg - Jeg Ka' Rigtig Godt Li' Dig (w/ andreas odbjerg)",
+      "Days": "977",
+      "Pk": "2",
+      "(x?)": "(x12)",
+      "Streams": "8,181",
+      "Streams+": "-2,502",
+      "7Day": "28,419",
+      "7Day+": "+8,181",
+      "Total": "24,517,372",
+      "track_id": "6P8HH4mh0jmGlOhHwAkY5o",
+      "artist_ids": [
+        "03IbEiokQjTDfvdyIYV5D4",
+        "6aHaYKL09sA8L260zXNlVR"
+      ]
+    },
+    {
+      "Pos": "197",
+      "P+": "-18",
+      "Artist and Title": "JONATHAN - tyde dine intentioner.",
+      "Days": "3",
+      "Pk": "68",
+      "(x?)": "",
+      "Streams": "8,154",
+      "Streams+": "-2,105",
+      "7Day": "40,103",
+      "7Day+": "+8,154",
+      "Total": "40,103",
+      "track_id": "6U68BZqj7bLh65W14UqfS4",
+      "artist_ids": [
+        "5v96GtI5k2NSfheYWSMNTZ"
+      ]
+    },
+    {
+      "Pos": "198",
+      "P+": "-39",
+      "Artist and Title": "Gilli - En Som Dig",
+      "Days": "24",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "8,138",
+      "Streams+": "-2,848",
+      "7Day": "116,281",
+      "7Day+": "-9,600",
+      "Total": "701,417",
+      "track_id": "236TF1OI21TFeua4Cvq2ZT",
+      "artist_ids": [
+        "2KbikmQKGiUPR2ARs1h0sq"
+      ]
+    },
+    {
+      "Pos": "199",
+      "P+": "RE",
+      "Artist and Title": "Dua Lipa - Training Season",
+      "Days": "155",
+      "Pk": "17",
+      "(x?)": "",
+      "Streams": "8,113",
+      "Streams+": "",
+      "7Day": "49,446",
+      "7Day+": "-1,716",
+      "Total": "2,532,529",
+      "track_id": "5b5cPscqVEMChvDqscVw26",
+      "artist_ids": [
+        "6M2wZ9GZgrQXHCFfjv46we"
+      ]
+    },
+    {
+      "Pos": "200",
+      "P+": "RE",
+      "Artist and Title": "Zara Larsson - Midnight Sun",
+      "Days": "283",
+      "Pk": "42",
+      "(x?)": "",
+      "Streams": "8,104",
+      "Streams+": "",
+      "7Day": "25,988",
+      "7Day+": "-625",
+      "Total": "3,593,573",
+      "track_id": "1qRV1dKLOfH1s00b9J2LUQ",
+      "artist_ids": [
+        "1Xylc3o4UrD53lo9CvFvVg"
       ]
     }
   ]
