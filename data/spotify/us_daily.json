@@ -1,19 +1,19 @@
 {
   "source": "https://kworb.net/spotify/country/us_daily.html",
-  "title": "Spotify Daily Chart - United States - 2026/10/16",
+  "title": "Spotify Daily Chart - United States - 2026/10/17",
   "chart": [
     {
       "Pos": "1",
-      "P+": "NEW",
+      "P+": "=",
       "Artist and Title": "Tate McRae - Housewife",
-      "Days": "1",
+      "Days": "2",
       "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "2,434,230",
-      "Streams+": "",
-      "7Day": "2,434,230",
-      "7Day+": "+2,434,230",
-      "Total": "2,434,230",
+      "(x?)": "(x2)",
+      "Streams": "1,327,360",
+      "Streams+": "-1,106,870",
+      "7Day": "3,761,590",
+      "7Day+": "+1,327,360",
+      "Total": "3,761,590",
       "track_id": "2sFepQNyl1WjpROruP8bJ0",
       "artist_ids": [
         "45dkTj5sMRSjrmBSBeiHym"
@@ -21,16 +21,33 @@
     },
     {
       "Pos": "2",
-      "P+": "NEW",
+      "P+": "+2",
+      "Artist and Title": "ADÉLA - Nicole Kidman",
+      "Days": "44",
+      "Pk": "1",
+      "(x?)": "(x11)",
+      "Streams": "1,296,095",
+      "Streams+": "-13,617",
+      "7Day": "8,755,609",
+      "7Day+": "+14,659",
+      "Total": "45,456,265",
+      "track_id": "70cHKK8bHAfJrOGVnfRG9J",
+      "artist_ids": [
+        "2qanRMyA5bNuTvz1dK45OP"
+      ]
+    },
+    {
+      "Pos": "3",
+      "P+": "-1",
       "Artist and Title": "Zach Bryan - Lies (w/ Lana Del Rey)",
-      "Days": "1",
+      "Days": "2",
       "Pk": "2",
       "(x?)": "(x1)",
-      "Streams": "1,710,865",
-      "Streams+": "",
-      "7Day": "1,710,865",
-      "7Day+": "+1,710,865",
-      "Total": "1,710,865",
+      "Streams": "1,138,373",
+      "Streams+": "-572,492",
+      "7Day": "2,849,238",
+      "7Day+": "+1,138,373",
+      "Total": "2,849,238",
       "track_id": "4EVSMqqVEehvyyOBmjNTlA",
       "artist_ids": [
         "40ZNYROS4zLfyyBSs2PGe2",
@@ -38,17 +55,34 @@
       ]
     },
     {
-      "Pos": "3",
-      "P+": "NEW",
+      "Pos": "4",
+      "P+": "+1",
+      "Artist and Title": "Ella Langley - Choosin' Texas",
+      "Days": "366",
+      "Pk": "1",
+      "(x?)": "(x127)",
+      "Streams": "1,121,045",
+      "Streams+": "-38,080",
+      "7Day": "7,530,383",
+      "7Day+": "-48,075",
+      "Total": "471,366,980",
+      "track_id": "7scFxt9VhL4FJwuPSfRlfN",
+      "artist_ids": [
+        "6BRxQ8cD3eqnrVj6WKDok8"
+      ]
+    },
+    {
+      "Pos": "5",
+      "P+": "-2",
       "Artist and Title": "Olivia Rodrigo - expectations (w/ Chappell Roan)",
-      "Days": "1",
+      "Days": "2",
       "Pk": "3",
       "(x?)": "(x1)",
-      "Streams": "1,692,207",
-      "Streams+": "",
-      "7Day": "1,692,207",
-      "7Day+": "+1,692,207",
-      "Total": "1,692,207",
+      "Streams": "976,491",
+      "Streams+": "-715,716",
+      "7Day": "2,668,698",
+      "7Day+": "+976,491",
+      "Total": "2,668,698",
       "track_id": "3XmwAZpIMNpTJy8faw3ajD",
       "artist_ids": [
         "1McMsnEElThX1knmY4oliG",
@@ -56,102 +90,17 @@
       ]
     },
     {
-      "Pos": "4",
-      "P+": "-3",
-      "Artist and Title": "ADÉLA - Nicole Kidman",
-      "Days": "43",
-      "Pk": "1",
-      "(x?)": "(x11)",
-      "Streams": "1,309,712",
-      "Streams+": "+25,056",
-      "7Day": "8,740,950",
-      "7Day+": "-105,462",
-      "Total": "44,160,170",
-      "track_id": "70cHKK8bHAfJrOGVnfRG9J",
-      "artist_ids": [
-        "2qanRMyA5bNuTvz1dK45OP"
-      ]
-    },
-    {
-      "Pos": "5",
-      "P+": "-3",
-      "Artist and Title": "Ella Langley - Choosin' Texas",
-      "Days": "365",
-      "Pk": "1",
-      "(x?)": "(x127)",
-      "Streams": "1,159,125",
-      "Streams+": "+69,585",
-      "7Day": "7,578,458",
-      "7Day+": "-37,046",
-      "Total": "470,245,935",
-      "track_id": "7scFxt9VhL4FJwuPSfRlfN",
-      "artist_ids": [
-        "6BRxQ8cD3eqnrVj6WKDok8"
-      ]
-    },
-    {
       "Pos": "6",
-      "P+": "NEW",
-      "Artist and Title": "Zach Bryan - Lodi When",
-      "Days": "1",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "1,123,116",
-      "Streams+": "",
-      "7Day": "1,123,116",
-      "7Day+": "+1,123,116",
-      "Total": "1,123,116",
-      "track_id": "1mzJsnHWXIthrJQKwe8Yci",
-      "artist_ids": [
-        "40ZNYROS4zLfyyBSs2PGe2"
-      ]
-    },
-    {
-      "Pos": "7",
-      "P+": "-3",
-      "Artist and Title": "Olivia Rodrigo - stupid song",
-      "Days": "127",
-      "Pk": "1",
-      "(x?)": "(x12)",
-      "Streams": "1,031,125",
-      "Streams+": "+102,184",
-      "7Day": "6,524,147",
-      "7Day+": "+29,957",
-      "Total": "137,670,009",
-      "track_id": "49j6SvuvWfbEKZKzsHCdLJ",
-      "artist_ids": [
-        "1McMsnEElThX1knmY4oliG"
-      ]
-    },
-    {
-      "Pos": "8",
-      "P+": "-3",
-      "Artist and Title": "Olivia Rodrigo - the cure",
-      "Days": "148",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "924,756",
-      "Streams+": "+11,485",
-      "7Day": "6,171,787",
-      "7Day+": "-33,894",
-      "Total": "147,275,803",
-      "track_id": "55pBIZO1cqoldeqpp5WR7H",
-      "artist_ids": [
-        "1McMsnEElThX1knmY4oliG"
-      ]
-    },
-    {
-      "Pos": "9",
-      "P+": "-3",
+      "P+": "+3",
       "Artist and Title": "KAROL G - BbY WOW (w/ Judeline, rusowsky)",
-      "Days": "66",
+      "Days": "67",
       "Pk": "2",
       "(x?)": "(x11)",
-      "Streams": "908,239",
-      "Streams+": "+25,358",
-      "7Day": "6,085,773",
-      "7Day+": "-66,629",
-      "Total": "56,397,105",
+      "Streams": "906,964",
+      "Streams+": "-1,275",
+      "7Day": "6,054,749",
+      "7Day+": "-31,024",
+      "Total": "57,304,069",
       "track_id": "3h5T5JypYU7huFiVYhv1dr",
       "artist_ids": [
         "790FomKkXshlbRYZFtlgla",
@@ -160,120 +109,170 @@
       ]
     },
     {
-      "Pos": "10",
-      "P+": "-7",
+      "Pos": "7",
+      "P+": "+3",
       "Artist and Title": "Malcolm Todd - Earrings",
-      "Days": "286",
+      "Days": "287",
       "Pk": "1",
       "(x?)": "(x1)",
-      "Streams": "892,721",
-      "Streams+": "-47,206",
-      "7Day": "6,416,569",
-      "7Day+": "-80,488",
-      "Total": "252,984,345",
+      "Streams": "893,366",
+      "Streams+": "+645",
+      "7Day": "6,405,854",
+      "7Day+": "-10,715",
+      "Total": "253,877,711",
       "track_id": "0eAuGrXyGFYwur9ARUe7LJ",
       "artist_ids": [
         "7eKkW1zo5uzW8kUntiiBvz"
       ]
     },
     {
-      "Pos": "11",
-      "P+": "NEW",
-      "Artist and Title": "Zach Bryan - Robot Killed The Working Man",
-      "Days": "1",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "878,869",
-      "Streams+": "",
-      "7Day": "878,869",
-      "7Day+": "+878,869",
-      "Total": "878,869",
-      "track_id": "5RFAHNlIOFW4zitMltbOBI",
-      "artist_ids": [
-        "40ZNYROS4zLfyyBSs2PGe2"
-      ]
-    },
-    {
-      "Pos": "12",
-      "P+": "+21",
-      "Artist and Title": "Olivia Rodrigo - expectations",
-      "Days": "127",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "875,884",
-      "Streams+": "+380,499",
-      "7Day": "3,596,182",
-      "7Day+": "+391,074",
-      "Total": "71,168,473",
-      "track_id": "4bkClAuofJULiaIZsuL3gT",
+      "Pos": "8",
+      "P+": "-1",
+      "Artist and Title": "Olivia Rodrigo - stupid song",
+      "Days": "128",
+      "Pk": "1",
+      "(x?)": "(x12)",
+      "Streams": "859,687",
+      "Streams+": "-171,438",
+      "7Day": "6,505,069",
+      "7Day+": "-19,078",
+      "Total": "138,529,696",
+      "track_id": "49j6SvuvWfbEKZKzsHCdLJ",
       "artist_ids": [
         "1McMsnEElThX1knmY4oliG"
       ]
     },
     {
-      "Pos": "13",
-      "P+": "-6",
-      "Artist and Title": "Taylor Swift - Patient Zero",
-      "Days": "22",
+      "Pos": "9",
+      "P+": "-1",
+      "Artist and Title": "Olivia Rodrigo - the cure",
+      "Days": "149",
       "Pk": "1",
-      "(x?)": "(x11)",
-      "Streams": "831,801",
-      "Streams+": "+53,342",
-      "7Day": "5,740,322",
-      "7Day+": "-154,220",
-      "Total": "34,453,102",
-      "track_id": "11hcBLPtbMp4aQI6zGQLub",
+      "(x?)": "(x1)",
+      "Streams": "827,302",
+      "Streams+": "-97,454",
+      "7Day": "6,162,800",
+      "7Day+": "-8,987",
+      "Total": "148,103,105",
+      "track_id": "55pBIZO1cqoldeqpp5WR7H",
       "artist_ids": [
-        "06HL4z0CvFAxyc27GXpf02"
+        "1McMsnEElThX1knmY4oliG"
       ]
     },
     {
-      "Pos": "14",
-      "P+": "NEW",
-      "Artist and Title": "Zach Bryan - Plainsman (w/ Turnpike Troubadours)",
-      "Days": "1",
-      "Pk": "14",
-      "(x?)": "",
-      "Streams": "814,683",
-      "Streams+": "",
-      "7Day": "814,683",
-      "7Day+": "+814,683",
-      "Total": "814,683",
-      "track_id": "1MvpArWMOKjTlJq6Gvz645",
-      "artist_ids": [
-        "40ZNYROS4zLfyyBSs2PGe2",
-        "1YSA4byX5AL1zoTsSTlB03"
-      ]
-    },
-    {
-      "Pos": "15",
-      "P+": "-6",
+      "Pos": "10",
+      "P+": "+5",
       "Artist and Title": "Olivia Dean - Man I Need",
-      "Days": "423",
+      "Days": "424",
       "Pk": "1",
       "(x?)": "(x2)",
-      "Streams": "794,285",
-      "Streams+": "+68,280",
-      "7Day": "5,008,819",
-      "7Day+": "+8,393",
-      "Total": "394,467,901",
+      "Streams": "747,325",
+      "Streams+": "-46,960",
+      "7Day": "5,024,086",
+      "7Day+": "+15,267",
+      "Total": "395,215,226",
       "track_id": "1qbmS6ep2hbBRaEZFpn7BX",
       "artist_ids": [
         "00x1fYSGhdqScXBRpSj3DW"
       ]
     },
     {
+      "Pos": "11",
+      "P+": "+7",
+      "Artist and Title": "The Killers - Mr. Brightside",
+      "Days": "2239",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "742,234",
+      "Streams+": "-28,445",
+      "7Day": "5,128,446",
+      "7Day+": "-11,714",
+      "Total": "905,289,014",
+      "track_id": "003vvx7Niy0yvhvHt4a68B",
+      "artist_ids": [
+        "0C0XlULifJtAgn6ZNCW2eu"
+      ]
+    },
+    {
+      "Pos": "12",
+      "P+": "+1",
+      "Artist and Title": "Taylor Swift - Patient Zero",
+      "Days": "23",
+      "Pk": "1",
+      "(x?)": "(x11)",
+      "Streams": "735,975",
+      "Streams+": "-95,826",
+      "7Day": "5,567,646",
+      "7Day+": "-172,676",
+      "Total": "35,189,077",
+      "track_id": "11hcBLPtbMp4aQI6zGQLub",
+      "artist_ids": [
+        "06HL4z0CvFAxyc27GXpf02"
+      ]
+    },
+    {
+      "Pos": "13",
+      "P+": "-7",
+      "Artist and Title": "Zach Bryan - Lodi When",
+      "Days": "2",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "715,902",
+      "Streams+": "-407,214",
+      "7Day": "1,839,018",
+      "7Day+": "+715,902",
+      "Total": "1,839,018",
+      "track_id": "1mzJsnHWXIthrJQKwe8Yci",
+      "artist_ids": [
+        "40ZNYROS4zLfyyBSs2PGe2"
+      ]
+    },
+    {
+      "Pos": "14",
+      "P+": "+5",
+      "Artist and Title": "Whiskey Myers - Broken Window Serenade",
+      "Days": "444",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "702,877",
+      "Streams+": "-54,311",
+      "7Day": "4,832,307",
+      "7Day+": "+20,634",
+      "Total": "237,468,553",
+      "track_id": "1VOSSXuWRcBj2rpfxNdX9v",
+      "artist_ids": [
+        "26opZSJcXshCmCwxgZQmBc"
+      ]
+    },
+    {
+      "Pos": "15",
+      "P+": "+6",
+      "Artist and Title": "ADÉLA - Ain't In LA",
+      "Days": "81",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "693,866",
+      "Streams+": "-51,623",
+      "7Day": "4,874,401",
+      "7Day+": "-16,375",
+      "Total": "46,385,579",
+      "track_id": "6U9VpmP3dEinuezxCJ2Zg9",
+      "artist_ids": [
+        "2qanRMyA5bNuTvz1dK45OP"
+      ]
+    },
+    {
       "Pos": "16",
-      "P+": "-4",
+      "P+": "=",
       "Artist and Title": "Ashe - Stop The Wedding!",
-      "Days": "43",
+      "Days": "44",
       "Pk": "9",
       "(x?)": "",
-      "Streams": "790,214",
-      "Streams+": "+116,877",
-      "7Day": "4,733,877",
-      "7Day+": "+113,419",
-      "Total": "20,023,725",
+      "Streams": "690,229",
+      "Streams+": "-99,985",
+      "7Day": "4,807,306",
+      "7Day+": "+73,429",
+      "Total": "20,713,954",
       "track_id": "3zOYmiNOuyDL0ClxJcEJ0T",
       "artist_ids": [
         "6P5NO5hzJbuOqSdyPB7SJM"
@@ -281,186 +280,1221 @@
     },
     {
       "Pos": "17",
-      "P+": "NEW",
-      "Artist and Title": "Zach Bryan - Dog Days",
-      "Days": "1",
-      "Pk": "17",
-      "(x?)": "",
-      "Streams": "782,824",
-      "Streams+": "",
-      "7Day": "782,824",
-      "7Day+": "+782,824",
-      "Total": "782,824",
-      "track_id": "4vvBYPHEKAhFU5qnFthWv9",
-      "artist_ids": [
-        "40ZNYROS4zLfyyBSs2PGe2"
-      ]
-    },
-    {
-      "Pos": "18",
-      "P+": "-10",
-      "Artist and Title": "The Killers - Mr. Brightside",
-      "Days": "2238",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "770,679",
-      "Streams+": "+20,265",
-      "7Day": "5,140,160",
-      "7Day+": "-19,213",
-      "Total": "904,546,780",
-      "track_id": "003vvx7Niy0yvhvHt4a68B",
-      "artist_ids": [
-        "0C0XlULifJtAgn6ZNCW2eu"
-      ]
-    },
-    {
-      "Pos": "19",
-      "P+": "-8",
-      "Artist and Title": "Whiskey Myers - Broken Window Serenade",
-      "Days": "443",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "757,188",
-      "Streams+": "+69,233",
-      "7Day": "4,811,673",
-      "7Day+": "+40,679",
-      "Total": "236,765,676",
-      "track_id": "1VOSSXuWRcBj2rpfxNdX9v",
-      "artist_ids": [
-        "26opZSJcXshCmCwxgZQmBc"
-      ]
-    },
-    {
-      "Pos": "20",
-      "P+": "NEW",
-      "Artist and Title": "Zach Bryan - Backwards",
-      "Days": "1",
-      "Pk": "20",
-      "(x?)": "",
-      "Streams": "748,567",
-      "Streams+": "",
-      "7Day": "748,567",
-      "7Day+": "+748,567",
-      "Total": "748,567",
-      "track_id": "0mPeciUj7pSZ6fFd7FSrP6",
-      "artist_ids": [
-        "40ZNYROS4zLfyyBSs2PGe2"
-      ]
-    },
-    {
-      "Pos": "21",
-      "P+": "-11",
-      "Artist and Title": "ADÉLA - Ain't In LA",
-      "Days": "80",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "745,489",
-      "Streams+": "+47,904",
-      "7Day": "4,890,776",
-      "7Day+": "+28,713",
-      "Total": "45,691,713",
-      "track_id": "6U9VpmP3dEinuezxCJ2Zg9",
-      "artist_ids": [
-        "2qanRMyA5bNuTvz1dK45OP"
-      ]
-    },
-    {
-      "Pos": "22",
-      "P+": "NEW",
-      "Artist and Title": "Zach Bryan - You'll Get By",
-      "Days": "1",
-      "Pk": "22",
-      "(x?)": "",
-      "Streams": "677,508",
-      "Streams+": "",
-      "7Day": "677,508",
-      "7Day+": "+677,508",
-      "Total": "677,508",
-      "track_id": "7lPkjiujKlBKiBpNm52lll",
-      "artist_ids": [
-        "40ZNYROS4zLfyyBSs2PGe2"
-      ]
-    },
-    {
-      "Pos": "23",
-      "P+": "NEW",
-      "Artist and Title": "Zach Bryan - Is The Blue Tangled In You?",
-      "Days": "1",
-      "Pk": "23",
-      "(x?)": "",
-      "Streams": "630,399",
-      "Streams+": "",
-      "7Day": "630,399",
-      "7Day+": "+630,399",
-      "Total": "630,399",
-      "track_id": "4D9gnmocVP4sVWQHRYv5YH",
-      "artist_ids": [
-        "40ZNYROS4zLfyyBSs2PGe2"
-      ]
-    },
-    {
-      "Pos": "24",
-      "P+": "-6",
-      "Artist and Title": "STELLA LEFTY - Boston",
-      "Days": "192",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "622,110",
-      "Streams+": "+49,903",
-      "7Day": "3,993,286",
-      "7Day+": "+1,077",
-      "Total": "119,138,593",
-      "track_id": "36idurZmYRjJ56KQ8JD9bN",
-      "artist_ids": [
-        "6hp2uD84OrQ3u3ukmTjLz2"
-      ]
-    },
-    {
-      "Pos": "25",
-      "P+": "-12",
+      "P+": "+8",
       "Artist and Title": "The Neighbourhood - Sweater Weather",
-      "Days": "2438",
+      "Days": "2439",
       "Pk": "7",
       "(x?)": "",
-      "Streams": "613,443",
-      "Streams+": "+1,034",
-      "7Day": "4,270,601",
-      "7Day+": "-16,030",
-      "Total": "1,157,070,457",
+      "Streams": "589,251",
+      "Streams+": "-24,192",
+      "7Day": "4,262,028",
+      "7Day+": "-8,573",
+      "Total": "1,157,659,708",
       "track_id": "2QjOHCTQ1Jl3zawyYOpxh6",
       "artist_ids": [
         "77SW9BnxLY8rJ0RciFqkHh"
       ]
     },
     {
-      "Pos": "26",
-      "P+": "-6",
+      "Pos": "18",
+      "P+": "+6",
+      "Artist and Title": "STELLA LEFTY - Boston",
+      "Days": "193",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "575,159",
+      "Streams+": "-46,951",
+      "7Day": "3,978,473",
+      "7Day+": "-14,813",
+      "Total": "119,713,752",
+      "track_id": "36idurZmYRjJ56KQ8JD9bN",
+      "artist_ids": [
+        "6hp2uD84OrQ3u3ukmTjLz2"
+      ]
+    },
+    {
+      "Pos": "19",
+      "P+": "+7",
       "Artist and Title": "Ella Langley - weren't for the wind",
-      "Days": "549",
+      "Days": "550",
       "Pk": "7",
       "(x?)": "",
-      "Streams": "599,759",
-      "Streams+": "+47,308",
-      "7Day": "3,799,594",
-      "7Day+": "-12,940",
-      "Total": "298,171,708",
+      "Streams": "569,248",
+      "Streams+": "-30,511",
+      "7Day": "3,810,124",
+      "7Day+": "+10,530",
+      "Total": "298,740,956",
       "track_id": "2A22iI0x4EYAVXNpKPhNEM",
       "artist_ids": [
         "6BRxQ8cD3eqnrVj6WKDok8"
       ]
     },
     {
+      "Pos": "20",
+      "P+": "-8",
+      "Artist and Title": "Olivia Rodrigo - expectations",
+      "Days": "128",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "567,481",
+      "Streams+": "-308,403",
+      "7Day": "3,740,798",
+      "7Day+": "+144,616",
+      "Total": "71,735,954",
+      "track_id": "4bkClAuofJULiaIZsuL3gT",
+      "artist_ids": [
+        "1McMsnEElThX1knmY4oliG"
+      ]
+    },
+    {
+      "Pos": "21",
+      "P+": "+8",
+      "Artist and Title": "Ella Langley - Be Her",
+      "Days": "247",
+      "Pk": "3",
+      "(x?)": "(x5)",
+      "Streams": "557,696",
+      "Streams+": "-36,243",
+      "7Day": "4,015,080",
+      "7Day+": "-56,348",
+      "Total": "202,720,988",
+      "track_id": "13HD3tYTiz8oSRxWzXEq7g",
+      "artist_ids": [
+        "6BRxQ8cD3eqnrVj6WKDok8"
+      ]
+    },
+    {
+      "Pos": "22",
+      "P+": "+10",
+      "Artist and Title": "Dominic Fike - Babydoll",
+      "Days": "472",
+      "Pk": "1",
+      "(x?)": "(x11)",
+      "Streams": "539,873",
+      "Streams+": "-42,811",
+      "7Day": "3,902,858",
+      "7Day+": "-15,370",
+      "Total": "328,954,193",
+      "track_id": "7yNf9YjeO5JXUE3JEBgnYc",
+      "artist_ids": [
+        "6USv9qhCn6zfxlBQIYJ9qs"
+      ]
+    },
+    {
+      "Pos": "23",
+      "P+": "+10",
+      "Artist and Title": "Mac Miller - Cinderella (w/ Ty Dolla $ign)",
+      "Days": "225",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "533,729",
+      "Streams+": "-47,692",
+      "7Day": "4,021,157",
+      "7Day+": "-62,205",
+      "Total": "139,112,798",
+      "track_id": "2lpygKqzPFtItQ4ss3cgfb",
+      "artist_ids": [
+        "4LLpKhyESsyAXpc4laK94U",
+        "7c0XG5cIJTrrAgEC3ULPiq"
+      ]
+    },
+    {
+      "Pos": "24",
+      "P+": "+7",
+      "Artist and Title": "Sam Fender - Rein Me In (w/ Olivia Dean)",
+      "Days": "213",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "531,975",
+      "Streams+": "-51,451",
+      "7Day": "3,674,904",
+      "7Day+": "+33,836",
+      "Total": "92,848,853",
+      "track_id": "0MUXBhPUDF8or0kfQ0EHwV",
+      "artist_ids": [
+        "6zlR5ttMfMNmwf2lecU9Cc",
+        "00x1fYSGhdqScXBRpSj3DW"
+      ]
+    },
+    {
+      "Pos": "25",
+      "P+": "+5",
+      "Artist and Title": "Steve Lacy - oh yeah?",
+      "Days": "79",
+      "Pk": "2",
+      "(x?)": "(x7)",
+      "Streams": "529,092",
+      "Streams+": "-61,516",
+      "7Day": "3,949,737",
+      "7Day+": "-9,747",
+      "Total": "58,742,848",
+      "track_id": "22NHkFYbgxB2Zirj29Gbp8",
+      "artist_ids": [
+        "57vWImR43h4CaDao012Ofp"
+      ]
+    },
+    {
+      "Pos": "26",
+      "P+": "-15",
+      "Artist and Title": "Zach Bryan - Robot Killed The Working Man",
+      "Days": "2",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "518,028",
+      "Streams+": "-360,841",
+      "7Day": "1,396,897",
+      "7Day+": "+518,028",
+      "Total": "1,396,897",
+      "track_id": "5RFAHNlIOFW4zitMltbOBI",
+      "artist_ids": [
+        "40ZNYROS4zLfyyBSs2PGe2"
+      ]
+    },
+    {
       "Pos": "27",
-      "P+": "NEW",
-      "Artist and Title": "Justice - Flower In A Hurricane (w/ Tame Impala, SZA, Grand Theft Auto VI, King Gizzard & The Lizard Wizard)",
-      "Days": "1",
+      "P+": "-13",
+      "Artist and Title": "Zach Bryan - Plainsman (w/ Turnpike Troubadours)",
+      "Days": "2",
+      "Pk": "14",
+      "(x?)": "",
+      "Streams": "514,709",
+      "Streams+": "-299,974",
+      "7Day": "1,329,392",
+      "7Day+": "+514,709",
+      "Total": "1,329,392",
+      "track_id": "1MvpArWMOKjTlJq6Gvz645",
+      "artist_ids": [
+        "40ZNYROS4zLfyyBSs2PGe2",
+        "1YSA4byX5AL1zoTsSTlB03"
+      ]
+    },
+    {
+      "Pos": "28",
+      "P+": "+13",
+      "Artist and Title": "Fleetwood Mac - Dreams - 2001 Remaster",
+      "Days": "187",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "514,072",
+      "Streams+": "-10,580",
+      "7Day": "3,583,990",
+      "7Day+": "-14,656",
+      "Total": "121,564,221",
+      "track_id": "53qkszfgztIvkFyF31GfdQ",
+      "artist_ids": [
+        "08GQAI4eElDnROBrJRGE0X"
+      ]
+    },
+    {
+      "Pos": "29",
+      "P+": "-1",
+      "Artist and Title": "Noah Kahan - Orbiter",
+      "Days": "176",
+      "Pk": "15",
+      "(x?)": "",
+      "Streams": "510,045",
+      "Streams+": "-85,048",
+      "7Day": "3,811,717",
+      "7Day+": "+4,251",
+      "Total": "95,499,383",
+      "track_id": "77fL8ATR0dpUDLI0XLmDBV",
+      "artist_ids": [
+        "2RQXRUsr4IW1f3mKyKsy4B"
+      ]
+    },
+    {
+      "Pos": "30",
+      "P+": "+4",
+      "Artist and Title": "Morgan Wallen - Been By Now",
+      "Days": "86",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "509,127",
+      "Streams+": "-52,444",
+      "7Day": "3,607,838",
+      "7Day+": "-12,763",
+      "Total": "57,984,132",
+      "track_id": "3xwMjQriBVW0OGEvNKo9c0",
+      "artist_ids": [
+        "4oUHIQIBe0LHzYfvXNW4QM"
+      ]
+    },
+    {
+      "Pos": "31",
+      "P+": "+5",
+      "Artist and Title": "The Goo Goo Dolls - Iris",
+      "Days": "957",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "502,165",
+      "Streams+": "-46,783",
+      "7Day": "3,627,672",
+      "7Day+": "-4,027",
+      "Total": "488,013,739",
+      "track_id": "6Qyc6fS4DsZjB2mRW9DsQs",
+      "artist_ids": [
+        "2sil8z5kiy4r76CRTXxBCA"
+      ]
+    },
+    {
+      "Pos": "32",
+      "P+": "+11",
+      "Artist and Title": "Drake - Janice STFU",
+      "Days": "156",
+      "Pk": "1",
+      "(x?)": "(x10)",
+      "Streams": "498,915",
+      "Streams+": "-20,485",
+      "7Day": "3,475,230",
+      "7Day+": "-31,602",
+      "Total": "146,750,591",
+      "track_id": "514joG57v4yKTsfQmz7stz",
+      "artist_ids": [
+        "3TVXtAsR1Inumwj472S9r4"
+      ]
+    },
+    {
+      "Pos": "33",
+      "P+": "+4",
+      "Artist and Title": "Tame Impala - Loser",
+      "Days": "91",
+      "Pk": "3",
+      "(x?)": "(x7)",
+      "Streams": "498,389",
+      "Streams+": "-38,097",
+      "7Day": "3,839,444",
+      "7Day+": "-125,565",
+      "Total": "62,886,686",
+      "track_id": "7bxaFZ1O3cHkgLKMsdC3xR",
+      "artist_ids": [
+        "5INjqkS1o8h1imAzPqGZBb"
+      ]
+    },
+    {
+      "Pos": "34",
+      "P+": "+5",
+      "Artist and Title": "Olivia Rodrigo - drop dead",
+      "Days": "184",
+      "Pk": "1",
+      "(x?)": "(x11)",
+      "Streams": "483,746",
+      "Streams+": "-48,255",
+      "7Day": "3,427,115",
+      "7Day+": "+4,620",
+      "Total": "162,094,920",
+      "track_id": "3fRCAPMMZ8l8P9YKI6OCzD",
+      "artist_ids": [
+        "1McMsnEElThX1knmY4oliG"
+      ]
+    },
+    {
+      "Pos": "35",
+      "P+": "+10",
+      "Artist and Title": "Arctic Monkeys - 505",
+      "Days": "2041",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "474,202",
+      "Streams+": "-29,444",
+      "7Day": "3,507,730",
+      "7Day+": "-7,502",
+      "Total": "865,461,444",
+      "track_id": "58ge6dfP91o9oXMzq3XkIS",
+      "artist_ids": [
+        "7Ln80lUS6He07XvHI8qqHH"
+      ]
+    },
+    {
+      "Pos": "36",
+      "P+": "+6",
+      "Artist and Title": "Steve Lacy - the feeling",
+      "Days": "99",
+      "Pk": "17",
+      "(x?)": "",
+      "Streams": "473,221",
+      "Streams+": "-49,854",
+      "7Day": "3,511,189",
+      "7Day+": "+15,624",
+      "Total": "42,090,296",
+      "track_id": "1OWBh1eVxUdA1Z6UA8r4nh",
+      "artist_ids": [
+        "57vWImR43h4CaDao012Ofp"
+      ]
+    },
+    {
+      "Pos": "37",
+      "P+": "-20",
+      "Artist and Title": "Zach Bryan - Dog Days",
+      "Days": "2",
+      "Pk": "17",
+      "(x?)": "",
+      "Streams": "467,985",
+      "Streams+": "-314,839",
+      "7Day": "1,250,809",
+      "7Day+": "+467,985",
+      "Total": "1,250,809",
+      "track_id": "4vvBYPHEKAhFU5qnFthWv9",
+      "artist_ids": [
+        "40ZNYROS4zLfyyBSs2PGe2"
+      ]
+    },
+    {
+      "Pos": "38",
+      "P+": "+6",
+      "Artist and Title": "Alyssa Grace - bloodstream",
+      "Days": "118",
+      "Pk": "23",
+      "(x?)": "",
+      "Streams": "465,928",
+      "Streams+": "-40,421",
+      "7Day": "3,365,084",
+      "7Day+": "-7,394",
+      "Total": "54,437,820",
+      "track_id": "2oWFJJW9d1bIra3zHjR6GO",
+      "artist_ids": [
+        "4eZer1QvRM8Pna0rLToV1K"
+      ]
+    },
+    {
+      "Pos": "39",
+      "P+": "-19",
+      "Artist and Title": "Zach Bryan - Backwards",
+      "Days": "2",
+      "Pk": "20",
+      "(x?)": "",
+      "Streams": "462,356",
+      "Streams+": "-286,211",
+      "7Day": "1,210,923",
+      "7Day+": "+462,356",
+      "Total": "1,210,923",
+      "track_id": "0mPeciUj7pSZ6fFd7FSrP6",
+      "artist_ids": [
+        "40ZNYROS4zLfyyBSs2PGe2"
+      ]
+    },
+    {
+      "Pos": "40",
+      "P+": "-2",
+      "Artist and Title": "Noah Kahan - Willing and Able",
+      "Days": "176",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "460,298",
+      "Streams+": "-71,929",
+      "7Day": "3,474,452",
+      "7Day+": "+13,499",
+      "Total": "89,394,199",
+      "track_id": "6pk6E0SZxILzfaAGFngxEs",
+      "artist_ids": [
+        "2RQXRUsr4IW1f3mKyKsy4B"
+      ]
+    },
+    {
+      "Pos": "41",
+      "P+": "-1",
+      "Artist and Title": "Steve Lacy - nothing",
+      "Days": "42",
+      "Pk": "26",
+      "(x?)": "",
+      "Streams": "452,671",
+      "Streams+": "-74,249",
+      "7Day": "3,480,842",
+      "7Day+": "+19,545",
+      "Total": "16,649,328",
+      "track_id": "3lIHa4fUwNKOCSS5k3Za0i",
+      "artist_ids": [
+        "57vWImR43h4CaDao012Ofp"
+      ]
+    },
+    {
+      "Pos": "42",
+      "P+": "+14",
+      "Artist and Title": "girl in red - we fell in love in october",
+      "Days": "381",
+      "Pk": "25",
+      "(x?)": "",
+      "Streams": "451,141",
+      "Streams+": "-5,300",
+      "7Day": "3,268,948",
+      "7Day+": "-22,151",
+      "Total": "132,090,532",
+      "track_id": "6IPwKM3fUUzlElbvKw2sKl",
+      "artist_ids": [
+        "3uwAm6vQy7kWPS2bciKWx9"
+      ]
+    },
+    {
+      "Pos": "43",
+      "P+": "-8",
+      "Artist and Title": "SIENNA SPIRO - Great Expectation",
+      "Days": "102",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "451,120",
+      "Streams+": "-103,780",
+      "7Day": "3,500,715",
+      "7Day+": "+13,593",
+      "Total": "43,186,454",
+      "track_id": "7ujApz6iFP3PmKIDGcaGbe",
+      "artist_ids": [
+        "02gSuSAWEdWa5UOvqzjX6v"
+      ]
+    },
+    {
+      "Pos": "44",
+      "P+": "+6",
+      "Artist and Title": "Olivia Dean - So Easy (To Fall In Love)",
+      "Days": "386",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "444,615",
+      "Streams+": "-27,995",
+      "7Day": "3,107,690",
+      "7Day+": "-2,001",
+      "Total": "275,299,268",
+      "track_id": "6sGIMrtIzQjdzNndVxe397",
+      "artist_ids": [
+        "00x1fYSGhdqScXBRpSj3DW"
+      ]
+    },
+    {
+      "Pos": "45",
+      "P+": "+2",
+      "Artist and Title": "sombr - back to friends",
+      "Days": "579",
+      "Pk": "1",
+      "(x?)": "(x2)",
+      "Streams": "443,295",
+      "Streams+": "-42,215",
+      "7Day": "3,271,812",
+      "7Day+": "+2,618",
+      "Total": "454,914,502",
+      "track_id": "7qjZnBKE73H4Oxkopwulqe",
+      "artist_ids": [
+        "4G9NDjRyZFDlJKMRL8hx3S"
+      ]
+    },
+    {
+      "Pos": "46",
+      "P+": "+18",
+      "Artist and Title": "Michael Jackson - Billie Jean",
+      "Days": "298",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "441,155",
+      "Streams+": "+15,163",
+      "7Day": "2,897,446",
+      "7Day+": "-14,776",
+      "Total": "171,732,781",
+      "track_id": "7J1uxwnxfQLu4APicE5Rnj",
+      "artist_ids": [
+        "3fMbdgg4jU18AjLCKBhRSm"
+      ]
+    },
+    {
+      "Pos": "47",
+      "P+": "+73",
+      "Artist and Title": "Michael Jackson - Thriller",
+      "Days": "123",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "438,404",
+      "Streams+": "+83,219",
+      "7Day": "2,333,839",
+      "7Day+": "+75,148",
+      "Total": "53,433,987",
+      "track_id": "2LlQb7Uoj1kKyGhlkBf9aC",
+      "artist_ids": [
+        "3fMbdgg4jU18AjLCKBhRSm"
+      ]
+    },
+    {
+      "Pos": "48",
+      "P+": "+10",
+      "Artist and Title": "TLC - No Scrubs",
+      "Days": "231",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "436,825",
+      "Streams+": "-706",
+      "7Day": "2,909,197",
+      "7Day+": "+5,359",
+      "Total": "80,783,306",
+      "track_id": "1KGi9sZVMeszgZOWivFpxs",
+      "artist_ids": [
+        "0TImkz4nPqjegtVSMZnMRq"
+      ]
+    },
+    {
+      "Pos": "49",
+      "P+": "-27",
+      "Artist and Title": "Zach Bryan - You'll Get By",
+      "Days": "2",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "435,667",
+      "Streams+": "-241,841",
+      "7Day": "1,113,175",
+      "7Day+": "+435,667",
+      "Total": "1,113,175",
+      "track_id": "7lPkjiujKlBKiBpNm52lll",
+      "artist_ids": [
+        "40ZNYROS4zLfyyBSs2PGe2"
+      ]
+    },
+    {
+      "Pos": "50",
+      "P+": "+2",
+      "Artist and Title": "Ariana Grande - hate that i made you love me",
+      "Days": "142",
+      "Pk": "1",
+      "(x?)": "(x4)",
+      "Streams": "434,713",
+      "Streams+": "-29,059",
+      "7Day": "3,159,837",
+      "7Day+": "-66,744",
+      "Total": "128,878,421",
+      "track_id": "20jbSiX29FDX4oQxBXyUEi",
+      "artist_ids": [
+        "66CXWjxzNUsdJxJ2JdwvnR"
+      ]
+    },
+    {
+      "Pos": "51",
+      "P+": "-2",
+      "Artist and Title": "Noah Kahan - Stick Season",
+      "Days": "1428",
+      "Pk": "1",
+      "(x?)": "(x2)",
+      "Streams": "434,187",
+      "Streams+": "-40,353",
+      "7Day": "3,009,261",
+      "7Day+": "+8,430",
+      "Total": "840,444,233",
+      "track_id": "0mflMxspEfB0VbI1kyLiAv",
+      "artist_ids": [
+        "2RQXRUsr4IW1f3mKyKsy4B"
+      ]
+    },
+    {
+      "Pos": "52",
+      "P+": "-4",
+      "Artist and Title": "Drake - Solar Eclipse (w/ Don Toliver)",
+      "Days": "16",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "431,770",
+      "Streams+": "-51,417",
+      "7Day": "3,413,181",
+      "7Day+": "-138,121",
+      "Total": "10,428,638",
+      "track_id": "4IAWZw00ZI9DLKDjesx86u",
+      "artist_ids": [
+        "3TVXtAsR1Inumwj472S9r4",
+        "4Gso3d4CscCijv0lmajZWs"
+      ]
+    },
+    {
+      "Pos": "53",
+      "P+": "+22",
+      "Artist and Title": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj)",
+      "Days": "193",
+      "Pk": "2",
+      "(x?)": "(x2)",
+      "Streams": "429,638",
+      "Streams+": "+22,551",
+      "7Day": "2,762,068",
+      "7Day+": "+3,412",
+      "Total": "125,865,443",
+      "track_id": "6QFCMUUq1T2Vf5sFUXcuQ7",
+      "artist_ids": [
+        "1uNFoZAHBGtllmzznpCI3s",
+        "0hCNtLu0JehylgoiP8L4Gh"
+      ]
+    },
+    {
+      "Pos": "54",
+      "P+": "-3",
+      "Artist and Title": "Gigi Perez - Sailor Song",
+      "Days": "809",
+      "Pk": "3",
+      "(x?)": "(x5)",
+      "Streams": "429,023",
+      "Streams+": "-41,128",
+      "7Day": "3,121,982",
+      "7Day+": "+16,174",
+      "Total": "553,676,560",
+      "track_id": "21IYMdzTrzSe191Cy5eMap",
+      "artist_ids": [
+        "1iCnM8foFssWlPRLfAbIwo"
+      ]
+    },
+    {
+      "Pos": "55",
+      "P+": "-9",
+      "Artist and Title": "Dexter and The Moonrocks - Freakin’ Out",
+      "Days": "208",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "428,406",
+      "Streams+": "-64,735",
+      "7Day": "3,361,241",
+      "7Day+": "-42,176",
+      "Total": "122,240,360",
+      "track_id": "2SaWT781xr3hHLdbVt5DB7",
+      "artist_ids": [
+        "72sOBVpZpUwHq7i0vb26lT"
+      ]
+    },
+    {
+      "Pos": "56",
+      "P+": "-3",
+      "Artist and Title": "Radiohead - Creep",
+      "Days": "870",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "425,691",
+      "Streams+": "-35,426",
+      "7Day": "3,075,882",
+      "7Day+": "-8,040",
+      "Total": "415,398,836",
+      "track_id": "70LcF31zb1H0PyJoS1Sx1r",
+      "artist_ids": [
+        "4Z8W4fKeB5YxbusRsdQVPb"
+      ]
+    },
+    {
+      "Pos": "57",
+      "P+": "=",
+      "Artist and Title": "Alex Warren - Ordinary",
+      "Days": "618",
+      "Pk": "1",
+      "(x?)": "(x13)",
+      "Streams": "424,605",
+      "Streams+": "-27,818",
+      "7Day": "2,970,569",
+      "7Day+": "-9,041",
+      "Total": "493,178,272",
+      "track_id": "2RkZ5LkEzeHGRsmDqKwmaJ",
+      "artist_ids": [
+        "0fTSzq9jAh4c36UVb4V7CB"
+      ]
+    },
+    {
+      "Pos": "58",
+      "P+": "+22",
+      "Artist and Title": "Waka Flocka Flame - No Hands (w/ Roscoe Dash, Wale)",
+      "Days": "583",
       "Pk": "27",
       "(x?)": "",
-      "Streams": "598,112",
-      "Streams+": "",
-      "7Day": "598,112",
-      "7Day+": "+598,112",
-      "Total": "598,112",
+      "Streams": "420,455",
+      "Streams+": "+19,605",
+      "7Day": "2,747,640",
+      "7Day+": "-9,651",
+      "Total": "226,232,061",
+      "track_id": "03tqyYWC9Um2ZqU0ZN849H",
+      "artist_ids": [
+        "6f4XkbvYlXMH0QgVRzW0sM",
+        "0bfX8pF8kuHNCs57Ms4jZb",
+        "67nwj3Y5sZQLl72VNUHEYE"
+      ]
+    },
+    {
+      "Pos": "59",
+      "P+": "+1",
+      "Artist and Title": "Nelly Furtado - Promiscuous (w/ Timbaland)",
+      "Days": "584",
+      "Pk": "28",
+      "(x?)": "",
+      "Streams": "419,331",
+      "Streams+": "-14,506",
+      "7Day": "2,683,482",
+      "7Day+": "+28,683",
+      "Total": "205,769,654",
+      "track_id": "2gam98EZKrF9XuOkU13ApN",
+      "artist_ids": [
+        "2jw70GZXlAI8QzWeY2bgRc",
+        "5Y5TRrQiqgUO4S36tzjIRZ"
+      ]
+    },
+    {
+      "Pos": "60",
+      "P+": "+6",
+      "Artist and Title": "Morgan Wallen - I Got Better",
+      "Days": "520",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "413,717",
+      "Streams+": "-2,477",
+      "7Day": "2,778,060",
+      "7Day+": "+5,476",
+      "Total": "351,590,236",
+      "track_id": "4gfrYDtaRmp6HPvN80V2ob",
+      "artist_ids": [
+        "4oUHIQIBe0LHzYfvXNW4QM"
+      ]
+    },
+    {
+      "Pos": "61",
+      "P+": "+1",
+      "Artist and Title": "Ella Langley - I Can't Love You Anymore (w/ Morgan Wallen)",
+      "Days": "177",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "407,682",
+      "Streams+": "-20,024",
+      "7Day": "2,752,564",
+      "7Day+": "-20,509",
+      "Total": "103,031,098",
+      "track_id": "61rwYQu9An4QWrcCUyFUyq",
+      "artist_ids": [
+        "6BRxQ8cD3eqnrVj6WKDok8",
+        "4oUHIQIBe0LHzYfvXNW4QM"
+      ]
+    },
+    {
+      "Pos": "62",
+      "P+": "+3",
+      "Artist and Title": "P!nk - Just Give Me a Reason (w/ Nate Ruess)",
+      "Days": "23",
+      "Pk": "56",
+      "(x?)": "",
+      "Streams": "405,690",
+      "Streams+": "-20,071",
+      "7Day": "2,792,710",
+      "7Day+": "+15,519",
+      "Total": "8,242,966",
+      "track_id": "1mKXFLRA179hdOWQBwUk9e",
+      "artist_ids": [
+        "1KCSPY1glIKqW2TotWuXOR",
+        "1qUjOF5fzrpoNycD36b2jZ"
+      ]
+    },
+    {
+      "Pos": "63",
+      "P+": "+7",
+      "Artist and Title": "Rihanna - Don't Stop The Music",
+      "Days": "365",
+      "Pk": "26",
+      "(x?)": "",
+      "Streams": "405,130",
+      "Streams+": "-5,261",
+      "7Day": "2,722,087",
+      "7Day+": "-5,250",
+      "Total": "143,570,278",
+      "track_id": "1Jo0Zg7XlrA6z0mFTZVdkn",
+      "artist_ids": [
+        "5pKCCKE2ajJHZ9KAiaK11H"
+      ]
+    },
+    {
+      "Pos": "64",
+      "P+": "-1",
+      "Artist and Title": "Miguel - Sure Thing",
+      "Days": "1097",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "401,549",
+      "Streams+": "-24,592",
+      "7Day": "2,937,349",
+      "7Day+": "-13,518",
+      "Total": "489,670,430",
+      "track_id": "0JXXNGljqupsJaZsgSbMZV",
+      "artist_ids": [
+        "360IAlyVv4PCEVjgyMZrxK"
+      ]
+    },
+    {
+      "Pos": "65",
+      "P+": "-10",
+      "Artist and Title": "Cody Johnson - Take Me Back (Leave Me There)",
+      "Days": "66",
+      "Pk": "39",
+      "(x?)": "",
+      "Streams": "400,780",
+      "Streams+": "-57,633",
+      "7Day": "3,024,810",
+      "7Day+": "-45,629",
+      "Total": "25,379,496",
+      "track_id": "3eZcmEO0X0nsfV8E3NZelo",
+      "artist_ids": [
+        "6zLBxLdl60ekBLpawtT63I"
+      ]
+    },
+    {
+      "Pos": "66",
+      "P+": "+35",
+      "Artist and Title": "Zach Bryan - Something in the Orange",
+      "Days": "1635",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "396,684",
+      "Streams+": "+14,750",
+      "7Day": "2,544,561",
+      "7Day+": "+23,125",
+      "Total": "969,730,037",
+      "track_id": "3WMj8moIAXJhHsyLaqIIHI",
+      "artist_ids": [
+        "40ZNYROS4zLfyyBSs2PGe2"
+      ]
+    },
+    {
+      "Pos": "67",
+      "P+": "-8",
+      "Artist and Title": "Mazzy Star - Fade Into You",
+      "Days": "358",
+      "Pk": "33",
+      "(x?)": "",
+      "Streams": "394,828",
+      "Streams+": "-40,802",
+      "7Day": "2,900,425",
+      "7Day+": "+10,858",
+      "Total": "126,502,122",
+      "track_id": "1LzNfuep1bnAUR9skqdHCK",
+      "artist_ids": [
+        "37w38cCSGgKLdayTRjna4W"
+      ]
+    },
+    {
+      "Pos": "68",
+      "P+": "-45",
+      "Artist and Title": "Zach Bryan - Is The Blue Tangled In You?",
+      "Days": "2",
+      "Pk": "23",
+      "(x?)": "",
+      "Streams": "394,056",
+      "Streams+": "-236,343",
+      "7Day": "1,024,455",
+      "7Day+": "+394,056",
+      "Total": "1,024,455",
+      "track_id": "4D9gnmocVP4sVWQHRYv5YH",
+      "artist_ids": [
+        "40ZNYROS4zLfyyBSs2PGe2"
+      ]
+    },
+    {
+      "Pos": "69",
+      "P+": "=",
+      "Artist and Title": "The Cranberries - Linger - Remastered 2026",
+      "Days": "60",
+      "Pk": "23",
+      "(x?)": "",
+      "Streams": "390,801",
+      "Streams+": "-20,170",
+      "7Day": "2,736,906",
+      "7Day+": "+5,227",
+      "Total": "24,057,985",
+      "track_id": "1WYrTfvKjQYaYfVziGG1ET",
+      "artist_ids": [
+        "7t0rwkOPGlDPEhaOcVtOt9"
+      ]
+    },
+    {
+      "Pos": "70",
+      "P+": "+1",
+      "Artist and Title": "F3miii - NOBLE",
+      "Days": "174",
+      "Pk": "17",
+      "(x?)": "",
+      "Streams": "388,859",
+      "Streams+": "-20,634",
+      "7Day": "2,812,972",
+      "7Day+": "-10,370",
+      "Total": "85,355,219",
+      "track_id": "4Jsus7N4d8hFB2G9gcRdBv",
+      "artist_ids": [
+        "0gmx7cndNJbFM0DAO7fT0s"
+      ]
+    },
+    {
+      "Pos": "71",
+      "P+": "+5",
+      "Artist and Title": "Temper City - Self Aware",
+      "Days": "187",
+      "Pk": "17",
+      "(x?)": "",
+      "Streams": "388,017",
+      "Streams+": "-18,595",
+      "7Day": "2,957,733",
+      "7Day+": "-23,283",
+      "Total": "97,374,909",
+      "track_id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "artist_ids": [
+        "5mHUmlJWkcoOk1NbjfrXWz"
+      ]
+    },
+    {
+      "Pos": "72",
+      "P+": "-5",
+      "Artist and Title": "BigXthaPlug - Hell At Night (w/ Ella Langley)",
+      "Days": "426",
+      "Pk": "19",
+      "(x?)": "",
+      "Streams": "386,002",
+      "Streams+": "-27,152",
+      "7Day": "2,739,192",
+      "7Day+": "-16,753",
+      "Total": "187,816,124",
+      "track_id": "3pAVk6Ydn0dcGpG8gDyxSJ",
+      "artist_ids": [
+        "6qxpnaukVayrQn6ViNvu9I",
+        "6BRxQ8cD3eqnrVj6WKDok8"
+      ]
+    },
+    {
+      "Pos": "73",
+      "P+": "-5",
+      "Artist and Title": "Lady Gaga - Die With A Smile (w/ Bruno Mars)",
+      "Days": "790",
+      "Pk": "1",
+      "(x?)": "(x30)",
+      "Streams": "384,610",
+      "Streams+": "-27,337",
+      "7Day": "2,705,249",
+      "7Day+": "-6,637",
+      "Total": "678,265,271",
+      "track_id": "7so0lgd0zP2Sbgs2d7a1SZ",
+      "artist_ids": [
+        "1HY2Jd0NmPuamShAr6KMms",
+        "0du5cEVh5yTK9QJze8zA0C"
+      ]
+    },
+    {
+      "Pos": "74",
+      "P+": "-2",
+      "Artist and Title": "Ravyn Lenae - Love Me Not",
+      "Days": "587",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "383,318",
+      "Streams+": "-24,353",
+      "7Day": "2,751,783",
+      "7Day+": "+1,847",
+      "Total": "336,616,559",
+      "track_id": "4WFgvKVfEhb3IUAFGrutTR",
+      "artist_ids": [
+        "5RTLRtXjbXI2lSXc6jxlAz"
+      ]
+    },
+    {
+      "Pos": "75",
+      "P+": "+14",
+      "Artist and Title": "Childish Gambino - Les",
+      "Days": "546",
+      "Pk": "51",
+      "(x?)": "",
+      "Streams": "382,987",
+      "Streams+": "-9,095",
+      "7Day": "2,753,166",
+      "7Day+": "+9,022",
+      "Total": "201,470,242",
+      "track_id": "7ghKr0pCYyPPyp7t1FH8k4",
+      "artist_ids": [
+        "73sIBHcqh3Z3NyqHKZ7FOL"
+      ]
+    },
+    {
+      "Pos": "76",
+      "P+": "+31",
+      "Artist and Title": "Zara Larsson - Midnight Sun",
+      "Days": "271",
+      "Pk": "26",
+      "(x?)": "",
+      "Streams": "382,801",
+      "Streams+": "+12,253",
+      "7Day": "2,486,691",
+      "7Day+": "+2,593",
+      "Total": "108,811,675",
+      "track_id": "1qRV1dKLOfH1s00b9J2LUQ",
+      "artist_ids": [
+        "1Xylc3o4UrD53lo9CvFvVg"
+      ]
+    },
+    {
+      "Pos": "77",
+      "P+": "+18",
+      "Artist and Title": "Creedence Clearwater Revival - Have You Ever Seen The Rain",
+      "Days": "520",
+      "Pk": "64",
+      "(x?)": "",
+      "Streams": "382,539",
+      "Streams+": "-5,072",
+      "7Day": "2,485,025",
+      "7Day+": "+12,568",
+      "Total": "195,569,739",
+      "track_id": "2LawezPeJhN4AWuSB0GtAU",
+      "artist_ids": [
+        "3IYUhFvPQItj6xySrBmZkd"
+      ]
+    },
+    {
+      "Pos": "78",
+      "P+": "-1",
+      "Artist and Title": "J. Cole - No Role Modelz",
+      "Days": "3857",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "381,794",
+      "Streams+": "-23,378",
+      "7Day": "2,711,507",
+      "7Day+": "-3,711",
+      "Total": "1,358,354,584",
+      "track_id": "68Dni7IE4VyPkTOH9mRWHr",
+      "artist_ids": [
+        "6l3HvQ5sa6mXTsMTB19rO5"
+      ]
+    },
+    {
+      "Pos": "79",
+      "P+": "+5",
+      "Artist and Title": "Riley Green - Worst Way",
+      "Days": "646",
+      "Pk": "34",
+      "(x?)": "",
+      "Streams": "380,953",
+      "Streams+": "-15,141",
+      "7Day": "2,492,811",
+      "7Day+": "+11,181",
+      "Total": "291,153,219",
+      "track_id": "1osfLqL6L2iQsirRf83ded",
+      "artist_ids": [
+        "2QMsj4XJ7ne2hojxt6v5eb"
+      ]
+    },
+    {
+      "Pos": "80",
+      "P+": "-19",
+      "Artist and Title": "Drake - Quebec",
+      "Days": "16",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "380,652",
+      "Streams+": "-47,351",
+      "7Day": "3,110,271",
+      "7Day+": "-125,875",
+      "Total": "9,080,014",
+      "track_id": "67DgVQlvQ0qilSBN1hdkKN",
+      "artist_ids": [
+        "3TVXtAsR1Inumwj472S9r4"
+      ]
+    },
+    {
+      "Pos": "81",
+      "P+": "+12",
+      "Artist and Title": "Drake - Headlines",
+      "Days": "584",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "379,074",
+      "Streams+": "-8,762",
+      "7Day": "2,579,441",
+      "7Day+": "+7,280",
+      "Total": "246,205,730",
+      "track_id": "6LxSe8YmdPxy095Ux6znaQ",
+      "artist_ids": [
+        "3TVXtAsR1Inumwj472S9r4"
+      ]
+    },
+    {
+      "Pos": "82",
+      "P+": "+1",
+      "Artist and Title": "Don Toliver - E85",
+      "Days": "261",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "377,796",
+      "Streams+": "-18,375",
+      "7Day": "2,628,005",
+      "7Day+": "-14,320",
+      "Total": "183,749,903",
+      "track_id": "3B4cjvGlPvyBLNG3AzEgkZ",
+      "artist_ids": [
+        "4Gso3d4CscCijv0lmajZWs"
+      ]
+    },
+    {
+      "Pos": "83",
+      "P+": "+17",
+      "Artist and Title": "PinkPantheress - Stateside + Zara Larsson (w/ Zara Larsson)",
+      "Days": "288",
+      "Pk": "1",
+      "(x?)": "(x9)",
+      "Streams": "376,746",
+      "Streams+": "-5,514",
+      "7Day": "2,586,421",
+      "7Day+": "-8,587",
+      "Total": "208,561,738",
+      "track_id": "1DwscornXpj8fmOmYVlqZt",
+      "artist_ids": [
+        "78rUTD7y6Cy67W1RVzYs7t",
+        "1Xylc3o4UrD53lo9CvFvVg"
+      ]
+    },
+    {
+      "Pos": "84",
+      "P+": "-5",
+      "Artist and Title": "Katy Perry - The One That Got Away",
+      "Days": "203",
+      "Pk": "28",
+      "(x?)": "",
+      "Streams": "374,320",
+      "Streams+": "-26,850",
+      "7Day": "2,612,420",
+      "7Day+": "+3,437",
+      "Total": "96,344,436",
+      "track_id": "2009X8GyWTqyxIdzAEYW6N",
+      "artist_ids": [
+        "6jJ0s89eD6GaHleKKya26X"
+      ]
+    },
+    {
+      "Pos": "85",
+      "P+": "+13",
+      "Artist and Title": "Kanye West - Flashing Lights (w/ Dwele)",
+      "Days": "1252",
+      "Pk": "42",
+      "(x?)": "",
+      "Streams": "374,055",
+      "Streams+": "-10,343",
+      "7Day": "2,557,208",
+      "7Day+": "+8,619",
+      "Total": "451,789,832",
+      "track_id": "5TRPicyLGbAF2LGBFbHGvO",
+      "artist_ids": [
+        "5K4W6rqBFWDnAN6FQUkS6x",
+        "7u6LfVyYpEzMpHLL7jTyvU"
+      ]
+    },
+    {
+      "Pos": "86",
+      "P+": "-32",
+      "Artist and Title": "Noah Kahan - Draw You Out (w/ The Hunger Games)",
+      "Days": "16",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "373,638",
+      "Streams+": "-84,940",
+      "7Day": "3,122,841",
+      "7Day+": "-87,565",
+      "Total": "9,998,569",
+      "track_id": "5KTcGJKm4HgLhLt8Tc7EQ5",
+      "artist_ids": [
+        "2RQXRUsr4IW1f3mKyKsy4B",
+        "6UdECsev3yuXe2rfLrdDiF"
+      ]
+    },
+    {
+      "Pos": "87",
+      "P+": "-60",
+      "Artist and Title": "Justice - Flower In A Hurricane (w/ Tame Impala, SZA, Grand Theft Auto VI, King Gizzard & The Lizard Wizard)",
+      "Days": "2",
+      "Pk": "27",
+      "(x?)": "",
+      "Streams": "372,912",
+      "Streams+": "-225,200",
+      "7Day": "971,024",
+      "7Day+": "+372,912",
+      "Total": "971,024",
       "track_id": "4HCOHRCSQelz2GPX8iTamO",
       "artist_ids": [
         "1gR0gsQYfi6joyO1dlp76N",
@@ -471,1754 +1505,153 @@
       ]
     },
     {
-      "Pos": "28",
-      "P+": "-11",
-      "Artist and Title": "Noah Kahan - Orbiter",
-      "Days": "175",
-      "Pk": "15",
-      "(x?)": "",
-      "Streams": "595,093",
-      "Streams+": "+20,239",
-      "7Day": "3,807,466",
-      "7Day+": "+26,629",
-      "Total": "94,989,338",
-      "track_id": "77fL8ATR0dpUDLI0XLmDBV",
-      "artist_ids": [
-        "2RQXRUsr4IW1f3mKyKsy4B"
-      ]
-    },
-    {
-      "Pos": "29",
-      "P+": "-15",
-      "Artist and Title": "Ella Langley - Be Her",
-      "Days": "246",
-      "Pk": "3",
-      "(x?)": "(x5)",
-      "Streams": "593,939",
-      "Streams+": "+1,299",
-      "7Day": "4,071,428",
-      "7Day+": "-61,915",
-      "Total": "202,163,292",
-      "track_id": "13HD3tYTiz8oSRxWzXEq7g",
-      "artist_ids": [
-        "6BRxQ8cD3eqnrVj6WKDok8"
-      ]
-    },
-    {
-      "Pos": "30",
-      "P+": "-15",
-      "Artist and Title": "Steve Lacy - oh yeah?",
-      "Days": "78",
-      "Pk": "2",
-      "(x?)": "(x7)",
-      "Streams": "590,608",
-      "Streams+": "+1,395",
-      "7Day": "3,959,484",
-      "7Day+": "+540",
-      "Total": "58,213,756",
-      "track_id": "22NHkFYbgxB2Zirj29Gbp8",
-      "artist_ids": [
-        "57vWImR43h4CaDao012Ofp"
-      ]
-    },
-    {
-      "Pos": "31",
-      "P+": "-8",
-      "Artist and Title": "Sam Fender - Rein Me In (w/ Olivia Dean)",
-      "Days": "212",
-      "Pk": "22",
-      "(x?)": "",
-      "Streams": "583,426",
-      "Streams+": "+41,784",
-      "7Day": "3,641,068",
-      "7Day+": "+4,795",
-      "Total": "92,316,878",
-      "track_id": "0MUXBhPUDF8or0kfQ0EHwV",
-      "artist_ids": [
-        "6zlR5ttMfMNmwf2lecU9Cc",
-        "00x1fYSGhdqScXBRpSj3DW"
-      ]
-    },
-    {
-      "Pos": "32",
-      "P+": "-13",
-      "Artist and Title": "Dominic Fike - Babydoll",
-      "Days": "471",
-      "Pk": "1",
-      "(x?)": "(x11)",
-      "Streams": "582,684",
-      "Streams+": "+14,813",
-      "7Day": "3,918,228",
-      "7Day+": "-8,917",
-      "Total": "328,414,320",
-      "track_id": "7yNf9YjeO5JXUE3JEBgnYc",
-      "artist_ids": [
-        "6USv9qhCn6zfxlBQIYJ9qs"
-      ]
-    },
-    {
-      "Pos": "33",
-      "P+": "-17",
-      "Artist and Title": "Mac Miller - Cinderella (w/ Ty Dolla $ign)",
-      "Days": "224",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "581,421",
-      "Streams+": "-3,399",
-      "7Day": "4,083,362",
-      "7Day+": "-63,951",
-      "Total": "138,579,069",
-      "track_id": "2lpygKqzPFtItQ4ss3cgfb",
-      "artist_ids": [
-        "4LLpKhyESsyAXpc4laK94U",
-        "7c0XG5cIJTrrAgEC3ULPiq"
-      ]
-    },
-    {
-      "Pos": "34",
-      "P+": "-7",
-      "Artist and Title": "Morgan Wallen - Been By Now",
-      "Days": "85",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "561,571",
-      "Streams+": "+33,683",
-      "7Day": "3,620,601",
-      "7Day+": "-1,669",
-      "Total": "57,475,005",
-      "track_id": "3xwMjQriBVW0OGEvNKo9c0",
-      "artist_ids": [
-        "4oUHIQIBe0LHzYfvXNW4QM"
-      ]
-    },
-    {
-      "Pos": "35",
-      "P+": "-13",
-      "Artist and Title": "SIENNA SPIRO - Great Expectation",
-      "Days": "101",
-      "Pk": "22",
-      "(x?)": "",
-      "Streams": "554,900",
-      "Streams+": "+10,580",
-      "7Day": "3,487,122",
-      "7Day+": "+20,200",
-      "Total": "42,735,334",
-      "track_id": "7ujApz6iFP3PmKIDGcaGbe",
-      "artist_ids": [
-        "02gSuSAWEdWa5UOvqzjX6v"
-      ]
-    },
-    {
-      "Pos": "36",
-      "P+": "-11",
-      "Artist and Title": "The Goo Goo Dolls - Iris",
-      "Days": "956",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "548,948",
-      "Streams+": "+15,364",
-      "7Day": "3,631,699",
-      "7Day+": "-14,545",
-      "Total": "487,511,574",
-      "track_id": "6Qyc6fS4DsZjB2mRW9DsQs",
-      "artist_ids": [
-        "2sil8z5kiy4r76CRTXxBCA"
-      ]
-    },
-    {
-      "Pos": "37",
-      "P+": "-16",
-      "Artist and Title": "Tame Impala - Loser",
-      "Days": "90",
-      "Pk": "3",
-      "(x?)": "(x7)",
-      "Streams": "536,486",
-      "Streams+": "-13,045",
-      "7Day": "3,965,009",
-      "7Day+": "-50,257",
-      "Total": "62,388,297",
-      "track_id": "7bxaFZ1O3cHkgLKMsdC3xR",
-      "artist_ids": [
-        "5INjqkS1o8h1imAzPqGZBb"
-      ]
-    },
-    {
-      "Pos": "38",
-      "P+": "-9",
-      "Artist and Title": "Noah Kahan - Willing and Able",
-      "Days": "175",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "532,227",
-      "Streams+": "+8,705",
-      "7Day": "3,460,953",
-      "7Day+": "+7,585",
-      "Total": "88,933,901",
-      "track_id": "6pk6E0SZxILzfaAGFngxEs",
-      "artist_ids": [
-        "2RQXRUsr4IW1f3mKyKsy4B"
-      ]
-    },
-    {
-      "Pos": "39",
-      "P+": "-2",
-      "Artist and Title": "Olivia Rodrigo - drop dead",
-      "Days": "183",
-      "Pk": "1",
-      "(x?)": "(x11)",
-      "Streams": "532,001",
-      "Streams+": "+46,276",
-      "7Day": "3,422,495",
-      "7Day+": "-4,195",
-      "Total": "161,611,174",
-      "track_id": "3fRCAPMMZ8l8P9YKI6OCzD",
-      "artist_ids": [
-        "1McMsnEElThX1knmY4oliG"
-      ]
-    },
-    {
-      "Pos": "40",
-      "P+": "-14",
-      "Artist and Title": "Steve Lacy - nothing",
-      "Days": "41",
-      "Pk": "26",
-      "(x?)": "",
-      "Streams": "526,920",
-      "Streams+": "-4,358",
-      "7Day": "3,461,297",
-      "7Day+": "+38,336",
-      "Total": "16,196,657",
-      "track_id": "3lIHa4fUwNKOCSS5k3Za0i",
-      "artist_ids": [
-        "57vWImR43h4CaDao012Ofp"
-      ]
-    },
-    {
-      "Pos": "41",
-      "P+": "-13",
-      "Artist and Title": "Fleetwood Mac - Dreams - 2001 Remaster",
-      "Days": "186",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "524,652",
-      "Streams+": "-2,066",
-      "7Day": "3,598,646",
-      "7Day+": "-24,300",
-      "Total": "121,050,149",
-      "track_id": "53qkszfgztIvkFyF31GfdQ",
-      "artist_ids": [
-        "08GQAI4eElDnROBrJRGE0X"
-      ]
-    },
-    {
-      "Pos": "42",
-      "P+": "-18",
-      "Artist and Title": "Steve Lacy - the feeling",
-      "Days": "98",
-      "Pk": "17",
-      "(x?)": "",
-      "Streams": "523,075",
-      "Streams+": "-10,978",
-      "7Day": "3,495,565",
-      "7Day+": "+12,585",
-      "Total": "41,617,075",
-      "track_id": "1OWBh1eVxUdA1Z6UA8r4nh",
-      "artist_ids": [
-        "57vWImR43h4CaDao012Ofp"
-      ]
-    },
-    {
-      "Pos": "43",
-      "P+": "-13",
-      "Artist and Title": "Drake - Janice STFU",
-      "Days": "155",
-      "Pk": "1",
-      "(x?)": "(x10)",
-      "Streams": "519,400",
-      "Streams+": "-110",
-      "7Day": "3,506,832",
-      "7Day+": "-38,751",
-      "Total": "146,251,676",
-      "track_id": "514joG57v4yKTsfQmz7stz",
-      "artist_ids": [
-        "3TVXtAsR1Inumwj472S9r4"
-      ]
-    },
-    {
-      "Pos": "44",
-      "P+": "-9",
-      "Artist and Title": "Alyssa Grace - bloodstream",
-      "Days": "117",
-      "Pk": "23",
-      "(x?)": "",
-      "Streams": "506,349",
-      "Streams+": "+14,858",
-      "7Day": "3,372,478",
-      "7Day+": "-13,427",
-      "Total": "53,971,892",
-      "track_id": "2oWFJJW9d1bIra3zHjR6GO",
-      "artist_ids": [
-        "4eZer1QvRM8Pna0rLToV1K"
-      ]
-    },
-    {
-      "Pos": "45",
-      "P+": "-14",
-      "Artist and Title": "Arctic Monkeys - 505",
-      "Days": "2040",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "503,646",
-      "Streams+": "-10,514",
-      "7Day": "3,515,232",
-      "7Day+": "-20,831",
-      "Total": "864,987,242",
-      "track_id": "58ge6dfP91o9oXMzq3XkIS",
-      "artist_ids": [
-        "7Ln80lUS6He07XvHI8qqHH"
-      ]
-    },
-    {
-      "Pos": "46",
-      "P+": "-14",
-      "Artist and Title": "Dexter and The Moonrocks - Freakin’ Out",
-      "Days": "207",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "493,141",
-      "Streams+": "-7,732",
-      "7Day": "3,403,417",
-      "7Day+": "-54,160",
-      "Total": "121,811,954",
-      "track_id": "2SaWT781xr3hHLdbVt5DB7",
-      "artist_ids": [
-        "72sOBVpZpUwHq7i0vb26lT"
-      ]
-    },
-    {
-      "Pos": "47",
-      "P+": "-13",
-      "Artist and Title": "sombr - back to friends",
-      "Days": "578",
-      "Pk": "1",
-      "(x?)": "(x2)",
-      "Streams": "485,510",
-      "Streams+": "-7,199",
-      "7Day": "3,269,194",
-      "7Day+": "-2,847",
-      "Total": "454,471,207",
-      "track_id": "7qjZnBKE73H4Oxkopwulqe",
-      "artist_ids": [
-        "4G9NDjRyZFDlJKMRL8hx3S"
-      ]
-    },
-    {
-      "Pos": "48",
-      "P+": "-12",
-      "Artist and Title": "Drake - Solar Eclipse (w/ Don Toliver)",
-      "Days": "15",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "483,187",
-      "Streams+": "-6,466",
-      "7Day": "3,551,302",
-      "7Day+": "-167,521",
-      "Total": "9,996,868",
-      "track_id": "4IAWZw00ZI9DLKDjesx86u",
-      "artist_ids": [
-        "3TVXtAsR1Inumwj472S9r4",
-        "4Gso3d4CscCijv0lmajZWs"
-      ]
-    },
-    {
-      "Pos": "49",
-      "P+": "-2",
-      "Artist and Title": "Noah Kahan - Stick Season",
-      "Days": "1427",
-      "Pk": "1",
-      "(x?)": "(x2)",
-      "Streams": "474,540",
-      "Streams+": "+34,901",
-      "7Day": "3,000,831",
-      "7Day+": "+24,645",
-      "Total": "840,010,046",
-      "track_id": "0mflMxspEfB0VbI1kyLiAv",
-      "artist_ids": [
-        "2RQXRUsr4IW1f3mKyKsy4B"
-      ]
-    },
-    {
-      "Pos": "50",
+      "Pos": "88",
       "P+": "-10",
-      "Artist and Title": "Olivia Dean - So Easy (To Fall In Love)",
-      "Days": "385",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "472,610",
-      "Streams+": "+14,643",
-      "7Day": "3,109,691",
-      "7Day+": "-1,071",
-      "Total": "274,854,653",
-      "track_id": "6sGIMrtIzQjdzNndVxe397",
-      "artist_ids": [
-        "00x1fYSGhdqScXBRpSj3DW"
-      ]
-    },
-    {
-      "Pos": "51",
-      "P+": "-10",
-      "Artist and Title": "Gigi Perez - Sailor Song",
-      "Days": "808",
-      "Pk": "3",
-      "(x?)": "(x5)",
-      "Streams": "470,151",
-      "Streams+": "+12,448",
-      "7Day": "3,105,808",
-      "7Day+": "+16,138",
-      "Total": "553,247,537",
-      "track_id": "21IYMdzTrzSe191Cy5eMap",
-      "artist_ids": [
-        "1iCnM8foFssWlPRLfAbIwo"
-      ]
-    },
-    {
-      "Pos": "52",
-      "P+": "-14",
-      "Artist and Title": "Ariana Grande - hate that i made you love me",
-      "Days": "141",
-      "Pk": "1",
-      "(x?)": "(x4)",
-      "Streams": "463,772",
-      "Streams+": "-4,781",
-      "7Day": "3,226,581",
-      "7Day+": "-34,742",
-      "Total": "128,443,708",
-      "track_id": "20jbSiX29FDX4oQxBXyUEi",
-      "artist_ids": [
-        "66CXWjxzNUsdJxJ2JdwvnR"
-      ]
-    },
-    {
-      "Pos": "53",
-      "P+": "-11",
-      "Artist and Title": "Radiohead - Creep",
-      "Days": "869",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "461,117",
-      "Streams+": "+5,519",
-      "7Day": "3,083,922",
-      "7Day+": "-8,155",
-      "Total": "414,973,145",
-      "track_id": "70LcF31zb1H0PyJoS1Sx1r",
-      "artist_ids": [
-        "4Z8W4fKeB5YxbusRsdQVPb"
-      ]
-    },
-    {
-      "Pos": "54",
-      "P+": "-11",
-      "Artist and Title": "Noah Kahan - Draw You Out (w/ The Hunger Games)",
-      "Days": "15",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "458,578",
-      "Streams+": "+4,267",
-      "7Day": "3,210,406",
-      "7Day+": "-162,427",
-      "Total": "9,624,931",
-      "track_id": "5KTcGJKm4HgLhLt8Tc7EQ5",
-      "artist_ids": [
-        "2RQXRUsr4IW1f3mKyKsy4B",
-        "6UdECsev3yuXe2rfLrdDiF"
-      ]
-    },
-    {
-      "Pos": "55",
-      "P+": "-11",
-      "Artist and Title": "Cody Johnson - Take Me Back (Leave Me There)",
-      "Days": "65",
-      "Pk": "39",
-      "(x?)": "",
-      "Streams": "458,413",
-      "Streams+": "+6,142",
-      "7Day": "3,070,439",
-      "7Day+": "-40,850",
-      "Total": "24,978,716",
-      "track_id": "3eZcmEO0X0nsfV8E3NZelo",
-      "artist_ids": [
-        "6zLBxLdl60ekBLpawtT63I"
-      ]
-    },
-    {
-      "Pos": "56",
-      "P+": "-17",
-      "Artist and Title": "girl in red - we fell in love in october",
-      "Days": "380",
-      "Pk": "25",
-      "(x?)": "",
-      "Streams": "456,441",
-      "Streams+": "-3,129",
-      "7Day": "3,291,099",
-      "7Day+": "-28,566",
-      "Total": "131,639,391",
-      "track_id": "6IPwKM3fUUzlElbvKw2sKl",
-      "artist_ids": [
-        "3uwAm6vQy7kWPS2bciKWx9"
-      ]
-    },
-    {
-      "Pos": "57",
-      "P+": "-11",
-      "Artist and Title": "Alex Warren - Ordinary",
-      "Days": "617",
-      "Pk": "1",
-      "(x?)": "(x13)",
-      "Streams": "452,423",
-      "Streams+": "+5,657",
-      "7Day": "2,979,610",
-      "7Day+": "-10,314",
-      "Total": "492,753,667",
-      "track_id": "2RkZ5LkEzeHGRsmDqKwmaJ",
-      "artist_ids": [
-        "0fTSzq9jAh4c36UVb4V7CB"
-      ]
-    },
-    {
-      "Pos": "58",
-      "P+": "-9",
-      "Artist and Title": "TLC - No Scrubs",
-      "Days": "230",
-      "Pk": "22",
-      "(x?)": "",
-      "Streams": "437,531",
-      "Streams+": "+7,576",
-      "7Day": "2,903,838",
-      "7Day+": "-2,577",
-      "Total": "80,346,481",
-      "track_id": "1KGi9sZVMeszgZOWivFpxs",
-      "artist_ids": [
-        "0TImkz4nPqjegtVSMZnMRq"
-      ]
-    },
-    {
-      "Pos": "59",
-      "P+": "-9",
-      "Artist and Title": "Mazzy Star - Fade Into You",
-      "Days": "357",
-      "Pk": "33",
-      "(x?)": "",
-      "Streams": "435,630",
-      "Streams+": "+8,145",
-      "7Day": "2,889,567",
-      "7Day+": "+21,660",
-      "Total": "126,107,294",
-      "track_id": "1LzNfuep1bnAUR9skqdHCK",
-      "artist_ids": [
-        "37w38cCSGgKLdayTRjna4W"
-      ]
-    },
-    {
-      "Pos": "60",
-      "P+": "-6",
-      "Artist and Title": "Nelly Furtado - Promiscuous (w/ Timbaland)",
-      "Days": "583",
-      "Pk": "28",
-      "(x?)": "",
-      "Streams": "433,837",
-      "Streams+": "+20,646",
-      "7Day": "2,654,799",
-      "7Day+": "+28,819",
-      "Total": "205,350,323",
-      "track_id": "2gam98EZKrF9XuOkU13ApN",
-      "artist_ids": [
-        "2jw70GZXlAI8QzWeY2bgRc",
-        "5Y5TRrQiqgUO4S36tzjIRZ"
-      ]
-    },
-    {
-      "Pos": "61",
-      "P+": "-16",
-      "Artist and Title": "Drake - Quebec",
-      "Days": "15",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "428,003",
-      "Streams+": "-24,253",
-      "7Day": "3,236,146",
-      "7Day+": "-137,327",
-      "Total": "8,699,362",
-      "track_id": "67DgVQlvQ0qilSBN1hdkKN",
-      "artist_ids": [
-        "3TVXtAsR1Inumwj472S9r4"
-      ]
-    },
-    {
-      "Pos": "62",
-      "P+": "+6",
-      "Artist and Title": "Ella Langley - I Can't Love You Anymore (w/ Morgan Wallen)",
-      "Days": "176",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "427,706",
-      "Streams+": "+31,637",
-      "7Day": "2,773,073",
-      "7Day+": "-20,955",
-      "Total": "102,623,416",
-      "track_id": "61rwYQu9An4QWrcCUyFUyq",
-      "artist_ids": [
-        "6BRxQ8cD3eqnrVj6WKDok8",
-        "4oUHIQIBe0LHzYfvXNW4QM"
-      ]
-    },
-    {
-      "Pos": "63",
-      "P+": "-15",
-      "Artist and Title": "Miguel - Sure Thing",
-      "Days": "1096",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "426,141",
-      "Streams+": "-6,651",
-      "7Day": "2,950,867",
-      "7Day+": "-10,675",
-      "Total": "489,268,881",
-      "track_id": "0JXXNGljqupsJaZsgSbMZV",
-      "artist_ids": [
-        "360IAlyVv4PCEVjgyMZrxK"
-      ]
-    },
-    {
-      "Pos": "64",
-      "P+": "-12",
-      "Artist and Title": "Michael Jackson - Billie Jean",
-      "Days": "297",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "425,992",
-      "Streams+": "+8,670",
-      "7Day": "2,912,222",
-      "7Day+": "-25,652",
-      "Total": "171,291,626",
-      "track_id": "7J1uxwnxfQLu4APicE5Rnj",
-      "artist_ids": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ]
-    },
-    {
-      "Pos": "65",
-      "P+": "-9",
-      "Artist and Title": "P!nk - Just Give Me a Reason (w/ Nate Ruess)",
-      "Days": "22",
-      "Pk": "56",
-      "(x?)": "",
-      "Streams": "425,761",
-      "Streams+": "+16,728",
-      "7Day": "2,777,191",
-      "7Day+": "+12,359",
-      "Total": "7,837,276",
-      "track_id": "1mKXFLRA179hdOWQBwUk9e",
-      "artist_ids": [
-        "1KCSPY1glIKqW2TotWuXOR",
-        "1qUjOF5fzrpoNycD36b2jZ"
-      ]
-    },
-    {
-      "Pos": "66",
-      "P+": "-2",
-      "Artist and Title": "Morgan Wallen - I Got Better",
-      "Days": "519",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "416,194",
-      "Streams+": "+15,185",
-      "7Day": "2,772,584",
-      "7Day+": "-22,575",
-      "Total": "351,176,519",
-      "track_id": "4gfrYDtaRmp6HPvN80V2ob",
-      "artist_ids": [
-        "4oUHIQIBe0LHzYfvXNW4QM"
-      ]
-    },
-    {
-      "Pos": "67",
-      "P+": "-10",
-      "Artist and Title": "BigXthaPlug - Hell At Night (w/ Ella Langley)",
-      "Days": "425",
-      "Pk": "19",
-      "(x?)": "",
-      "Streams": "413,154",
-      "Streams+": "+4,752",
-      "7Day": "2,755,945",
-      "7Day+": "-31,074",
-      "Total": "187,430,122",
-      "track_id": "3pAVk6Ydn0dcGpG8gDyxSJ",
-      "artist_ids": [
-        "6qxpnaukVayrQn6ViNvu9I",
-        "6BRxQ8cD3eqnrVj6WKDok8"
-      ]
-    },
-    {
-      "Pos": "68",
-      "P+": "-3",
-      "Artist and Title": "Lady Gaga - Die With A Smile (w/ Bruno Mars)",
-      "Days": "789",
-      "Pk": "1",
-      "(x?)": "(x30)",
-      "Streams": "411,947",
-      "Streams+": "+12,102",
-      "7Day": "2,711,886",
-      "7Day+": "-10,114",
-      "Total": "677,880,661",
-      "track_id": "7so0lgd0zP2Sbgs2d7a1SZ",
-      "artist_ids": [
-        "1HY2Jd0NmPuamShAr6KMms",
-        "0du5cEVh5yTK9QJze8zA0C"
-      ]
-    },
-    {
-      "Pos": "69",
-      "P+": "=",
-      "Artist and Title": "The Cranberries - Linger - Remastered 2026",
-      "Days": "59",
-      "Pk": "23",
-      "(x?)": "",
-      "Streams": "410,971",
-      "Streams+": "+15,080",
-      "7Day": "2,731,679",
-      "7Day+": "-11,598",
-      "Total": "23,667,184",
-      "track_id": "1WYrTfvKjQYaYfVziGG1ET",
-      "artist_ids": [
-        "7t0rwkOPGlDPEhaOcVtOt9"
-      ]
-    },
-    {
-      "Pos": "70",
-      "P+": "-7",
-      "Artist and Title": "Rihanna - Don't Stop The Music",
-      "Days": "364",
-      "Pk": "26",
-      "(x?)": "",
-      "Streams": "410,391",
-      "Streams+": "+6,120",
-      "7Day": "2,727,337",
-      "7Day+": "-8,225",
-      "Total": "143,165,148",
-      "track_id": "1Jo0Zg7XlrA6z0mFTZVdkn",
-      "artist_ids": [
-        "5pKCCKE2ajJHZ9KAiaK11H"
-      ]
-    },
-    {
-      "Pos": "71",
-      "P+": "-16",
-      "Artist and Title": "F3miii - NOBLE",
-      "Days": "173",
-      "Pk": "17",
-      "(x?)": "",
-      "Streams": "409,493",
-      "Streams+": "-1,208",
-      "7Day": "2,823,342",
-      "7Day+": "-27,264",
-      "Total": "84,966,360",
-      "track_id": "4Jsus7N4d8hFB2G9gcRdBv",
-      "artist_ids": [
-        "0gmx7cndNJbFM0DAO7fT0s"
-      ]
-    },
-    {
-      "Pos": "72",
-      "P+": "-14",
-      "Artist and Title": "Ravyn Lenae - Love Me Not",
-      "Days": "586",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "407,671",
-      "Streams+": "+746",
-      "7Day": "2,749,936",
-      "7Day+": "+2,072",
-      "Total": "336,233,241",
-      "track_id": "4WFgvKVfEhb3IUAFGrutTR",
-      "artist_ids": [
-        "5RTLRtXjbXI2lSXc6jxlAz"
-      ]
-    },
-    {
-      "Pos": "73",
-      "P+": "-22",
-      "Artist and Title": "Drake - Cold Shoulder (w/ Don Toliver, Yebba)",
-      "Days": "15",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "407,583",
-      "Streams+": "-9,841",
-      "7Day": "3,002,953",
-      "7Day+": "-119,189",
-      "Total": "8,189,112",
-      "track_id": "50GVx8sCc1TDKHXumgYqEO",
-      "artist_ids": [
-        "3TVXtAsR1Inumwj472S9r4",
-        "4Gso3d4CscCijv0lmajZWs",
-        "1ooV8YZC1KbpEcrmI8WH0F"
-      ]
-    },
-    {
-      "Pos": "74",
-      "P+": "-13",
-      "Artist and Title": "Olivia Rodrigo - maggots for brains",
-      "Days": "127",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "407,580",
-      "Streams+": "+2,344",
-      "7Day": "2,707,176",
-      "7Day+": "-10,766",
-      "Total": "70,066,482",
-      "track_id": "6jfiwkcwt8iYCdkbLukxeI",
-      "artist_ids": [
-        "1McMsnEElThX1knmY4oliG"
-      ]
-    },
-    {
-      "Pos": "75",
-      "P+": "-8",
-      "Artist and Title": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj)",
-      "Days": "192",
-      "Pk": "2",
-      "(x?)": "(x2)",
-      "Streams": "407,087",
-      "Streams+": "+10,507",
-      "7Day": "2,758,656",
-      "7Day+": "-23,740",
-      "Total": "125,435,805",
-      "track_id": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "artist_ids": [
-        "1uNFoZAHBGtllmzznpCI3s",
-        "0hCNtLu0JehylgoiP8L4Gh"
-      ]
-    },
-    {
-      "Pos": "76",
-      "P+": "-23",
-      "Artist and Title": "Temper City - Self Aware",
-      "Days": "186",
-      "Pk": "17",
-      "(x?)": "",
-      "Streams": "406,612",
-      "Streams+": "-7,293",
-      "7Day": "2,981,016",
-      "7Day+": "-32,369",
-      "Total": "96,986,892",
-      "track_id": "4qW3BbQAwZsrnu8a3ZRdyT",
-      "artist_ids": [
-        "5mHUmlJWkcoOk1NbjfrXWz"
-      ]
-    },
-    {
-      "Pos": "77",
-      "P+": "-18",
-      "Artist and Title": "J. Cole - No Role Modelz",
-      "Days": "3856",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "405,172",
-      "Streams+": "-1,297",
-      "7Day": "2,715,218",
-      "7Day+": "-16,896",
-      "Total": "1,357,972,790",
-      "track_id": "68Dni7IE4VyPkTOH9mRWHr",
-      "artist_ids": [
-        "6l3HvQ5sa6mXTsMTB19rO5"
-      ]
-    },
-    {
-      "Pos": "78",
-      "P+": "-16",
       "Artist and Title": "Foo Fighters - Everlong",
-      "Days": "1185",
+      "Days": "1186",
       "Pk": "31",
       "(x?)": "",
-      "Streams": "401,232",
-      "Streams+": "-3,452",
-      "7Day": "2,730,296",
-      "7Day+": "-22,744",
-      "Total": "433,954,341",
+      "Streams": "372,453",
+      "Streams+": "-28,779",
+      "7Day": "2,715,097",
+      "7Day+": "-15,199",
+      "Total": "434,326,794",
       "track_id": "5UWwZ5lm5PKu6eKsHAGxOk",
       "artist_ids": [
         "7jy3rLJdDQY21OgRLCZ9sD"
       ]
     },
     {
-      "Pos": "79",
-      "P+": "-2",
-      "Artist and Title": "Katy Perry - The One That Got Away",
-      "Days": "202",
-      "Pk": "28",
-      "(x?)": "",
-      "Streams": "401,170",
-      "Streams+": "+14,995",
-      "7Day": "2,608,983",
-      "7Day+": "+4,628",
-      "Total": "95,970,116",
-      "track_id": "2009X8GyWTqyxIdzAEYW6N",
-      "artist_ids": [
-        "6jJ0s89eD6GaHleKKya26X"
-      ]
-    },
-    {
-      "Pos": "80",
-      "P+": "-6",
-      "Artist and Title": "Waka Flocka Flame - No Hands (w/ Roscoe Dash, Wale)",
-      "Days": "582",
-      "Pk": "27",
-      "(x?)": "",
-      "Streams": "400,850",
-      "Streams+": "+9,542",
-      "7Day": "2,757,291",
-      "7Day+": "-31,911",
-      "Total": "225,811,606",
-      "track_id": "03tqyYWC9Um2ZqU0ZN849H",
-      "artist_ids": [
-        "6f4XkbvYlXMH0QgVRzW0sM",
-        "0bfX8pF8kuHNCs57Ms4jZb",
-        "67nwj3Y5sZQLl72VNUHEYE"
-      ]
-    },
-    {
-      "Pos": "81",
-      "P+": "-1",
-      "Artist and Title": "Zach Bryan - I Remember Everything (w/ Kacey Musgraves)",
-      "Days": "1147",
-      "Pk": "1",
-      "(x?)": "(x7)",
-      "Streams": "399,010",
-      "Streams+": "+15,004",
-      "7Day": "2,495,077",
-      "7Day+": "+23,643",
-      "Total": "854,489,139",
-      "track_id": "4KULAymBBJcPRpk1yO4dOG",
-      "artist_ids": [
-        "40ZNYROS4zLfyyBSs2PGe2",
-        "70kkdajctXSbqSMJbQO424"
-      ]
-    },
-    {
-      "Pos": "82",
-      "P+": "-22",
-      "Artist and Title": "SIENNA SPIRO - Die On This Hill",
-      "Days": "218",
-      "Pk": "12",
-      "(x?)": "",
-      "Streams": "396,324",
-      "Streams+": "-9,322",
-      "7Day": "2,647,245",
-      "7Day+": "+15,912",
-      "Total": "100,501,536",
-      "track_id": "2gYTC8DsplN3RNdpdBcCOQ",
-      "artist_ids": [
-        "02gSuSAWEdWa5UOvqzjX6v"
-      ]
-    },
-    {
-      "Pos": "83",
-      "P+": "-10",
-      "Artist and Title": "Don Toliver - E85",
-      "Days": "260",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "396,171",
-      "Streams+": "+4,317",
-      "7Day": "2,642,325",
-      "7Day+": "-17,939",
-      "Total": "183,372,107",
-      "track_id": "3B4cjvGlPvyBLNG3AzEgkZ",
-      "artist_ids": [
-        "4Gso3d4CscCijv0lmajZWs"
-      ]
-    },
-    {
-      "Pos": "84",
-      "P+": "+16",
-      "Artist and Title": "Riley Green - Worst Way",
-      "Days": "645",
-      "Pk": "34",
-      "(x?)": "",
-      "Streams": "396,094",
-      "Streams+": "+36,792",
-      "7Day": "2,481,630",
-      "7Day+": "+10,617",
-      "Total": "290,772,266",
-      "track_id": "1osfLqL6L2iQsirRf83ded",
-      "artist_ids": [
-        "2QMsj4XJ7ne2hojxt6v5eb"
-      ]
-    },
-    {
-      "Pos": "85",
-      "P+": "-10",
-      "Artist and Title": "Evanescence - Bring Me To Life",
-      "Days": "393",
-      "Pk": "58",
-      "(x?)": "",
-      "Streams": "395,957",
-      "Streams+": "+8,682",
-      "7Day": "2,619,369",
-      "7Day+": "-3,486",
-      "Total": "142,793,280",
-      "track_id": "0COqiPhxzoWICwFCS4eZcp",
-      "artist_ids": [
-        "5nGIFgo0shDenQYSE0Sn7c"
-      ]
-    },
-    {
-      "Pos": "86",
-      "P+": "-4",
-      "Artist and Title": "sombr - Homewrecker",
-      "Days": "253",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "394,365",
-      "Streams+": "+10,592",
-      "7Day": "2,511,933",
-      "7Day+": "+16,572",
-      "Total": "126,500,095",
-      "track_id": "7tICCrK3CcyRFKza7yrR0z",
-      "artist_ids": [
-        "4G9NDjRyZFDlJKMRL8hx3S"
-      ]
-    },
-    {
-      "Pos": "87",
-      "P+": "-21",
-      "Artist and Title": "Omar Apollo - Evergreen",
-      "Days": "304",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "394,283",
-      "Streams+": "-4,572",
-      "7Day": "2,654,438",
-      "7Day+": "+3,622",
-      "Total": "123,150,143",
-      "track_id": "2TktkzfozZifbQhXjT6I33",
-      "artist_ids": [
-        "5FxD8fkQZ6KcsSYupDVoSO"
-      ]
-    },
-    {
-      "Pos": "88",
-      "P+": "-17",
-      "Artist and Title": "Olivia Rodrigo - honeybee",
-      "Days": "126",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "393,560",
-      "Streams+": "+486",
-      "7Day": "2,653,441",
-      "7Day+": "-21,895",
-      "Total": "73,764,605",
-      "track_id": "4kX7xkopoXZCfE1D6fNwl2",
-      "artist_ids": [
-        "1McMsnEElThX1knmY4oliG"
-      ]
-    },
-    {
       "Pos": "89",
-      "P+": "-19",
-      "Artist and Title": "Childish Gambino - Les",
-      "Days": "545",
-      "Pk": "51",
-      "(x?)": "",
-      "Streams": "392,082",
-      "Streams+": "-1,121",
-      "7Day": "2,744,144",
-      "7Day+": "+4,246",
-      "Total": "201,087,255",
-      "track_id": "7ghKr0pCYyPPyp7t1FH8k4",
-      "artist_ids": [
-        "73sIBHcqh3Z3NyqHKZ7FOL"
-      ]
-    },
-    {
-      "Pos": "90",
-      "P+": "+7",
-      "Artist and Title": "Treaty Oak Revival - Missed Call",
-      "Days": "535",
-      "Pk": "49",
-      "(x?)": "",
-      "Streams": "389,668",
-      "Streams+": "+27,816",
-      "7Day": "2,459,061",
-      "7Day+": "+13,303",
-      "Total": "204,826,618",
-      "track_id": "6ybZUqlfk938oS6WeBmDab",
-      "artist_ids": [
-        "3444S3C4U9Ts86BnCtSPRV"
-      ]
-    },
-    {
-      "Pos": "91",
-      "P+": "-2",
+      "P+": "+2",
       "Artist and Title": "Brooks & Dunn - Neon Moon",
-      "Days": "397",
+      "Days": "398",
       "Pk": "39",
       "(x?)": "",
-      "Streams": "389,004",
-      "Streams+": "+19,270",
-      "7Day": "2,631,158",
-      "7Day+": "-32,329",
-      "Total": "149,161,983",
+      "Streams": "370,174",
+      "Streams+": "-18,830",
+      "7Day": "2,598,873",
+      "7Day+": "-32,285",
+      "Total": "149,532,157",
       "track_id": "2M38X60UJnupGPbFTkVPNQ",
       "artist_ids": [
         "0XKOBt59crntr7HQXXO8Yz"
       ]
     },
     {
-      "Pos": "92",
-      "P+": "+2",
-      "Artist and Title": "Bruno Mars - Risk It All",
-      "Days": "232",
-      "Pk": "1",
-      "(x?)": "(x7)",
-      "Streams": "388,811",
-      "Streams+": "+23,090",
-      "7Day": "2,573,275",
-      "7Day+": "-9,080",
-      "Total": "141,395,812",
-      "track_id": "5y2ijHECwFYWqcAHKTZgzD",
-      "artist_ids": [
-        "0du5cEVh5yTK9QJze8zA0C"
-      ]
-    },
-    {
-      "Pos": "93",
-      "P+": "-17",
-      "Artist and Title": "Drake - Headlines",
-      "Days": "583",
-      "Pk": "22",
-      "(x?)": "",
-      "Streams": "387,836",
-      "Streams+": "+1,361",
-      "7Day": "2,572,161",
-      "7Day+": "-5,695",
-      "Total": "245,826,656",
-      "track_id": "6LxSe8YmdPxy095Ux6znaQ",
-      "artist_ids": [
-        "3TVXtAsR1Inumwj472S9r4"
-      ]
-    },
-    {
-      "Pos": "94",
-      "P+": "-22",
-      "Artist and Title": "Djo - End of Beginning",
-      "Days": "858",
-      "Pk": "1",
-      "(x?)": "(x13)",
-      "Streams": "387,700",
-      "Streams+": "-5,241",
-      "7Day": "2,644,677",
-      "7Day+": "-16,879",
-      "Total": "542,117,778",
-      "track_id": "3qhlB30KknSejmIvZZLjOD",
-      "artist_ids": [
-        "5p9HO3XC5P3BLxJs5Mtrhm"
-      ]
-    },
-    {
-      "Pos": "95",
-      "P+": "+3",
-      "Artist and Title": "Creedence Clearwater Revival - Have You Ever Seen The Rain",
-      "Days": "519",
-      "Pk": "64",
-      "(x?)": "",
-      "Streams": "387,611",
-      "Streams+": "+27,965",
-      "7Day": "2,472,457",
-      "7Day+": "+3,340",
-      "Total": "195,187,200",
-      "track_id": "2LawezPeJhN4AWuSB0GtAU",
-      "artist_ids": [
-        "3IYUhFvPQItj6xySrBmZkd"
-      ]
-    },
-    {
-      "Pos": "96",
-      "P+": "+14",
-      "Artist and Title": "Chris Stapleton - Tennessee Whiskey",
-      "Days": "2040",
-      "Pk": "34",
-      "(x?)": "",
-      "Streams": "386,937",
-      "Streams+": "+41,340",
-      "7Day": "2,395,737",
-      "7Day+": "+20,964",
-      "Total": "652,601,330",
-      "track_id": "3fqwjXwUGN6vbzIwvyFMhx",
-      "artist_ids": [
-        "4YLtscXsxbVgi031ovDDdh"
-      ]
-    },
-    {
-      "Pos": "97",
-      "P+": "-19",
-      "Artist and Title": "Harry Styles - Sign of the Times",
-      "Days": "334",
-      "Pk": "17",
-      "(x?)": "",
-      "Streams": "385,021",
-      "Streams+": "-457",
-      "7Day": "2,588,955",
-      "7Day+": "-26,830",
-      "Total": "128,065,788",
-      "track_id": "5Ohxk2dO5COHF1krpoPigN",
-      "artist_ids": [
-        "6KImCVD70vtIoJWnq6nGn3"
-      ]
-    },
-    {
-      "Pos": "98",
-      "P+": "-12",
-      "Artist and Title": "Kanye West - Flashing Lights (w/ Dwele)",
-      "Days": "1251",
-      "Pk": "42",
-      "(x?)": "",
-      "Streams": "384,398",
-      "Streams+": "+7,197",
-      "7Day": "2,548,589",
-      "7Day+": "-3,959",
-      "Total": "451,415,777",
-      "track_id": "5TRPicyLGbAF2LGBFbHGvO",
-      "artist_ids": [
-        "5K4W6rqBFWDnAN6FQUkS6x",
-        "7u6LfVyYpEzMpHLL7jTyvU"
-      ]
-    },
-    {
-      "Pos": "99",
-      "P+": "-16",
+      "Pos": "90",
+      "P+": "+9",
       "Artist and Title": "Billie Eilish - BIRDS OF A FEATHER",
-      "Days": "881",
+      "Days": "882",
       "Pk": "2",
       "(x?)": "(x10)",
-      "Streams": "384,134",
-      "Streams+": "+5,416",
-      "7Day": "2,524,161",
-      "7Day+": "-16,221",
-      "Total": "838,274,926",
+      "Streams": "368,809",
+      "Streams+": "-15,325",
+      "7Day": "2,531,357",
+      "7Day+": "+7,196",
+      "Total": "838,643,735",
       "track_id": "6dOtVTDdiauQNBQEDOtlAB",
       "artist_ids": [
         "6qqNVTkY8uBg9cP3Jd7DAH"
       ]
     },
     {
-      "Pos": "100",
-      "P+": "-16",
-      "Artist and Title": "PinkPantheress - Stateside + Zara Larsson (w/ Zara Larsson)",
-      "Days": "287",
-      "Pk": "1",
-      "(x?)": "(x9)",
-      "Streams": "382,260",
-      "Streams+": "+4,022",
-      "7Day": "2,595,008",
-      "7Day+": "-24,341",
-      "Total": "208,184,992",
-      "track_id": "1DwscornXpj8fmOmYVlqZt",
-      "artist_ids": [
-        "78rUTD7y6Cy67W1RVzYs7t",
-        "1Xylc3o4UrD53lo9CvFvVg"
-      ]
-    },
-    {
-      "Pos": "101",
-      "P+": "-13",
-      "Artist and Title": "Zach Bryan - Something in the Orange",
-      "Days": "1634",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "381,934",
-      "Streams+": "+10,027",
-      "7Day": "2,521,436",
-      "7Day+": "+6,644",
-      "Total": "969,333,353",
-      "track_id": "3WMj8moIAXJhHsyLaqIIHI",
-      "artist_ids": [
-        "40ZNYROS4zLfyyBSs2PGe2"
-      ]
-    },
-    {
-      "Pos": "102",
-      "P+": "-17",
+      "Pos": "91",
+      "P+": "+11",
       "Artist and Title": "Lil Baby - Dead Fresh",
-      "Days": "92",
+      "Days": "93",
       "Pk": "17",
       "(x?)": "",
-      "Streams": "381,584",
-      "Streams+": "+4,061",
-      "7Day": "2,546,157",
-      "7Day+": "-20,609",
-      "Total": "45,701,055",
+      "Streams": "367,372",
+      "Streams+": "-14,212",
+      "7Day": "2,536,846",
+      "7Day+": "-9,311",
+      "Total": "46,068,427",
       "track_id": "5ZAMlvo6ZUjVRZOGu2bJib",
       "artist_ids": [
         "5f7VJjfbwm532GiveGC0ZK"
       ]
     },
     {
-      "Pos": "103",
-      "P+": "-22",
+      "Pos": "92",
+      "P+": "-7",
+      "Artist and Title": "Evanescence - Bring Me To Life",
+      "Days": "394",
+      "Pk": "58",
+      "(x?)": "",
+      "Streams": "367,204",
+      "Streams+": "-28,753",
+      "7Day": "2,616,395",
+      "7Day+": "-2,974",
+      "Total": "143,160,484",
+      "track_id": "0COqiPhxzoWICwFCS4eZcp",
+      "artist_ids": [
+        "5nGIFgo0shDenQYSE0Sn7c"
+      ]
+    },
+    {
+      "Pos": "93",
+      "P+": "+10",
       "Artist and Title": "Taylor Swift - The Fate of Ophelia",
-      "Days": "379",
+      "Days": "380",
       "Pk": "1",
       "(x?)": "(x56)",
-      "Streams": "381,567",
-      "Streams+": "-2,215",
-      "7Day": "2,619,974",
-      "7Day+": "-43,484",
-      "Total": "355,265,694",
+      "Streams": "366,002",
+      "Streams+": "-15,565",
+      "7Day": "2,590,716",
+      "7Day+": "-29,258",
+      "Total": "355,631,696",
       "track_id": "53iuhJlwXhSER5J2IYYv1W",
       "artist_ids": [
         "06HL4z0CvFAxyc27GXpf02"
       ]
     },
     {
-      "Pos": "104",
-      "P+": "-5",
+      "Pos": "94",
+      "P+": "+10",
       "Artist and Title": "Bad Bunny - DtMF",
-      "Days": "649",
+      "Days": "650",
       "Pk": "1",
       "(x?)": "(x43)",
-      "Streams": "379,740",
-      "Streams+": "+20,148",
-      "7Day": "2,411,858",
-      "7Day+": "+6,971",
-      "Total": "469,465,559",
+      "Streams": "364,708",
+      "Streams+": "-15,032",
+      "7Day": "2,409,711",
+      "7Day+": "-2,147",
+      "Total": "469,830,267",
       "track_id": "3sK8wGT43QFpWrvNQsrQya",
       "artist_ids": [
         "4q3ewBCX7sLwd24euuV69X"
       ]
     },
     {
-      "Pos": "105",
-      "P+": "-26",
-      "Artist and Title": "Vance Joy - Riptide",
-      "Days": "1641",
-      "Pk": "12",
-      "(x?)": "",
-      "Streams": "377,405",
-      "Streams+": "-7,769",
-      "7Day": "2,593,106",
-      "7Day+": "-25,692",
-      "Total": "477,249,075",
-      "track_id": "7yq4Qj7cqayVTp3FF9CWbm",
-      "artist_ids": [
-        "10exVja0key0uqUkk6LJRT"
-      ]
-    },
-    {
-      "Pos": "106",
-      "P+": "-13",
-      "Artist and Title": "Jamie Miller - Babydoll",
-      "Days": "15",
-      "Pk": "57",
-      "(x?)": "",
-      "Streams": "376,828",
-      "Streams+": "+10,955",
-      "7Day": "2,395,379",
-      "7Day+": "-1,890",
-      "Total": "5,200,335",
-      "track_id": "1o9mAOmNm3wT2NdyGV1Ard",
-      "artist_ids": [
-        "2LkkwxA19J8C52wPQl5bG6"
-      ]
-    },
-    {
-      "Pos": "107",
-      "P+": "-17",
-      "Artist and Title": "Zara Larsson - Midnight Sun",
-      "Days": "270",
-      "Pk": "26",
-      "(x?)": "",
-      "Streams": "370,548",
-      "Streams+": "+4,092",
-      "7Day": "2,484,098",
-      "7Day+": "-7,649",
-      "Total": "108,428,874",
-      "track_id": "1qRV1dKLOfH1s00b9J2LUQ",
-      "artist_ids": [
-        "1Xylc3o4UrD53lo9CvFvVg"
-      ]
-    },
-    {
-      "Pos": "108",
-      "P+": "-17",
-      "Artist and Title": "sombr - 12 to 12",
-      "Days": "425",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "367,854",
-      "Streams+": "+1,853",
-      "7Day": "2,399,666",
-      "7Day+": "-6,218",
-      "Total": "201,217,493",
-      "track_id": "05od2qm2MTSKCHxy1GBp5W",
-      "artist_ids": [
-        "4G9NDjRyZFDlJKMRL8hx3S"
-      ]
-    },
-    {
-      "Pos": "109",
-      "P+": "-22",
-      "Artist and Title": "Staind - It's Been Awhile",
-      "Days": "91",
-      "Pk": "70",
-      "(x?)": "",
-      "Streams": "367,510",
-      "Streams+": "-7,180",
-      "7Day": "2,514,040",
-      "7Day+": "-34,397",
-      "Total": "30,325,822",
-      "track_id": "25CMmGsl22APKhfuj4Tp7j",
-      "artist_ids": [
-        "5KDIH2gF0VpelTqyQS7udb"
-      ]
-    },
-    {
-      "Pos": "110",
-      "P+": "+8",
-      "Artist and Title": "Gracie Abrams - That’s So True",
-      "Days": "540",
-      "Pk": "1",
-      "(x?)": "(x21)",
-      "Streams": "366,507",
-      "Streams+": "+22,784",
-      "7Day": "2,301,365",
-      "7Day+": "+21,853",
-      "Total": "383,748,048",
-      "track_id": "7ne4VBA60CxGM75vw0EYad",
-      "artist_ids": [
-        "4tuJ0bMpJh08umKkEXKUI5"
-      ]
-    },
-    {
-      "Pos": "111",
-      "P+": "+14",
-      "Artist and Title": "Morgan Wallen - I'm The Problem",
-      "Days": "623",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "366,284",
-      "Streams+": "+27,801",
-      "7Day": "2,255,945",
-      "7Day+": "+5,531",
-      "Total": "352,076,078",
-      "track_id": "7AeM1BGYM7emrqmQn1PuWv",
-      "artist_ids": [
-        "4oUHIQIBe0LHzYfvXNW4QM"
-      ]
-    },
-    {
-      "Pos": "112",
-      "P+": "-8",
-      "Artist and Title": "Lord Huron - The Night We Met",
-      "Days": "1170",
-      "Pk": "43",
-      "(x?)": "",
-      "Streams": "364,044",
-      "Streams+": "+9,660",
-      "7Day": "2,350,137",
-      "7Day+": "+27,982",
-      "Total": "376,441,646",
-      "track_id": "3hRV0jL3vUpRrcy398teAU",
-      "artist_ids": [
-        "6ltzsmQQbmdoHHbLZ4ZN25"
-      ]
-    },
-    {
-      "Pos": "113",
-      "P+": "-12",
-      "Artist and Title": "Morgan Wallen - Last Thing You Need (from GTAVI: The Album) (w/ Grand Theft Auto VI)",
-      "Days": "30",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "362,886",
-      "Streams+": "+6,807",
-      "7Day": "2,750,025",
-      "7Day+": "-155,992",
-      "Total": "16,386,851",
-      "track_id": "5qGziX9216V8hKJjGg8RtH",
-      "artist_ids": [
-        "4oUHIQIBe0LHzYfvXNW4QM",
-        "15o7qdDTBzs6xWRUYUtZc1"
-      ]
-    },
-    {
-      "Pos": "114",
-      "P+": "=",
-      "Artist and Title": "Tove Lo - Talking Body",
-      "Days": "319",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "362,413",
-      "Streams+": "+17,533",
-      "7Day": "2,265,566",
-      "7Day+": "+21,569",
-      "Total": "75,378,951",
-      "track_id": "7cgu4JBW3hq1GwTM1ilkKQ",
-      "artist_ids": [
-        "4NHQUGzhtTLFvgF5SZesLK"
-      ]
-    },
-    {
-      "Pos": "115",
-      "P+": "-12",
-      "Artist and Title": "Nirvana - Smells Like Teen Spirit - Remastered",
-      "Days": "763",
-      "Pk": "56",
-      "(x?)": "",
-      "Streams": "360,891",
-      "Streams+": "+5,341",
-      "7Day": "2,405,965",
-      "7Day+": "-10,248",
-      "Total": "241,876,817",
-      "track_id": "0gucTLf7trAf37Ua1uAyAu",
-      "artist_ids": [
-        "6olE6TJLqED3rqDCT0FyPh"
-      ]
-    },
-    {
-      "Pos": "116",
-      "P+": "-21",
-      "Artist and Title": "bôa - Duvet",
-      "Days": "38",
-      "Pk": "61",
-      "(x?)": "",
-      "Streams": "359,556",
-      "Streams+": "-6,088",
-      "7Day": "2,479,502",
-      "7Day+": "+3,166",
-      "Total": "13,368,355",
-      "track_id": "42qNWdLKCI41S4uzfamhFM",
-      "artist_ids": [
-        "5jTtGLk1mGFMY5lQOvJYUj"
-      ]
-    },
-    {
-      "Pos": "117",
-      "P+": "-25",
-      "Artist and Title": "comehelpglo - onsra",
-      "Days": "36",
+      "Pos": "95",
+      "P+": "-5",
+      "Artist and Title": "Treaty Oak Revival - Missed Call",
+      "Days": "536",
       "Pk": "49",
       "(x?)": "",
-      "Streams": "358,932",
-      "Streams+": "-6,962",
-      "7Day": "2,524,369",
-      "7Day+": "-40,057",
-      "Total": "13,856,066",
-      "track_id": "7wS6EAZast0FJGw79CXGND",
+      "Streams": "363,502",
+      "Streams+": "-26,166",
+      "7Day": "2,478,300",
+      "7Day+": "+19,239",
+      "Total": "205,190,120",
+      "track_id": "6ybZUqlfk938oS6WeBmDab",
       "artist_ids": [
-        "5Z9nWuFMEQ97O7ixur2c8l"
+        "3444S3C4U9Ts86BnCtSPRV"
       ]
     },
     {
-      "Pos": "118",
-      "P+": "-11",
-      "Artist and Title": "Drake - One Dance (w/ Wizkid, Kyla)",
-      "Days": "1364",
-      "Pk": "1",
-      "(x?)": "(x103)",
-      "Streams": "356,975",
-      "Streams+": "+6,622",
-      "7Day": "2,410,553",
-      "7Day+": "-17,795",
-      "Total": "694,345,260",
-      "track_id": "1zi7xx7UVEFkmKfv06H8x0",
-      "artist_ids": [
-        "3TVXtAsR1Inumwj472S9r4",
-        "3tVQdUvClmAT7URs9V3rsp",
-        "77DAFfvm3O9zT5dIoG0eIO"
-      ]
-    },
-    {
-      "Pos": "119",
-      "P+": "+32",
-      "Artist and Title": "Chris Stapleton - You Should Probably Leave",
-      "Days": "1169",
-      "Pk": "44",
-      "(x?)": "",
-      "Streams": "355,804",
-      "Streams+": "+36,243",
-      "7Day": "2,211,172",
-      "7Day+": "+5,412",
-      "Total": "470,246,845",
-      "track_id": "2UikqkwBv7aIvlixeVXHWt",
-      "artist_ids": [
-        "4YLtscXsxbVgi031ovDDdh"
-      ]
-    },
-    {
-      "Pos": "120",
-      "P+": "+30",
-      "Artist and Title": "Michael Jackson - Thriller",
-      "Days": "122",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "355,185",
-      "Streams+": "+35,596",
-      "7Day": "2,258,691",
-      "7Day+": "+29,271",
-      "Total": "52,995,583",
-      "track_id": "2LlQb7Uoj1kKyGhlkBf9aC",
-      "artist_ids": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ]
-    },
-    {
-      "Pos": "121",
-      "P+": "-15",
-      "Artist and Title": "Olivia Dean - A Couple Minutes",
-      "Days": "231",
-      "Pk": "20",
-      "(x?)": "",
-      "Streams": "354,679",
-      "Streams+": "+2,334",
-      "7Day": "2,331,369",
-      "7Day+": "+7,804",
-      "Total": "101,177,982",
-      "track_id": "312z6PZ8wwREck8613PkJk",
-      "artist_ids": [
-        "00x1fYSGhdqScXBRpSj3DW"
-      ]
-    },
-    {
-      "Pos": "122",
-      "P+": "-17",
-      "Artist and Title": "Frank Ocean - Novacane",
-      "Days": "514",
-      "Pk": "82",
-      "(x?)": "",
-      "Streams": "353,684",
-      "Streams+": "+1,092",
-      "7Day": "2,341,533",
-      "7Day+": "+3,593",
-      "Total": "170,301,941",
-      "track_id": "4osgfFTICMkcGbbigdsa53",
-      "artist_ids": [
-        "2h93pZq0e7k5yf4dywlkpM"
-      ]
-    },
-    {
-      "Pos": "123",
-      "P+": "-27",
-      "Artist and Title": "TV Girl - Lovers Rock",
-      "Days": "1278",
-      "Pk": "35",
-      "(x?)": "",
-      "Streams": "352,608",
-      "Streams+": "-9,752",
-      "7Day": "2,471,496",
-      "7Day+": "-4,580",
-      "Total": "526,064,453",
-      "track_id": "6dBUzqjtbnIa1TwYbyw5CM",
-      "artist_ids": [
-        "0Y6dVaC9DZtPNH4591M42W"
-      ]
-    },
-    {
-      "Pos": "124",
-      "P+": "-22",
-      "Artist and Title": "Don Toliver - No Pole",
-      "Days": "729",
-      "Pk": "18",
-      "(x?)": "",
-      "Streams": "351,080",
-      "Streams+": "-4,915",
-      "7Day": "2,442,155",
-      "7Day+": "-27,004",
-      "Total": "361,593,479",
-      "track_id": "0eaVIYo2zeOaGJeqZ5TwYz",
-      "artist_ids": [
-        "4Gso3d4CscCijv0lmajZWs"
-      ]
-    },
-    {
-      "Pos": "125",
-      "P+": "-14",
-      "Artist and Title": "Michael Jackson - Chicago",
-      "Days": "174",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "350,040",
-      "Streams+": "+4,675",
-      "7Day": "2,407,158",
-      "7Day+": "-27,320",
-      "Total": "104,864,116",
-      "track_id": "5BKKy9fIJL5uM9fz1SnqyP",
-      "artist_ids": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ]
-    },
-    {
-      "Pos": "126",
-      "P+": "-4",
-      "Artist and Title": "Fleetwood Mac - Landslide",
-      "Days": "421",
-      "Pk": "17",
-      "(x?)": "",
-      "Streams": "347,095",
-      "Streams+": "+6,986",
-      "7Day": "2,296,804",
-      "7Day+": "+14,704",
-      "Total": "154,487,659",
-      "track_id": "5ihS6UUlyQAfmp48eSkxuQ",
-      "artist_ids": [
-        "08GQAI4eElDnROBrJRGE0X"
-      ]
-    },
-    {
-      "Pos": "127",
-      "P+": "+11",
-      "Artist and Title": "Olivia Rodrigo - deja vu",
-      "Days": "593",
-      "Pk": "2",
-      "(x?)": "(x20)",
-      "Streams": "346,754",
-      "Streams+": "+20,927",
-      "7Day": "2,138,112",
-      "7Day+": "+32,419",
-      "Total": "314,979,479",
-      "track_id": "6HU7h9RYOaPRFeh0R3UeAr",
-      "artist_ids": [
-        "1McMsnEElThX1knmY4oliG"
-      ]
-    },
-    {
-      "Pos": "128",
-      "P+": "-9",
-      "Artist and Title": "Journey - Don't Stop Believin' (2022 Remaster)",
-      "Days": "653",
-      "Pk": "16",
-      "(x?)": "",
-      "Streams": "343,498",
-      "Streams+": "+1,293",
-      "7Day": "2,308,725",
-      "7Day+": "-19,073",
-      "Total": "258,465,759",
-      "track_id": "5RKQ5NdjSh2QzD4MaunT91",
-      "artist_ids": [
-        "0rvjqX7ttXeg3mTy8Xscbt"
-      ]
-    },
-    {
-      "Pos": "129",
-      "P+": "+10",
+      "Pos": "96",
+      "P+": "+33",
       "Artist and Title": "HUNTR/X - Golden (w/ EJae, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast)",
-      "Days": "482",
+      "Days": "483",
       "Pk": "1",
       "(x?)": "(x71)",
-      "Streams": "342,838",
-      "Streams+": "+17,586",
-      "7Day": "2,298,026",
-      "7Day+": "-7,612",
-      "Total": "461,439,655",
+      "Streams": "363,055",
+      "Streams+": "+20,217",
+      "7Day": "2,299,053",
+      "7Day+": "+1,027",
+      "Total": "461,802,710",
       "track_id": "1CPZ5BxNNd0n0nF4Orb9JS",
       "artist_ids": [
         "2yNNYQBChuox9A5Ka93BIn",
@@ -2229,17 +1662,464 @@
       ]
     },
     {
-      "Pos": "130",
-      "P+": "+19",
+      "Pos": "97",
+      "P+": "-1",
+      "Artist and Title": "Chris Stapleton - Tennessee Whiskey",
+      "Days": "2041",
+      "Pk": "34",
+      "(x?)": "",
+      "Streams": "361,490",
+      "Streams+": "-25,447",
+      "7Day": "2,405,689",
+      "7Day+": "+9,952",
+      "Total": "652,962,820",
+      "track_id": "3fqwjXwUGN6vbzIwvyFMhx",
+      "artist_ids": [
+        "4YLtscXsxbVgi031ovDDdh"
+      ]
+    },
+    {
+      "Pos": "98",
+      "P+": "-24",
+      "Artist and Title": "Olivia Rodrigo - maggots for brains",
+      "Days": "128",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "361,220",
+      "Streams+": "-46,360",
+      "7Day": "2,701,305",
+      "7Day+": "-5,871",
+      "Total": "70,427,702",
+      "track_id": "6jfiwkcwt8iYCdkbLukxeI",
+      "artist_ids": [
+        "1McMsnEElThX1knmY4oliG"
+      ]
+    },
+    {
+      "Pos": "99",
+      "P+": "-13",
+      "Artist and Title": "sombr - Homewrecker",
+      "Days": "254",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "360,686",
+      "Streams+": "-33,679",
+      "7Day": "2,535,661",
+      "7Day+": "+23,728",
+      "Total": "126,860,781",
+      "track_id": "7tICCrK3CcyRFKza7yrR0z",
+      "artist_ids": [
+        "4G9NDjRyZFDlJKMRL8hx3S"
+      ]
+    },
+    {
+      "Pos": "100",
+      "P+": "+31",
+      "Artist and Title": "KATSEYE - Animal",
+      "Days": "86",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "357,680",
+      "Streams+": "+15,620",
+      "7Day": "2,330,315",
+      "7Day+": "+11,475",
+      "Total": "41,636,608",
+      "track_id": "3ouNEk0tv5TTi8VWMe1xbX",
+      "artist_ids": [
+        "3c0gDdb9lhnHGFtP4prQpn"
+      ]
+    },
+    {
+      "Pos": "101",
+      "P+": "-20",
+      "Artist and Title": "Zach Bryan - I Remember Everything (w/ Kacey Musgraves)",
+      "Days": "1148",
+      "Pk": "1",
+      "(x?)": "(x7)",
+      "Streams": "354,603",
+      "Streams+": "-44,407",
+      "7Day": "2,497,856",
+      "7Day+": "+2,779",
+      "Total": "854,843,742",
+      "track_id": "4KULAymBBJcPRpk1yO4dOG",
+      "artist_ids": [
+        "40ZNYROS4zLfyyBSs2PGe2",
+        "70kkdajctXSbqSMJbQO424"
+      ]
+    },
+    {
+      "Pos": "102",
+      "P+": "-10",
+      "Artist and Title": "Bruno Mars - Risk It All",
+      "Days": "233",
+      "Pk": "1",
+      "(x?)": "(x7)",
+      "Streams": "352,013",
+      "Streams+": "-36,798",
+      "7Day": "2,546,661",
+      "7Day+": "-26,614",
+      "Total": "141,747,825",
+      "track_id": "5y2ijHECwFYWqcAHKTZgzD",
+      "artist_ids": [
+        "0du5cEVh5yTK9QJze8zA0C"
+      ]
+    },
+    {
+      "Pos": "103",
+      "P+": "+3",
+      "Artist and Title": "Jamie Miller - Babydoll",
+      "Days": "16",
+      "Pk": "57",
+      "(x?)": "",
+      "Streams": "351,195",
+      "Streams+": "-25,633",
+      "7Day": "2,420,110",
+      "7Day+": "+24,731",
+      "Total": "5,551,530",
+      "track_id": "1o9mAOmNm3wT2NdyGV1Ard",
+      "artist_ids": [
+        "2LkkwxA19J8C52wPQl5bG6"
+      ]
+    },
+    {
+      "Pos": "104",
+      "P+": "-31",
+      "Artist and Title": "Drake - Cold Shoulder (w/ Don Toliver, Yebba)",
+      "Days": "16",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "351,132",
+      "Streams+": "-56,451",
+      "7Day": "2,899,183",
+      "7Day+": "-103,770",
+      "Total": "8,540,244",
+      "track_id": "50GVx8sCc1TDKHXumgYqEO",
+      "artist_ids": [
+        "3TVXtAsR1Inumwj472S9r4",
+        "4Gso3d4CscCijv0lmajZWs",
+        "1ooV8YZC1KbpEcrmI8WH0F"
+      ]
+    },
+    {
+      "Pos": "105",
+      "P+": "=",
+      "Artist and Title": "Vance Joy - Riptide",
+      "Days": "1642",
+      "Pk": "12",
+      "(x?)": "",
+      "Streams": "350,859",
+      "Streams+": "-26,546",
+      "7Day": "2,576,086",
+      "7Day+": "-17,020",
+      "Total": "477,599,934",
+      "track_id": "7yq4Qj7cqayVTp3FF9CWbm",
+      "artist_ids": [
+        "10exVja0key0uqUkk6LJRT"
+      ]
+    },
+    {
+      "Pos": "106",
+      "P+": "+12",
+      "Artist and Title": "Drake - One Dance (w/ Wizkid, Kyla)",
+      "Days": "1365",
+      "Pk": "1",
+      "(x?)": "(x103)",
+      "Streams": "347,886",
+      "Streams+": "-9,089",
+      "7Day": "2,393,934",
+      "7Day+": "-16,619",
+      "Total": "694,693,146",
+      "track_id": "1zi7xx7UVEFkmKfv06H8x0",
+      "artist_ids": [
+        "3TVXtAsR1Inumwj472S9r4",
+        "3tVQdUvClmAT7URs9V3rsp",
+        "77DAFfvm3O9zT5dIoG0eIO"
+      ]
+    },
+    {
+      "Pos": "107",
+      "P+": "-13",
+      "Artist and Title": "Djo - End of Beginning",
+      "Days": "859",
+      "Pk": "1",
+      "(x?)": "(x13)",
+      "Streams": "347,440",
+      "Streams+": "-40,260",
+      "7Day": "2,623,282",
+      "7Day+": "-21,395",
+      "Total": "542,465,218",
+      "track_id": "3qhlB30KknSejmIvZZLjOD",
+      "artist_ids": [
+        "5p9HO3XC5P3BLxJs5Mtrhm"
+      ]
+    },
+    {
+      "Pos": "108",
+      "P+": "-21",
+      "Artist and Title": "Omar Apollo - Evergreen",
+      "Days": "305",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "346,967",
+      "Streams+": "-47,316",
+      "7Day": "2,647,827",
+      "7Day+": "-6,611",
+      "Total": "123,497,110",
+      "track_id": "2TktkzfozZifbQhXjT6I33",
+      "artist_ids": [
+        "5FxD8fkQZ6KcsSYupDVoSO"
+      ]
+    },
+    {
+      "Pos": "109",
+      "P+": "-1",
+      "Artist and Title": "sombr - 12 to 12",
+      "Days": "426",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "344,830",
+      "Streams+": "-23,024",
+      "7Day": "2,415,957",
+      "7Day+": "+16,291",
+      "Total": "201,562,323",
+      "track_id": "05od2qm2MTSKCHxy1GBp5W",
+      "artist_ids": [
+        "4G9NDjRyZFDlJKMRL8hx3S"
+      ]
+    },
+    {
+      "Pos": "110",
+      "P+": "-22",
+      "Artist and Title": "Olivia Rodrigo - honeybee",
+      "Days": "127",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "342,154",
+      "Streams+": "-51,406",
+      "7Day": "2,641,407",
+      "7Day+": "-12,034",
+      "Total": "74,106,759",
+      "track_id": "4kX7xkopoXZCfE1D6fNwl2",
+      "artist_ids": [
+        "1McMsnEElThX1knmY4oliG"
+      ]
+    },
+    {
+      "Pos": "111",
+      "P+": "=",
+      "Artist and Title": "Morgan Wallen - I'm The Problem",
+      "Days": "624",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "340,923",
+      "Streams+": "-25,361",
+      "7Day": "2,272,369",
+      "7Day+": "+16,424",
+      "Total": "352,417,001",
+      "track_id": "7AeM1BGYM7emrqmQn1PuWv",
+      "artist_ids": [
+        "4oUHIQIBe0LHzYfvXNW4QM"
+      ]
+    },
+    {
+      "Pos": "112",
+      "P+": "+13",
+      "Artist and Title": "Michael Jackson - Chicago",
+      "Days": "175",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "339,184",
+      "Streams+": "-10,856",
+      "7Day": "2,386,902",
+      "7Day+": "-20,256",
+      "Total": "105,203,300",
+      "track_id": "5BKKy9fIJL5uM9fz1SnqyP",
+      "artist_ids": [
+        "3fMbdgg4jU18AjLCKBhRSm"
+      ]
+    },
+    {
+      "Pos": "113",
+      "P+": "+1",
+      "Artist and Title": "Tove Lo - Talking Body",
+      "Days": "320",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "339,019",
+      "Streams+": "-23,394",
+      "7Day": "2,298,778",
+      "7Day+": "+33,212",
+      "Total": "75,717,970",
+      "track_id": "7cgu4JBW3hq1GwTM1ilkKQ",
+      "artist_ids": [
+        "4NHQUGzhtTLFvgF5SZesLK"
+      ]
+    },
+    {
+      "Pos": "114",
+      "P+": "+1",
+      "Artist and Title": "Nirvana - Smells Like Teen Spirit - Remastered",
+      "Days": "764",
+      "Pk": "56",
+      "(x?)": "",
+      "Streams": "338,044",
+      "Streams+": "-22,847",
+      "7Day": "2,398,561",
+      "7Day+": "-7,404",
+      "Total": "242,214,861",
+      "track_id": "0gucTLf7trAf37Ua1uAyAu",
+      "artist_ids": [
+        "6olE6TJLqED3rqDCT0FyPh"
+      ]
+    },
+    {
+      "Pos": "115",
+      "P+": "-33",
+      "Artist and Title": "SIENNA SPIRO - Die On This Hill",
+      "Days": "219",
+      "Pk": "12",
+      "(x?)": "",
+      "Streams": "337,494",
+      "Streams+": "-58,830",
+      "7Day": "2,658,557",
+      "7Day+": "+11,312",
+      "Total": "100,839,030",
+      "track_id": "2gYTC8DsplN3RNdpdBcCOQ",
+      "artist_ids": [
+        "02gSuSAWEdWa5UOvqzjX6v"
+      ]
+    },
+    {
+      "Pos": "116",
+      "P+": "+63",
+      "Artist and Title": "Tame Impala - Dracula",
+      "Days": "371",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "337,263",
+      "Streams+": "+20,511",
+      "7Day": "2,158,149",
+      "7Day+": "+15,435",
+      "Total": "165,462,916",
+      "track_id": "1NXbNEAcPvY5G1xvfN57aA",
+      "artist_ids": [
+        "5INjqkS1o8h1imAzPqGZBb"
+      ]
+    },
+    {
+      "Pos": "117",
+      "P+": "+7",
+      "Artist and Title": "Don Toliver - No Pole",
+      "Days": "730",
+      "Pk": "18",
+      "(x?)": "",
+      "Streams": "337,178",
+      "Streams+": "-13,902",
+      "7Day": "2,421,594",
+      "7Day+": "-20,561",
+      "Total": "361,930,657",
+      "track_id": "0eaVIYo2zeOaGJeqZ5TwYz",
+      "artist_ids": [
+        "4Gso3d4CscCijv0lmajZWs"
+      ]
+    },
+    {
+      "Pos": "118",
+      "P+": "-2",
+      "Artist and Title": "bôa - Duvet",
+      "Days": "39",
+      "Pk": "61",
+      "(x?)": "",
+      "Streams": "337,158",
+      "Streams+": "-22,398",
+      "7Day": "2,474,937",
+      "7Day+": "-4,565",
+      "Total": "13,705,513",
+      "track_id": "42qNWdLKCI41S4uzfamhFM",
+      "artist_ids": [
+        "5jTtGLk1mGFMY5lQOvJYUj"
+      ]
+    },
+    {
+      "Pos": "119",
+      "P+": "-10",
+      "Artist and Title": "Staind - It's Been Awhile",
+      "Days": "92",
+      "Pk": "70",
+      "(x?)": "",
+      "Streams": "336,597",
+      "Streams+": "-30,913",
+      "7Day": "2,494,871",
+      "7Day+": "-19,169",
+      "Total": "30,662,419",
+      "track_id": "25CMmGsl22APKhfuj4Tp7j",
+      "artist_ids": [
+        "5KDIH2gF0VpelTqyQS7udb"
+      ]
+    },
+    {
+      "Pos": "120",
+      "P+": "-10",
+      "Artist and Title": "Gracie Abrams - That’s So True",
+      "Days": "541",
+      "Pk": "1",
+      "(x?)": "(x21)",
+      "Streams": "336,469",
+      "Streams+": "-30,038",
+      "7Day": "2,319,240",
+      "7Day+": "+17,875",
+      "Total": "384,084,517",
+      "track_id": "7ne4VBA60CxGM75vw0EYad",
+      "artist_ids": [
+        "4tuJ0bMpJh08umKkEXKUI5"
+      ]
+    },
+    {
+      "Pos": "121",
+      "P+": "RE",
+      "Artist and Title": "Bobby \"Boris\" Pickett - Monster Mash",
+      "Days": "8",
+      "Pk": "105",
+      "(x?)": "",
+      "Streams": "336,093",
+      "Streams+": "",
+      "7Day": "336,093",
+      "7Day+": "+336,093",
+      "Total": "1,898,211",
+      "track_id": "6GmL39a9OazWtyMkAbJz7v",
+      "artist_ids": [
+        "42MRYPhQfcEXqb18dl5ERX"
+      ]
+    },
+    {
+      "Pos": "122",
+      "P+": "+5",
+      "Artist and Title": "Olivia Rodrigo - deja vu",
+      "Days": "594",
+      "Pk": "2",
+      "(x?)": "(x20)",
+      "Streams": "335,540",
+      "Streams+": "-11,214",
+      "7Day": "2,186,410",
+      "7Day+": "+48,298",
+      "Total": "315,315,019",
+      "track_id": "6HU7h9RYOaPRFeh0R3UeAr",
+      "artist_ids": [
+        "1McMsnEElThX1knmY4oliG"
+      ]
+    },
+    {
+      "Pos": "123",
+      "P+": "+7",
       "Artist and Title": "Post Malone - I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen)",
-      "Days": "888",
+      "Days": "889",
       "Pk": "1",
       "(x?)": "(x6)",
-      "Streams": "342,337",
-      "Streams+": "+22,173",
-      "7Day": "2,207,485",
-      "7Day+": "-18,137",
-      "Total": "768,212,500",
+      "Streams": "334,990",
+      "Streams+": "-7,347",
+      "7Day": "2,193,656",
+      "7Day+": "-13,829",
+      "Total": "768,547,490",
       "track_id": "5IZXB5IKAD2qlvTPJYDCFB",
       "artist_ids": [
         "246dkjvS1zLTtiykXe5h60",
@@ -2247,275 +2127,136 @@
       ]
     },
     {
-      "Pos": "131",
-      "P+": "-4",
-      "Artist and Title": "KATSEYE - Animal",
-      "Days": "85",
-      "Pk": "4",
+      "Pos": "124",
+      "P+": "-5",
+      "Artist and Title": "Chris Stapleton - You Should Probably Leave",
+      "Days": "1170",
+      "Pk": "44",
       "(x?)": "",
-      "Streams": "342,060",
-      "Streams+": "+7,381",
-      "7Day": "2,318,840",
-      "7Day+": "+881",
-      "Total": "41,278,928",
-      "track_id": "3ouNEk0tv5TTi8VWMe1xbX",
+      "Streams": "334,238",
+      "Streams+": "-21,566",
+      "7Day": "2,216,767",
+      "7Day+": "+5,595",
+      "Total": "470,581,083",
+      "track_id": "2UikqkwBv7aIvlixeVXHWt",
       "artist_ids": [
-        "3c0gDdb9lhnHGFtP4prQpn"
+        "4YLtscXsxbVgi031ovDDdh"
       ]
     },
     {
-      "Pos": "132",
-      "P+": "-16",
-      "Artist and Title": "Drake - Hold On, We're Going Home (w/ Majid Jordan)",
-      "Days": "426",
-      "Pk": "59",
-      "(x?)": "",
-      "Streams": "341,230",
-      "Streams+": "-2,851",
-      "7Day": "2,221,906",
-      "7Day+": "+17,219",
-      "Total": "45,006,875",
-      "track_id": "7nBFpFa8ZFMUqzwPmWaD6u",
-      "artist_ids": [
-        "3TVXtAsR1Inumwj472S9r4",
-        "4HzKw8XcD0piJmDrrPRCYk"
-      ]
-    },
-    {
-      "Pos": "133",
-      "P+": "-13",
-      "Artist and Title": "Coldplay - Yellow",
-      "Days": "670",
-      "Pk": "50",
-      "(x?)": "",
-      "Streams": "340,780",
-      "Streams+": "-1,241",
-      "7Day": "2,281,138",
-      "7Day+": "-11,291",
-      "Total": "238,257,938",
-      "track_id": "3AJwUDP919kvQ9QcozQPxg",
-      "artist_ids": [
-        "4gzpq5DPGxSnKTe4SA8HAU"
-      ]
-    },
-    {
-      "Pos": "134",
-      "P+": "-13",
-      "Artist and Title": "RAYE - WHERE IS MY HUSBAND!",
-      "Days": "377",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "340,380",
-      "Streams+": "-1,342",
-      "7Day": "2,320,196",
-      "7Day+": "-24,170",
-      "Total": "193,059,870",
-      "track_id": "55lijDD6OAjLFFUHU9tcDm",
-      "artist_ids": [
-        "5KKpBU5eC2tJDzf0wmlRp2"
-      ]
-    },
-    {
-      "Pos": "135",
-      "P+": "-12",
-      "Artist and Title": "Fleetwood Mac - The Chain - 2001 Remaster",
-      "Days": "87",
-      "Pk": "95",
-      "(x?)": "",
-      "Streams": "340,046",
-      "Streams+": "+526",
-      "7Day": "2,325,366",
-      "7Day+": "-26,639",
-      "Total": "29,263,780",
-      "track_id": "2MRjYBbIbH1VTToIrO1mdi",
-      "artist_ids": [
-        "08GQAI4eElDnROBrJRGE0X"
-      ]
-    },
-    {
-      "Pos": "136",
-      "P+": "-27",
-      "Artist and Title": "Cigarettes After Sex - Apocalypse",
-      "Days": "1070",
-      "Pk": "42",
-      "(x?)": "",
-      "Streams": "339,571",
-      "Streams+": "-8,132",
-      "7Day": "2,312,362",
-      "7Day+": "+6,135",
-      "Total": "378,267,038",
-      "track_id": "1oAwsWBovWRIp7qLMGPIet",
-      "artist_ids": [
-        "1QAJqy2dA3ihHBFIHRphZj"
-      ]
-    },
-    {
-      "Pos": "137",
-      "P+": "-29",
-      "Artist and Title": "Tyler, The Creator - See You Again (w/ Kali Uchis)",
-      "Days": "1951",
-      "Pk": "3",
+      "Pos": "125",
+      "P+": "RE",
+      "Artist and Title": "Ray Parker Jr. - Ghostbusters",
+      "Days": "55",
+      "Pk": "1",
       "(x?)": "(x1)",
-      "Streams": "337,956",
-      "Streams+": "-11,575",
-      "7Day": "2,385,950",
-      "7Day+": "-22,914",
-      "Total": "979,770,688",
-      "track_id": "7KA4W4McWYRpgf0fWsJZWB",
+      "Streams": "334,015",
+      "Streams+": "",
+      "7Day": "334,015",
+      "7Day+": "+334,015",
+      "Total": "32,948,879",
+      "track_id": "6thXB4RmajS4oZPNiBAKy0",
       "artist_ids": [
-        "4V8LLVI7PbaPR0K2TGSxFF",
-        "1U1el3k54VvEUzo3ybLPlM"
+        "0NyzfcGDZZ6GM25EBG9BYK"
       ]
     },
     {
-      "Pos": "138",
-      "P+": "-26",
-      "Artist and Title": "Tame Impala - The Less I Know The Better",
-      "Days": "1432",
-      "Pk": "46",
+      "Pos": "126",
+      "P+": "-29",
+      "Artist and Title": "Harry Styles - Sign of the Times",
+      "Days": "335",
+      "Pk": "17",
       "(x?)": "",
-      "Streams": "337,940",
-      "Streams+": "-7,044",
-      "7Day": "2,287,005",
-      "7Day+": "-6,370",
-      "Total": "420,282,483",
-      "track_id": "6K4t31amVTZDgR3sKmwUJJ",
+      "Streams": "333,347",
+      "Streams+": "-51,674",
+      "7Day": "2,561,525",
+      "7Day+": "-27,430",
+      "Total": "128,399,135",
+      "track_id": "5Ohxk2dO5COHF1krpoPigN",
       "artist_ids": [
-        "5INjqkS1o8h1imAzPqGZBb"
+        "6KImCVD70vtIoJWnq6nGn3"
       ]
     },
     {
-      "Pos": "139",
-      "P+": "+4",
-      "Artist and Title": "Marvin Gaye - Ain't No Mountain High Enough (w/ Tammi Terrell)",
-      "Days": "222",
-      "Pk": "50",
+      "Pos": "127",
+      "P+": "+1",
+      "Artist and Title": "Journey - Don't Stop Believin' (2022 Remaster)",
+      "Days": "654",
+      "Pk": "16",
       "(x?)": "",
-      "Streams": "337,766",
-      "Streams+": "+15,239",
-      "7Day": "2,114,576",
-      "7Day+": "+17,103",
-      "Total": "72,866,347",
-      "track_id": "7tqhbajSfrz2F7E1Z75ASX",
+      "Streams": "332,951",
+      "Streams+": "-10,547",
+      "7Day": "2,297,266",
+      "7Day+": "-11,459",
+      "Total": "258,798,710",
+      "track_id": "5RKQ5NdjSh2QzD4MaunT91",
       "artist_ids": [
-        "3koiLjNrgRTNbOwViDipeA",
-        "75jNCko3SnEMI5gwGqrbb8"
+        "0rvjqX7ttXeg3mTy8Xscbt"
       ]
     },
     {
-      "Pos": "140",
-      "P+": "-11",
+      "Pos": "128",
+      "P+": "+12",
       "Artist and Title": "Bad Bunny - EoO",
-      "Days": "572",
+      "Days": "573",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "336,884",
-      "Streams+": "+2,665",
-      "7Day": "1,955,595",
-      "7Day+": "-14,823",
-      "Total": "274,511,292",
+      "Streams": "329,532",
+      "Streams+": "-7,352",
+      "7Day": "1,942,351",
+      "7Day+": "-13,244",
+      "Total": "274,840,824",
       "track_id": "6J5kc12BW5HuP3d7C3vvx8",
       "artist_ids": [
         "4q3ewBCX7sLwd24euuV69X"
       ]
     },
     {
-      "Pos": "141",
-      "P+": "-17",
-      "Artist and Title": "Linkin Park - In the End",
-      "Days": "524",
+      "Pos": "129",
+      "P+": "+5",
+      "Artist and Title": "RAYE - WHERE IS MY HUSBAND!",
+      "Days": "378",
       "Pk": "8",
       "(x?)": "",
-      "Streams": "336,708",
-      "Streams+": "-2,738",
-      "7Day": "2,254,697",
-      "7Day+": "-17,967",
-      "Total": "181,314,583",
-      "track_id": "60a0Rd6pjrkxjPbaKzXjfq",
+      "Streams": "329,427",
+      "Streams+": "-10,953",
+      "7Day": "2,304,230",
+      "7Day+": "-15,966",
+      "Total": "193,389,297",
+      "track_id": "55lijDD6OAjLFFUHU9tcDm",
       "artist_ids": [
-        "6XyY86QOPPrYVGvF9ch6wz"
+        "5KKpBU5eC2tJDzf0wmlRp2"
       ]
     },
     {
-      "Pos": "142",
-      "P+": "-27",
-      "Artist and Title": "Steve Lacy - Bad Habit",
-      "Days": "1114",
+      "Pos": "130",
+      "P+": "+41",
+      "Artist and Title": "Morgan Wallen - Last Night",
+      "Days": "1310",
       "Pk": "1",
-      "(x?)": "(x66)",
-      "Streams": "336,082",
-      "Streams+": "-8,554",
-      "7Day": "2,320,970",
-      "7Day+": "-17,849",
-      "Total": "626,896,031",
-      "track_id": "4k6Uh1HXdhtusDW5y8Gbvy",
+      "(x?)": "(x56)",
+      "Streams": "328,230",
+      "Streams+": "+7,340",
+      "7Day": "2,146,755",
+      "7Day+": "-3,678",
+      "Total": "937,372,929",
+      "track_id": "7K3BhSpAxZBznislvUMVtn",
       "artist_ids": [
-        "57vWImR43h4CaDao012Ofp"
+        "4oUHIQIBe0LHzYfvXNW4QM"
       ]
     },
     {
-      "Pos": "143",
-      "P+": "-26",
-      "Artist and Title": "The Marías - No One Noticed",
-      "Days": "766",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "335,581",
-      "Streams+": "-8,152",
-      "7Day": "2,329,974",
-      "7Day+": "-12,729",
-      "Total": "450,678,060",
-      "track_id": "3siwsiaEoU4Kuuc9WKMUy5",
-      "artist_ids": [
-        "2sSGPbdZJkaSE2AbcGOACx"
-      ]
-    },
-    {
-      "Pos": "144",
-      "P+": "+9",
-      "Artist and Title": "Rihanna - Kiss It Better",
-      "Days": "301",
-      "Pk": "62",
-      "(x?)": "",
-      "Streams": "334,515",
-      "Streams+": "+15,781",
-      "7Day": "2,127,811",
-      "7Day+": "+13,935",
-      "Total": "67,447,570",
-      "track_id": "0UHB9METy4VCXNgkcGqHqS",
-      "artist_ids": [
-        "5pKCCKE2ajJHZ9KAiaK11H"
-      ]
-    },
-    {
-      "Pos": "145",
-      "P+": "-14",
-      "Artist and Title": "Tory Lanez - The Color Violet",
-      "Days": "1190",
-      "Pk": "23",
-      "(x?)": "",
-      "Streams": "334,436",
-      "Streams+": "+2,504",
-      "7Day": "2,203,836",
-      "7Day+": "+2,597",
-      "Total": "465,164,335",
-      "track_id": "3azJifCSqg9fRij2yKIbWz",
-      "artist_ids": [
-        "2jku7tDXc6XoB6MO2hFuqg"
-      ]
-    },
-    {
-      "Pos": "146",
-      "P+": "-14",
+      "Pos": "131",
+      "P+": "+15",
       "Artist and Title": "Post Malone - Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee)",
-      "Days": "2383",
+      "Days": "2384",
       "Pk": "1",
       "(x?)": "(x29)",
-      "Streams": "334,077",
-      "Streams+": "+2,259",
-      "7Day": "2,259,059",
-      "7Day+": "-15,180",
-      "Total": "1,230,502,157",
+      "Streams": "327,829",
+      "Streams+": "-6,248",
+      "7Day": "2,253,329",
+      "7Day+": "-5,730",
+      "Total": "1,230,829,986",
       "track_id": "0RiRZpuVRbi7oqRdSMwhQY",
       "artist_ids": [
         "246dkjvS1zLTtiykXe5h60",
@@ -2523,393 +2264,360 @@
       ]
     },
     {
-      "Pos": "147",
-      "P+": "-17",
+      "Pos": "132",
+      "P+": "-19",
+      "Artist and Title": "Morgan Wallen - Last Thing You Need (from GTAVI: The Album) (w/ Grand Theft Auto VI)",
+      "Days": "31",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "326,267",
+      "Streams+": "-36,619",
+      "7Day": "2,632,951",
+      "7Day+": "-117,074",
+      "Total": "16,713,118",
+      "track_id": "5qGziX9216V8hKJjGg8RtH",
+      "artist_ids": [
+        "4oUHIQIBe0LHzYfvXNW4QM",
+        "15o7qdDTBzs6xWRUYUtZc1"
+      ]
+    },
+    {
+      "Pos": "133",
+      "P+": "+4",
+      "Artist and Title": "Tyler, The Creator - See You Again (w/ Kali Uchis)",
+      "Days": "1952",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "325,745",
+      "Streams+": "-12,211",
+      "7Day": "2,369,773",
+      "7Day+": "-16,177",
+      "Total": "980,096,433",
+      "track_id": "7KA4W4McWYRpgf0fWsJZWB",
+      "artist_ids": [
+        "4V8LLVI7PbaPR0K2TGSxFF",
+        "1U1el3k54VvEUzo3ybLPlM"
+      ]
+    },
+    {
+      "Pos": "134",
+      "P+": "+39",
+      "Artist and Title": "Fetty Wap - Trap Queen",
+      "Days": "976",
+      "Pk": "1",
+      "(x?)": "(x31)",
+      "Streams": "325,633",
+      "Streams+": "+5,576",
+      "7Day": "2,167,106",
+      "7Day+": "-19,758",
+      "Total": "337,771,096",
+      "track_id": "2d8JP84HNLKhmd6IYOoupQ",
+      "artist_ids": [
+        "6PXS4YHDkKvl1wkIl4V8DL"
+      ]
+    },
+    {
+      "Pos": "135",
+      "P+": "-12",
+      "Artist and Title": "TV Girl - Lovers Rock",
+      "Days": "1279",
+      "Pk": "35",
+      "(x?)": "",
+      "Streams": "324,783",
+      "Streams+": "-27,825",
+      "7Day": "2,465,038",
+      "7Day+": "-6,458",
+      "Total": "526,389,236",
+      "track_id": "6dBUzqjtbnIa1TwYbyw5CM",
+      "artist_ids": [
+        "0Y6dVaC9DZtPNH4591M42W"
+      ]
+    },
+    {
+      "Pos": "136",
+      "P+": "-1",
+      "Artist and Title": "Fleetwood Mac - The Chain - 2001 Remaster",
+      "Days": "88",
+      "Pk": "95",
+      "(x?)": "",
+      "Streams": "322,519",
+      "Streams+": "-17,527",
+      "7Day": "2,307,902",
+      "7Day+": "-17,464",
+      "Total": "29,586,299",
+      "track_id": "2MRjYBbIbH1VTToIrO1mdi",
+      "artist_ids": [
+        "08GQAI4eElDnROBrJRGE0X"
+      ]
+    },
+    {
+      "Pos": "137",
+      "P+": "-20",
+      "Artist and Title": "comehelpglo - onsra",
+      "Days": "37",
+      "Pk": "49",
+      "(x?)": "",
+      "Streams": "321,633",
+      "Streams+": "-37,299",
+      "7Day": "2,490,651",
+      "7Day+": "-33,718",
+      "Total": "14,177,699",
+      "track_id": "7wS6EAZast0FJGw79CXGND",
+      "artist_ids": [
+        "5Z9nWuFMEQ97O7ixur2c8l"
+      ]
+    },
+    {
+      "Pos": "138",
+      "P+": "+9",
       "Artist and Title": "Benson Boone - Beautiful Things",
-      "Days": "1001",
+      "Days": "1002",
       "Pk": "1",
       "(x?)": "(x5)",
-      "Streams": "333,493",
-      "Streams+": "+879",
-      "7Day": "2,233,186",
-      "7Day+": "-12,108",
-      "Total": "736,113,795",
+      "Streams": "320,537",
+      "Streams+": "-12,956",
+      "7Day": "2,224,459",
+      "7Day+": "-8,727",
+      "Total": "736,434,332",
       "track_id": "3xkHsmpQCBMytMJNiDf3Ii",
       "artist_ids": [
         "22wbnEMDvgVIAGdFeek6ET"
       ]
     },
     {
-      "Pos": "148",
-      "P+": "-12",
-      "Artist and Title": "J. Cole - Power Trip (w/ Miguel)",
-      "Days": "194",
-      "Pk": "114",
+      "Pos": "139",
+      "P+": "-17",
+      "Artist and Title": "Frank Ocean - Novacane",
+      "Days": "515",
+      "Pk": "82",
       "(x?)": "",
-      "Streams": "332,493",
-      "Streams+": "+2,288",
-      "7Day": "2,212,342",
-      "7Day+": "-3,901",
-      "Total": "54,500,085",
-      "track_id": "2uwnP6tZVVmTovzX5ELooy",
+      "Streams": "319,265",
+      "Streams+": "-34,419",
+      "7Day": "2,342,695",
+      "7Day+": "+1,162",
+      "Total": "170,621,206",
+      "track_id": "4osgfFTICMkcGbbigdsa53",
       "artist_ids": [
-        "6l3HvQ5sa6mXTsMTB19rO5",
-        "360IAlyVv4PCEVjgyMZrxK"
+        "2h93pZq0e7k5yf4dywlkpM"
       ]
     },
     {
-      "Pos": "149",
-      "P+": "-3",
-      "Artist and Title": "Teddy Swims - Lose Control",
-      "Days": "1051",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "332,064",
-      "Streams+": "+10,831",
-      "7Day": "2,156,860",
-      "7Day+": "-6,211",
-      "Total": "668,242,635",
-      "track_id": "17phhZDn6oGtzMe56NuWvj",
+      "Pos": "140",
+      "P+": "+2",
+      "Artist and Title": "Steve Lacy - Bad Habit",
+      "Days": "1115",
+      "Pk": "1",
+      "(x?)": "(x66)",
+      "Streams": "319,097",
+      "Streams+": "-16,985",
+      "7Day": "2,320,144",
+      "7Day+": "-826",
+      "Total": "627,215,128",
+      "track_id": "4k6Uh1HXdhtusDW5y8Gbvy",
       "artist_ids": [
-        "33qOK5uJ8AR2xuQQAhHump"
+        "57vWImR43h4CaDao012Ofp"
       ]
     },
     {
-      "Pos": "150",
-      "P+": "+4",
-      "Artist and Title": "Oasis - Wonderwall - Remastered",
-      "Days": "107",
-      "Pk": "6",
+      "Pos": "141",
+      "P+": "+53",
+      "Artist and Title": "Michael Jackson - Beat It",
+      "Days": "177",
+      "Pk": "8",
       "(x?)": "",
-      "Streams": "331,041",
-      "Streams+": "+12,386",
-      "7Day": "2,191,234",
-      "7Day+": "-8,644",
-      "Total": "46,588,136",
-      "track_id": "5qqabIl2vWzo9ApSC317sa",
+      "Streams": "318,952",
+      "Streams+": "+8,949",
+      "7Day": "2,085,597",
+      "7Day+": "-3,271",
+      "Total": "96,681,427",
+      "track_id": "3BovdzfaX4jb5KFQwoPfAw",
       "artist_ids": [
-        "2DaxqgrOhkeH0fpeiQq2f4"
+        "3fMbdgg4jU18AjLCKBhRSm"
       ]
     },
     {
-      "Pos": "151",
-      "P+": "+21",
-      "Artist and Title": "Audrey Hobert - Sue me",
-      "Days": "105",
-      "Pk": "52",
+      "Pos": "142",
+      "P+": "-30",
+      "Artist and Title": "Lord Huron - The Night We Met",
+      "Days": "1171",
+      "Pk": "43",
       "(x?)": "",
-      "Streams": "330,193",
-      "Streams+": "+20,724",
-      "7Day": "2,108,459",
-      "7Day+": "-2,988",
-      "Total": "36,967,532",
-      "track_id": "6ZAuQOgLrNQb9s7BXheuTy",
+      "Streams": "317,121",
+      "Streams+": "-46,923",
+      "7Day": "2,357,144",
+      "7Day+": "+7,007",
+      "Total": "376,758,767",
+      "track_id": "3hRV0jL3vUpRrcy398teAU",
       "artist_ids": [
-        "4N0TAwz9vhnQtjCqS65aKS"
+        "6ltzsmQQbmdoHHbLZ4ZN25"
       ]
     },
     {
-      "Pos": "152",
-      "P+": "-18",
+      "Pos": "143",
+      "P+": "+32",
+      "Artist and Title": "A Boogie Wit da Hoodie - Still Think About You",
+      "Days": "37",
+      "Pk": "109",
+      "(x?)": "",
+      "Streams": "316,725",
+      "Streams+": "-1,256",
+      "7Day": "2,171,983",
+      "7Day+": "+21,365",
+      "Total": "11,482,053",
+      "track_id": "2FTeQQ5Rg9tBpgpTF5mnhE",
+      "artist_ids": [
+        "31W5EY0aAly4Qieq6OFu6I"
+      ]
+    },
+    {
+      "Pos": "144",
+      "P+": "+26",
+      "Artist and Title": "Tears For Fears - Everybody Wants To Rule The World",
+      "Days": "1186",
+      "Pk": "25",
+      "(x?)": "",
+      "Streams": "316,441",
+      "Streams+": "-4,534",
+      "7Day": "2,150,185",
+      "7Day+": "-1,670",
+      "Total": "407,435,000",
+      "track_id": "4RvWPyQ5RL0ao9LPZeSouE",
+      "artist_ids": [
+        "4bthk9UfsYUYdcFyqxmSUU"
+      ]
+    },
+    {
+      "Pos": "145",
+      "P+": "+7",
       "Artist and Title": "Drake - Passionfruit",
-      "Days": "1398",
+      "Days": "1399",
       "Pk": "1",
       "(x?)": "(x13)",
-      "Streams": "330,157",
-      "Streams+": "-573",
-      "7Day": "2,245,711",
-      "7Day+": "-17,283",
-      "Total": "527,802,215",
+      "Streams": "316,127",
+      "Streams+": "-14,030",
+      "7Day": "2,235,838",
+      "7Day+": "-9,873",
+      "Total": "528,118,342",
       "track_id": "7hDc8b7IXETo14hHIHdnhd",
       "artist_ids": [
         "3TVXtAsR1Inumwj472S9r4"
       ]
     },
     {
-      "Pos": "153",
-      "P+": "-27",
-      "Artist and Title": "Coldplay - Sparks",
-      "Days": "713",
-      "Pk": "20",
+      "Pos": "146",
+      "P+": "-14",
+      "Artist and Title": "Drake - Hold On, We're Going Home (w/ Majid Jordan)",
+      "Days": "427",
+      "Pk": "59",
       "(x?)": "",
-      "Streams": "329,441",
-      "Streams+": "-5,531",
-      "7Day": "2,310,285",
-      "7Day+": "-17,320",
-      "Total": "289,128,538",
-      "track_id": "7D0RhFcb3CrfPuTJ0obrod",
+      "Streams": "315,640",
+      "Streams+": "-25,590",
+      "7Day": "2,227,197",
+      "7Day+": "+5,291",
+      "Total": "45,322,515",
+      "track_id": "7nBFpFa8ZFMUqzwPmWaD6u",
       "artist_ids": [
-        "4gzpq5DPGxSnKTe4SA8HAU"
+        "3TVXtAsR1Inumwj472S9r4",
+        "4HzKw8XcD0piJmDrrPRCYk"
       ]
     },
     {
-      "Pos": "154",
-      "P+": "+16",
-      "Artist and Title": "Noah Kahan - Northern Attitude",
-      "Days": "216",
-      "Pk": "53",
+      "Pos": "147",
+      "P+": "-21",
+      "Artist and Title": "Fleetwood Mac - Landslide",
+      "Days": "422",
+      "Pk": "17",
       "(x?)": "",
-      "Streams": "329,388",
-      "Streams+": "+18,319",
-      "7Day": "2,142,463",
-      "7Day+": "+873",
-      "Total": "77,104,972",
-      "track_id": "4O2rRsoSPb5aN7N3tG6Y3v",
+      "Streams": "315,469",
+      "Streams+": "-31,626",
+      "7Day": "2,297,798",
+      "7Day+": "+994",
+      "Total": "154,803,128",
+      "track_id": "5ihS6UUlyQAfmp48eSkxuQ",
       "artist_ids": [
-        "2RQXRUsr4IW1f3mKyKsy4B"
+        "08GQAI4eElDnROBrJRGE0X"
       ]
     },
     {
-      "Pos": "155",
-      "P+": "-42",
-      "Artist and Title": "Taylor Swift - Babylon",
-      "Days": "22",
-      "Pk": "3",
-      "(x?)": "(x3)",
-      "Streams": "328,997",
-      "Streams+": "-15,968",
-      "7Day": "2,511,641",
-      "7Day+": "-165,196",
-      "Total": "18,412,598",
-      "track_id": "2j7wI9QWrP8cjKDdOLVQTU",
-      "artist_ids": [
-        "06HL4z0CvFAxyc27GXpf02"
-      ]
-    },
-    {
-      "Pos": "156",
-      "P+": "-1",
-      "Artist and Title": "Paramore - The Only Exception",
-      "Days": "34",
-      "Pk": "83",
-      "(x?)": "",
-      "Streams": "328,960",
-      "Streams+": "+10,482",
-      "7Day": "2,169,055",
-      "7Day+": "+8,799",
-      "Total": "10,890,572",
-      "track_id": "7JIuqL4ZqkpfGKQhYlrirs",
-      "artist_ids": [
-        "74XFHRwlV6OrjEM0A2NCMF"
-      ]
-    },
-    {
-      "Pos": "157",
-      "P+": "-13",
-      "Artist and Title": "Bryson Tiller - Don't",
-      "Days": "1994",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "328,677",
-      "Streams+": "+6,378",
-      "7Day": "2,268,794",
-      "7Day+": "-28,749",
-      "Total": "631,752,975",
-      "track_id": "3pXF1nA74528Edde4of9CC",
-      "artist_ids": [
-        "2EMAnMvWE2eb56ToJVfCWs"
-      ]
-    },
-    {
-      "Pos": "158",
-      "P+": "RE",
-      "Artist and Title": "The Red Clay Strays - Wondering Why",
-      "Days": "819",
-      "Pk": "70",
-      "(x?)": "",
-      "Streams": "328,240",
-      "Streams+": "",
-      "7Day": "1,169,465",
-      "7Day+": "+328,240",
-      "Total": "310,571,744",
-      "track_id": "1HbzxLqpNVPdiBXvpC7Ovb",
-      "artist_ids": [
-        "6IKlXZEFOvk9itrP1s0knJ"
-      ]
-    },
-    {
-      "Pos": "159",
-      "P+": "-18",
-      "Artist and Title": "J. Cole - Work Out",
-      "Days": "625",
-      "Pk": "96",
-      "(x?)": "",
-      "Streams": "327,462",
-      "Streams+": "+4,754",
-      "7Day": "2,144,840",
-      "7Day+": "-13,317",
-      "Total": "177,970,114",
-      "track_id": "2wAJTrFhCnQyNSD3oUgTZO",
-      "artist_ids": [
-        "6l3HvQ5sa6mXTsMTB19rO5"
-      ]
-    },
-    {
-      "Pos": "160",
-      "P+": "-23",
-      "Artist and Title": "Miguel - damned",
-      "Days": "130",
-      "Pk": "72",
-      "(x?)": "",
-      "Streams": "326,455",
-      "Streams+": "-1,957",
-      "7Day": "2,227,939",
-      "7Day+": "-2,018",
-      "Total": "45,476,278",
-      "track_id": "2ZCe5vjgNDAmoWe73C46nc",
-      "artist_ids": [
-        "360IAlyVv4PCEVjgyMZrxK"
-      ]
-    },
-    {
-      "Pos": "161",
-      "P+": "NEW",
-      "Artist and Title": "LUCKI - 60 mgs",
-      "Days": "1",
-      "Pk": "161",
-      "(x?)": "",
-      "Streams": "325,667",
-      "Streams+": "",
-      "7Day": "325,667",
-      "7Day+": "+325,667",
-      "Total": "325,667",
-      "track_id": "3g0UsA0hxpwAtkrk9JHW9l",
-      "artist_ids": [
-        "5tQMB0cuNXdCtzovGt55uD"
-      ]
-    },
-    {
-      "Pos": "162",
-      "P+": "-17",
-      "Artist and Title": "Ella Langley - Loving Life Again",
-      "Days": "165",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "325,493",
-      "Streams+": "+3,332",
-      "7Day": "2,166,185",
-      "7Day+": "-14,670",
-      "Total": "71,859,694",
-      "track_id": "7sSmQ1OuQqmOabSxLnOnT5",
-      "artist_ids": [
-        "6BRxQ8cD3eqnrVj6WKDok8"
-      ]
-    },
-    {
-      "Pos": "163",
-      "P+": "-16",
-      "Artist and Title": "Empire Of The Sun - We Are The People",
-      "Days": "183",
-      "Pk": "106",
-      "(x?)": "",
-      "Streams": "325,234",
-      "Streams+": "+4,371",
-      "7Day": "1,831,446",
-      "7Day+": "+6,011",
-      "Total": "61,275,856",
-      "track_id": "3zEN0ii6s4DHHBpnTp3RP7",
-      "artist_ids": [
-        "67hb7towEyKvt5Z8Bx306c"
-      ]
-    },
-    {
-      "Pos": "164",
-      "P+": "-24",
-      "Artist and Title": "Bella Kay - iloveitiloveitiloveit",
-      "Days": "248",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "324,587",
-      "Streams+": "+858",
-      "7Day": "2,208,690",
-      "7Day+": "-21,966",
-      "Total": "147,130,704",
-      "track_id": "5IMpnpD0tQVcqWlVIgtAtV",
-      "artist_ids": [
-        "4Z8MrrKMBHMPa8d04Ivur8"
-      ]
-    },
-    {
-      "Pos": "165",
-      "P+": "-37",
-      "Artist and Title": "Olivia Rodrigo - what’s wrong with me (w/ Robert Smith)",
-      "Days": "126",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "324,362",
-      "Streams+": "-10,144",
-      "7Day": "2,245,434",
-      "7Day+": "-37,972",
-      "Total": "61,663,351",
-      "track_id": "2e3YJ6Hm8tR5L5Zy8HzOtv",
-      "artist_ids": [
-        "1McMsnEElThX1knmY4oliG",
-        "6G7P2EzH5A36ujN9VPm4B0"
-      ]
-    },
-    {
-      "Pos": "166",
-      "P+": "-7",
+      "Pos": "148",
+      "P+": "+18",
       "Artist and Title": "Rihanna - Only Girl (In The World)",
-      "Days": "119",
+      "Days": "120",
       "Pk": "16",
       "(x?)": "",
-      "Streams": "322,990",
-      "Streams+": "+7,738",
-      "7Day": "2,142,212",
-      "7Day+": "-6,571",
-      "Total": "39,998,143",
+      "Streams": "314,868",
+      "Streams+": "-8,122",
+      "7Day": "2,134,900",
+      "7Day+": "-7,312",
+      "Total": "40,313,011",
       "track_id": "2ENexcMEMsYk0rVJigVD3i",
       "artist_ids": [
         "5pKCCKE2ajJHZ9KAiaK11H"
       ]
     },
     {
-      "Pos": "167",
-      "P+": "-34",
-      "Artist and Title": "sombr - My Body Isn't Ready",
-      "Days": "52",
-      "Pk": "25",
+      "Pos": "149",
+      "P+": "-11",
+      "Artist and Title": "Tame Impala - The Less I Know The Better",
+      "Days": "1433",
+      "Pk": "46",
       "(x?)": "",
-      "Streams": "322,413",
-      "Streams+": "-8,635",
-      "7Day": "2,293,485",
-      "7Day+": "-36,600",
-      "Total": "20,379,539",
-      "track_id": "79RJg6MqIJlBuedcMqB9F0",
+      "Streams": "313,306",
+      "Streams+": "-24,634",
+      "7Day": "2,287,267",
+      "7Day+": "+262",
+      "Total": "420,595,789",
+      "track_id": "6K4t31amVTZDgR3sKmwUJJ",
       "artist_ids": [
-        "4G9NDjRyZFDlJKMRL8hx3S"
+        "5INjqkS1o8h1imAzPqGZBb"
       ]
     },
     {
-      "Pos": "168",
-      "P+": "-33",
-      "Artist and Title": "Malcolm Todd - Roommates",
-      "Days": "243",
-      "Pk": "69",
+      "Pos": "150",
+      "P+": "-6",
+      "Artist and Title": "Rihanna - Kiss It Better",
+      "Days": "302",
+      "Pk": "62",
       "(x?)": "",
-      "Streams": "322,131",
-      "Streams+": "-8,360",
-      "7Day": "2,218,955",
-      "7Day+": "-8,371",
-      "Total": "87,398,244",
-      "track_id": "5vPUv0xziXbV4lnWeVNXNq",
+      "Streams": "312,360",
+      "Streams+": "-22,155",
+      "7Day": "2,144,181",
+      "7Day+": "+16,370",
+      "Total": "67,759,930",
+      "track_id": "0UHB9METy4VCXNgkcGqHqS",
       "artist_ids": [
-        "7eKkW1zo5uzW8kUntiiBvz"
+        "5pKCCKE2ajJHZ9KAiaK11H"
       ]
     },
     {
-      "Pos": "169",
-      "P+": "RE",
+      "Pos": "151",
+      "P+": "+31",
+      "Artist and Title": "Shaboozey - A Bar Song (Tipsy)",
+      "Days": "909",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "310,910",
+      "Streams+": "-4,403",
+      "7Day": "1,175,539",
+      "7Day+": "-14,000",
+      "Total": "743,656,553",
+      "track_id": "5fZJQrFKWQLb7FpJXZ1g7K",
+      "artist_ids": [
+        "3y2cIKLjiOlp1Np37WiUdH"
+      ]
+    },
+    {
+      "Pos": "152",
+      "P+": "+17",
       "Artist and Title": "Ella Langley - you look like you love me (w/ Riley Green)",
-      "Days": "308",
+      "Days": "309",
       "Pk": "22",
       "(x?)": "",
-      "Streams": "321,726",
-      "Streams+": "",
-      "7Day": "1,191,098",
-      "7Day+": "-3,377",
-      "Total": "132,985,723",
+      "Streams": "310,724",
+      "Streams+": "-11,002",
+      "7Day": "1,185,914",
+      "7Day+": "-5,184",
+      "Total": "133,296,447",
       "track_id": "2PyJAiQjp1OPkow2FJZKHR",
       "artist_ids": [
         "6BRxQ8cD3eqnrVj6WKDok8",
@@ -2917,51 +2625,256 @@
       ]
     },
     {
-      "Pos": "170",
-      "P+": "-6",
-      "Artist and Title": "Tears For Fears - Everybody Wants To Rule The World",
-      "Days": "1185",
-      "Pk": "25",
+      "Pos": "153",
+      "P+": "+1",
+      "Artist and Title": "Noah Kahan - Northern Attitude",
+      "Days": "217",
+      "Pk": "53",
       "(x?)": "",
-      "Streams": "320,975",
-      "Streams+": "+8,247",
-      "7Day": "2,151,855",
-      "7Day+": "-14,600",
-      "Total": "407,118,559",
-      "track_id": "4RvWPyQ5RL0ao9LPZeSouE",
+      "Streams": "310,504",
+      "Streams+": "-18,884",
+      "7Day": "2,147,756",
+      "7Day+": "+5,293",
+      "Total": "77,415,476",
+      "track_id": "4O2rRsoSPb5aN7N3tG6Y3v",
       "artist_ids": [
-        "4bthk9UfsYUYdcFyqxmSUU"
+        "2RQXRUsr4IW1f3mKyKsy4B"
       ]
     },
     {
-      "Pos": "171",
-      "P+": "+7",
-      "Artist and Title": "Morgan Wallen - Last Night",
-      "Days": "1309",
-      "Pk": "1",
-      "(x?)": "(x56)",
-      "Streams": "320,890",
-      "Streams+": "+16,310",
-      "7Day": "2,150,433",
-      "7Day+": "-32,486",
-      "Total": "937,044,699",
-      "track_id": "7K3BhSpAxZBznislvUMVtn",
+      "Pos": "154",
+      "P+": "-33",
+      "Artist and Title": "Olivia Dean - A Couple Minutes",
+      "Days": "232",
+      "Pk": "20",
+      "(x?)": "",
+      "Streams": "310,346",
+      "Streams+": "-44,333",
+      "7Day": "2,332,124",
+      "7Day+": "+755",
+      "Total": "101,488,328",
+      "track_id": "312z6PZ8wwREck8613PkJk",
       "artist_ids": [
-        "4oUHIQIBe0LHzYfvXNW4QM"
+        "00x1fYSGhdqScXBRpSj3DW"
       ]
     },
     {
-      "Pos": "172",
-      "P+": "-6",
-      "Artist and Title": "Lil Wayne - Love Me (w/ Drake, Future)",
+      "Pos": "155",
+      "P+": "+2",
+      "Artist and Title": "Bryson Tiller - Don't",
+      "Days": "1995",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "308,572",
+      "Streams+": "-20,105",
+      "7Day": "2,247,381",
+      "7Day+": "-21,413",
+      "Total": "632,061,547",
+      "track_id": "3pXF1nA74528Edde4of9CC",
+      "artist_ids": [
+        "2EMAnMvWE2eb56ToJVfCWs"
+      ]
+    },
+    {
+      "Pos": "156",
+      "P+": "-15",
+      "Artist and Title": "Linkin Park - In the End",
+      "Days": "525",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "307,748",
+      "Streams+": "-28,960",
+      "7Day": "2,244,285",
+      "7Day+": "-10,412",
+      "Total": "181,622,331",
+      "track_id": "60a0Rd6pjrkxjPbaKzXjfq",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ]
+    },
+    {
+      "Pos": "157",
+      "P+": "-14",
+      "Artist and Title": "The Marías - No One Noticed",
+      "Days": "767",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "307,274",
+      "Streams+": "-28,307",
+      "7Day": "2,320,896",
+      "7Day+": "-9,078",
+      "Total": "450,985,334",
+      "track_id": "3siwsiaEoU4Kuuc9WKMUy5",
+      "artist_ids": [
+        "2sSGPbdZJkaSE2AbcGOACx"
+      ]
+    },
+    {
+      "Pos": "158",
+      "P+": "+38",
+      "Artist and Title": "Nelly Furtado - Maneater",
+      "Days": "21",
+      "Pk": "86",
+      "(x?)": "",
+      "Streams": "306,873",
+      "Streams+": "-1,088",
+      "7Day": "1,197,768",
+      "7Day+": "+13,581",
+      "Total": "6,725,121",
+      "track_id": "4wH4dJgrsxONID6KS2tDQM",
+      "artist_ids": [
+        "2jw70GZXlAI8QzWeY2bgRc"
+      ]
+    },
+    {
+      "Pos": "159",
+      "P+": "+19",
+      "Artist and Title": "Tyler Childers - Feathered Indians",
+      "Days": "506",
+      "Pk": "94",
+      "(x?)": "",
+      "Streams": "306,512",
+      "Streams+": "-10,732",
+      "7Day": "1,173,930",
+      "7Day+": "+5,654",
+      "Total": "164,313,485",
+      "track_id": "2tgQaL85WoRfgEa4hFQgrE",
+      "artist_ids": [
+        "13ZEDW6vyBF12HYcZRr4EV"
+      ]
+    },
+    {
+      "Pos": "160",
+      "P+": "RE",
+      "Artist and Title": "The Citizens of Halloween - This Is Halloween",
+      "Days": "34",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "306,037",
+      "Streams+": "",
+      "7Day": "306,037",
+      "7Day+": "+306,037",
+      "Total": "18,962,920",
+      "track_id": "63y2aL2dT6zzw8FOSLaNrp",
+      "artist_ids": [
+        "164hs3x1Tsp3FgJWNHee1r"
+      ]
+    },
+    {
+      "Pos": "161",
+      "P+": "-13",
+      "Artist and Title": "J. Cole - Power Trip (w/ Miguel)",
+      "Days": "195",
+      "Pk": "114",
+      "(x?)": "",
+      "Streams": "305,045",
+      "Streams+": "-27,448",
+      "7Day": "2,214,901",
+      "7Day+": "+2,559",
+      "Total": "54,805,130",
+      "track_id": "2uwnP6tZVVmTovzX5ELooy",
+      "artist_ids": [
+        "6l3HvQ5sa6mXTsMTB19rO5",
+        "360IAlyVv4PCEVjgyMZrxK"
+      ]
+    },
+    {
+      "Pos": "162",
+      "P+": "-4",
+      "Artist and Title": "The Red Clay Strays - Wondering Why",
       "Days": "820",
+      "Pk": "70",
+      "(x?)": "",
+      "Streams": "304,779",
+      "Streams+": "-23,461",
+      "7Day": "1,180,022",
+      "7Day+": "+10,557",
+      "Total": "310,876,523",
+      "track_id": "1HbzxLqpNVPdiBXvpC7Ovb",
+      "artist_ids": [
+        "6IKlXZEFOvk9itrP1s0knJ"
+      ]
+    },
+    {
+      "Pos": "163",
+      "P+": "-30",
+      "Artist and Title": "Coldplay - Yellow",
+      "Days": "671",
+      "Pk": "50",
+      "(x?)": "",
+      "Streams": "304,741",
+      "Streams+": "-36,039",
+      "7Day": "2,269,750",
+      "7Day+": "-11,388",
+      "Total": "238,562,679",
+      "track_id": "3AJwUDP919kvQ9QcozQPxg",
+      "artist_ids": [
+        "4gzpq5DPGxSnKTe4SA8HAU"
+      ]
+    },
+    {
+      "Pos": "164",
+      "P+": "-5",
+      "Artist and Title": "J. Cole - Work Out",
+      "Days": "626",
+      "Pk": "96",
+      "(x?)": "",
+      "Streams": "304,527",
+      "Streams+": "-22,935",
+      "7Day": "2,141,188",
+      "7Day+": "-3,652",
+      "Total": "178,274,641",
+      "track_id": "2wAJTrFhCnQyNSD3oUgTZO",
+      "artist_ids": [
+        "6l3HvQ5sa6mXTsMTB19rO5"
+      ]
+    },
+    {
+      "Pos": "165",
+      "P+": "-29",
+      "Artist and Title": "Cigarettes After Sex - Apocalypse",
+      "Days": "1071",
+      "Pk": "42",
+      "(x?)": "",
+      "Streams": "304,314",
+      "Streams+": "-35,257",
+      "7Day": "2,317,442",
+      "7Day+": "+5,080",
+      "Total": "378,571,352",
+      "track_id": "1oAwsWBovWRIp7qLMGPIet",
+      "artist_ids": [
+        "1QAJqy2dA3ihHBFIHRphZj"
+      ]
+    },
+    {
+      "Pos": "166",
+      "P+": "-16",
+      "Artist and Title": "Oasis - Wonderwall - Remastered",
+      "Days": "108",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "304,211",
+      "Streams+": "-26,830",
+      "7Day": "2,177,077",
+      "7Day+": "-14,157",
+      "Total": "46,892,347",
+      "track_id": "5qqabIl2vWzo9ApSC317sa",
+      "artist_ids": [
+        "2DaxqgrOhkeH0fpeiQq2f4"
+      ]
+    },
+    {
+      "Pos": "167",
+      "P+": "+5",
+      "Artist and Title": "Lil Wayne - Love Me (w/ Drake, Future)",
+      "Days": "821",
       "Pk": "68",
       "(x?)": "",
-      "Streams": "320,175",
-      "Streams+": "+7,574",
-      "7Day": "2,100,024",
-      "7Day+": "-321",
-      "Total": "288,293,616",
+      "Streams": "303,823",
+      "Streams+": "-16,352",
+      "7Day": "2,101,032",
+      "7Day+": "+1,008",
+      "Total": "288,597,439",
       "track_id": "2XHzzp1j4IfTNp1FTn7YFg",
       "artist_ids": [
         "55Aa2cqylxrFIXC767Z865",
@@ -2970,238 +2883,205 @@
       ]
     },
     {
-      "Pos": "173",
-      "P+": "-13",
-      "Artist and Title": "Fetty Wap - Trap Queen",
-      "Days": "975",
-      "Pk": "1",
-      "(x?)": "(x31)",
-      "Streams": "320,057",
-      "Streams+": "+5,893",
-      "7Day": "2,186,864",
-      "7Day+": "-30,951",
-      "Total": "337,445,463",
-      "track_id": "2d8JP84HNLKhmd6IYOoupQ",
-      "artist_ids": [
-        "6PXS4YHDkKvl1wkIl4V8DL"
-      ]
-    },
-    {
-      "Pos": "174",
-      "P+": "-32",
-      "Artist and Title": "Panchiko - D>E>A>T>H>M>E>T>A>L",
-      "Days": "30",
-      "Pk": "102",
-      "(x?)": "",
-      "Streams": "318,218",
-      "Streams+": "-4,484",
-      "7Day": "2,253,749",
-      "7Day+": "-15,657",
-      "Total": "9,639,803",
-      "track_id": "4sIFi8LpJWPvI5xviWFyA6",
-      "artist_ids": [
-        "4KEHIUSoWCcqrk8AddTE1O"
-      ]
-    },
-    {
-      "Pos": "175",
-      "P+": "-2",
-      "Artist and Title": "A Boogie Wit da Hoodie - Still Think About You",
-      "Days": "36",
-      "Pk": "109",
-      "(x?)": "",
-      "Streams": "317,981",
-      "Streams+": "+8,805",
-      "7Day": "2,150,618",
-      "7Day+": "-15,009",
-      "Total": "11,165,328",
-      "track_id": "2FTeQQ5Rg9tBpgpTF5mnhE",
-      "artist_ids": [
-        "31W5EY0aAly4Qieq6OFu6I"
-      ]
-    },
-    {
-      "Pos": "176",
-      "P+": "-2",
-      "Artist and Title": "3 Doors Down - Kryptonite",
-      "Days": "155",
-      "Pk": "43",
-      "(x?)": "",
-      "Streams": "317,611",
-      "Streams+": "+8,924",
-      "7Day": "2,128,575",
-      "7Day+": "-26,412",
-      "Total": "51,628,923",
-      "track_id": "6ZOBP3NvffbU4SZcrnt1k6",
-      "artist_ids": [
-        "2RTUTCvo6onsAnheUk3aL9"
-      ]
-    },
-    {
-      "Pos": "177",
-      "P+": "RE",
-      "Artist and Title": "Chris Stapleton - Think I'm In Love With You",
-      "Days": "310",
-      "Pk": "102",
-      "(x?)": "",
-      "Streams": "317,509",
-      "Streams+": "",
-      "7Day": "608,744",
-      "7Day+": "+317,509",
-      "Total": "103,283,566",
-      "track_id": "3Gn1zuHNLtGuGEOXwq0k7e",
-      "artist_ids": [
-        "4YLtscXsxbVgi031ovDDdh"
-      ]
-    },
-    {
-      "Pos": "178",
-      "P+": "RE",
-      "Artist and Title": "Tyler Childers - Feathered Indians",
-      "Days": "505",
-      "Pk": "94",
-      "(x?)": "",
-      "Streams": "317,244",
-      "Streams+": "",
-      "7Day": "1,168,276",
-      "7Day+": "+5,616",
-      "Total": "164,006,973",
-      "track_id": "2tgQaL85WoRfgEa4hFQgrE",
-      "artist_ids": [
-        "13ZEDW6vyBF12HYcZRr4EV"
-      ]
-    },
-    {
-      "Pos": "179",
-      "P+": "-4",
-      "Artist and Title": "Tame Impala - Dracula",
-      "Days": "370",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "316,752",
-      "Streams+": "+9,920",
-      "7Day": "2,142,714",
-      "7Day+": "-13,207",
-      "Total": "165,125,653",
-      "track_id": "1NXbNEAcPvY5G1xvfN57aA",
-      "artist_ids": [
-        "5INjqkS1o8h1imAzPqGZBb"
-      ]
-    },
-    {
-      "Pos": "180",
+      "Pos": "168",
       "P+": "-19",
-      "Artist and Title": "The Police - Every Breath You Take",
-      "Days": "405",
-      "Pk": "19",
+      "Artist and Title": "Teddy Swims - Lose Control",
+      "Days": "1052",
+      "Pk": "5",
       "(x?)": "",
-      "Streams": "316,331",
-      "Streams+": "+3,014",
-      "7Day": "2,083,500",
-      "7Day+": "-4,275",
-      "Total": "150,034,802",
-      "track_id": "1JSTJqkT5qHq8MDJnJbRE1",
+      "Streams": "303,594",
+      "Streams+": "-28,470",
+      "7Day": "2,155,743",
+      "7Day+": "-1,117",
+      "Total": "668,546,229",
+      "track_id": "17phhZDn6oGtzMe56NuWvj",
       "artist_ids": [
-        "5NGO30tJxFlKixkPSgXcFE"
+        "33qOK5uJ8AR2xuQQAhHump"
       ]
     },
     {
-      "Pos": "181",
-      "P+": "-29",
-      "Artist and Title": "Frank Ocean - Thinkin Bout You",
-      "Days": "769",
-      "Pk": "36",
+      "Pos": "169",
+      "P+": "-24",
+      "Artist and Title": "Tory Lanez - The Color Violet",
+      "Days": "1191",
+      "Pk": "23",
       "(x?)": "",
-      "Streams": "315,369",
-      "Streams+": "-3,653",
-      "7Day": "2,113,056",
-      "7Day+": "-111",
-      "Total": "281,602,762",
-      "track_id": "7DfFc7a6Rwfi3YQMRbDMau",
+      "Streams": "303,527",
+      "Streams+": "-30,909",
+      "7Day": "2,202,806",
+      "7Day+": "-1,030",
+      "Total": "465,467,862",
+      "track_id": "3azJifCSqg9fRij2yKIbWz",
       "artist_ids": [
-        "2h93pZq0e7k5yf4dywlkpM"
+        "2jku7tDXc6XoB6MO2hFuqg"
       ]
     },
     {
-      "Pos": "182",
-      "P+": "RE",
-      "Artist and Title": "Shaboozey - A Bar Song (Tipsy)",
-      "Days": "908",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "315,313",
-      "Streams+": "",
-      "7Day": "1,189,539",
-      "7Day+": "-7,614",
-      "Total": "743,345,643",
-      "track_id": "5fZJQrFKWQLb7FpJXZ1g7K",
+      "Pos": "170",
+      "P+": "-8",
+      "Artist and Title": "Ella Langley - Loving Life Again",
+      "Days": "166",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "302,420",
+      "Streams+": "-23,073",
+      "7Day": "2,154,130",
+      "7Day+": "-12,055",
+      "Total": "72,162,114",
+      "track_id": "7sSmQ1OuQqmOabSxLnOnT5",
       "artist_ids": [
-        "3y2cIKLjiOlp1Np37WiUdH"
+        "6BRxQ8cD3eqnrVj6WKDok8"
       ]
     },
     {
-      "Pos": "183",
-      "P+": "-15",
+      "Pos": "171",
+      "P+": "-20",
+      "Artist and Title": "Audrey Hobert - Sue me",
+      "Days": "106",
+      "Pk": "52",
+      "(x?)": "",
+      "Streams": "301,206",
+      "Streams+": "-28,987",
+      "7Day": "2,111,668",
+      "7Day+": "+3,209",
+      "Total": "37,268,738",
+      "track_id": "6ZAuQOgLrNQb9s7BXheuTy",
+      "artist_ids": [
+        "4N0TAwz9vhnQtjCqS65aKS"
+      ]
+    },
+    {
+      "Pos": "172",
+      "P+": "+11",
       "Artist and Title": "Kanye West - Heartless",
-      "Days": "1446",
+      "Days": "1447",
       "Pk": "34",
       "(x?)": "",
-      "Streams": "314,370",
-      "Streams+": "+2,591",
-      "7Day": "2,080,554",
-      "7Day+": "-5,510",
-      "Total": "547,144,000",
+      "Streams": "301,139",
+      "Streams+": "-13,231",
+      "7Day": "2,082,242",
+      "7Day+": "+1,688",
+      "Total": "547,445,139",
       "track_id": "4EWCNWgDS8707fNSZ1oaA5",
       "artist_ids": [
         "5K4W6rqBFWDnAN6FQUkS6x"
       ]
     },
     {
-      "Pos": "184",
-      "P+": "-13",
-      "Artist and Title": "Julia Wolf - In My Room",
-      "Days": "238",
-      "Pk": "37",
+      "Pos": "173",
+      "P+": "-34",
+      "Artist and Title": "Marvin Gaye - Ain't No Mountain High Enough (w/ Tammi Terrell)",
+      "Days": "223",
+      "Pk": "50",
       "(x?)": "",
-      "Streams": "313,237",
-      "Streams+": "+3,521",
-      "7Day": "2,124,170",
-      "7Day+": "-3,968",
-      "Total": "93,647,192",
-      "track_id": "2Ui2JtVjnbHZuExldryCOA",
+      "Streams": "300,712",
+      "Streams+": "-37,054",
+      "7Day": "2,115,095",
+      "7Day+": "+519",
+      "Total": "73,167,059",
+      "track_id": "7tqhbajSfrz2F7E1Z75ASX",
       "artist_ids": [
-        "5yvGiZLSWJTPBlZpVbPnEZ"
+        "3koiLjNrgRTNbOwViDipeA",
+        "75jNCko3SnEMI5gwGqrbb8"
       ]
     },
     {
-      "Pos": "185",
-      "P+": "+4",
-      "Artist and Title": "Rihanna - Love On The Brain",
-      "Days": "486",
-      "Pk": "11",
+      "Pos": "174",
+      "P+": "-18",
+      "Artist and Title": "Paramore - The Only Exception",
+      "Days": "35",
+      "Pk": "83",
       "(x?)": "",
-      "Streams": "312,479",
-      "Streams+": "+12,056",
-      "7Day": "1,450,920",
-      "7Day+": "+312,479",
-      "Total": "134,743,729",
-      "track_id": "5oO3drDxtziYU2H1X23ZIp",
+      "Streams": "298,598",
+      "Streams+": "-30,362",
+      "7Day": "2,179,564",
+      "7Day+": "+10,509",
+      "Total": "11,189,170",
+      "track_id": "7JIuqL4ZqkpfGKQhYlrirs",
       "artist_ids": [
-        "5pKCCKE2ajJHZ9KAiaK11H"
+        "74XFHRwlV6OrjEM0A2NCMF"
       ]
     },
     {
-      "Pos": "186",
-      "P+": "-5",
+      "Pos": "175",
+      "P+": "+5",
+      "Artist and Title": "The Police - Every Breath You Take",
+      "Days": "406",
+      "Pk": "19",
+      "(x?)": "",
+      "Streams": "298,220",
+      "Streams+": "-18,111",
+      "7Day": "2,089,515",
+      "7Day+": "+6,015",
+      "Total": "150,333,022",
+      "track_id": "1JSTJqkT5qHq8MDJnJbRE1",
+      "artist_ids": [
+        "5NGO30tJxFlKixkPSgXcFE"
+      ]
+    },
+    {
+      "Pos": "176",
+      "P+": "+17",
+      "Artist and Title": "Justin Bieber - DAISIES",
+      "Days": "456",
+      "Pk": "1",
+      "(x?)": "(x9)",
+      "Streams": "298,098",
+      "Streams+": "-11,954",
+      "7Day": "1,780,596",
+      "7Day+": "-3,239",
+      "Total": "268,685,026",
+      "track_id": "5BZsQlgw21vDOAjoqkNgKb",
+      "artist_ids": [
+        "1uNFoZAHBGtllmzznpCI3s"
+      ]
+    },
+    {
+      "Pos": "177",
+      "P+": "+18",
+      "Artist and Title": "Sixpence None The Richer - Kiss Me",
+      "Days": "62",
+      "Pk": "91",
+      "(x?)": "",
+      "Streams": "297,742",
+      "Streams+": "-11,134",
+      "7Day": "2,126,415",
+      "7Day+": "-3,578",
+      "Total": "20,403,486",
+      "track_id": "754kgU5rWscRTfvlsuEwFp",
+      "artist_ids": [
+        "0lJlKQvuM2Sd9DPPyUXcHg"
+      ]
+    },
+    {
+      "Pos": "178",
+      "P+": "-18",
+      "Artist and Title": "Miguel - damned",
+      "Days": "131",
+      "Pk": "72",
+      "(x?)": "",
+      "Streams": "296,464",
+      "Streams+": "-29,991",
+      "7Day": "2,221,637",
+      "7Day+": "-6,302",
+      "Total": "45,772,742",
+      "track_id": "2ZCe5vjgNDAmoWe73C46nc",
+      "artist_ids": [
+        "360IAlyVv4PCEVjgyMZrxK"
+      ]
+    },
+    {
+      "Pos": "179",
+      "P+": "+7",
       "Artist and Title": "Kendrick Lamar - All The Stars (w/ SZA)",
-      "Days": "1477",
+      "Days": "1478",
       "Pk": "2",
       "(x?)": "(x10)",
-      "Streams": "312,447",
-      "Streams+": "+9,384",
-      "7Day": "2,047,410",
-      "7Day+": "+312,447",
-      "Total": "715,323,869",
+      "Streams": "296,083",
+      "Streams+": "-16,364",
+      "7Day": "2,052,082",
+      "7Day+": "+4,672",
+      "Total": "715,619,952",
       "track_id": "3GCdLUSnKSMJhs4Tj6CV3s",
       "artist_ids": [
         "2YZyLoL8N0Wb9xBt1NhZWg",
@@ -3209,242 +3089,362 @@
       ]
     },
     {
-      "Pos": "187",
-      "P+": "-30",
-      "Artist and Title": "Gorillaz - Feel Good Inc",
-      "Days": "656",
-      "Pk": "38",
-      "(x?)": "",
-      "Streams": "312,356",
-      "Streams+": "-4,329",
-      "7Day": "2,125,744",
-      "7Day+": "-11,279",
-      "Total": "251,748,450",
-      "track_id": "0d28khcov6AiegSCpG5TuT",
-      "artist_ids": [
-        "3AA28KZvwAUcZuOKwyblJQ"
-      ]
-    },
-    {
-      "Pos": "188",
-      "P+": "-2",
-      "Artist and Title": "Tove Lo - Habits (Stay High)",
-      "Days": "294",
-      "Pk": "3",
-      "(x?)": "(x2)",
-      "Streams": "311,620",
-      "Streams+": "+9,930",
-      "7Day": "1,202,603",
-      "7Day+": "+311,620",
-      "Total": "53,328,862",
-      "track_id": "73DdlUXPj6SIOJQRrqgjld",
-      "artist_ids": [
-        "4NHQUGzhtTLFvgF5SZesLK"
-      ]
-    },
-    {
-      "Pos": "189",
-      "P+": "RE",
-      "Artist and Title": "Morgan Wallen - What I Want (w/ Tate McRae)",
-      "Days": "486",
-      "Pk": "1",
-      "(x?)": "(x21)",
-      "Streams": "311,512",
-      "Streams+": "",
-      "7Day": "311,512",
-      "7Day+": "+311,512",
-      "Total": "277,414,038",
-      "track_id": "04emojnbYkrRmv5qtJcgVP",
-      "artist_ids": [
-        "4oUHIQIBe0LHzYfvXNW4QM",
-        "45dkTj5sMRSjrmBSBeiHym"
-      ]
-    },
-    {
-      "Pos": "190",
-      "P+": "-7",
-      "Artist and Title": "Kendrick Lamar - luther",
-      "Days": "620",
-      "Pk": "1",
-      "(x?)": "(x54)",
-      "Streams": "311,342",
-      "Streams+": "+8,327",
-      "7Day": "1,755,245",
-      "7Day+": "-13,384",
-      "Total": "551,311,836",
-      "track_id": "2CGNAOSuO1MEFCbBRgUzjd",
-      "artist_ids": [
-        "2YZyLoL8N0Wb9xBt1NhZWg"
-      ]
-    },
-    {
-      "Pos": "191",
-      "P+": "-26",
-      "Artist and Title": "Prince - Purple Rain",
-      "Days": "106",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "310,540",
-      "Streams+": "-2,114",
-      "7Day": "2,136,034",
-      "7Day+": "-13,211",
-      "Total": "41,988,926",
-      "track_id": "1uvyZBs4IZYRebHIB1747m",
-      "artist_ids": [
-        "5a2EaR3hamoenG9rDuVn8j"
-      ]
-    },
-    {
-      "Pos": "192",
-      "P+": "-44",
-      "Artist and Title": "Malcolm Todd - Sweet Boy",
-      "Days": "286",
-      "Pk": "51",
-      "(x?)": "",
-      "Streams": "310,372",
-      "Streams+": "-10,304",
-      "7Day": "2,150,522",
-      "7Day+": "-8,828",
-      "Total": "106,452,365",
-      "track_id": "59c2xv2kMzYM6HR9oY6BIa",
-      "artist_ids": [
-        "7eKkW1zo5uzW8kUntiiBvz"
-      ]
-    },
-    {
-      "Pos": "193",
-      "P+": "-3",
-      "Artist and Title": "Justin Bieber - DAISIES",
-      "Days": "455",
-      "Pk": "1",
-      "(x?)": "(x9)",
-      "Streams": "310,052",
-      "Streams+": "+10,551",
-      "7Day": "1,783,835",
-      "7Day+": "-5,740",
-      "Total": "268,386,928",
-      "track_id": "5BZsQlgw21vDOAjoqkNgKb",
-      "artist_ids": [
-        "1uNFoZAHBGtllmzznpCI3s"
-      ]
-    },
-    {
-      "Pos": "194",
-      "P+": "-12",
-      "Artist and Title": "Michael Jackson - Beat It",
-      "Days": "176",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "310,003",
-      "Streams+": "+6,984",
-      "7Day": "2,088,868",
-      "7Day+": "-12,099",
-      "Total": "96,362,475",
-      "track_id": "3BovdzfaX4jb5KFQwoPfAw",
-      "artist_ids": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ]
-    },
-    {
-      "Pos": "195",
-      "P+": "-39",
-      "Artist and Title": "Sixpence None The Richer - Kiss Me",
-      "Days": "61",
-      "Pk": "91",
-      "(x?)": "",
-      "Streams": "308,876",
-      "Streams+": "-8,026",
-      "7Day": "2,129,993",
-      "7Day+": "-13,952",
-      "Total": "20,105,744",
-      "track_id": "754kgU5rWscRTfvlsuEwFp",
-      "artist_ids": [
-        "0lJlKQvuM2Sd9DPPyUXcHg"
-      ]
-    },
-    {
-      "Pos": "196",
-      "P+": "+3",
-      "Artist and Title": "Nelly Furtado - Maneater",
-      "Days": "20",
-      "Pk": "86",
-      "(x?)": "",
-      "Streams": "307,961",
-      "Streams+": "+13,994",
-      "7Day": "1,184,187",
-      "7Day+": "-4,406",
-      "Total": "6,418,248",
-      "track_id": "4wH4dJgrsxONID6KS2tDQM",
-      "artist_ids": [
-        "2jw70GZXlAI8QzWeY2bgRc"
-      ]
-    },
-    {
-      "Pos": "197",
-      "P+": "-35",
-      "Artist and Title": "Nickelback - How You Remind Me",
-      "Days": "189",
-      "Pk": "120",
-      "(x?)": "",
-      "Streams": "307,195",
-      "Streams+": "-5,619",
-      "7Day": "1,808,677",
-      "7Day+": "-10,251",
-      "Total": "63,096,448",
-      "track_id": "0gmbgwZ8iqyMPmXefof8Yf",
-      "artist_ids": [
-        "6deZN1bslXzeGvOLaLMOIF"
-      ]
-    },
-    {
-      "Pos": "198",
-      "P+": "-40",
-      "Artist and Title": "Taylor Swift - Pink Clouding",
-      "Days": "22",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "306,811",
-      "Streams+": "-8,730",
-      "7Day": "2,227,166",
-      "7Day+": "-121,989",
-      "Total": "17,214,523",
-      "track_id": "3gyJbNBTRVRdZDA1yO3clm",
-      "artist_ids": [
-        "06HL4z0CvFAxyc27GXpf02"
-      ]
-    },
-    {
-      "Pos": "199",
-      "P+": "-19",
+      "Pos": "180",
+      "P+": "+19",
       "Artist and Title": "Black Eyed Peas - Meet Me Halfway",
-      "Days": "7",
+      "Days": "8",
       "Pk": "179",
       "(x?)": "",
-      "Streams": "306,583",
-      "Streams+": "+2,906",
-      "7Day": "1,191,024",
-      "7Day+": "-9,173",
-      "Total": "2,131,190",
+      "Streams": "295,946",
+      "Streams+": "-10,637",
+      "7Day": "1,202,746",
+      "7Day+": "+11,722",
+      "Total": "2,427,136",
       "track_id": "3F9ByoUqu31xU0I3G5xfVg",
       "artist_ids": [
         "1yxSLGMDHlW21z4YXirZDS"
       ]
     },
     {
-      "Pos": "200",
-      "P+": "-21",
-      "Artist and Title": "Billie Eilish - WILDFLOWER",
-      "Days": "700",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "306,574",
-      "Streams+": "+2,064",
-      "7Day": "1,488,405",
-      "7Day+": "+306,574",
-      "Total": "428,205,084",
-      "track_id": "3QaPy1KgI7nu9FJEQUgn6h",
+      "Pos": "181",
+      "P+": "+9",
+      "Artist and Title": "Kendrick Lamar - luther",
+      "Days": "621",
+      "Pk": "1",
+      "(x?)": "(x54)",
+      "Streams": "295,725",
+      "Streams+": "-15,617",
+      "7Day": "1,752,298",
+      "7Day+": "-2,947",
+      "Total": "551,607,561",
+      "track_id": "2CGNAOSuO1MEFCbBRgUzjd",
       "artist_ids": [
-        "6qqNVTkY8uBg9cP3Jd7DAH"
+        "2YZyLoL8N0Wb9xBt1NhZWg"
+      ]
+    },
+    {
+      "Pos": "182",
+      "P+": "-29",
+      "Artist and Title": "Coldplay - Sparks",
+      "Days": "714",
+      "Pk": "20",
+      "(x?)": "",
+      "Streams": "294,443",
+      "Streams+": "-34,998",
+      "7Day": "2,293,611",
+      "7Day+": "-16,674",
+      "Total": "289,422,981",
+      "track_id": "7D0RhFcb3CrfPuTJ0obrod",
+      "artist_ids": [
+        "4gzpq5DPGxSnKTe4SA8HAU"
+      ]
+    },
+    {
+      "Pos": "183",
+      "P+": "-7",
+      "Artist and Title": "3 Doors Down - Kryptonite",
+      "Days": "156",
+      "Pk": "43",
+      "(x?)": "",
+      "Streams": "292,701",
+      "Streams+": "-24,910",
+      "7Day": "2,107,899",
+      "7Day+": "-20,676",
+      "Total": "51,921,624",
+      "track_id": "6ZOBP3NvffbU4SZcrnt1k6",
+      "artist_ids": [
+        "2RTUTCvo6onsAnheUk3aL9"
+      ]
+    },
+    {
+      "Pos": "184",
+      "P+": "RE",
+      "Artist and Title": "Chappell Roan - Pink Pony Club",
+      "Days": "847",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "292,269",
+      "Streams+": "",
+      "7Day": "292,269",
+      "7Day+": "+292,269",
+      "Total": "548,025,218",
+      "track_id": "6393yGahSJ9slVdOwSxOVR",
+      "artist_ids": [
+        "7GlBOeep6PqTfFi59PTUUN"
+      ]
+    },
+    {
+      "Pos": "185",
+      "P+": "+2",
+      "Artist and Title": "Gorillaz - Feel Good Inc",
+      "Days": "657",
+      "Pk": "38",
+      "(x?)": "",
+      "Streams": "291,480",
+      "Streams+": "-20,876",
+      "7Day": "2,115,876",
+      "7Day+": "-9,868",
+      "Total": "252,039,930",
+      "track_id": "0d28khcov6AiegSCpG5TuT",
+      "artist_ids": [
+        "3AA28KZvwAUcZuOKwyblJQ"
+      ]
+    },
+    {
+      "Pos": "186",
+      "P+": "-9",
+      "Artist and Title": "Chris Stapleton - Think I'm In Love With You",
+      "Days": "311",
+      "Pk": "102",
+      "(x?)": "",
+      "Streams": "291,439",
+      "Streams+": "-26,070",
+      "7Day": "608,948",
+      "7Day+": "+204",
+      "Total": "103,575,005",
+      "track_id": "3Gn1zuHNLtGuGEOXwq0k7e",
+      "artist_ids": [
+        "4YLtscXsxbVgi031ovDDdh"
+      ]
+    },
+    {
+      "Pos": "187",
+      "P+": "RE",
+      "Artist and Title": "Gwen Stefani - The Sweet Escape (w/ Akon)",
+      "Days": "28",
+      "Pk": "134",
+      "(x?)": "",
+      "Streams": "291,174",
+      "Streams+": "",
+      "7Day": "584,856",
+      "7Day+": "-2,385",
+      "Total": "9,031,451",
+      "track_id": "66ZcOcouenzZEnzTJvoFmH",
+      "artist_ids": [
+        "4yiQZ8tQPux8cPriYMWUFP",
+        "0z4gvV4rjIZ9wHck67ucSV"
+      ]
+    },
+    {
+      "Pos": "188",
+      "P+": "-25",
+      "Artist and Title": "Empire Of The Sun - We Are The People",
+      "Days": "184",
+      "Pk": "106",
+      "(x?)": "",
+      "Streams": "290,319",
+      "Streams+": "-34,915",
+      "7Day": "2,121,765",
+      "7Day+": "+290,319",
+      "Total": "61,566,175",
+      "track_id": "3zEN0ii6s4DHHBpnTp3RP7",
+      "artist_ids": [
+        "67hb7towEyKvt5Z8Bx306c"
+      ]
+    },
+    {
+      "Pos": "189",
+      "P+": "-24",
+      "Artist and Title": "Olivia Rodrigo - what’s wrong with me (w/ Robert Smith)",
+      "Days": "127",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "290,028",
+      "Streams+": "-34,334",
+      "7Day": "2,234,607",
+      "7Day+": "-10,827",
+      "Total": "61,953,379",
+      "track_id": "2e3YJ6Hm8tR5L5Zy8HzOtv",
+      "artist_ids": [
+        "1McMsnEElThX1knmY4oliG",
+        "6G7P2EzH5A36ujN9VPm4B0"
+      ]
+    },
+    {
+      "Pos": "190",
+      "P+": "-9",
+      "Artist and Title": "Frank Ocean - Thinkin Bout You",
+      "Days": "770",
+      "Pk": "36",
+      "(x?)": "",
+      "Streams": "289,812",
+      "Streams+": "-25,557",
+      "7Day": "2,115,458",
+      "7Day+": "+2,402",
+      "Total": "281,892,574",
+      "track_id": "7DfFc7a6Rwfi3YQMRbDMau",
+      "artist_ids": [
+        "2h93pZq0e7k5yf4dywlkpM"
+      ]
+    },
+    {
+      "Pos": "191",
+      "P+": "-17",
+      "Artist and Title": "Panchiko - D>E>A>T>H>M>E>T>A>L",
+      "Days": "31",
+      "Pk": "102",
+      "(x?)": "",
+      "Streams": "288,748",
+      "Streams+": "-29,470",
+      "7Day": "2,236,571",
+      "7Day+": "-17,178",
+      "Total": "9,928,551",
+      "track_id": "0R7BWzdXe7BVtGgFV6jqay",
+      "artist_ids": [
+        "4KEHIUSoWCcqrk8AddTE1O"
+      ]
+    },
+    {
+      "Pos": "192",
+      "P+": "-25",
+      "Artist and Title": "sombr - My Body Isn't Ready",
+      "Days": "53",
+      "Pk": "25",
+      "(x?)": "",
+      "Streams": "287,542",
+      "Streams+": "-34,871",
+      "7Day": "2,265,710",
+      "7Day+": "-27,775",
+      "Total": "20,667,081",
+      "track_id": "79RJg6MqIJlBuedcMqB9F0",
+      "artist_ids": [
+        "4G9NDjRyZFDlJKMRL8hx3S"
+      ]
+    },
+    {
+      "Pos": "193",
+      "P+": "RE",
+      "Artist and Title": "The Long Faces - Jane!",
+      "Days": "105",
+      "Pk": "46",
+      "(x?)": "",
+      "Streams": "286,708",
+      "Streams+": "",
+      "7Day": "1,793,909",
+      "7Day+": "-24,202",
+      "Total": "41,284,524",
+      "track_id": "0IjdXwCEhZR7JIwq6Za8j5",
+      "artist_ids": [
+        "1DhiWyne1hHwVHTti49o40"
+      ]
+    },
+    {
+      "Pos": "194",
+      "P+": "-2",
+      "Artist and Title": "Malcolm Todd - Sweet Boy",
+      "Days": "287",
+      "Pk": "51",
+      "(x?)": "",
+      "Streams": "285,838",
+      "Streams+": "-24,534",
+      "7Day": "2,145,672",
+      "7Day+": "-4,850",
+      "Total": "106,738,203",
+      "track_id": "59c2xv2kMzYM6HR9oY6BIa",
+      "artist_ids": [
+        "7eKkW1zo5uzW8kUntiiBvz"
+      ]
+    },
+    {
+      "Pos": "195",
+      "P+": "-11",
+      "Artist and Title": "Julia Wolf - In My Room",
+      "Days": "239",
+      "Pk": "37",
+      "(x?)": "",
+      "Streams": "285,800",
+      "Streams+": "-27,437",
+      "7Day": "2,119,048",
+      "7Day+": "-5,122",
+      "Total": "93,932,992",
+      "track_id": "2Ui2JtVjnbHZuExldryCOA",
+      "artist_ids": [
+        "5yvGiZLSWJTPBlZpVbPnEZ"
+      ]
+    },
+    {
+      "Pos": "196",
+      "P+": "-5",
+      "Artist and Title": "Prince - Purple Rain",
+      "Days": "107",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "285,735",
+      "Streams+": "-24,805",
+      "7Day": "2,121,057",
+      "7Day+": "-14,977",
+      "Total": "42,274,661",
+      "track_id": "1uvyZBs4IZYRebHIB1747m",
+      "artist_ids": [
+        "5a2EaR3hamoenG9rDuVn8j"
+      ]
+    },
+    {
+      "Pos": "197",
+      "P+": "RE",
+      "Artist and Title": "Maroon 5 - This Love",
+      "Days": "17",
+      "Pk": "157",
+      "(x?)": "",
+      "Streams": "285,228",
+      "Streams+": "",
+      "7Day": "285,228",
+      "7Day+": "+285,228",
+      "Total": "5,341,642",
+      "track_id": "6ECp64rv50XVz93WvxXMGF",
+      "artist_ids": [
+        "04gDigrS5kc9YWfZHwBETP"
+      ]
+    },
+    {
+      "Pos": "198",
+      "P+": "RE",
+      "Artist and Title": "The Cranberries - Zombie - 2025 Remastered",
+      "Days": "17",
+      "Pk": "157",
+      "(x?)": "",
+      "Streams": "285,215",
+      "Streams+": "",
+      "7Day": "285,215",
+      "7Day+": "+285,215",
+      "Total": "5,252,144",
+      "track_id": "3gjHnylel3PTRpjS44ocqr",
+      "artist_ids": [
+        "7t0rwkOPGlDPEhaOcVtOt9"
+      ]
+    },
+    {
+      "Pos": "199",
+      "P+": "RE",
+      "Artist and Title": "Bruno Mars - That's What I Like",
+      "Days": "995",
+      "Pk": "3",
+      "(x?)": "(x3)",
+      "Streams": "285,194",
+      "Streams+": "",
+      "7Day": "859,641",
+      "7Day+": "-30,503",
+      "Total": "432,763,668",
+      "track_id": "0KKkJNfGyhkQ5aFogxQAPU",
+      "artist_ids": [
+        "0du5cEVh5yTK9QJze8zA0C"
+      ]
+    },
+    {
+      "Pos": "200",
+      "P+": "-15",
+      "Artist and Title": "Rihanna - Love On The Brain",
+      "Days": "487",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "285,148",
+      "Streams+": "-27,331",
+      "7Day": "1,445,246",
+      "7Day+": "-5,674",
+      "Total": "135,028,877",
+      "track_id": "5oO3drDxtziYU2H1X23ZIp",
+      "artist_ids": [
+        "5pKCCKE2ajJHZ9KAiaK11H"
       ]
     }
   ]
