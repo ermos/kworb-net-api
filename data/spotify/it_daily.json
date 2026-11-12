@@ -1,19 +1,19 @@
 {
   "source": "https://kworb.net/spotify/country/it_daily.html",
-  "title": "Spotify Daily Chart - Italy - 2026/11/09",
+  "title": "Spotify Daily Chart - Italy - 2026/11/10",
   "chart": [
     {
       "Pos": "1",
       "P+": "=",
       "Artist and Title": "Kid Yugi - Sentire La Musica",
-      "Days": "11",
+      "Days": "12",
       "Pk": "1",
-      "(x?)": "(x10)",
-      "Streams": "294,526",
-      "Streams+": "+49,567",
-      "7Day": "2,178,073",
-      "7Day+": "-90,323",
-      "Total": "3,538,572",
+      "(x?)": "(x11)",
+      "Streams": "279,979",
+      "Streams+": "-14,547",
+      "7Day": "2,084,456",
+      "7Day+": "-93,617",
+      "Total": "3,818,551",
       "track_id": "70m2SuBHRCkxVpgqpXZPDk",
       "artist_ids": [
         "0EUR8jz8L936AEbV2Spkca"
@@ -23,14 +23,14 @@
       "Pos": "2",
       "P+": "=",
       "Artist and Title": "Geolier - CANZONE D'AMORE",
-      "Days": "298",
+      "Days": "299",
       "Pk": "1",
       "(x?)": "(x69)",
-      "Streams": "199,428",
-      "Streams+": "-2,445",
-      "7Day": "1,480,594",
-      "7Day+": "+12,074",
-      "Total": "69,988,171",
+      "Streams": "219,625",
+      "Streams+": "+20,197",
+      "7Day": "1,507,575",
+      "7Day+": "+26,981",
+      "Total": "70,207,796",
       "track_id": "2bcOFjF1YMDY2aIbKbRaKB",
       "artist_ids": [
         "27LlKWxS3KXW7RRAxN5S8s"
@@ -38,84 +38,67 @@
     },
     {
       "Pos": "3",
-      "P+": "=",
-      "Artist and Title": "Sfera Ebbasta - Lontano",
-      "Days": "49",
-      "Pk": "1",
-      "(x?)": "(x23)",
-      "Streams": "195,282",
-      "Streams+": "+21,619",
-      "7Day": "1,419,580",
-      "7Day+": "+6,752",
-      "Total": "15,310,032",
-      "track_id": "6g1kj7TaeCmdKauViBylxV",
-      "artist_ids": [
-        "23TFHmajVfBtlRx5MXqgoz"
-      ]
-    },
-    {
-      "Pos": "4",
-      "P+": "+1",
-      "Artist and Title": "Pinguini Tattici Nucleari - Nella Borsa Di Anna",
-      "Days": "4",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "177,835",
-      "Streams+": "+16,483",
-      "7Day": "815,682",
-      "7Day+": "+177,835",
-      "Total": "815,682",
-      "track_id": "0wOJD6ahoCXJJzyybnYOX2",
-      "artist_ids": [
-        "6RdcIWVKYYzNzjQRd3oyHS"
-      ]
-    },
-    {
-      "Pos": "5",
-      "P+": "+1",
-      "Artist and Title": "Tony Boy - Sparisci",
-      "Days": "7",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "174,979",
-      "Streams+": "+15,506",
-      "7Day": "1,744,556",
-      "7Day+": "+174,979",
-      "Total": "1,744,556",
-      "track_id": "6ZERZ7aiL214VIKLTBkaxS",
-      "artist_ids": [
-        "6PsQc21YZU7WNfiODG69Qk"
-      ]
-    },
-    {
-      "Pos": "6",
-      "P+": "-2",
+      "P+": "+3",
       "Artist and Title": "Alfa - Eri solo da incontrare",
-      "Days": "11",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "174,376",
-      "Streams+": "+11,523",
-      "7Day": "1,140,806",
-      "7Day+": "+33,816",
-      "Total": "1,761,748",
+      "Days": "12",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "206,439",
+      "Streams+": "+32,063",
+      "7Day": "1,210,697",
+      "7Day+": "+69,891",
+      "Total": "1,968,187",
       "track_id": "1G7rRciOGpVMJojr6ROuKv",
       "artist_ids": [
         "7GacyaFUp0qkEJglERX9N7"
       ]
     },
     {
-      "Pos": "7",
-      "P+": "=",
+      "Pos": "4",
+      "P+": "-1",
+      "Artist and Title": "Sfera Ebbasta - Lontano",
+      "Days": "50",
+      "Pk": "1",
+      "(x?)": "(x23)",
+      "Streams": "196,559",
+      "Streams+": "+1,277",
+      "7Day": "1,416,095",
+      "7Day+": "-3,485",
+      "Total": "15,506,591",
+      "track_id": "6g1kj7TaeCmdKauViBylxV",
+      "artist_ids": [
+        "23TFHmajVfBtlRx5MXqgoz"
+      ]
+    },
+    {
+      "Pos": "5",
+      "P+": "-1",
+      "Artist and Title": "Pinguini Tattici Nucleari - Nella Borsa Di Anna",
+      "Days": "5",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "168,104",
+      "Streams+": "-9,731",
+      "7Day": "983,786",
+      "7Day+": "+168,104",
+      "Total": "983,786",
+      "track_id": "0wOJD6ahoCXJJzyybnYOX2",
+      "artist_ids": [
+        "6RdcIWVKYYzNzjQRd3oyHS"
+      ]
+    },
+    {
+      "Pos": "6",
+      "P+": "+1",
       "Artist and Title": "Geolier - NON SEI PIÙ TU (w/ Lazza)",
-      "Days": "25",
+      "Days": "26",
       "Pk": "1",
       "(x?)": "(x14)",
-      "Streams": "167,664",
-      "Streams+": "+20,063",
-      "7Day": "1,317,421",
-      "7Day+": "-30,347",
-      "Total": "6,638,759",
+      "Streams": "163,056",
+      "Streams+": "-4,608",
+      "7Day": "1,275,089",
+      "7Day+": "-42,332",
+      "Total": "6,801,815",
       "track_id": "1mkBx5wejPP9j4TVdcUQny",
       "artist_ids": [
         "27LlKWxS3KXW7RRAxN5S8s",
@@ -123,53 +106,51 @@
       ]
     },
     {
-      "Pos": "8",
-      "P+": "=",
-      "Artist and Title": "Geolier - 2 GIORNI DI FILA (w/ Sfera Ebbasta, ANNA)",
-      "Days": "298",
+      "Pos": "7",
+      "P+": "-2",
+      "Artist and Title": "Tony Boy - Sparisci",
+      "Days": "8",
       "Pk": "1",
-      "(x?)": "(x14)",
-      "Streams": "143,874",
-      "Streams+": "+19,601",
-      "7Day": "956,293",
-      "7Day+": "+6,328",
-      "Total": "56,209,267",
-      "track_id": "6S9jhAReGPzub7RkRbv8HM",
+      "(x?)": "(x1)",
+      "Streams": "155,545",
+      "Streams+": "-19,434",
+      "7Day": "1,446,197",
+      "7Day+": "-298,359",
+      "Total": "1,900,101",
+      "track_id": "6ZERZ7aiL214VIKLTBkaxS",
       "artist_ids": [
-        "27LlKWxS3KXW7RRAxN5S8s",
-        "23TFHmajVfBtlRx5MXqgoz",
-        "7K80yOTC0Id95gRaOxDG5u"
+        "6PsQc21YZU7WNfiODG69Qk"
       ]
     },
     {
-      "Pos": "9",
+      "Pos": "8",
       "P+": "+1",
       "Artist and Title": "BLANCO - SOTTOGONNA",
-      "Days": "64",
+      "Days": "65",
       "Pk": "1",
       "(x?)": "(x10)",
-      "Streams": "136,086",
-      "Streams+": "+18,715",
-      "7Day": "984,710",
-      "7Day+": "-2,846",
-      "Total": "13,372,365",
+      "Streams": "140,557",
+      "Streams+": "+4,471",
+      "7Day": "979,496",
+      "7Day+": "-5,214",
+      "Total": "13,512,922",
       "track_id": "7BhOZov2Rm3XSDlPohUdIv",
       "artist_ids": [
         "1MRiIeZbc0cRuxOafDUCtH"
       ]
     },
     {
-      "Pos": "10",
-      "P+": "-1",
+      "Pos": "9",
+      "P+": "+1",
       "Artist and Title": "KAROL G - BbY WOW (w/ Judeline, rusowsky)",
-      "Days": "64",
+      "Days": "65",
       "Pk": "5",
       "(x?)": "",
-      "Streams": "133,366",
-      "Streams+": "+9,848",
-      "7Day": "975,697",
-      "7Day+": "+683",
-      "Total": "7,198,724",
+      "Streams": "135,477",
+      "Streams+": "+2,111",
+      "7Day": "971,539",
+      "7Day+": "-4,158",
+      "Total": "7,334,201",
       "track_id": "3h5T5JypYU7huFiVYhv1dr",
       "artist_ids": [
         "790FomKkXshlbRYZFtlgla",
@@ -178,17 +159,36 @@
       ]
     },
     {
+      "Pos": "10",
+      "P+": "-2",
+      "Artist and Title": "Geolier - 2 GIORNI DI FILA (w/ Sfera Ebbasta, ANNA)",
+      "Days": "299",
+      "Pk": "1",
+      "(x?)": "(x14)",
+      "Streams": "131,133",
+      "Streams+": "-12,741",
+      "7Day": "957,175",
+      "7Day+": "+882",
+      "Total": "56,340,400",
+      "track_id": "6S9jhAReGPzub7RkRbv8HM",
+      "artist_ids": [
+        "27LlKWxS3KXW7RRAxN5S8s",
+        "23TFHmajVfBtlRx5MXqgoz",
+        "7K80yOTC0Id95gRaOxDG5u"
+      ]
+    },
+    {
       "Pos": "11",
       "P+": "=",
       "Artist and Title": "Geolier - PER NOI (w/ Achille Lauro)",
-      "Days": "60",
+      "Days": "61",
       "Pk": "1",
       "(x?)": "(x3)",
-      "Streams": "121,350",
-      "Streams+": "+4,101",
-      "7Day": "940,436",
-      "7Day+": "-4,812",
-      "Total": "12,479,052",
+      "Streams": "124,243",
+      "Streams+": "+2,893",
+      "7Day": "933,114",
+      "7Day+": "-7,322",
+      "Total": "12,603,295",
       "track_id": "4nqsSd5tL9qTssjuxtGhUh",
       "artist_ids": [
         "27LlKWxS3KXW7RRAxN5S8s",
@@ -199,14 +199,14 @@
       "Pos": "12",
       "P+": "=",
       "Artist and Title": "Capo Plaza - Ogni Male",
-      "Days": "375",
+      "Days": "376",
       "Pk": "12",
       "(x?)": "",
-      "Streams": "117,244",
-      "Streams+": "+7,114",
-      "7Day": "821,663",
-      "7Day+": "+28,057",
-      "Total": "33,040,335",
+      "Streams": "121,183",
+      "Streams+": "+3,939",
+      "7Day": "842,406",
+      "7Day+": "+20,743",
+      "Total": "33,161,518",
       "track_id": "28v57vssZ488EEIBivY3NF",
       "artist_ids": [
         "5SulO4l40qDuV9zUGLZx7n"
@@ -216,14 +216,14 @@
       "Pos": "13",
       "P+": "=",
       "Artist and Title": "Madame - QUANTO FORTE TI PENSAVO",
-      "Days": "116",
+      "Days": "117",
       "Pk": "7",
       "(x?)": "",
-      "Streams": "112,432",
-      "Streams+": "+11,460",
-      "7Day": "833,080",
-      "7Day+": "-7,841",
-      "Total": "11,924,760",
+      "Streams": "116,124",
+      "Streams+": "+3,692",
+      "7Day": "818,514",
+      "7Day+": "-14,566",
+      "Total": "12,040,884",
       "track_id": "7ldyOPtbSh2t7iOEAsFOlR",
       "artist_ids": [
         "1vgQksyJ0IVz8y9XerEOy3"
@@ -231,16 +231,16 @@
     },
     {
       "Pos": "14",
-      "P+": "+1",
+      "P+": "=",
       "Artist and Title": "Cesare Cremonini - Ora che non ho più te",
-      "Days": "777",
+      "Days": "778",
       "Pk": "1",
       "(x?)": "(x7)",
-      "Streams": "102,665",
-      "Streams+": "+8,585",
-      "7Day": "774,078",
-      "7Day+": "-26,587",
-      "Total": "118,650,752",
+      "Streams": "107,920",
+      "Streams+": "+5,255",
+      "7Day": "749,262",
+      "7Day+": "-24,816",
+      "Total": "118,758,672",
       "track_id": "25idOmfSOCGGdgPhw9iCRm",
       "artist_ids": [
         "396Jr76018oUMR6QBnqT8T"
@@ -249,49 +249,49 @@
     {
       "Pos": "15",
       "P+": "+1",
-      "Artist and Title": "Bresh - Da Dio",
-      "Days": "179",
-      "Pk": "3",
-      "(x?)": "(x2)",
-      "Streams": "101,536",
-      "Streams+": "+10,361",
-      "7Day": "749,367",
-      "7Day+": "+301",
-      "Total": "30,177,785",
-      "track_id": "2ZhGGjc3EHsheIAOuvRn4L",
-      "artist_ids": [
-        "7FeObngbQ0GY3SojNwKdKn"
-      ]
-    },
-    {
-      "Pos": "16",
-      "P+": "+1",
       "Artist and Title": "Artie 5ive - DAVVERODAVVERO",
-      "Days": "332",
+      "Days": "333",
       "Pk": "2",
       "(x?)": "(x6)",
-      "Streams": "96,851",
-      "Streams+": "+8,821",
-      "7Day": "722,515",
-      "7Day+": "-527",
-      "Total": "48,150,881",
+      "Streams": "104,307",
+      "Streams+": "+7,456",
+      "7Day": "730,310",
+      "7Day+": "+7,795",
+      "Total": "48,255,188",
       "track_id": "6bdTp8Jkp3IAU15rVPWFuJ",
       "artist_ids": [
         "2R4kNOwHUUsuDYhKsESVbF"
       ]
     },
     {
+      "Pos": "16",
+      "P+": "-1",
+      "Artist and Title": "Bresh - Da Dio",
+      "Days": "180",
+      "Pk": "3",
+      "(x?)": "(x2)",
+      "Streams": "104,282",
+      "Streams+": "+2,746",
+      "7Day": "747,952",
+      "7Day+": "-1,415",
+      "Total": "30,282,067",
+      "track_id": "2ZhGGjc3EHsheIAOuvRn4L",
+      "artist_ids": [
+        "7FeObngbQ0GY3SojNwKdKn"
+      ]
+    },
+    {
       "Pos": "17",
-      "P+": "+3",
+      "P+": "=",
       "Artist and Title": "Artie 5ive - SWAG MUSIC",
-      "Days": "179",
+      "Days": "180",
       "Pk": "1",
       "(x?)": "(x18)",
-      "Streams": "94,494",
-      "Streams+": "+7,256",
-      "7Day": "700,375",
-      "7Day+": "-3,090",
-      "Total": "36,965,264",
+      "Streams": "98,673",
+      "Streams+": "+4,179",
+      "7Day": "700,753",
+      "7Day+": "+378",
+      "Total": "37,063,937",
       "track_id": "3QGY1Tr2MePboAxYtsdbn4",
       "artist_ids": [
         "2R4kNOwHUUsuDYhKsESVbF"
@@ -299,103 +299,16 @@
     },
     {
       "Pos": "18",
-      "P+": "+6",
-      "Artist and Title": "Kid Yugi - DISOBBEDIRE! (w/ 18K)",
-      "Days": "11",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "91,232",
-      "Streams+": "+10,555",
-      "7Day": "798,961",
-      "7Day+": "-80,686",
-      "Total": "1,631,073",
-      "track_id": "7gOPPSiPMAzVV395MZMicg",
-      "artist_ids": [
-        "0EUR8jz8L936AEbV2Spkca",
-        "5PVCzkHVhVLRLadPdJUdXB"
-      ]
-    },
-    {
-      "Pos": "19",
-      "P+": "+4",
-      "Artist and Title": "Kid Yugi - Amelie",
-      "Days": "257",
-      "Pk": "2",
-      "(x?)": "(x6)",
-      "Streams": "90,988",
-      "Streams+": "+10,025",
-      "7Day": "671,364",
-      "7Day+": "-15,646",
-      "Total": "23,680,257",
-      "track_id": "0O5KcmgOeEgublW6ySQ6Vc",
-      "artist_ids": [
-        "0EUR8jz8L936AEbV2Spkca"
-      ]
-    },
-    {
-      "Pos": "20",
-      "P+": "+8",
-      "Artist and Title": "Shiva - Bugie",
-      "Days": "75",
-      "Pk": "1",
-      "(x?)": "(x5)",
-      "Streams": "89,611",
-      "Streams+": "+12,766",
-      "7Day": "650,599",
-      "7Day+": "+517",
-      "Total": "10,955,477",
-      "track_id": "0O1tkx4VEDRxyKQmkwSCa5",
-      "artist_ids": [
-        "2K5nCggbhSZ00YCYP5qkZS"
-      ]
-    },
-    {
-      "Pos": "21",
-      "P+": "-2",
-      "Artist and Title": "Aya Nakamura - Pookie (w/ Capo Plaza)",
-      "Days": "392",
-      "Pk": "1",
-      "(x?)": "(x17)",
-      "Streams": "89,332",
-      "Streams+": "+1,916",
-      "7Day": "679,749",
-      "7Day+": "-1,769",
-      "Total": "58,948,713",
-      "track_id": "6h5nbfvIJHRNH3oGrNWJwn",
-      "artist_ids": [
-        "7IlRNXHjoOCgEAWN5qYksg",
-        "5SulO4l40qDuV9zUGLZx7n"
-      ]
-    },
-    {
-      "Pos": "22",
-      "P+": "-8",
-      "Artist and Title": "Frezza - 7/7",
-      "Days": "18",
-      "Pk": "14",
-      "(x?)": "",
-      "Streams": "88,601",
-      "Streams+": "-5,973",
-      "7Day": "706,020",
-      "7Day+": "-437",
-      "Total": "1,837,894",
-      "track_id": "5P39MpRYjtD28Q3xPbK9E2",
-      "artist_ids": [
-        "32G8poKFhw5C0um4jMXH9W"
-      ]
-    },
-    {
-      "Pos": "23",
-      "P+": "-5",
+      "P+": "+5",
       "Artist and Title": "Shiva - Bad Bad Bad (w/ Geolier)",
-      "Days": "214",
+      "Days": "215",
       "Pk": "1",
       "(x?)": "(x1)",
-      "Streams": "86,986",
-      "Streams+": "-902",
-      "7Day": "671,242",
-      "7Day+": "-4,953",
-      "Total": "43,735,210",
+      "Streams": "92,311",
+      "Streams+": "+5,325",
+      "7Day": "673,071",
+      "7Day+": "+1,829",
+      "Total": "43,827,521",
       "track_id": "1WitbPTd3SjoUJOWobxzVF",
       "artist_ids": [
         "2K5nCggbhSZ00YCYP5qkZS",
@@ -403,17 +316,121 @@
       ]
     },
     {
+      "Pos": "19",
+      "P+": "+2",
+      "Artist and Title": "Aya Nakamura - Pookie (w/ Capo Plaza)",
+      "Days": "393",
+      "Pk": "1",
+      "(x?)": "(x17)",
+      "Streams": "90,034",
+      "Streams+": "+702",
+      "7Day": "676,293",
+      "7Day+": "-3,456",
+      "Total": "59,038,747",
+      "track_id": "6h5nbfvIJHRNH3oGrNWJwn",
+      "artist_ids": [
+        "7IlRNXHjoOCgEAWN5qYksg",
+        "5SulO4l40qDuV9zUGLZx7n"
+      ]
+    },
+    {
+      "Pos": "20",
+      "P+": "-1",
+      "Artist and Title": "Kid Yugi - Amelie",
+      "Days": "258",
+      "Pk": "2",
+      "(x?)": "(x6)",
+      "Streams": "89,897",
+      "Streams+": "-1,091",
+      "7Day": "646,738",
+      "7Day+": "-24,626",
+      "Total": "23,770,154",
+      "track_id": "0O5KcmgOeEgublW6ySQ6Vc",
+      "artist_ids": [
+        "0EUR8jz8L936AEbV2Spkca"
+      ]
+    },
+    {
+      "Pos": "21",
+      "P+": "-1",
+      "Artist and Title": "Shiva - Bugie",
+      "Days": "76",
+      "Pk": "1",
+      "(x?)": "(x5)",
+      "Streams": "88,691",
+      "Streams+": "-920",
+      "7Day": "650,103",
+      "7Day+": "-496",
+      "Total": "11,044,168",
+      "track_id": "0O1tkx4VEDRxyKQmkwSCa5",
+      "artist_ids": [
+        "2K5nCggbhSZ00YCYP5qkZS"
+      ]
+    },
+    {
+      "Pos": "22",
+      "P+": "+5",
+      "Artist and Title": "Angelina Mango - Vita da adulti",
+      "Days": "5",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "88,416",
+      "Streams+": "+4,673",
+      "7Day": "219,443",
+      "7Day+": "+88,416",
+      "Total": "349,083",
+      "track_id": "3fFqrqTHlNPP9hLwu2Li43",
+      "artist_ids": [
+        "1A6HBLulvBFzNtlMb7b08f"
+      ]
+    },
+    {
+      "Pos": "23",
+      "P+": "-5",
+      "Artist and Title": "Kid Yugi - DISOBBEDIRE! (w/ 18K)",
+      "Days": "12",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "87,969",
+      "Streams+": "-3,263",
+      "7Day": "732,125",
+      "7Day+": "-66,836",
+      "Total": "1,719,042",
+      "track_id": "7gOPPSiPMAzVV395MZMicg",
+      "artist_ids": [
+        "0EUR8jz8L936AEbV2Spkca",
+        "5PVCzkHVhVLRLadPdJUdXB"
+      ]
+    },
+    {
       "Pos": "24",
-      "P+": "-3",
+      "P+": "-2",
+      "Artist and Title": "Frezza - 7/7",
+      "Days": "19",
+      "Pk": "14",
+      "(x?)": "",
+      "Streams": "87,385",
+      "Streams+": "-1,216",
+      "7Day": "697,062",
+      "7Day+": "-8,958",
+      "Total": "1,925,279",
+      "track_id": "5P39MpRYjtD28Q3xPbK9E2",
+      "artist_ids": [
+        "32G8poKFhw5C0um4jMXH9W"
+      ]
+    },
+    {
+      "Pos": "25",
+      "P+": "-1",
       "Artist and Title": "Sfera Ebbasta - COME SE NON FOSSI NEI GUAI (w/ Shiva)",
-      "Days": "513",
+      "Days": "514",
       "Pk": "10",
       "(x?)": "",
-      "Streams": "85,289",
-      "Streams+": "+3,936",
-      "7Day": "644,720",
-      "7Day+": "+4,028",
-      "Total": "44,607,274",
+      "Streams": "86,735",
+      "Streams+": "+1,446",
+      "7Day": "646,666",
+      "7Day+": "+1,946",
+      "Total": "44,694,009",
       "track_id": "46w75NfLpau9juuoeiY3ZM",
       "artist_ids": [
         "23TFHmajVfBtlRx5MXqgoz",
@@ -421,17 +438,17 @@
       ]
     },
     {
-      "Pos": "25",
-      "P+": "-3",
+      "Pos": "26",
+      "P+": "-1",
       "Artist and Title": "Samurai Jay - OSSESSIONE (w/ Vito Salamanca)",
-      "Days": "173",
+      "Days": "174",
       "Pk": "1",
       "(x?)": "(x16)",
-      "Streams": "84,572",
-      "Streams+": "+3,322",
-      "7Day": "633,439",
-      "7Day+": "-1,536",
-      "Total": "35,705,034",
+      "Streams": "86,588",
+      "Streams+": "+2,016",
+      "7Day": "631,259",
+      "7Day+": "-2,180",
+      "Total": "35,791,622",
       "track_id": "63vgQs2pr8e0fU10Jp2MrW",
       "artist_ids": [
         "2n0Ki4A5tKTEloq3WCt1IH",
@@ -439,17 +456,17 @@
       ]
     },
     {
-      "Pos": "26",
-      "P+": "=",
+      "Pos": "27",
+      "P+": "-1",
       "Artist and Title": "Geolier - EMANUELE E ANDREA (w/ Shiva)",
-      "Days": "25",
+      "Days": "26",
       "Pk": "2",
       "(x?)": "(x3)",
-      "Streams": "84,450",
-      "Streams+": "+6,883",
-      "7Day": "669,249",
-      "7Day+": "-15,245",
-      "Total": "3,954,522",
+      "Streams": "82,375",
+      "Streams+": "-2,075",
+      "7Day": "647,765",
+      "7Day+": "-21,484",
+      "Total": "4,036,897",
       "track_id": "0cnt8TurPDB0URgPEFPT39",
       "artist_ids": [
         "27LlKWxS3KXW7RRAxN5S8s",
@@ -457,119 +474,138 @@
       ]
     },
     {
-      "Pos": "27",
-      "P+": "+78",
-      "Artist and Title": "Angelina Mango - Vita da adulti",
-      "Days": "4",
-      "Pk": "27",
-      "(x?)": "",
-      "Streams": "83,743",
-      "Streams+": "+36,459",
-      "7Day": "131,027",
-      "7Day+": "+83,743",
-      "Total": "260,667",
-      "track_id": "3fFqrqTHlNPP9hLwu2Li43",
+      "Pos": "28",
+      "P+": "+25",
+      "Artist and Title": "Ultimo - ROMANTICA",
+      "Days": "173",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "82,266",
+      "Streams+": "+13,046",
+      "7Day": "581,059",
+      "7Day+": "+6,197",
+      "Total": "22,105,303",
+      "track_id": "4RIoOQSJUih7XWXbdxut8W",
       "artist_ids": [
-        "1A6HBLulvBFzNtlMb7b08f"
+        "3hN3iJMbbBmqBSAMx5veDa"
       ]
     },
     {
-      "Pos": "28",
-      "P+": "+3",
+      "Pos": "29",
+      "P+": "-1",
       "Artist and Title": "Coez - La musica non c'è",
-      "Days": "2294",
+      "Days": "2295",
       "Pk": "1",
       "(x?)": "(x76)",
-      "Streams": "82,685",
-      "Streams+": "+8,424",
-      "7Day": "599,596",
-      "7Day+": "-11,149",
-      "Total": "177,478,756",
+      "Streams": "81,441",
+      "Streams+": "-1,244",
+      "7Day": "580,606",
+      "7Day+": "-18,990",
+      "Total": "177,560,197",
       "track_id": "7MMJa7cjMadOSR6CFWvB1x",
       "artist_ids": [
         "5dXlc7MnpaTeUIsHLVe3n4"
       ]
     },
     {
-      "Pos": "29",
-      "P+": "=",
+      "Pos": "30",
+      "P+": "-1",
       "Artist and Title": "Geolier - WINNER",
-      "Days": "39",
+      "Days": "40",
       "Pk": "1",
       "(x?)": "(x1)",
-      "Streams": "81,728",
-      "Streams+": "+5,933",
-      "7Day": "645,995",
-      "7Day+": "-13,577",
-      "Total": "6,756,371",
+      "Streams": "80,972",
+      "Streams+": "-756",
+      "7Day": "628,869",
+      "7Day+": "-17,126",
+      "Total": "6,837,343",
       "track_id": "1ByC1BaBF1YiE2wfA0jvr0",
       "artist_ids": [
         "27LlKWxS3KXW7RRAxN5S8s"
       ]
     },
     {
-      "Pos": "30",
-      "P+": "+6",
+      "Pos": "31",
+      "P+": "-1",
       "Artist and Title": "Pinguini Tattici Nucleari - Sorry Scusa Lo Siento",
-      "Days": "179",
+      "Days": "180",
       "Pk": "2",
       "(x?)": "(x1)",
-      "Streams": "78,858",
-      "Streams+": "+7,734",
-      "7Day": "558,137",
-      "7Day+": "+8,906",
-      "Total": "25,430,155",
+      "Streams": "80,806",
+      "Streams+": "+1,948",
+      "7Day": "564,870",
+      "7Day+": "+6,733",
+      "Total": "25,510,961",
       "track_id": "6Y1SibRCnVlbaa7dS8slzr",
       "artist_ids": [
         "6RdcIWVKYYzNzjQRd3oyHS"
       ]
     },
     {
-      "Pos": "31",
-      "P+": "+11",
-      "Artist and Title": "Kid Yugi - Stratos",
-      "Days": "11",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "78,542",
-      "Streams+": "+12,225",
-      "7Day": "711,131",
-      "7Day+": "-91,746",
-      "Total": "1,531,983",
-      "track_id": "3OWSRPRku9fkcrJbPoTcSv",
+      "Pos": "32",
+      "P+": "+2",
+      "Artist and Title": "Emma - L'Amore Non Mi Basta",
+      "Days": "529",
+      "Pk": "1",
+      "(x?)": "(x14)",
+      "Streams": "80,660",
+      "Streams+": "+3,581",
+      "7Day": "593,920",
+      "7Day+": "-2,775",
+      "Total": "47,794,540",
+      "track_id": "1YaSQXYPqhwtw35Wf3Z0nI",
       "artist_ids": [
-        "0EUR8jz8L936AEbV2Spkca"
+        "0gzwXezN4IUHAwLufA6YcX"
       ]
     },
     {
-      "Pos": "32",
-      "P+": "+6",
-      "Artist and Title": "Achille Lauro - AMOR",
-      "Days": "571",
+      "Pos": "33",
+      "P+": "+5",
+      "Artist and Title": "Shiva - Mayday (w/ Lazza, Sfera Ebbasta)",
+      "Days": "215",
       "Pk": "5",
       "(x?)": "",
-      "Streams": "77,143",
-      "Streams+": "+7,543",
-      "7Day": "561,667",
-      "7Day+": "+5,254",
-      "Total": "83,210,701",
+      "Streams": "79,538",
+      "Streams+": "+3,955",
+      "7Day": "558,438",
+      "7Day+": "+5,721",
+      "Total": "26,498,644",
+      "track_id": "1i41RQ2km1sO8JD6fFVCxX",
+      "artist_ids": [
+        "2K5nCggbhSZ00YCYP5qkZS",
+        "0jdNdfi4vAuVi7a6cPDFBM",
+        "23TFHmajVfBtlRx5MXqgoz"
+      ]
+    },
+    {
+      "Pos": "34",
+      "P+": "-2",
+      "Artist and Title": "Achille Lauro - AMOR",
+      "Days": "572",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "78,886",
+      "Streams+": "+1,743",
+      "7Day": "559,093",
+      "7Day+": "-2,574",
+      "Total": "83,289,587",
       "track_id": "7vc09IDmFH0MfyPYHPEWRM",
       "artist_ids": [
         "0lI3rF4hi4op6UxqlLHPzv"
       ]
     },
     {
-      "Pos": "33",
-      "P+": "+2",
+      "Pos": "35",
+      "P+": "-2",
       "Artist and Title": "Quevedo - LA GRACIOSA (w/ Elvis Crespo)",
-      "Days": "183",
+      "Days": "184",
       "Pk": "7",
       "(x?)": "",
-      "Streams": "77,103",
-      "Streams+": "+5,748",
-      "7Day": "574,600",
-      "7Day+": "+3,240",
-      "Total": "20,876,439",
+      "Streams": "77,389",
+      "Streams+": "+286",
+      "7Day": "568,159",
+      "7Day+": "-6,441",
+      "Total": "20,953,828",
       "track_id": "0TJYJrUDKQ1btt4g0Xwklw",
       "artist_ids": [
         "52iwsT98xCoGgiGntTiR7K",
@@ -577,51 +613,17 @@
       ]
     },
     {
-      "Pos": "34",
-      "P+": "-2",
-      "Artist and Title": "Emma - L'Amore Non Mi Basta",
-      "Days": "528",
-      "Pk": "1",
-      "(x?)": "(x14)",
-      "Streams": "77,079",
-      "Streams+": "+3,371",
-      "7Day": "596,695",
-      "7Day+": "-405",
-      "Total": "47,713,880",
-      "track_id": "1YaSQXYPqhwtw35Wf3Z0nI",
-      "artist_ids": [
-        "0gzwXezN4IUHAwLufA6YcX"
-      ]
-    },
-    {
-      "Pos": "35",
-      "P+": "+6",
-      "Artist and Title": "Kid Yugi - Tristano e Isotta",
-      "Days": "245",
-      "Pk": "1",
-      "(x?)": "(x8)",
-      "Streams": "76,984",
-      "Streams+": "+10,259",
-      "7Day": "554,830",
-      "7Day+": "-7,625",
-      "Total": "22,970,192",
-      "track_id": "7dFfkSJrAHnUdKM5jaUOLt",
-      "artist_ids": [
-        "0EUR8jz8L936AEbV2Spkca"
-      ]
-    },
-    {
       "Pos": "36",
-      "P+": "-11",
+      "P+": "=",
       "Artist and Title": "Yung Snapp - DALE (w/ Frezza, R3versal, G.Mineiro)",
-      "Days": "102",
+      "Days": "103",
       "Pk": "12",
       "(x?)": "",
-      "Streams": "76,529",
-      "Streams+": "-3,624",
-      "7Day": "598,241",
-      "7Day+": "-1,403",
-      "Total": "10,929,434",
+      "Streams": "75,556",
+      "Streams+": "-973",
+      "7Day": "595,500",
+      "7Day+": "-2,741",
+      "Total": "11,004,990",
       "track_id": "3VjfNmIzBTYA4UFaUNpdY7",
       "artist_ids": [
         "4y5lvMadZv6NAv8RgcCRem",
@@ -632,71 +634,68 @@
     },
     {
       "Pos": "37",
-      "P+": "=",
-      "Artist and Title": "Marracash - NEON - Le Ali (w/ Elisa)",
-      "Days": "260",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "76,213",
-      "Streams+": "+6,337",
-      "7Day": "567,748",
-      "7Day+": "-4,707",
-      "Total": "20,396,537",
-      "track_id": "76cEI7LczlKZ1yLAHIoPBJ",
+      "P+": "-2",
+      "Artist and Title": "Kid Yugi - Tristano e Isotta",
+      "Days": "246",
+      "Pk": "1",
+      "(x?)": "(x8)",
+      "Streams": "75,553",
+      "Streams+": "-1,431",
+      "7Day": "545,013",
+      "7Day+": "-9,817",
+      "Total": "23,045,745",
+      "track_id": "7dFfkSJrAHnUdKM5jaUOLt",
       "artist_ids": [
-        "5AZuEF0feCXMkUCwQiQlW7",
-        "2ARH58Hit3yC6ziGdhma23"
+        "0EUR8jz8L936AEbV2Spkca"
       ]
     },
     {
       "Pos": "38",
-      "P+": "+2",
-      "Artist and Title": "Shiva - Mayday (w/ Lazza, Sfera Ebbasta)",
-      "Days": "214",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "75,583",
-      "Streams+": "+8,528",
-      "7Day": "552,717",
-      "7Day+": "+3,781",
-      "Total": "26,419,106",
-      "track_id": "1i41RQ2km1sO8JD6fFVCxX",
+      "P+": "+6",
+      "Artist and Title": "Sfera Ebbasta - NEON (w/ Shiva)",
+      "Days": "579",
+      "Pk": "1",
+      "(x?)": "(x26)",
+      "Streams": "75,473",
+      "Streams+": "+3,351",
+      "7Day": "523,843",
+      "7Day+": "-610",
+      "Total": "98,631,893",
+      "track_id": "0jkAr7eZsvWDLYiQCfaxak",
       "artist_ids": [
-        "2K5nCggbhSZ00YCYP5qkZS",
-        "0jdNdfi4vAuVi7a6cPDFBM",
-        "23TFHmajVfBtlRx5MXqgoz"
+        "23TFHmajVfBtlRx5MXqgoz",
+        "2K5nCggbhSZ00YCYP5qkZS"
       ]
     },
     {
       "Pos": "39",
-      "P+": "+8",
-      "Artist and Title": "Olly - Questa domenica (w/ Juli)",
-      "Days": "439",
-      "Pk": "1",
-      "(x?)": "(x38)",
-      "Streams": "75,582",
-      "Streams+": "+11,058",
-      "7Day": "518,941",
-      "7Day+": "+4,352",
-      "Total": "72,936,856",
-      "track_id": "1VX2LLBpUPS2QJVou4WGz3",
+      "P+": "-8",
+      "Artist and Title": "Kid Yugi - Stratos",
+      "Days": "12",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "75,251",
+      "Streams+": "-3,291",
+      "7Day": "643,257",
+      "7Day+": "-67,874",
+      "Total": "1,607,234",
+      "track_id": "3OWSRPRku9fkcrJbPoTcSv",
       "artist_ids": [
-        "25u1DN0MwQVSav4XoJS7hl",
-        "4rj3KWaLAnuxgtMMkypZhf"
+        "0EUR8jz8L936AEbV2Spkca"
       ]
     },
     {
       "Pos": "40",
-      "P+": "+4",
+      "P+": "=",
       "Artist and Title": "Kid Yugi - Eroina (w/ Tutti Fenomeni)",
-      "Days": "191",
+      "Days": "192",
       "Pk": "2",
       "(x?)": "(x1)",
-      "Streams": "75,550",
-      "Streams+": "+10,204",
-      "7Day": "556,675",
-      "7Day+": "-14,603",
-      "Total": "17,981,541",
+      "Streams": "74,117",
+      "Streams+": "-1,433",
+      "7Day": "543,005",
+      "7Day+": "-13,670",
+      "Total": "18,055,658",
       "track_id": "56n5UQJ0SDVaxwQNnu90ee",
       "artist_ids": [
         "0EUR8jz8L936AEbV2Spkca",
@@ -706,15 +705,226 @@
     {
       "Pos": "41",
       "P+": "+2",
+      "Artist and Title": "22simba - Ne vale la pena feat. Sayf (w/ Sayf)",
+      "Days": "54",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "73,963",
+      "Streams+": "+1,456",
+      "7Day": "507,934",
+      "7Day+": "-11,538",
+      "Total": "5,093,426",
+      "track_id": "0NzZc6vQW14qI9qMTpEkpb",
+      "artist_ids": [
+        "4Xsf5hhfIyhTgiVymlPLA7",
+        "3HAwumPgGOSXlZSyGWuLhB"
+      ]
+    },
+    {
+      "Pos": "42",
+      "P+": "+8",
+      "Artist and Title": "The Goo Goo Dolls - Iris",
+      "Days": "645",
+      "Pk": "40",
+      "(x?)": "",
+      "Streams": "73,534",
+      "Streams+": "+3,342",
+      "7Day": "484,815",
+      "7Day+": "-3,771",
+      "Total": "41,367,965",
+      "track_id": "6Qyc6fS4DsZjB2mRW9DsQs",
+      "artist_ids": [
+        "2sil8z5kiy4r76CRTXxBCA"
+      ]
+    },
+    {
+      "Pos": "43",
+      "P+": "+4",
+      "Artist and Title": "Sfera Ebbasta - Giovani Re",
+      "Days": "317",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "73,442",
+      "Streams+": "+2,898",
+      "7Day": "534,683",
+      "7Day+": "+289",
+      "Total": "36,527,040",
+      "track_id": "7aNsNTpMq7D4fffUiYKXNR",
+      "artist_ids": [
+        "23TFHmajVfBtlRx5MXqgoz"
+      ]
+    },
+    {
+      "Pos": "44",
+      "P+": "-2",
+      "Artist and Title": "Tate McRae - Housewife",
+      "Days": "25",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "73,092",
+      "Streams+": "+211",
+      "7Day": "528,598",
+      "7Day+": "-7,024",
+      "Total": "2,092,987",
+      "track_id": "2sFepQNyl1WjpROruP8bJ0",
+      "artist_ids": [
+        "45dkTj5sMRSjrmBSBeiHym"
+      ]
+    },
+    {
+      "Pos": "45",
+      "P+": "+3",
+      "Artist and Title": "Artie 5ive - SOGNO AMERICANO",
+      "Days": "593",
+      "Pk": "1",
+      "(x?)": "(x5)",
+      "Streams": "73,069",
+      "Streams+": "+2,773",
+      "7Day": "508,517",
+      "7Day+": "+5,613",
+      "Total": "72,701,814",
+      "track_id": "7i0zYckMTyvLyKAFxfOKIS",
+      "artist_ids": [
+        "2R4kNOwHUUsuDYhKsESVbF"
+      ]
+    },
+    {
+      "Pos": "46",
+      "P+": "-7",
+      "Artist and Title": "Olly - Questa domenica (w/ Juli)",
+      "Days": "440",
+      "Pk": "1",
+      "(x?)": "(x38)",
+      "Streams": "72,906",
+      "Streams+": "-2,676",
+      "7Day": "516,092",
+      "7Day+": "-2,849",
+      "Total": "73,009,762",
+      "track_id": "1VX2LLBpUPS2QJVou4WGz3",
+      "artist_ids": [
+        "25u1DN0MwQVSav4XoJS7hl",
+        "4rj3KWaLAnuxgtMMkypZhf"
+      ]
+    },
+    {
+      "Pos": "47",
+      "P+": "-10",
+      "Artist and Title": "Marracash - NEON - Le Ali (w/ Elisa)",
+      "Days": "261",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "72,314",
+      "Streams+": "-3,899",
+      "7Day": "557,497",
+      "7Day+": "-10,251",
+      "Total": "20,468,851",
+      "track_id": "76cEI7LczlKZ1yLAHIoPBJ",
+      "artist_ids": [
+        "5AZuEF0feCXMkUCwQiQlW7",
+        "2ARH58Hit3yC6ziGdhma23"
+      ]
+    },
+    {
+      "Pos": "48",
+      "P+": "-2",
+      "Artist and Title": "Sfera Ebbasta - AYAYAY (w/ DYSTINCT)",
+      "Days": "159",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "71,703",
+      "Streams+": "+464",
+      "7Day": "563,108",
+      "7Day+": "-4,035",
+      "Total": "24,416,227",
+      "track_id": "3xPMN6Ojy4uV0jicQf5dYZ",
+      "artist_ids": [
+        "23TFHmajVfBtlRx5MXqgoz",
+        "1cKyknhftNKXCjMBd2hDrG"
+      ]
+    },
+    {
+      "Pos": "49",
+      "P+": "+5",
+      "Artist and Title": "Angelina Mango - Canto d’amore (con Marco Mengoni) (w/ Marco Mengoni)",
+      "Days": "152",
+      "Pk": "15",
+      "(x?)": "",
+      "Streams": "71,664",
+      "Streams+": "+3,044",
+      "7Day": "488,223",
+      "7Day+": "+13,135",
+      "Total": "15,904,581",
+      "track_id": "3JjyzXQ07ODREBhJknQgLS",
+      "artist_ids": [
+        "1A6HBLulvBFzNtlMb7b08f",
+        "3xGlLcG9CUrs5MvFkSLOS5"
+      ]
+    },
+    {
+      "Pos": "50",
+      "P+": "+6",
+      "Artist and Title": "Luchè - Labirinto",
+      "Days": "259",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "71,190",
+      "Streams+": "+3,327",
+      "7Day": "519,814",
+      "7Day+": "-3,600",
+      "Total": "35,619,856",
+      "track_id": "2qf4KviAhT4cNGydUT28Qo",
+      "artist_ids": [
+        "3yiEJ9SByXZMXTwaKdVFN4"
+      ]
+    },
+    {
+      "Pos": "51",
+      "P+": "-2",
+      "Artist and Title": "Marracash - CASINI (w/ Guè)",
+      "Days": "63",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "70,706",
+      "Streams+": "+511",
+      "7Day": "495,748",
+      "7Day+": "-734",
+      "Total": "5,703,164",
+      "track_id": "2E8t8hDqKvFqSEwmD7Q8zd",
+      "artist_ids": [
+        "5AZuEF0feCXMkUCwQiQlW7",
+        "7F2utINZ6tSokSiZTQBE27"
+      ]
+    },
+    {
+      "Pos": "52",
+      "P+": "-1",
+      "Artist and Title": "Juli - Serenamente (w/ Bresh)",
+      "Days": "201",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "70,580",
+      "Streams+": "+1,082",
+      "7Day": "483,346",
+      "7Day+": "+188",
+      "Total": "19,398,061",
+      "track_id": "5ZliWdrEfiHceXVGnGzlxA",
+      "artist_ids": [
+        "4rj3KWaLAnuxgtMMkypZhf",
+        "7FeObngbQ0GY3SojNwKdKn"
+      ]
+    },
+    {
+      "Pos": "53",
+      "P+": "-12",
       "Artist and Title": "Kid Yugi - Puglia Crime (w/ RRARI DAL TACCO, Young Hash, Darié Baby, Lil Parta, Scaccia, 9x21, LB GANG)",
-      "Days": "11",
+      "Days": "12",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "73,409",
-      "Streams+": "+7,618",
-      "7Day": "664,797",
-      "7Day+": "-72,455",
-      "Total": "1,399,118",
+      "Streams": "69,551",
+      "Streams+": "-3,858",
+      "7Day": "599,546",
+      "7Day+": "-65,251",
+      "Total": "1,468,669",
       "track_id": "4inV3hMxNSRxY2gE5FIVMO",
       "artist_ids": [
         "0EUR8jz8L936AEbV2Spkca",
@@ -728,244 +938,34 @@
       ]
     },
     {
-      "Pos": "42",
-      "P+": "+10",
-      "Artist and Title": "Tate McRae - Housewife",
-      "Days": "24",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "72,881",
-      "Streams+": "+10,720",
-      "7Day": "535,622",
-      "7Day+": "-6,976",
-      "Total": "2,019,895",
-      "track_id": "2sFepQNyl1WjpROruP8bJ0",
-      "artist_ids": [
-        "45dkTj5sMRSjrmBSBeiHym"
-      ]
-    },
-    {
-      "Pos": "43",
-      "P+": "+19",
-      "Artist and Title": "22simba - Ne vale la pena feat. Sayf (w/ Sayf)",
-      "Days": "53",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "72,507",
-      "Streams+": "+15,158",
-      "7Day": "519,472",
-      "7Day+": "-9,594",
-      "Total": "5,019,463",
-      "track_id": "0NzZc6vQW14qI9qMTpEkpb",
-      "artist_ids": [
-        "4Xsf5hhfIyhTgiVymlPLA7",
-        "3HAwumPgGOSXlZSyGWuLhB"
-      ]
-    },
-    {
-      "Pos": "44",
-      "P+": "+4",
-      "Artist and Title": "Sfera Ebbasta - NEON (w/ Shiva)",
-      "Days": "578",
-      "Pk": "1",
-      "(x?)": "(x26)",
-      "Streams": "72,122",
-      "Streams+": "+8,495",
-      "7Day": "524,453",
-      "7Day+": "-1,141",
-      "Total": "98,556,420",
-      "track_id": "0jkAr7eZsvWDLYiQCfaxak",
-      "artist_ids": [
-        "23TFHmajVfBtlRx5MXqgoz",
-        "2K5nCggbhSZ00YCYP5qkZS"
-      ]
-    },
-    {
-      "Pos": "45",
-      "P+": "-12",
-      "Artist and Title": "Adriano Celentano - L'Emozione Non Ha Voce (Io Non So Parlar D'Amore)",
-      "Days": "279",
-      "Pk": "30",
-      "(x?)": "",
-      "Streams": "71,891",
-      "Streams+": "-669",
-      "7Day": "539,979",
-      "7Day+": "+2,554",
-      "Total": "16,706,694",
-      "track_id": "6QDbrhZDKku58X7iv7cKKr",
-      "artist_ids": [
-        "1yq9UuPp5DIb5w6eswGbKV"
-      ]
-    },
-    {
-      "Pos": "46",
-      "P+": "-16",
-      "Artist and Title": "Sfera Ebbasta - AYAYAY (w/ DYSTINCT)",
-      "Days": "158",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "71,239",
-      "Streams+": "-3,511",
-      "7Day": "567,143",
-      "7Day+": "-2,841",
-      "Total": "24,344,524",
-      "track_id": "3xPMN6Ojy4uV0jicQf5dYZ",
-      "artist_ids": [
-        "23TFHmajVfBtlRx5MXqgoz",
-        "1cKyknhftNKXCjMBd2hDrG"
-      ]
-    },
-    {
-      "Pos": "47",
-      "P+": "-13",
-      "Artist and Title": "Sfera Ebbasta - Giovani Re",
-      "Days": "316",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "70,544",
-      "Streams+": "-1,151",
-      "7Day": "534,394",
-      "7Day+": "-636",
-      "Total": "36,453,598",
-      "track_id": "7aNsNTpMq7D4fffUiYKXNR",
-      "artist_ids": [
-        "23TFHmajVfBtlRx5MXqgoz"
-      ]
-    },
-    {
-      "Pos": "48",
-      "P+": "+1",
-      "Artist and Title": "Artie 5ive - SOGNO AMERICANO",
-      "Days": "592",
-      "Pk": "1",
-      "(x?)": "(x5)",
-      "Streams": "70,296",
-      "Streams+": "+6,825",
-      "7Day": "502,904",
-      "7Day+": "+1,962",
-      "Total": "72,628,745",
-      "track_id": "7i0zYckMTyvLyKAFxfOKIS",
-      "artist_ids": [
-        "2R4kNOwHUUsuDYhKsESVbF"
-      ]
-    },
-    {
-      "Pos": "49",
-      "P+": "+4",
-      "Artist and Title": "Marracash - CASINI (w/ Guè)",
-      "Days": "62",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "70,195",
-      "Streams+": "+8,222",
-      "7Day": "496,482",
-      "7Day+": "+1,508",
-      "Total": "5,632,458",
-      "track_id": "2E8t8hDqKvFqSEwmD7Q8zd",
-      "artist_ids": [
-        "5AZuEF0feCXMkUCwQiQlW7",
-        "7F2utINZ6tSokSiZTQBE27"
-      ]
-    },
-    {
-      "Pos": "50",
-      "P+": "+8",
-      "Artist and Title": "The Goo Goo Dolls - Iris",
-      "Days": "644",
-      "Pk": "40",
-      "(x?)": "",
-      "Streams": "70,192",
-      "Streams+": "+11,287",
-      "7Day": "488,586",
-      "7Day+": "-2,089",
-      "Total": "41,294,431",
-      "track_id": "6Qyc6fS4DsZjB2mRW9DsQs",
-      "artist_ids": [
-        "2sil8z5kiy4r76CRTXxBCA"
-      ]
-    },
-    {
-      "Pos": "51",
-      "P+": "+6",
-      "Artist and Title": "Juli - Serenamente (w/ Bresh)",
-      "Days": "200",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "69,498",
-      "Streams+": "+10,452",
-      "7Day": "483,158",
-      "7Day+": "+4,466",
-      "Total": "19,327,481",
-      "track_id": "5ZliWdrEfiHceXVGnGzlxA",
-      "artist_ids": [
-        "4rj3KWaLAnuxgtMMkypZhf",
-        "7FeObngbQ0GY3SojNwKdKn"
-      ]
-    },
-    {
-      "Pos": "52",
+      "Pos": "54",
       "P+": "-2",
       "Artist and Title": "Geolier - STELLE",
-      "Days": "298",
+      "Days": "299",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "69,317",
-      "Streams+": "+6,013",
-      "7Day": "452,052",
-      "7Day+": "+10,144",
-      "Total": "32,133,066",
+      "Streams": "68,571",
+      "Streams+": "-746",
+      "7Day": "459,075",
+      "7Day+": "+7,023",
+      "Total": "32,201,637",
       "track_id": "5ukcsJ6xFum4aGyd4s2clw",
       "artist_ids": [
         "27LlKWxS3KXW7RRAxN5S8s"
       ]
     },
     {
-      "Pos": "53",
-      "P+": "-26",
-      "Artist and Title": "Ultimo - ROMANTICA",
-      "Days": "172",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "69,220",
-      "Streams+": "-7,913",
-      "7Day": "574,862",
-      "7Day+": "+4,517",
-      "Total": "22,023,037",
-      "track_id": "4RIoOQSJUih7XWXbdxut8W",
-      "artist_ids": [
-        "3hN3iJMbbBmqBSAMx5veDa"
-      ]
-    },
-    {
-      "Pos": "54",
-      "P+": "-9",
-      "Artist and Title": "Angelina Mango - Canto d’amore (con Marco Mengoni) (w/ Marco Mengoni)",
-      "Days": "151",
-      "Pk": "15",
-      "(x?)": "",
-      "Streams": "68,620",
-      "Streams+": "+3,579",
-      "7Day": "475,088",
-      "7Day+": "+18,888",
-      "Total": "15,832,917",
-      "track_id": "3JjyzXQ07ODREBhJknQgLS",
-      "artist_ids": [
-        "1A6HBLulvBFzNtlMb7b08f",
-        "3xGlLcG9CUrs5MvFkSLOS5"
-      ]
-    },
-    {
       "Pos": "55",
-      "P+": "-1",
+      "P+": "=",
       "Artist and Title": "Coez - La tua canzone",
-      "Days": "935",
+      "Days": "936",
       "Pk": "13",
       "(x?)": "",
-      "Streams": "68,378",
-      "Streams+": "+7,586",
-      "7Day": "489,510",
-      "7Day+": "+2,506",
-      "Total": "71,147,782",
+      "Streams": "67,570",
+      "Streams+": "-808",
+      "7Day": "482,938",
+      "7Day+": "-6,572",
+      "Total": "71,215,352",
       "track_id": "4Z43nMEiOiNeDrqu2BN0JD",
       "artist_ids": [
         "5dXlc7MnpaTeUIsHLVe3n4"
@@ -973,50 +973,16 @@
     },
     {
       "Pos": "56",
-      "P+": "-10",
-      "Artist and Title": "Luchè - Labirinto",
-      "Days": "258",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "67,863",
-      "Streams+": "+3,228",
-      "7Day": "523,414",
-      "7Day+": "-8,028",
-      "Total": "35,548,666",
-      "track_id": "2qf4KviAhT4cNGydUT28Qo",
-      "artist_ids": [
-        "3yiEJ9SByXZMXTwaKdVFN4"
-      ]
-    },
-    {
-      "Pos": "57",
-      "P+": "-2",
-      "Artist and Title": "Fulminacci - Stupida sfortuna",
-      "Days": "258",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "67,209",
-      "Streams+": "+7,039",
-      "7Day": "444,056",
-      "7Day+": "+19,999",
-      "Total": "35,767,980",
-      "track_id": "0HS9jzQvqyEyVLuo7sskFO",
-      "artist_ids": [
-        "1QeqGmpgU5Yg74GNcjIIq3"
-      ]
-    },
-    {
-      "Pos": "58",
-      "P+": "-19",
+      "P+": "+2",
       "Artist and Title": "Fred De Palma - LA TESTA GIRA (w/ Anitta, Emis Killa)",
-      "Days": "228",
+      "Days": "229",
       "Pk": "3",
       "(x?)": "(x45)",
-      "Streams": "66,807",
-      "Streams+": "-763",
-      "7Day": "504,872",
-      "7Day+": "-177",
-      "Total": "40,400,213",
+      "Streams": "67,416",
+      "Streams+": "+609",
+      "7Day": "501,800",
+      "7Day+": "-3,072",
+      "Total": "40,467,629",
       "track_id": "5k5scIRaBAJStJF1xWCqgc",
       "artist_ids": [
         "0QrUbsrL5imqntAfDl8i7q",
@@ -1025,17 +991,68 @@
       ]
     },
     {
+      "Pos": "57",
+      "P+": "=",
+      "Artist and Title": "Fulminacci - Stupida sfortuna",
+      "Days": "259",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "67,372",
+      "Streams+": "+163",
+      "7Day": "457,988",
+      "7Day+": "+13,932",
+      "Total": "35,835,352",
+      "track_id": "0HS9jzQvqyEyVLuo7sskFO",
+      "artist_ids": [
+        "1QeqGmpgU5Yg74GNcjIIq3"
+      ]
+    },
+    {
+      "Pos": "58",
+      "P+": "-13",
+      "Artist and Title": "Adriano Celentano - L'Emozione Non Ha Voce (Io Non So Parlar D'Amore)",
+      "Days": "280",
+      "Pk": "30",
+      "(x?)": "",
+      "Streams": "66,593",
+      "Streams+": "-5,298",
+      "7Day": "525,556",
+      "7Day+": "-14,423",
+      "Total": "16,773,287",
+      "track_id": "6QDbrhZDKku58X7iv7cKKr",
+      "artist_ids": [
+        "1yq9UuPp5DIb5w6eswGbKV"
+      ]
+    },
+    {
       "Pos": "59",
-      "P+": "+10",
+      "P+": "+9",
+      "Artist and Title": "Ernia - PER TE",
+      "Days": "418",
+      "Pk": "2",
+      "(x?)": "(x2)",
+      "Streams": "65,551",
+      "Streams+": "+4,856",
+      "7Day": "467,712",
+      "7Day+": "-6,539",
+      "Total": "46,842,954",
+      "track_id": "6DhMZVuD6TH0jd4bMNChCU",
+      "artist_ids": [
+        "3fhMfkPPzksWuw0hEm4ldm"
+      ]
+    },
+    {
+      "Pos": "60",
+      "P+": "-1",
       "Artist and Title": "Kid Yugi - Mostro (w/ Tony Boy)",
-      "Days": "107",
+      "Days": "108",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "65,847",
-      "Streams+": "+11,739",
-      "7Day": "487,447",
-      "7Day+": "-8,091",
-      "Total": "10,465,782",
+      "Streams": "65,416",
+      "Streams+": "-431",
+      "7Day": "474,842",
+      "7Day+": "-12,605",
+      "Total": "10,531,198",
       "track_id": "3QWxjzsBDPpmN45dcMIybB",
       "artist_ids": [
         "0EUR8jz8L936AEbV2Spkca",
@@ -1043,34 +1060,52 @@
       ]
     },
     {
-      "Pos": "60",
-      "P+": "+16",
+      "Pos": "61",
+      "P+": "-1",
       "Artist and Title": "Ernia - BERLINO",
-      "Days": "405",
+      "Days": "406",
       "Pk": "13",
       "(x?)": "",
-      "Streams": "65,684",
-      "Streams+": "+13,003",
-      "7Day": "468,138",
-      "7Day+": "-7,324",
-      "Total": "37,946,761",
+      "Streams": "64,942",
+      "Streams+": "-742",
+      "7Day": "460,186",
+      "7Day+": "-7,952",
+      "Total": "38,011,703",
       "track_id": "3l109GEhkVYrTvDoKuNGlu",
       "artist_ids": [
         "3fhMfkPPzksWuw0hEm4ldm"
       ]
     },
     {
-      "Pos": "61",
-      "P+": "-10",
+      "Pos": "62",
+      "P+": "+8",
+      "Artist and Title": "Madame - VOLEVO CAPIRE CON MARRACASH (w/ Marracash)",
+      "Days": "208",
+      "Pk": "12",
+      "(x?)": "",
+      "Streams": "64,511",
+      "Streams+": "+4,297",
+      "7Day": "441,418",
+      "7Day+": "-1,639",
+      "Total": "21,585,722",
+      "track_id": "6UrPST46XxYPqbAAThhSMS",
+      "artist_ids": [
+        "1vgQksyJ0IVz8y9XerEOy3",
+        "5AZuEF0feCXMkUCwQiQlW7"
+      ]
+    },
+    {
+      "Pos": "63",
+      "P+": "-2",
       "Artist and Title": "Shiva - Obsessed (w/ ANNA)",
-      "Days": "214",
+      "Days": "215",
       "Pk": "2",
       "(x?)": "(x16)",
-      "Streams": "64,362",
-      "Streams+": "+2,015",
-      "7Day": "482,548",
-      "7Day+": "-922",
-      "Total": "36,984,205",
+      "Streams": "63,445",
+      "Streams+": "-917",
+      "7Day": "481,914",
+      "7Day+": "-634",
+      "Total": "37,047,650",
       "track_id": "3CaLAEZ5u8PEiylYQVIv10",
       "artist_ids": [
         "2K5nCggbhSZ00YCYP5qkZS",
@@ -1078,51 +1113,51 @@
       ]
     },
     {
-      "Pos": "62",
-      "P+": "+3",
-      "Artist and Title": "Carla Morrison - Disfruto",
-      "Days": "53",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "62,906",
-      "Streams+": "+7,190",
-      "7Day": "472,104",
-      "7Day+": "-5,303",
-      "Total": "5,790,532",
-      "track_id": "50WkRwFR0BAo6If7GtXnA8",
-      "artist_ids": [
-        "0XK6kT7xcZAlcYrNjOgzJe"
-      ]
-    },
-    {
-      "Pos": "63",
-      "P+": "=",
+      "Pos": "64",
+      "P+": "-1",
       "Artist and Title": "Oasis - Wonderwall - Remastered",
-      "Days": "713",
+      "Days": "714",
       "Pk": "12",
       "(x?)": "",
-      "Streams": "62,012",
-      "Streams+": "+4,943",
-      "7Day": "452,216",
-      "7Day+": "-1,213",
-      "Total": "23,588,777",
+      "Streams": "63,220",
+      "Streams+": "+1,208",
+      "7Day": "448,858",
+      "7Day+": "-3,358",
+      "Total": "23,651,997",
       "track_id": "5qqabIl2vWzo9ApSC317sa",
       "artist_ids": [
         "2DaxqgrOhkeH0fpeiQq2f4"
       ]
     },
     {
-      "Pos": "64",
-      "P+": "-3",
+      "Pos": "65",
+      "P+": "+2",
+      "Artist and Title": "The Police - Every Breath You Take",
+      "Days": "715",
+      "Pk": "17",
+      "(x?)": "",
+      "Streams": "62,765",
+      "Streams+": "+1,697",
+      "7Day": "438,037",
+      "7Day+": "+6,004",
+      "Total": "47,421,936",
+      "track_id": "1JSTJqkT5qHq8MDJnJbRE1",
+      "artist_ids": [
+        "5NGO30tJxFlKixkPSgXcFE"
+      ]
+    },
+    {
+      "Pos": "66",
+      "P+": "-2",
       "Artist and Title": "HUGEL - Movin' To The Sun (w/ Imael Angel, Ultra Naté)",
-      "Days": "139",
+      "Days": "140",
       "Pk": "9",
       "(x?)": "",
-      "Streams": "61,723",
-      "Streams+": "+4,239",
-      "7Day": "474,573",
-      "7Day+": "-5,441",
-      "Total": "13,825,538",
+      "Streams": "62,599",
+      "Streams+": "+876",
+      "7Day": "467,818",
+      "7Day+": "-6,755",
+      "Total": "13,888,137",
       "track_id": "4vTsKN15Kqo3Geo9r7FhAN",
       "artist_ids": [
         "5PlfkPxwCpRRWQJBxCa0By",
@@ -1131,17 +1166,17 @@
       ]
     },
     {
-      "Pos": "65",
-      "P+": "-6",
+      "Pos": "67",
+      "P+": "-2",
       "Artist and Title": "Samurai Jay - FLAMENCO PARANOIA (w/ Vito Salamanca)",
-      "Days": "172",
+      "Days": "173",
       "Pk": "14",
       "(x?)": "",
-      "Streams": "61,204",
-      "Streams+": "+2,902",
-      "7Day": "448,792",
-      "7Day+": "+1,685",
-      "Total": "17,712,213",
+      "Streams": "62,054",
+      "Streams+": "+850",
+      "7Day": "449,521",
+      "7Day+": "+729",
+      "Total": "17,774,267",
       "track_id": "549DrPfwUQuZB3q53WQh1z",
       "artist_ids": [
         "2n0Ki4A5tKTEloq3WCt1IH",
@@ -1149,68 +1184,34 @@
       ]
     },
     {
-      "Pos": "66",
-      "P+": "-10",
-      "Artist and Title": "883 - Come mai",
-      "Days": "547",
-      "Pk": "46",
-      "(x?)": "",
-      "Streams": "61,104",
-      "Streams+": "+1,124",
-      "7Day": "468,377",
-      "7Day+": "+3,487",
-      "Total": "33,627,086",
-      "track_id": "0gkV0FyCdrJqwyrFW7NsEQ",
-      "artist_ids": [
-        "6bMul6rmRS03x38tWKYifO"
-      ]
-    },
-    {
-      "Pos": "67",
-      "P+": "+1",
-      "Artist and Title": "The Police - Every Breath You Take",
-      "Days": "714",
-      "Pk": "17",
-      "(x?)": "",
-      "Streams": "61,068",
-      "Streams+": "+6,830",
-      "7Day": "432,033",
-      "7Day+": "+7,969",
-      "Total": "47,359,171",
-      "track_id": "1JSTJqkT5qHq8MDJnJbRE1",
-      "artist_ids": [
-        "5NGO30tJxFlKixkPSgXcFE"
-      ]
-    },
-    {
       "Pos": "68",
-      "P+": "-2",
-      "Artist and Title": "Ernia - PER TE",
-      "Days": "417",
-      "Pk": "2",
-      "(x?)": "(x2)",
-      "Streams": "60,695",
-      "Streams+": "+5,477",
-      "7Day": "474,251",
-      "7Day+": "-2,997",
-      "Total": "46,777,403",
-      "track_id": "6DhMZVuD6TH0jd4bMNChCU",
+      "P+": "-6",
+      "Artist and Title": "Carla Morrison - Disfruto",
+      "Days": "54",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "61,340",
+      "Streams+": "-1,566",
+      "7Day": "461,728",
+      "7Day+": "-10,376",
+      "Total": "5,851,872",
+      "track_id": "50WkRwFR0BAo6If7GtXnA8",
       "artist_ids": [
-        "3fhMfkPPzksWuw0hEm4ldm"
+        "0XK6kT7xcZAlcYrNjOgzJe"
       ]
     },
     {
       "Pos": "69",
-      "P+": "+22",
+      "P+": "=",
       "Artist and Title": "Izi - Chic",
-      "Days": "1813",
+      "Days": "1814",
       "Pk": "69",
       "(x?)": "",
-      "Streams": "60,502",
-      "Streams+": "+11,234",
-      "7Day": "414,631",
-      "7Day+": "+2,071",
-      "Total": "61,550,861",
+      "Streams": "60,830",
+      "Streams+": "+328",
+      "7Day": "412,952",
+      "7Day+": "-1,679",
+      "Total": "61,611,691",
       "track_id": "7jUJ2RmT4PFHHq4goMWqm3",
       "artist_ids": [
         "6289Bbkkk3gaCbh1K7Rv8F"
@@ -1218,34 +1219,33 @@
     },
     {
       "Pos": "70",
-      "P+": "+3",
-      "Artist and Title": "Madame - VOLEVO CAPIRE CON MARRACASH (w/ Marracash)",
-      "Days": "207",
-      "Pk": "12",
+      "P+": "+7",
+      "Artist and Title": "Sfera Ebbasta - Bang Bang",
+      "Days": "1660",
+      "Pk": "50",
       "(x?)": "",
-      "Streams": "60,214",
-      "Streams+": "+6,851",
-      "7Day": "443,057",
-      "7Day+": "-254",
-      "Total": "21,521,211",
-      "track_id": "6UrPST46XxYPqbAAThhSMS",
+      "Streams": "60,288",
+      "Streams+": "+3,087",
+      "7Day": "420,276",
+      "7Day+": "-197",
+      "Total": "107,080,097",
+      "track_id": "7kktKNHgINrBczPUGoG38p",
       "artist_ids": [
-        "1vgQksyJ0IVz8y9XerEOy3",
-        "5AZuEF0feCXMkUCwQiQlW7"
+        "23TFHmajVfBtlRx5MXqgoz"
       ]
     },
     {
       "Pos": "71",
-      "P+": "+18",
+      "P+": "=",
       "Artist and Title": "Tony Boy - Cuore rotto",
-      "Days": "158",
+      "Days": "159",
       "Pk": "1",
       "(x?)": "(x1)",
-      "Streams": "59,459",
-      "Streams+": "+9,490",
-      "7Day": "399,214",
-      "7Day+": "+11,149",
-      "Total": "15,622,680",
+      "Streams": "60,080",
+      "Streams+": "+621",
+      "7Day": "405,014",
+      "7Day+": "+5,800",
+      "Total": "15,682,760",
       "track_id": "45vry78xJDOxCzW6oPbLyN",
       "artist_ids": [
         "6PsQc21YZU7WNfiODG69Qk"
@@ -1253,16 +1253,68 @@
     },
     {
       "Pos": "72",
-      "P+": "-8",
+      "P+": "+3",
+      "Artist and Title": "Geolier - A NAPOLI NON PIOVE",
+      "Days": "226",
+      "Pk": "15",
+      "(x?)": "",
+      "Streams": "59,844",
+      "Streams+": "+2,118",
+      "7Day": "393,965",
+      "7Day+": "+7,152",
+      "Total": "14,916,854",
+      "track_id": "2nW9iW5nB0lW7mxQouG8nG",
+      "artist_ids": [
+        "27LlKWxS3KXW7RRAxN5S8s"
+      ]
+    },
+    {
+      "Pos": "73",
+      "P+": "+15",
+      "Artist and Title": "Marracash - Niente Canzoni D'Amore - Inedito (w/ Federica Abbate)",
+      "Days": "979",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "59,380",
+      "Streams+": "+3,587",
+      "7Day": "406,286",
+      "7Day+": "-4,453",
+      "Total": "48,152,416",
+      "track_id": "7uu3YZytpYW15VIfa7ynJk",
+      "artist_ids": [
+        "5AZuEF0feCXMkUCwQiQlW7",
+        "05brE7yGJDmIYlMirfSi0B"
+      ]
+    },
+    {
+      "Pos": "74",
+      "P+": "+12",
+      "Artist and Title": "Marracash - CRUDELIA - I nervi",
+      "Days": "2414",
+      "Pk": "2",
+      "(x?)": "(x5)",
+      "Streams": "58,834",
+      "Streams+": "+2,952",
+      "7Day": "400,875",
+      "7Day+": "-9,495",
+      "Total": "200,795,310",
+      "track_id": "0xEgDBXYO9gGzmxCFWKxNg",
+      "artist_ids": [
+        "5AZuEF0feCXMkUCwQiQlW7"
+      ]
+    },
+    {
+      "Pos": "75",
+      "P+": "-3",
       "Artist and Title": "Geolier - ARCOBALENO (w/ Anuel AA)",
-      "Days": "298",
+      "Days": "299",
       "Pk": "2",
       "(x?)": "(x3)",
-      "Streams": "59,005",
-      "Streams+": "+2,514",
-      "7Day": "403,708",
-      "7Day+": "+288",
-      "Total": "31,588,000",
+      "Streams": "58,482",
+      "Streams+": "-523",
+      "7Day": "401,613",
+      "7Day+": "-2,095",
+      "Total": "31,646,482",
       "track_id": "7os93Vpc5gJ40Fm0QC48a8",
       "artist_ids": [
         "27LlKWxS3KXW7RRAxN5S8s",
@@ -1270,138 +1322,17 @@
       ]
     },
     {
-      "Pos": "73",
-      "P+": "+5",
-      "Artist and Title": "Kid Yugi - Il mio posto nel Mondo (w/ Guè)",
-      "Days": "11",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "58,395",
-      "Streams+": "+5,988",
-      "7Day": "566,437",
-      "7Day+": "-63,223",
-      "Total": "1,151,433",
-      "track_id": "2lFKJrz2JhquBuLcZsbvOu",
-      "artist_ids": [
-        "0EUR8jz8L936AEbV2Spkca",
-        "7F2utINZ6tSokSiZTQBE27"
-      ]
-    },
-    {
-      "Pos": "74",
-      "P+": "+10",
-      "Artist and Title": "Achille Lauro - Perdutamente",
-      "Days": "340",
-      "Pk": "12",
-      "(x?)": "",
-      "Streams": "57,937",
-      "Streams+": "+7,107",
-      "7Day": "417,820",
-      "7Day+": "+1,231",
-      "Total": "32,556,340",
-      "track_id": "5pk3bAZLMs1PqdMuHITZU9",
-      "artist_ids": [
-        "0lI3rF4hi4op6UxqlLHPzv"
-      ]
-    },
-    {
-      "Pos": "75",
-      "P+": "-15",
-      "Artist and Title": "Geolier - A NAPOLI NON PIOVE",
-      "Days": "225",
-      "Pk": "15",
-      "(x?)": "",
-      "Streams": "57,726",
-      "Streams+": "+211",
-      "7Day": "386,813",
-      "7Day+": "+10,226",
-      "Total": "14,857,010",
-      "track_id": "2nW9iW5nB0lW7mxQouG8nG",
-      "artist_ids": [
-        "27LlKWxS3KXW7RRAxN5S8s"
-      ]
-    },
-    {
       "Pos": "76",
-      "P+": "+39",
-      "Artist and Title": "Temper City - Self Aware",
-      "Days": "216",
-      "Pk": "32",
-      "(x?)": "",
-      "Streams": "57,530",
-      "Streams+": "+11,061",
-      "7Day": "388,042",
-      "7Day+": "+2,125",
-      "Total": "18,277,365",
-      "track_id": "4qW3BbQAwZsrnu8a3ZRdyT",
-      "artist_ids": [
-        "5mHUmlJWkcoOk1NbjfrXWz"
-      ]
-    },
-    {
-      "Pos": "77",
-      "P+": "-2",
-      "Artist and Title": "Sfera Ebbasta - Bang Bang",
-      "Days": "1659",
-      "Pk": "50",
-      "(x?)": "",
-      "Streams": "57,201",
-      "Streams+": "+4,338",
-      "7Day": "420,473",
-      "7Day+": "+3,031",
-      "Total": "107,019,809",
-      "track_id": "7kktKNHgINrBczPUGoG38p",
-      "artist_ids": [
-        "23TFHmajVfBtlRx5MXqgoz"
-      ]
-    },
-    {
-      "Pos": "78",
-      "P+": "-8",
-      "Artist and Title": "Achille Lauro - Incoscienti Giovani",
-      "Days": "614",
-      "Pk": "2",
-      "(x?)": "(x15)",
-      "Streams": "57,045",
-      "Streams+": "+3,329",
-      "7Day": "419,178",
-      "7Day+": "+5,884",
-      "Total": "91,087,742",
-      "track_id": "3l4KzIHsh002W3evllH3EF",
-      "artist_ids": [
-        "0lI3rF4hi4op6UxqlLHPzv"
-      ]
-    },
-    {
-      "Pos": "79",
-      "P+": "+15",
-      "Artist and Title": "P!nk - Just Give Me a Reason (w/ Nate Ruess)",
-      "Days": "198",
-      "Pk": "78",
-      "(x?)": "",
-      "Streams": "56,422",
-      "Streams+": "+7,235",
-      "7Day": "409,133",
-      "7Day+": "-6",
-      "Total": "2,476,419",
-      "track_id": "1mKXFLRA179hdOWQBwUk9e",
-      "artist_ids": [
-        "1KCSPY1glIKqW2TotWuXOR",
-        "1qUjOF5fzrpoNycD36b2jZ"
-      ]
-    },
-    {
-      "Pos": "80",
-      "P+": "-8",
+      "P+": "+4",
       "Artist and Title": "Olly - Balorda nostalgia (w/ Juli)",
-      "Days": "400",
+      "Days": "401",
       "Pk": "3",
       "(x?)": "(x4)",
-      "Streams": "56,275",
-      "Streams+": "+2,674",
-      "7Day": "436,846",
-      "7Day+": "-2,451",
-      "Total": "42,925,669",
+      "Streams": "58,297",
+      "Streams+": "+2,022",
+      "7Day": "429,754",
+      "7Day+": "-7,092",
+      "Total": "42,983,966",
       "track_id": "1QMGYNbDtHIRzDMKugpg7t",
       "artist_ids": [
         "25u1DN0MwQVSav4XoJS7hl",
@@ -1409,34 +1340,69 @@
       ]
     },
     {
-      "Pos": "81",
-      "P+": "=",
-      "Artist and Title": "883 - Gli anni (96)",
-      "Days": "192",
-      "Pk": "57",
-      "(x?)": "",
-      "Streams": "56,151",
-      "Streams+": "+4,980",
-      "7Day": "382,179",
-      "7Day+": "-1,542",
-      "Total": "10,102,838",
-      "track_id": "5m765S50ytWrB8hfdcbQds",
+      "Pos": "77",
+      "P+": "+7",
+      "Artist and Title": "Capo Plaza - Capri Sun",
+      "Days": "1300",
+      "Pk": "2",
+      "(x?)": "(x30)",
+      "Streams": "58,137",
+      "Streams+": "+2,077",
+      "7Day": "402,622",
+      "7Day+": "+4,087",
+      "Total": "150,104,668",
+      "track_id": "1XpmMe95dk9jh3zuOMpeU2",
       "artist_ids": [
-        "6bMul6rmRS03x38tWKYifO"
+        "5SulO4l40qDuV9zUGLZx7n"
       ]
     },
     {
-      "Pos": "82",
-      "P+": "-11",
+      "Pos": "78",
+      "P+": "+1",
+      "Artist and Title": "P!nk - Just Give Me a Reason (w/ Nate Ruess)",
+      "Days": "199",
+      "Pk": "78",
+      "(x?)": "",
+      "Streams": "57,243",
+      "Streams+": "+821",
+      "7Day": "406,050",
+      "7Day+": "-3,083",
+      "Total": "2,533,662",
+      "track_id": "1mKXFLRA179hdOWQBwUk9e",
+      "artist_ids": [
+        "1KCSPY1glIKqW2TotWuXOR",
+        "1qUjOF5fzrpoNycD36b2jZ"
+      ]
+    },
+    {
+      "Pos": "79",
+      "P+": "-5",
+      "Artist and Title": "Achille Lauro - Perdutamente",
+      "Days": "341",
+      "Pk": "12",
+      "(x?)": "",
+      "Streams": "57,071",
+      "Streams+": "-866",
+      "7Day": "413,789",
+      "7Day+": "-4,031",
+      "Total": "32,613,411",
+      "track_id": "5pk3bAZLMs1PqdMuHITZU9",
+      "artist_ids": [
+        "0lI3rF4hi4op6UxqlLHPzv"
+      ]
+    },
+    {
+      "Pos": "80",
+      "P+": "+2",
       "Artist and Title": "Justin Bieber - Beauty And A Beat (w/ Nicki Minaj)",
-      "Days": "212",
+      "Days": "213",
       "Pk": "3",
       "(x?)": "(x2)",
-      "Streams": "56,120",
-      "Streams+": "+2,423",
-      "7Day": "423,796",
-      "7Day+": "-5,910",
-      "Total": "26,553,991",
+      "Streams": "56,993",
+      "Streams+": "+873",
+      "7Day": "416,975",
+      "7Day+": "-6,821",
+      "Total": "26,610,984",
       "track_id": "6QFCMUUq1T2Vf5sFUXcuQ7",
       "artist_ids": [
         "1uNFoZAHBGtllmzznpCI3s",
@@ -1444,17 +1410,189 @@
       ]
     },
     {
+      "Pos": "81",
+      "P+": "+15",
+      "Artist and Title": "Shiva - Babyface (w/ Kid Yugi)",
+      "Days": "215",
+      "Pk": "2",
+      "(x?)": "(x2)",
+      "Streams": "56,873",
+      "Streams+": "+2,669",
+      "7Day": "404,630",
+      "7Day+": "+1,032",
+      "Total": "26,847,256",
+      "track_id": "5LN0gLSxSEaigog3VjCci3",
+      "artist_ids": [
+        "2K5nCggbhSZ00YCYP5qkZS",
+        "0EUR8jz8L936AEbV2Spkca"
+      ]
+    },
+    {
+      "Pos": "82",
+      "P+": "+8",
+      "Artist and Title": "Marracash - BRAVI A CADERE - I polmoni",
+      "Days": "1223",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "56,757",
+      "Streams+": "+1,444",
+      "7Day": "392,973",
+      "7Day+": "+203",
+      "Total": "95,976,616",
+      "track_id": "5eSC7faDYHxnklPjcxZjD6",
+      "artist_ids": [
+        "5AZuEF0feCXMkUCwQiQlW7"
+      ]
+    },
+    {
       "Pos": "83",
-      "P+": "+27",
+      "P+": "+4",
+      "Artist and Title": "Ernia - Superclassico",
+      "Days": "1553",
+      "Pk": "1",
+      "(x?)": "(x11)",
+      "Streams": "56,191",
+      "Streams+": "+396",
+      "7Day": "396,067",
+      "7Day+": "-11,401",
+      "Total": "145,608,660",
+      "track_id": "6Ahg1hncxUdK0ICqU03BCu",
+      "artist_ids": [
+        "3fhMfkPPzksWuw0hEm4ldm"
+      ]
+    },
+    {
+      "Pos": "84",
+      "P+": "+7",
+      "Artist and Title": "22simba - Freedom",
+      "Days": "54",
+      "Pk": "14",
+      "(x?)": "",
+      "Streams": "56,187",
+      "Streams+": "+1,061",
+      "7Day": "394,864",
+      "7Day+": "-9,999",
+      "Total": "4,099,901",
+      "track_id": "643MFa7QJyJw8muzkfnZOP",
+      "artist_ids": [
+        "4Xsf5hhfIyhTgiVymlPLA7"
+      ]
+    },
+    {
+      "Pos": "85",
+      "P+": "-7",
+      "Artist and Title": "Achille Lauro - Incoscienti Giovani",
+      "Days": "615",
+      "Pk": "2",
+      "(x?)": "(x15)",
+      "Streams": "55,702",
+      "Streams+": "-1,343",
+      "7Day": "416,594",
+      "7Day+": "-2,584",
+      "Total": "91,143,444",
+      "track_id": "3l4KzIHsh002W3evllH3EF",
+      "artist_ids": [
+        "0lI3rF4hi4op6UxqlLHPzv"
+      ]
+    },
+    {
+      "Pos": "86",
+      "P+": "+12",
+      "Artist and Title": "Artie 5ive - INTRO (La Bella Vita)",
+      "Days": "553",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "55,543",
+      "Streams+": "+2,570",
+      "7Day": "390,472",
+      "7Day+": "+5,262",
+      "Total": "38,183,653",
+      "track_id": "1lslS1hUsIvAScXvWVTLt2",
+      "artist_ids": [
+        "2R4kNOwHUUsuDYhKsESVbF"
+      ]
+    },
+    {
+      "Pos": "87",
+      "P+": "-21",
+      "Artist and Title": "883 - Come mai",
+      "Days": "548",
+      "Pk": "46",
+      "(x?)": "",
+      "Streams": "55,328",
+      "Streams+": "-5,776",
+      "7Day": "460,655",
+      "7Day+": "-7,722",
+      "Total": "33,682,414",
+      "track_id": "0gkV0FyCdrJqwyrFW7NsEQ",
+      "artist_ids": [
+        "6bMul6rmRS03x38tWKYifO"
+      ]
+    },
+    {
+      "Pos": "88",
+      "P+": "+5",
+      "Artist and Title": "ANOTR - Talk To You (ft. 54 Ultra) (w/ 54 Ultra)",
+      "Days": "85",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "55,183",
+      "Streams+": "+525",
+      "7Day": "414,206",
+      "7Day+": "-4,015",
+      "Total": "7,942,164",
+      "track_id": "0eUP3XYOCAj7lGoz4LOhyQ",
+      "artist_ids": [
+        "4p5WgeiPSPpqPDs7T6OkWf",
+        "6X5L6rmyvrWWu60Gx6exiZ"
+      ]
+    },
+    {
+      "Pos": "89",
+      "P+": "=",
+      "Artist and Title": "Kid Yugi - Per te che Lotto",
+      "Days": "88",
+      "Pk": "15",
+      "(x?)": "",
+      "Streams": "55,131",
+      "Streams+": "-464",
+      "7Day": "385,089",
+      "7Day+": "-8,483",
+      "Total": "7,651,632",
+      "track_id": "70600tukZat0m8rM0yqDoD",
+      "artist_ids": [
+        "0EUR8jz8L936AEbV2Spkca"
+      ]
+    },
+    {
+      "Pos": "90",
+      "P+": "+7",
+      "Artist and Title": "Cesare Cremonini - La Nuova Stella Di Broadway",
+      "Days": "1288",
+      "Pk": "37",
+      "(x?)": "",
+      "Streams": "54,696",
+      "Streams+": "+976",
+      "7Day": "399,689",
+      "7Day+": "-16,768",
+      "Total": "79,507,269",
+      "track_id": "3qtuOAI0YyfoBM1s7Tvm46",
+      "artist_ids": [
+        "396Jr76018oUMR6QBnqT8T"
+      ]
+    },
+    {
+      "Pos": "91",
+      "P+": "-8",
       "Artist and Title": "Annalisa - Amica (con Madame) (w/ Madame)",
-      "Days": "11",
+      "Days": "12",
       "Pk": "36",
       "(x?)": "",
-      "Streams": "56,117",
-      "Streams+": "+9,107",
-      "7Day": "303,165",
-      "7Day+": "+56,117",
-      "Total": "638,250",
+      "Streams": "54,514",
+      "Streams+": "-1,603",
+      "7Day": "357,679",
+      "7Day+": "+54,514",
+      "Total": "692,764",
       "track_id": "0IcmLnCLCKhziTb54YR9g0",
       "artist_ids": [
         "0EqkKYDK9EkKY5N7zU3FPv",
@@ -1462,34 +1600,276 @@
       ]
     },
     {
-      "Pos": "84",
-      "P+": "+60",
-      "Artist and Title": "Capo Plaza - Capri Sun",
-      "Days": "1299",
-      "Pk": "2",
-      "(x?)": "(x30)",
-      "Streams": "56,060",
-      "Streams+": "+12,860",
-      "7Day": "398,535",
-      "7Day+": "+3,794",
-      "Total": "150,046,531",
-      "track_id": "1XpmMe95dk9jh3zuOMpeU2",
+      "Pos": "92",
+      "P+": "+2",
+      "Artist and Title": "Max Pezzali - L'universo tranne noi",
+      "Days": "291",
+      "Pk": "66",
+      "(x?)": "",
+      "Streams": "54,386",
+      "Streams+": "-85",
+      "7Day": "417,655",
+      "7Day+": "-3,668",
+      "Total": "15,623,122",
+      "track_id": "0RYqzVMfEjbDr1CTL7fta5",
       "artist_ids": [
-        "5SulO4l40qDuV9zUGLZx7n"
+        "6FcVd3KlRxozcLl19FMXu9"
       ]
     },
     {
-      "Pos": "85",
-      "P+": "-8",
+      "Pos": "93",
+      "P+": "+16",
+      "Artist and Title": "Bresh - Introvabile",
+      "Days": "291",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "54,286",
+      "Streams+": "+2,959",
+      "7Day": "357,035",
+      "7Day+": "-1,645",
+      "Total": "23,635,839",
+      "track_id": "5NX1BUQi3Z5r9koZVhU6kf",
+      "artist_ids": [
+        "7FeObngbQ0GY3SojNwKdKn"
+      ]
+    },
+    {
+      "Pos": "94",
+      "P+": "+20",
+      "Artist and Title": "Lazza - BUIO DAVANTI",
+      "Days": "760",
+      "Pk": "3",
+      "(x?)": "(x8)",
+      "Streams": "54,128",
+      "Streams+": "+3,132",
+      "7Day": "371,554",
+      "7Day+": "+2,223",
+      "Total": "93,559,833",
+      "track_id": "5MJc4IVIt17xEt6angtZcq",
+      "artist_ids": [
+        "0jdNdfi4vAuVi7a6cPDFBM"
+      ]
+    },
+    {
+      "Pos": "95",
+      "P+": "+89",
+      "Artist and Title": "Ultimo - ACQUARIO",
+      "Days": "267",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "53,544",
+      "Streams+": "+11,207",
+      "7Day": "341,024",
+      "7Day+": "+53,544",
+      "Total": "25,541,475",
+      "track_id": "0P0GZSQTYSdCPzQar8Rbqf",
+      "artist_ids": [
+        "3hN3iJMbbBmqBSAMx5veDa"
+      ]
+    },
+    {
+      "Pos": "96",
+      "P+": "+10",
+      "Artist and Title": "Tommaso Paradiso - I romantici",
+      "Days": "259",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "53,397",
+      "Streams+": "+1,733",
+      "7Day": "388,013",
+      "7Day+": "-7,187",
+      "Total": "31,719,484",
+      "track_id": "3UUqp8cf3sWFSmxw6r0Tqm",
+      "artist_ids": [
+        "47z0zz9ZMCn9GBiPRTn5Bc"
+      ]
+    },
+    {
+      "Pos": "97",
+      "P+": "+5",
+      "Artist and Title": "ADÉLA - Nicole Kidman",
+      "Days": "36",
+      "Pk": "62",
+      "(x?)": "",
+      "Streams": "53,386",
+      "Streams+": "+1,032",
+      "7Day": "389,087",
+      "7Day+": "-2,721",
+      "Total": "2,097,238",
+      "track_id": "70cHKK8bHAfJrOGVnfRG9J",
+      "artist_ids": [
+        "2qanRMyA5bNuTvz1dK45OP"
+      ]
+    },
+    {
+      "Pos": "98",
+      "P+": "-22",
+      "Artist and Title": "Temper City - Self Aware",
+      "Days": "217",
+      "Pk": "32",
+      "(x?)": "",
+      "Streams": "53,312",
+      "Streams+": "-4,218",
+      "7Day": "384,356",
+      "7Day+": "-3,686",
+      "Total": "18,330,677",
+      "track_id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "artist_ids": [
+        "5mHUmlJWkcoOk1NbjfrXWz"
+      ]
+    },
+    {
+      "Pos": "99",
+      "P+": "+16",
+      "Artist and Title": "Shiva - Diversi",
+      "Days": "185",
+      "Pk": "31",
+      "(x?)": "",
+      "Streams": "53,229",
+      "Streams+": "+2,246",
+      "7Day": "369,552",
+      "7Day+": "+87",
+      "Total": "10,903,517",
+      "track_id": "3Eh8NAQVV8b1EzgKang5ne",
+      "artist_ids": [
+        "2K5nCggbhSZ00YCYP5qkZS"
+      ]
+    },
+    {
+      "Pos": "100",
+      "P+": "+31",
+      "Artist and Title": "Achille Lauro - 16 Marzo (w/ Gow Tribe)",
+      "Days": "813",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "52,992",
+      "Streams+": "+4,610",
+      "7Day": "367,301",
+      "7Day+": "+2,719",
+      "Total": "55,188,266",
+      "track_id": "2kZV7d0A4BIN5I8iFBnbqp",
+      "artist_ids": [
+        "0lI3rF4hi4op6UxqlLHPzv",
+        "2dAKW1tsAariQ0Ta2gqp8N"
+      ]
+    },
+    {
+      "Pos": "101",
+      "P+": "-9",
+      "Artist and Title": "Olly - Devastante (w/ Juli)",
+      "Days": "978",
+      "Pk": "3",
+      "(x?)": "(x9)",
+      "Streams": "52,829",
+      "Streams+": "-2,254",
+      "7Day": "403,501",
+      "7Day+": "-11,207",
+      "Total": "148,209,187",
+      "track_id": "1ej2NcW0CHnscPp1RZpr1V",
+      "artist_ids": [
+        "25u1DN0MwQVSav4XoJS7hl",
+        "4rj3KWaLAnuxgtMMkypZhf"
+      ]
+    },
+    {
+      "Pos": "102",
+      "P+": "+6",
+      "Artist and Title": "22simba - Sipario feat. Promessa (w/ Promessa)",
+      "Days": "54",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "52,809",
+      "Streams+": "+1,302",
+      "7Day": "358,067",
+      "7Day+": "-318",
+      "Total": "4,838,794",
+      "track_id": "6EyaUvb5tCmEZlaN1AFt62",
+      "artist_ids": [
+        "4Xsf5hhfIyhTgiVymlPLA7",
+        "57XSE1wSSI6Xnpx6LMWAKN"
+      ]
+    },
+    {
+      "Pos": "103",
+      "P+": "+23",
+      "Artist and Title": "Jovanotti - Buon Vento (w/ Alfa)",
+      "Days": "173",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "52,780",
+      "Streams+": "+3,921",
+      "7Day": "380,947",
+      "7Day+": "-2,002",
+      "Total": "16,471,876",
+      "track_id": "5vdmfjy5CVrV0xYEcO2f4Q",
+      "artist_ids": [
+        "7tmMPdOmFvdRvbj2aWoiRi",
+        "7GacyaFUp0qkEJglERX9N7"
+      ]
+    },
+    {
+      "Pos": "104",
+      "P+": "-23",
+      "Artist and Title": "883 - Gli anni (96)",
+      "Days": "193",
+      "Pk": "57",
+      "(x?)": "",
+      "Streams": "52,773",
+      "Streams+": "-3,378",
+      "7Day": "378,528",
+      "7Day+": "-3,651",
+      "Total": "10,155,611",
+      "track_id": "5m765S50ytWrB8hfdcbQds",
+      "artist_ids": [
+        "6bMul6rmRS03x38tWKYifO"
+      ]
+    },
+    {
+      "Pos": "105",
+      "P+": "-2",
+      "Artist and Title": "The Neighbourhood - Sweater Weather",
+      "Days": "694",
+      "Pk": "96",
+      "(x?)": "",
+      "Streams": "52,667",
+      "Streams+": "+854",
+      "7Day": "366,055",
+      "7Day+": "-1,865",
+      "Total": "33,299,726",
+      "track_id": "2QjOHCTQ1Jl3zawyYOpxh6",
+      "artist_ids": [
+        "77SW9BnxLY8rJ0RciFqkHh"
+      ]
+    },
+    {
+      "Pos": "106",
+      "P+": "-5",
+      "Artist and Title": "sombr - back to friends",
+      "Days": "533",
+      "Pk": "29",
+      "(x?)": "",
+      "Streams": "52,624",
+      "Streams+": "+230",
+      "7Day": "369,307",
+      "7Day+": "-6,947",
+      "Total": "38,651,838",
+      "track_id": "7qjZnBKE73H4Oxkopwulqe",
+      "artist_ids": [
+        "4G9NDjRyZFDlJKMRL8hx3S"
+      ]
+    },
+    {
+      "Pos": "107",
+      "P+": "-22",
       "Artist and Title": "Geolier - UNA VITA FA (w/ Shiva, MACE)",
-      "Days": "285",
+      "Days": "286",
       "Pk": "14",
       "(x?)": "",
-      "Streams": "55,904",
-      "Streams+": "+3,290",
-      "7Day": "414,621",
-      "7Day+": "+830",
-      "Total": "20,694,219",
+      "Streams": "52,581",
+      "Streams+": "-3,323",
+      "7Day": "407,065",
+      "7Day+": "-7,556",
+      "Total": "20,746,800",
       "track_id": "362nbPmkrCtts9zhlLFfIR",
       "artist_ids": [
         "27LlKWxS3KXW7RRAxN5S8s",
@@ -1498,173 +1878,315 @@
       ]
     },
     {
-      "Pos": "86",
-      "P+": "+12",
-      "Artist and Title": "Marracash - CRUDELIA - I nervi",
-      "Days": "2413",
-      "Pk": "2",
-      "(x?)": "(x5)",
-      "Streams": "55,882",
-      "Streams+": "+7,349",
-      "7Day": "410,370",
-      "7Day+": "-6,822",
-      "Total": "200,736,476",
-      "track_id": "0xEgDBXYO9gGzmxCFWKxNg",
-      "artist_ids": [
-        "5AZuEF0feCXMkUCwQiQlW7"
-      ]
-    },
-    {
-      "Pos": "87",
-      "P+": "+12",
-      "Artist and Title": "Ernia - Superclassico",
-      "Days": "1552",
-      "Pk": "1",
-      "(x?)": "(x11)",
-      "Streams": "55,795",
-      "Streams+": "+7,282",
-      "7Day": "407,468",
-      "7Day+": "-8,681",
-      "Total": "145,552,469",
-      "track_id": "6Ahg1hncxUdK0ICqU03BCu",
-      "artist_ids": [
-        "3fhMfkPPzksWuw0hEm4ldm"
-      ]
-    },
-    {
-      "Pos": "88",
-      "P+": "-3",
-      "Artist and Title": "Marracash - Niente Canzoni D'Amore - Inedito (w/ Federica Abbate)",
-      "Days": "978",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "55,793",
-      "Streams+": "+5,350",
-      "7Day": "410,739",
-      "7Day+": "-5,873",
-      "Total": "48,093,036",
-      "track_id": "7uu3YZytpYW15VIfa7ynJk",
-      "artist_ids": [
-        "5AZuEF0feCXMkUCwQiQlW7",
-        "05brE7yGJDmIYlMirfSi0B"
-      ]
-    },
-    {
-      "Pos": "89",
+      "Pos": "108",
       "P+": "+15",
-      "Artist and Title": "Kid Yugi - Per te che Lotto",
-      "Days": "87",
-      "Pk": "15",
+      "Artist and Title": "Finesse - Bad Boy (w/ Shiva, Capo Plaza, AVA)",
+      "Days": "228",
+      "Pk": "5",
       "(x?)": "",
-      "Streams": "55,595",
-      "Streams+": "+8,268",
-      "7Day": "393,572",
-      "7Day+": "-4,887",
-      "Total": "7,596,501",
-      "track_id": "70600tukZat0m8rM0yqDoD",
+      "Streams": "52,544",
+      "Streams+": "+3,137",
+      "7Day": "366,971",
+      "7Day+": "+4,452",
+      "Total": "22,249,649",
+      "track_id": "2RtHstoMxzCZp3QaR5unjR",
       "artist_ids": [
-        "0EUR8jz8L936AEbV2Spkca"
+        "3GWuJyC9r6Ug0F6jeLzTpY",
+        "2K5nCggbhSZ00YCYP5qkZS",
+        "5SulO4l40qDuV9zUGLZx7n",
+        "7zPS3i8YJBNeDcqXUHfCMr"
       ]
     },
     {
-      "Pos": "90",
-      "P+": "+17",
-      "Artist and Title": "Marracash - BRAVI A CADERE - I polmoni",
-      "Days": "1222",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "55,313",
-      "Streams+": "+8,084",
-      "7Day": "392,770",
-      "7Day+": "+2,782",
-      "Total": "95,919,859",
-      "track_id": "5eSC7faDYHxnklPjcxZjD6",
+      "Pos": "109",
+      "P+": "-2",
+      "Artist and Title": "Cesare Cremonini - Poetica",
+      "Days": "1060",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "52,459",
+      "Streams+": "+894",
+      "7Day": "371,056",
+      "7Day+": "-11,163",
+      "Total": "65,196,175",
+      "track_id": "07qo9gnLM488CUr0EtgIA1",
       "artist_ids": [
-        "5AZuEF0feCXMkUCwQiQlW7"
+        "396Jr76018oUMR6QBnqT8T"
       ]
     },
     {
-      "Pos": "91",
-      "P+": "+33",
-      "Artist and Title": "22simba - Freedom",
-      "Days": "53",
+      "Pos": "110",
+      "P+": "+50",
+      "Artist and Title": "Coez - È sempre bello",
+      "Days": "1152",
+      "Pk": "1",
+      "(x?)": "(x25)",
+      "Streams": "52,417",
+      "Streams+": "+7,462",
+      "7Day": "397,404",
+      "7Day+": "-23,355",
+      "Total": "111,833,733",
+      "track_id": "6IdiuMw1FSAvU3e6bgWQVX",
+      "artist_ids": [
+        "5dXlc7MnpaTeUIsHLVe3n4"
+      ]
+    },
+    {
+      "Pos": "111",
+      "P+": "=",
+      "Artist and Title": "ADÉLA - Ain't In LA",
+      "Days": "28",
+      "Pk": "89",
+      "(x?)": "",
+      "Streams": "52,022",
+      "Streams+": "+780",
+      "7Day": "368,843",
+      "7Day+": "-6,016",
+      "Total": "1,498,620",
+      "track_id": "6U9VpmP3dEinuezxCJ2Zg9",
+      "artist_ids": [
+        "2qanRMyA5bNuTvz1dK45OP"
+      ]
+    },
+    {
+      "Pos": "112",
+      "P+": "-12",
+      "Artist and Title": "Capo Plaza - Lo So Che",
+      "Days": "664",
       "Pk": "14",
       "(x?)": "",
-      "Streams": "55,126",
-      "Streams+": "+9,601",
-      "7Day": "404,863",
-      "7Day+": "-2,369",
-      "Total": "4,043,714",
-      "track_id": "643MFa7QJyJw8muzkfnZOP",
+      "Streams": "51,911",
+      "Streams+": "-523",
+      "7Day": "362,399",
+      "7Day+": "-1,553",
+      "Total": "45,677,340",
+      "track_id": "3w73qvCSGWPCx7w1UMIh6e",
       "artist_ids": [
-        "4Xsf5hhfIyhTgiVymlPLA7"
+        "5SulO4l40qDuV9zUGLZx7n"
       ]
     },
     {
-      "Pos": "92",
-      "P+": "-12",
-      "Artist and Title": "Olly - Devastante (w/ Juli)",
-      "Days": "977",
-      "Pk": "3",
-      "(x?)": "(x9)",
-      "Streams": "55,083",
-      "Streams+": "+3,820",
-      "7Day": "414,708",
-      "7Day+": "-3,531",
-      "Total": "148,156,358",
-      "track_id": "1ej2NcW0CHnscPp1RZpr1V",
+      "Pos": "113",
+      "P+": "+4",
+      "Artist and Title": "Olly - Per due come noi (w/ Angelina Mango, Juli)",
+      "Days": "796",
+      "Pk": "1",
+      "(x?)": "(x15)",
+      "Streams": "51,897",
+      "Streams+": "+954",
+      "7Day": "378,842",
+      "7Day+": "-4,533",
+      "Total": "122,751,324",
+      "track_id": "5nFyfjGy6AMZqkW0OMUWJJ",
       "artist_ids": [
         "25u1DN0MwQVSav4XoJS7hl",
+        "1A6HBLulvBFzNtlMb7b08f",
         "4rj3KWaLAnuxgtMMkypZhf"
       ]
     },
     {
-      "Pos": "93",
-      "P+": "-6",
-      "Artist and Title": "ANOTR - Talk To You (ft. 54 Ultra) (w/ 54 Ultra)",
-      "Days": "84",
+      "Pos": "114",
+      "P+": "+20",
+      "Artist and Title": "Achille Lauro - Amore Disperato",
+      "Days": "779",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "51,648",
+      "Streams+": "+3,723",
+      "7Day": "375,275",
+      "7Day+": "-9,829",
+      "Total": "84,572,572",
+      "track_id": "0h7djzQOTBHcNaKD8k449b",
+      "artist_ids": [
+        "0lI3rF4hi4op6UxqlLHPzv"
+      ]
+    },
+    {
+      "Pos": "115",
+      "P+": "-5",
+      "Artist and Title": "Gazzelle - Destri",
+      "Days": "2233",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "51,508",
+      "Streams+": "+193",
+      "7Day": "358,769",
+      "7Day+": "-9,023",
+      "Total": "184,777,328",
+      "track_id": "7nRFsITVaSHko2Fw2Gcy59",
+      "artist_ids": [
+        "7KFOc3T4Xo8DVZt4PWw2qN"
+      ]
+    },
+    {
+      "Pos": "116",
+      "P+": "+2",
+      "Artist and Title": "Nabi - KICHTA LOVA (w/ LILCR)",
+      "Days": "28",
+      "Pk": "25",
+      "(x?)": "",
+      "Streams": "51,504",
+      "Streams+": "+1,209",
+      "7Day": "366,719",
+      "7Day+": "-1,558",
+      "Total": "1,674,140",
+      "track_id": "2bnG45ztHV2m26JsN3QyBi",
+      "artist_ids": [
+        "5CqlDzj8DSqsklkXuTYfSd",
+        "44pyDZDAHZP2Tt0kcPHK1S"
+      ]
+    },
+    {
+      "Pos": "117",
+      "P+": "-5",
+      "Artist and Title": "Kid Yugi - Push It (w/ ANNA)",
+      "Days": "313",
+      "Pk": "1",
+      "(x?)": "(x8)",
+      "Streams": "51,408",
+      "Streams+": "+178",
+      "7Day": "391,176",
+      "7Day+": "-9,003",
+      "Total": "32,913,390",
+      "track_id": "3uExyCdMa9XfVuXpuYhod4",
+      "artist_ids": [
+        "0EUR8jz8L936AEbV2Spkca",
+        "7K80yOTC0Id95gRaOxDG5u"
+      ]
+    },
+    {
+      "Pos": "118",
+      "P+": "-14",
+      "Artist and Title": "Eddie Brock - Non è mica te",
+      "Days": "393",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "51,343",
+      "Streams+": "-439",
+      "7Day": "384,743",
+      "7Day+": "-10,809",
+      "Total": "38,010,412",
+      "track_id": "7EOKcZX9TRkIs0nwWbCCbD",
+      "artist_ids": [
+        "0harR1ApYeMN6GOLBNMiUR"
+      ]
+    },
+    {
+      "Pos": "119",
+      "P+": "-3",
+      "Artist and Title": "Shakira - Dai Dai (w/ Burna Boy)",
+      "Days": "153",
+      "Pk": "3",
+      "(x?)": "(x8)",
+      "Streams": "51,323",
+      "Streams+": "+347",
+      "7Day": "396,566",
+      "7Day+": "-69",
+      "Total": "17,517,619",
+      "track_id": "0kosUz0jePvjiz4ctmR6wL",
+      "artist_ids": [
+        "0EmeFodog0BfCgMzAIvKQp",
+        "3wcj11K77LjEY1PkEazffa"
+      ]
+    },
+    {
+      "Pos": "120",
+      "P+": "+4",
+      "Artist and Title": "Sfera Ebbasta - Anche Stasera",
+      "Days": "1050",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "51,307",
+      "Streams+": "+2,044",
+      "7Day": "358,842",
+      "7Day+": "+426",
+      "Total": "106,009,789",
+      "track_id": "5WssaPhjCCUFBMk9PpnHYj",
+      "artist_ids": [
+        "23TFHmajVfBtlRx5MXqgoz"
+      ]
+    },
+    {
+      "Pos": "121",
+      "P+": "-8",
+      "Artist and Title": "Geolier - AUTORITÀ",
+      "Days": "160",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "51,184",
+      "Streams+": "-44",
+      "7Day": "407,319",
+      "7Day+": "-6,931",
+      "Total": "16,832,551",
+      "track_id": "3I9z79CW67VLa4wCH3dkhQ",
+      "artist_ids": [
+        "27LlKWxS3KXW7RRAxN5S8s"
+      ]
+    },
+    {
+      "Pos": "122",
+      "P+": "-2",
+      "Artist and Title": "Tananai - BUONANOTTE ANCHE STANOTTE",
+      "Days": "5",
+      "Pk": "50",
+      "(x?)": "",
+      "Streams": "51,072",
+      "Streams+": "+1,456",
+      "7Day": "222,762",
+      "7Day+": "+2,248",
+      "Total": "271,586",
+      "track_id": "05cxuAZUr1KgLBP2wL2S6l",
+      "artist_ids": [
+        "35V1WomiedCJeGfupcPm7s"
+      ]
+    },
+    {
+      "Pos": "123",
+      "P+": "+4",
+      "Artist and Title": "Alex Warren - Ordinary",
+      "Days": "590",
       "Pk": "10",
       "(x?)": "",
-      "Streams": "54,658",
-      "Streams+": "+4,386",
-      "7Day": "418,221",
-      "7Day+": "-1,448",
-      "Total": "7,886,981",
-      "track_id": "0eUP3XYOCAj7lGoz4LOhyQ",
+      "Streams": "50,841",
+      "Streams+": "+2,007",
+      "7Day": "363,105",
+      "7Day+": "-7,197",
+      "Total": "59,618,771",
+      "track_id": "2RkZ5LkEzeHGRsmDqKwmaJ",
       "artist_ids": [
-        "4p5WgeiPSPpqPDs7T6OkWf",
-        "6X5L6rmyvrWWu60Gx6exiZ"
+        "0fTSzq9jAh4c36UVb4V7CB"
       ]
     },
     {
-      "Pos": "94",
-      "P+": "-20",
-      "Artist and Title": "Max Pezzali - L'universo tranne noi",
-      "Days": "290",
-      "Pk": "66",
+      "Pos": "124",
+      "P+": "-51",
+      "Artist and Title": "Kid Yugi - Il mio posto nel Mondo (w/ Guè)",
+      "Days": "12",
+      "Pk": "6",
       "(x?)": "",
-      "Streams": "54,471",
-      "Streams+": "+1,594",
-      "7Day": "421,323",
-      "7Day+": "+1,327",
-      "Total": "15,568,736",
-      "track_id": "0RYqzVMfEjbDr1CTL7fta5",
+      "Streams": "50,677",
+      "Streams+": "-7,718",
+      "7Day": "500,179",
+      "7Day+": "-66,258",
+      "Total": "1,202,110",
+      "track_id": "2lFKJrz2JhquBuLcZsbvOu",
       "artist_ids": [
-        "6FcVd3KlRxozcLl19FMXu9"
+        "0EUR8jz8L936AEbV2Spkca",
+        "7F2utINZ6tSokSiZTQBE27"
       ]
     },
     {
-      "Pos": "95",
-      "P+": "-13",
+      "Pos": "125",
+      "P+": "-30",
       "Artist and Title": "MACE - Satellite ◑ (con Gemitaiz, Venerus, Promessa, iako, Izi) (w/ Gemitaiz, Venerus, Promessa, iako, Izi)",
-      "Days": "4",
+      "Days": "5",
       "Pk": "8",
       "(x?)": "",
-      "Streams": "54,432",
-      "Streams+": "+3,279",
-      "7Day": "348,092",
-      "7Day+": "+54,432",
-      "Total": "348,092",
+      "Streams": "50,634",
+      "Streams+": "-3,798",
+      "7Day": "398,726",
+      "7Day+": "+50,634",
+      "Total": "398,726",
       "track_id": "7e6KoJch30XS9peskmndI9",
       "artist_ids": [
         "7gjqZ8coFZimZDtdk04WP1",
@@ -1676,935 +2198,34 @@
       ]
     },
     {
-      "Pos": "96",
-      "P+": "-8",
-      "Artist and Title": "Shiva - Babyface (w/ Kid Yugi)",
-      "Days": "214",
-      "Pk": "2",
-      "(x?)": "(x2)",
-      "Streams": "54,204",
-      "Streams+": "+4,203",
-      "7Day": "403,598",
-      "7Day+": "-147",
-      "Total": "26,790,383",
-      "track_id": "5LN0gLSxSEaigog3VjCci3",
-      "artist_ids": [
-        "2K5nCggbhSZ00YCYP5qkZS",
-        "0EUR8jz8L936AEbV2Spkca"
-      ]
-    },
-    {
-      "Pos": "97",
-      "P+": "-18",
-      "Artist and Title": "Cesare Cremonini - La Nuova Stella Di Broadway",
-      "Days": "1287",
-      "Pk": "37",
-      "(x?)": "",
-      "Streams": "53,720",
-      "Streams+": "+2,176",
-      "7Day": "416,457",
-      "7Day+": "-12,684",
-      "Total": "79,452,573",
-      "track_id": "3qtuOAI0YyfoBM1s7Tvm46",
-      "artist_ids": [
-        "396Jr76018oUMR6QBnqT8T"
-      ]
-    },
-    {
-      "Pos": "98",
-      "P+": "+24",
-      "Artist and Title": "Artie 5ive - INTRO (La Bella Vita)",
-      "Days": "552",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "52,973",
-      "Streams+": "+7,171",
-      "7Day": "385,210",
-      "7Day+": "+904",
-      "Total": "38,128,110",
-      "track_id": "1lslS1hUsIvAScXvWVTLt2",
-      "artist_ids": [
-        "2R4kNOwHUUsuDYhKsESVbF"
-      ]
-    },
-    {
-      "Pos": "99",
-      "P+": "+15",
-      "Artist and Title": "Luchè - Nessuna",
-      "Days": "543",
-      "Pk": "1",
-      "(x?)": "(x4)",
-      "Streams": "52,518",
-      "Streams+": "+5,746",
-      "7Day": "376,258",
-      "7Day+": "-4,908",
-      "Total": "66,583,358",
-      "track_id": "5bhYjElbPmm2FyB0PxP8Wd",
-      "artist_ids": [
-        "3yiEJ9SByXZMXTwaKdVFN4"
-      ]
-    },
-    {
-      "Pos": "100",
-      "P+": "+40",
-      "Artist and Title": "Capo Plaza - Lo So Che",
-      "Days": "663",
-      "Pk": "14",
-      "(x?)": "",
-      "Streams": "52,434",
-      "Streams+": "+8,790",
-      "7Day": "363,952",
-      "7Day+": "+641",
-      "Total": "45,625,429",
-      "track_id": "3w73qvCSGWPCx7w1UMIh6e",
-      "artist_ids": [
-        "5SulO4l40qDuV9zUGLZx7n"
-      ]
-    },
-    {
-      "Pos": "101",
-      "P+": "+22",
-      "Artist and Title": "sombr - back to friends",
-      "Days": "532",
-      "Pk": "29",
-      "(x?)": "",
-      "Streams": "52,394",
-      "Streams+": "+6,602",
-      "7Day": "376,254",
-      "7Day+": "-4,366",
-      "Total": "38,599,214",
-      "track_id": "7qjZnBKE73H4Oxkopwulqe",
-      "artist_ids": [
-        "4G9NDjRyZFDlJKMRL8hx3S"
-      ]
-    },
-    {
-      "Pos": "102",
-      "P+": "+7",
-      "Artist and Title": "ADÉLA - Nicole Kidman",
-      "Days": "35",
-      "Pk": "62",
-      "(x?)": "",
-      "Streams": "52,354",
-      "Streams+": "+5,272",
-      "7Day": "391,808",
-      "7Day+": "-2,821",
-      "Total": "2,043,852",
-      "track_id": "70cHKK8bHAfJrOGVnfRG9J",
-      "artist_ids": [
-        "2qanRMyA5bNuTvz1dK45OP"
-      ]
-    },
-    {
-      "Pos": "103",
-      "P+": "+15",
-      "Artist and Title": "The Neighbourhood - Sweater Weather",
-      "Days": "693",
-      "Pk": "96",
-      "(x?)": "",
-      "Streams": "51,813",
-      "Streams+": "+5,592",
-      "7Day": "367,920",
-      "7Day+": "-352",
-      "Total": "33,247,059",
-      "track_id": "2QjOHCTQ1Jl3zawyYOpxh6",
-      "artist_ids": [
-        "77SW9BnxLY8rJ0RciFqkHh"
-      ]
-    },
-    {
-      "Pos": "104",
-      "P+": "-3",
-      "Artist and Title": "Eddie Brock - Non è mica te",
-      "Days": "392",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "51,782",
-      "Streams+": "+3,945",
-      "7Day": "395,552",
-      "7Day+": "-2,472",
-      "Total": "37,959,069",
-      "track_id": "7EOKcZX9TRkIs0nwWbCCbD",
-      "artist_ids": [
-        "0harR1ApYeMN6GOLBNMiUR"
-      ]
-    },
-    {
-      "Pos": "105",
-      "P+": "+52",
-      "Artist and Title": "Pinguini Tattici Nucleari - Islanda",
-      "Days": "649",
-      "Pk": "1",
-      "(x?)": "(x13)",
-      "Streams": "51,677",
-      "Streams+": "+9,934",
-      "7Day": "199,968",
-      "7Day+": "+51,677",
-      "Total": "80,937,429",
-      "track_id": "0JiJbbKU6RTYJXMBI34UzM",
-      "artist_ids": [
-        "6RdcIWVKYYzNzjQRd3oyHS"
-      ]
-    },
-    {
-      "Pos": "106",
-      "P+": "-11",
-      "Artist and Title": "Tommaso Paradiso - I romantici",
-      "Days": "258",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "51,664",
-      "Streams+": "+2,578",
-      "7Day": "395,200",
-      "7Day+": "-6,207",
-      "Total": "31,666,087",
-      "track_id": "3UUqp8cf3sWFSmxw6r0Tqm",
-      "artist_ids": [
-        "47z0zz9ZMCn9GBiPRTn5Bc"
-      ]
-    },
-    {
-      "Pos": "107",
-      "P+": "-4",
-      "Artist and Title": "Cesare Cremonini - Poetica",
-      "Days": "1059",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "51,565",
-      "Streams+": "+4,215",
-      "7Day": "382,219",
-      "7Day+": "-7,401",
-      "Total": "65,143,716",
-      "track_id": "07qo9gnLM488CUr0EtgIA1",
-      "artist_ids": [
-        "396Jr76018oUMR6QBnqT8T"
-      ]
-    },
-    {
-      "Pos": "108",
-      "P+": "+61",
-      "Artist and Title": "22simba - Sipario feat. Promessa (w/ Promessa)",
-      "Days": "53",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "51,507",
-      "Streams+": "+10,682",
-      "7Day": "358,385",
-      "7Day+": "-851",
-      "Total": "4,785,985",
-      "track_id": "6EyaUvb5tCmEZlaN1AFt62",
-      "artist_ids": [
-        "4Xsf5hhfIyhTgiVymlPLA7",
-        "57XSE1wSSI6Xnpx6LMWAKN"
-      ]
-    },
-    {
-      "Pos": "109",
-      "P+": "+50",
-      "Artist and Title": "Bresh - Introvabile",
-      "Days": "290",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "51,327",
-      "Streams+": "+9,776",
-      "7Day": "358,680",
-      "7Day+": "-916",
-      "Total": "23,581,553",
-      "track_id": "5NX1BUQi3Z5r9koZVhU6kf",
-      "artist_ids": [
-        "7FeObngbQ0GY3SojNwKdKn"
-      ]
-    },
-    {
-      "Pos": "110",
-      "P+": "+35",
-      "Artist and Title": "Gazzelle - Destri",
-      "Days": "2232",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "51,315",
-      "Streams+": "+8,207",
-      "7Day": "367,792",
-      "7Day+": "-4,115",
-      "Total": "184,725,820",
-      "track_id": "7nRFsITVaSHko2Fw2Gcy59",
-      "artist_ids": [
-        "7KFOc3T4Xo8DVZt4PWw2qN"
-      ]
-    },
-    {
-      "Pos": "111",
-      "P+": "+16",
-      "Artist and Title": "ADÉLA - Ain't In LA",
-      "Days": "27",
-      "Pk": "89",
-      "(x?)": "",
-      "Streams": "51,242",
-      "Streams+": "+5,846",
-      "7Day": "374,859",
-      "7Day+": "-3,591",
-      "Total": "1,446,598",
-      "track_id": "6U9VpmP3dEinuezxCJ2Zg9",
-      "artist_ids": [
-        "2qanRMyA5bNuTvz1dK45OP"
-      ]
-    },
-    {
-      "Pos": "112",
-      "P+": "-12",
-      "Artist and Title": "Kid Yugi - Push It (w/ ANNA)",
-      "Days": "312",
-      "Pk": "1",
-      "(x?)": "(x8)",
-      "Streams": "51,230",
-      "Streams+": "+3,105",
-      "7Day": "400,179",
-      "7Day+": "-12,292",
-      "Total": "32,861,982",
-      "track_id": "3uExyCdMa9XfVuXpuYhod4",
-      "artist_ids": [
-        "0EUR8jz8L936AEbV2Spkca",
-        "7K80yOTC0Id95gRaOxDG5u"
-      ]
-    },
-    {
-      "Pos": "113",
-      "P+": "-27",
-      "Artist and Title": "Geolier - AUTORITÀ",
-      "Days": "159",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "51,228",
-      "Streams+": "+877",
-      "7Day": "414,250",
-      "7Day+": "-1,812",
-      "Total": "16,781,367",
-      "track_id": "3I9z79CW67VLa4wCH3dkhQ",
-      "artist_ids": [
-        "27LlKWxS3KXW7RRAxN5S8s"
-      ]
-    },
-    {
-      "Pos": "114",
-      "P+": "+20",
-      "Artist and Title": "Lazza - BUIO DAVANTI",
-      "Days": "759",
-      "Pk": "3",
-      "(x?)": "(x8)",
-      "Streams": "50,996",
-      "Streams+": "+7,120",
-      "7Day": "369,331",
-      "7Day+": "+3,581",
-      "Total": "93,505,705",
-      "track_id": "5MJc4IVIt17xEt6angtZcq",
-      "artist_ids": [
-        "0jdNdfi4vAuVi7a6cPDFBM"
-      ]
-    },
-    {
-      "Pos": "115",
-      "P+": "-13",
-      "Artist and Title": "Shiva - Diversi",
-      "Days": "184",
-      "Pk": "31",
-      "(x?)": "",
-      "Streams": "50,983",
-      "Streams+": "+3,463",
-      "7Day": "369,465",
-      "7Day+": "+1,385",
-      "Total": "10,850,288",
-      "track_id": "3Eh8NAQVV8b1EzgKang5ne",
-      "artist_ids": [
-        "2K5nCggbhSZ00YCYP5qkZS"
-      ]
-    },
-    {
-      "Pos": "116",
-      "P+": "-49",
-      "Artist and Title": "Shakira - Dai Dai (w/ Burna Boy)",
-      "Days": "152",
-      "Pk": "3",
-      "(x?)": "(x8)",
-      "Streams": "50,976",
-      "Streams+": "-3,492",
-      "7Day": "396,635",
-      "7Day+": "+2,232",
-      "Total": "17,466,296",
-      "track_id": "0kosUz0jePvjiz4ctmR6wL",
-      "artist_ids": [
-        "0EmeFodog0BfCgMzAIvKQp",
-        "3wcj11K77LjEY1PkEazffa"
-      ]
-    },
-    {
-      "Pos": "117",
-      "P+": "+9",
-      "Artist and Title": "Olly - Per due come noi (w/ Angelina Mango, Juli)",
-      "Days": "795",
-      "Pk": "1",
-      "(x?)": "(x15)",
-      "Streams": "50,943",
-      "Streams+": "+5,540",
-      "7Day": "383,375",
-      "7Day+": "-675",
-      "Total": "122,699,427",
-      "track_id": "5nFyfjGy6AMZqkW0OMUWJJ",
-      "artist_ids": [
-        "25u1DN0MwQVSav4XoJS7hl",
-        "1A6HBLulvBFzNtlMb7b08f",
-        "4rj3KWaLAnuxgtMMkypZhf"
-      ]
-    },
-    {
-      "Pos": "118",
-      "P+": "+25",
-      "Artist and Title": "Nabi - KICHTA LOVA (w/ LILCR)",
-      "Days": "27",
-      "Pk": "25",
-      "(x?)": "",
-      "Streams": "50,295",
-      "Streams+": "+7,077",
-      "7Day": "368,277",
-      "7Day+": "-292",
-      "Total": "1,622,636",
-      "track_id": "2bnG45ztHV2m26JsN3QyBi",
-      "artist_ids": [
-        "5CqlDzj8DSqsklkXuTYfSd",
-        "44pyDZDAHZP2Tt0kcPHK1S"
-      ]
-    },
-    {
-      "Pos": "119",
-      "P+": "+32",
-      "Artist and Title": "Guè - Brivido (w/ Marracash)",
-      "Days": "2309",
-      "Pk": "56",
-      "(x?)": "",
-      "Streams": "49,732",
-      "Streams+": "+7,311",
-      "7Day": "344,613",
-      "7Day+": "+1,535",
-      "Total": "128,248,504",
-      "track_id": "7fH13hSOyNoeiDGbjEnTUC",
-      "artist_ids": [
-        "7F2utINZ6tSokSiZTQBE27",
-        "5AZuEF0feCXMkUCwQiQlW7"
-      ]
-    },
-    {
-      "Pos": "120",
-      "P+": "+28",
-      "Artist and Title": "Tananai - BUONANOTTE ANCHE STANOTTE",
-      "Days": "4",
-      "Pk": "50",
-      "(x?)": "",
-      "Streams": "49,616",
-      "Streams+": "+6,822",
-      "7Day": "220,514",
-      "7Day+": "+49,616",
-      "Total": "220,514",
-      "track_id": "05cxuAZUr1KgLBP2wL2S6l",
-      "artist_ids": [
-        "35V1WomiedCJeGfupcPm7s"
-      ]
-    },
-    {
-      "Pos": "121",
-      "P+": "+21",
-      "Artist and Title": "Capo Plaza - 4U",
-      "Days": "26",
-      "Pk": "49",
-      "(x?)": "",
-      "Streams": "49,541",
-      "Streams+": "+6,216",
-      "7Day": "334,615",
-      "7Day+": "+8,137",
-      "Total": "1,483,630",
-      "track_id": "5Ro2csr2lw3pEcGAlkuHVp",
-      "artist_ids": [
-        "5SulO4l40qDuV9zUGLZx7n"
-      ]
-    },
-    {
-      "Pos": "122",
-      "P+": "-16",
-      "Artist and Title": "Sfera Ebbasta - Visiera A Becco",
-      "Days": "2108",
-      "Pk": "32",
-      "(x?)": "",
-      "Streams": "49,451",
-      "Streams+": "+2,218",
-      "7Day": "368,036",
-      "7Day+": "+1,975",
-      "Total": "122,214,574",
-      "track_id": "4ySxBjhmdnkeFUqhKxW3cY",
-      "artist_ids": [
-        "23TFHmajVfBtlRx5MXqgoz"
-      ]
-    },
-    {
-      "Pos": "123",
-      "P+": "+10",
-      "Artist and Title": "Finesse - Bad Boy (w/ Shiva, Capo Plaza, AVA)",
-      "Days": "227",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "49,407",
-      "Streams+": "+5,445",
-      "7Day": "362,519",
-      "7Day+": "+2,188",
-      "Total": "22,197,105",
-      "track_id": "2RtHstoMxzCZp3QaR5unjR",
-      "artist_ids": [
-        "3GWuJyC9r6Ug0F6jeLzTpY",
-        "2K5nCggbhSZ00YCYP5qkZS",
-        "5SulO4l40qDuV9zUGLZx7n",
-        "7zPS3i8YJBNeDcqXUHfCMr"
-      ]
-    },
-    {
-      "Pos": "124",
-      "P+": "-11",
-      "Artist and Title": "Sfera Ebbasta - Anche Stasera",
-      "Days": "1049",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "49,263",
-      "Streams+": "+2,420",
-      "7Day": "358,416",
-      "7Day+": "+1,438",
-      "Total": "105,958,482",
-      "track_id": "5WssaPhjCCUFBMk9PpnHYj",
-      "artist_ids": [
-        "23TFHmajVfBtlRx5MXqgoz"
-      ]
-    },
-    {
-      "Pos": "125",
-      "P+": "-33",
-      "Artist and Title": "Antonello Venditti - Alta marea (Don't Dream It's Over)",
-      "Days": "26",
-      "Pk": "92",
-      "(x?)": "",
-      "Streams": "49,054",
-      "Streams+": "-187",
-      "7Day": "369,408",
-      "7Day+": "+186",
-      "Total": "1,339,120",
-      "track_id": "6yHTzM3fSUn2SPUODnYHrQ",
-      "artist_ids": [
-        "3hYLJPJuDyblFKersEaFd6"
-      ]
-    },
-    {
       "Pos": "126",
-      "P+": "-36",
-      "Artist and Title": "Jovanotti - Buon Vento (w/ Alfa)",
-      "Days": "172",
-      "Pk": "22",
-      "(x?)": "",
-      "Streams": "48,859",
-      "Streams+": "-754",
-      "7Day": "382,949",
-      "7Day+": "-2,970",
-      "Total": "16,419,096",
-      "track_id": "5vdmfjy5CVrV0xYEcO2f4Q",
-      "artist_ids": [
-        "7tmMPdOmFvdRvbj2aWoiRi",
-        "7GacyaFUp0qkEJglERX9N7"
-      ]
-    },
-    {
-      "Pos": "127",
       "P+": "+3",
-      "Artist and Title": "Alex Warren - Ordinary",
-      "Days": "589",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "48,834",
-      "Streams+": "+4,243",
-      "7Day": "370,302",
-      "7Day+": "-5,113",
-      "Total": "59,567,930",
-      "track_id": "2RkZ5LkEzeHGRsmDqKwmaJ",
-      "artist_ids": [
-        "0fTSzq9jAh4c36UVb4V7CB"
-      ]
-    },
-    {
-      "Pos": "128",
-      "P+": "-31",
-      "Artist and Title": "Dagood YL - LA SCOPO CO O' SGUARDO",
-      "Days": "43",
-      "Pk": "55",
-      "(x?)": "",
-      "Streams": "48,725",
-      "Streams+": "+67",
-      "7Day": "373,948",
-      "7Day+": "-3,014",
-      "Total": "2,505,813",
-      "track_id": "4jQRIx85zOOBY07JJg61To",
-      "artist_ids": [
-        "4zHxCzvTEP15QarBTgB9hw"
-      ]
-    },
-    {
-      "Pos": "129",
-      "P+": "-17",
       "Artist and Title": "Bad Bunny - BAILE INoLVIDABLE",
-      "Days": "669",
+      "Days": "670",
       "Pk": "3",
       "(x?)": "(x2)",
-      "Streams": "48,698",
-      "Streams+": "+1,822",
-      "7Day": "379,076",
-      "7Day+": "-2,652",
-      "Total": "62,697,373",
+      "Streams": "50,313",
+      "Streams+": "+1,615",
+      "7Day": "374,845",
+      "7Day+": "-4,231",
+      "Total": "62,747,686",
       "track_id": "2lTm559tuIvatlT1u0JYG2",
       "artist_ids": [
         "4q3ewBCX7sLwd24euuV69X"
       ]
     },
     {
-      "Pos": "130",
-      "P+": "+34",
-      "Artist and Title": "Ashe - Stop The Wedding!",
-      "Days": "12",
-      "Pk": "130",
-      "(x?)": "",
-      "Streams": "48,610",
-      "Streams+": "+7,358",
-      "7Day": "322,149",
-      "7Day+": "+4,539",
-      "Total": "555,158",
-      "track_id": "7MOO89Qv9AV7VZkt5mcqA8",
-      "artist_ids": [
-        "6P5NO5hzJbuOqSdyPB7SJM"
-      ]
-    },
-    {
-      "Pos": "131",
-      "P+": "-11",
-      "Artist and Title": "Achille Lauro - 16 Marzo (w/ Gow Tribe)",
-      "Days": "812",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "48,382",
-      "Streams+": "+2,271",
-      "7Day": "364,582",
-      "7Day+": "+204",
-      "Total": "55,135,274",
-      "track_id": "2kZV7d0A4BIN5I8iFBnbqp",
-      "artist_ids": [
-        "0lI3rF4hi4op6UxqlLHPzv",
-        "2dAKW1tsAariQ0Ta2gqp8N"
-      ]
-    },
-    {
-      "Pos": "132",
-      "P+": "RE",
-      "Artist and Title": "Nemzzz - MONEY (w/ Artie 5ive)",
-      "Days": "3",
-      "Pk": "80",
-      "(x?)": "",
-      "Streams": "48,264",
-      "Streams+": "",
-      "7Day": "164,388",
-      "7Day+": "+48,264",
-      "Total": "164,388",
-      "track_id": "5J8Bk70gqe0eQryVXePyR9",
-      "artist_ids": [
-        "3DHtfeD4PsmR9YGhCP4VF7",
-        "2R4kNOwHUUsuDYhKsESVbF"
-      ]
-    },
-    {
-      "Pos": "133",
-      "P+": "-12",
-      "Artist and Title": "Irama - Cabana",
-      "Days": "167",
-      "Pk": "22",
-      "(x?)": "",
-      "Streams": "48,230",
-      "Streams+": "+2,404",
-      "7Day": "304,861",
-      "7Day+": "+48,230",
-      "Total": "14,055,634",
-      "track_id": "53GaYNLUejzouMIDRaukD1",
-      "artist_ids": [
-        "5iot8OPcosJN9nCl7I5SdK"
-      ]
-    },
-    {
-      "Pos": "134",
-      "P+": "-15",
-      "Artist and Title": "Achille Lauro - Amore Disperato",
-      "Days": "778",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "47,925",
-      "Streams+": "+1,741",
-      "7Day": "385,104",
-      "7Day+": "-7,247",
-      "Total": "84,520,924",
-      "track_id": "0h7djzQOTBHcNaKD8k449b",
-      "artist_ids": [
-        "0lI3rF4hi4op6UxqlLHPzv"
-      ]
-    },
-    {
-      "Pos": "135",
-      "P+": "-10",
-      "Artist and Title": "Artie 5ive - 7ELEVEN",
-      "Days": "480",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "47,770",
-      "Streams+": "+2,249",
-      "7Day": "359,871",
-      "7Day+": "-716",
-      "Total": "47,043,065",
-      "track_id": "27teXnNekA5jBFLCcsCFoq",
-      "artist_ids": [
-        "2R4kNOwHUUsuDYhKsESVbF"
-      ]
-    },
-    {
-      "Pos": "136",
-      "P+": "-20",
-      "Artist and Title": "Geolier - RIONE DI DOMENICA",
-      "Days": "25",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "47,617",
-      "Streams+": "+1,176",
-      "7Day": "415,867",
-      "7Day+": "-17,031",
-      "Total": "2,426,625",
-      "track_id": "2jTBeAiQJjzR06f8xXH2FB",
-      "artist_ids": [
-        "27LlKWxS3KXW7RRAxN5S8s"
-      ]
-    },
-    {
-      "Pos": "137",
-      "P+": "+33",
-      "Artist and Title": "Juli - Cantilene (w/ Olly)",
-      "Days": "199",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "47,436",
-      "Streams+": "+6,865",
-      "7Day": "345,071",
-      "7Day+": "+1,629",
-      "Total": "18,563,456",
-      "track_id": "3yaRrdo3DDeKgDaubuBsId",
-      "artist_ids": [
-        "4rj3KWaLAnuxgtMMkypZhf",
-        "25u1DN0MwQVSav4XoJS7hl"
-      ]
-    },
-    {
-      "Pos": "138",
-      "P+": "-45",
-      "Artist and Title": "ANNA - WHITE GIRL WASTED",
-      "Days": "143",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "47,411",
-      "Streams+": "-1,803",
-      "7Day": "370,128",
-      "7Day+": "-2,378",
-      "Total": "18,040,440",
-      "track_id": "3d56FH7ZlHf9tjojZSwv8U",
-      "artist_ids": [
-        "7K80yOTC0Id95gRaOxDG5u"
-      ]
-    },
-    {
-      "Pos": "139",
-      "P+": "+23",
-      "Artist and Title": "Tom Odell - Another Love",
-      "Days": "1376",
-      "Pk": "22",
-      "(x?)": "",
-      "Streams": "47,389",
-      "Streams+": "+5,922",
-      "7Day": "340,808",
-      "7Day+": "+1,004",
-      "Total": "96,337,833",
-      "track_id": "7jtQIBanIiJOMS6RyCx6jZ",
-      "artist_ids": [
-        "2txHhyCwHjUEpJjWrEyqyX"
-      ]
-    },
-    {
-      "Pos": "140",
-      "P+": "-4",
-      "Artist and Title": "HUGEL - Jamaican (Bam Bam) (w/ SOLTO (FR))",
-      "Days": "221",
-      "Pk": "14",
-      "(x?)": "",
-      "Streams": "47,120",
-      "Streams+": "+3,366",
-      "7Day": "361,994",
-      "7Day+": "-1,747",
-      "Total": "19,769,969",
-      "track_id": "7e4zDInS6tA2jwzphvs2Ay",
-      "artist_ids": [
-        "5PlfkPxwCpRRWQJBxCa0By",
-        "0F3tUZeb9dLNEpxCpzEBQt"
-      ]
-    },
-    {
-      "Pos": "141",
-      "P+": "+24",
-      "Artist and Title": "Tony Boy - Come mi guardi",
-      "Days": "315",
-      "Pk": "75",
-      "(x?)": "",
-      "Streams": "47,065",
-      "Streams+": "+5,932",
-      "7Day": "345,163",
-      "7Day+": "+3,567",
-      "Total": "19,318,928",
-      "track_id": "7115pIZRP1L0MaJCPFPPFM",
-      "artist_ids": [
-        "6PsQc21YZU7WNfiODG69Qk"
-      ]
-    },
-    {
-      "Pos": "142",
-      "P+": "+19",
-      "Artist and Title": "chiello - HO SBAGLIATO ANCORA",
-      "Days": "88",
-      "Pk": "58",
-      "(x?)": "",
-      "Streams": "46,870",
-      "Streams+": "+5,357",
-      "7Day": "342,540",
-      "7Day+": "-2,324",
-      "Total": "5,205,921",
-      "track_id": "33LYvdSbeXaVc5PEIsjR6Z",
-      "artist_ids": [
-        "5mjasIBQQPIqA9GV2Ys61h"
-      ]
-    },
-    {
-      "Pos": "143",
-      "P+": "+6",
-      "Artist and Title": "Shiva - Gotham (w/ Kid Yugi)",
-      "Days": "632",
-      "Pk": "1",
-      "(x?)": "(x2)",
-      "Streams": "46,787",
-      "Streams+": "+4,092",
-      "7Day": "356,337",
-      "7Day+": "-3,330",
-      "Total": "57,610,261",
-      "track_id": "2ceJa7d62wQ3eRBK589ALG",
-      "artist_ids": [
-        "2K5nCggbhSZ00YCYP5qkZS",
-        "0EUR8jz8L936AEbV2Spkca"
-      ]
-    },
-    {
-      "Pos": "144",
-      "P+": "+49",
-      "Artist and Title": "Linkin Park - In the End",
-      "Days": "281",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "46,623",
-      "Streams+": "+8,496",
-      "7Day": "322,675",
-      "7Day+": "+5,101",
-      "Total": "11,587,887",
-      "track_id": "60a0Rd6pjrkxjPbaKzXjfq",
-      "artist_ids": [
-        "6XyY86QOPPrYVGvF9ch6wz"
-      ]
-    },
-    {
-      "Pos": "145",
-      "P+": "+7",
-      "Artist and Title": "Vance Joy - Riptide",
-      "Days": "1187",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "46,458",
-      "Streams+": "+4,040",
-      "7Day": "343,042",
-      "7Day+": "-3,182",
-      "Total": "33,840,067",
-      "track_id": "7yq4Qj7cqayVTp3FF9CWbm",
-      "artist_ids": [
-        "10exVja0key0uqUkk6LJRT"
-      ]
-    },
-    {
-      "Pos": "146",
-      "P+": "+9",
-      "Artist and Title": "Djo - End of Beginning",
-      "Days": "474",
-      "Pk": "1",
-      "(x?)": "(x2)",
-      "Streams": "46,397",
-      "Streams+": "+4,498",
-      "7Day": "345,078",
-      "7Day+": "-11,218",
-      "Total": "47,767,675",
-      "track_id": "3qhlB30KknSejmIvZZLjOD",
-      "artist_ids": [
-        "5p9HO3XC5P3BLxJs5Mtrhm"
-      ]
-    },
-    {
-      "Pos": "147",
-      "P+": "-15",
-      "Artist and Title": "Sfera Ebbasta - Tran Tran",
-      "Days": "1699",
-      "Pk": "1",
-      "(x?)": "(x10)",
-      "Streams": "46,294",
-      "Streams+": "+1,853",
-      "7Day": "296,906",
-      "7Day+": "+46,294",
-      "Total": "106,951,643",
-      "track_id": "3cGuiySfwJPXqvE15OiEEg",
-      "artist_ids": [
-        "23TFHmajVfBtlRx5MXqgoz"
-      ]
-    },
-    {
-      "Pos": "148",
-      "P+": "NEW",
-      "Artist and Title": "BLANCO - Stelle&Galassie",
-      "Days": "1",
-      "Pk": "148",
-      "(x?)": "",
-      "Streams": "46,289",
-      "Streams+": "",
-      "7Day": "46,289",
-      "7Day+": "+46,289",
-      "Total": "46,289",
-      "track_id": "6VDRCGGxETYuD0cPB5YIJh",
-      "artist_ids": [
-        "1MRiIeZbc0cRuxOafDUCtH"
-      ]
-    },
-    {
-      "Pos": "149",
-      "P+": "-20",
+      "Pos": "127",
+      "P+": "+22",
       "Artist and Title": "Marracash - Salvador Dalì (w/ Guè)",
-      "Days": "488",
+      "Days": "489",
       "Pk": "23",
       "(x?)": "",
-      "Streams": "46,275",
-      "Streams+": "+1,415",
-      "7Day": "355,237",
-      "7Day+": "+219",
-      "Total": "12,172,908",
+      "Streams": "50,176",
+      "Streams+": "+3,901",
+      "7Day": "351,934",
+      "7Day+": "-3,303",
+      "Total": "12,223,084",
       "track_id": "4Dub4JaxFLCeb2NqFsLiZ2",
       "artist_ids": [
         "5AZuEF0feCXMkUCwQiQlW7",
@@ -2612,120 +2233,412 @@
       ]
     },
     {
-      "Pos": "150",
-      "P+": "-3",
-      "Artist and Title": "Coez - Le luci della città",
-      "Days": "1431",
-      "Pk": "7",
-      "(x?)": "",
-      "Streams": "46,208",
-      "Streams+": "+3,313",
-      "7Day": "345,303",
-      "7Day+": "-8,018",
-      "Total": "73,767,495",
-      "track_id": "381VH1JFj9q08V1OMlPU5m",
-      "artist_ids": [
-        "5dXlc7MnpaTeUIsHLVe3n4"
-      ]
-    },
-    {
-      "Pos": "151",
-      "P+": "+25",
-      "Artist and Title": "Lazza - 100 MESSAGGI",
-      "Days": "826",
-      "Pk": "1",
-      "(x?)": "(x28)",
-      "Streams": "45,899",
-      "Streams+": "+5,883",
-      "7Day": "333,408",
-      "7Day+": "-492",
-      "Total": "128,012,010",
-      "track_id": "5bXgMzxuNymWhpwkgvYn4O",
-      "artist_ids": [
-        "0jdNdfi4vAuVi7a6cPDFBM"
-      ]
-    },
-    {
-      "Pos": "152",
-      "P+": "-6",
-      "Artist and Title": "Luchè - Non Abbiamo Età",
-      "Days": "2195",
-      "Pk": "34",
-      "(x?)": "",
-      "Streams": "45,892",
-      "Streams+": "+2,978",
-      "7Day": "331,850",
-      "7Day+": "+45,892",
-      "Total": "143,246,915",
-      "track_id": "0NwuXciw6eQc4edjwSBnV3",
-      "artist_ids": [
-        "3yiEJ9SByXZMXTwaKdVFN4"
-      ]
-    },
-    {
-      "Pos": "153",
-      "P+": "+3",
-      "Artist and Title": "ARIETE - Che Bella Vita (con Angelina Mango) (w/ Angelina Mango)",
-      "Days": "12",
-      "Pk": "67",
-      "(x?)": "",
-      "Streams": "45,761",
-      "Streams+": "+3,983",
-      "7Day": "183,053",
-      "7Day+": "+45,761",
-      "Total": "594,213",
-      "track_id": "7oFwCbJQRE29kBNm5eZ22j",
-      "artist_ids": [
-        "2T4kh33TYdnDesvlQyRst8",
-        "1A6HBLulvBFzNtlMb7b08f"
-      ]
-    },
-    {
-      "Pos": "154",
-      "P+": "-19",
-      "Artist and Title": "Bad Bunny - DtMF",
-      "Days": "671",
-      "Pk": "1",
-      "(x?)": "(x24)",
-      "Streams": "45,722",
-      "Streams+": "+1,917",
-      "7Day": "349,439",
-      "7Day+": "-1,701",
-      "Total": "100,998,453",
-      "track_id": "3sK8wGT43QFpWrvNQsrQya",
-      "artist_ids": [
-        "4q3ewBCX7sLwd24euuV69X"
-      ]
-    },
-    {
-      "Pos": "155",
-      "P+": "NEW",
+      "Pos": "128",
+      "P+": "+27",
       "Artist and Title": "Loretta Goggi - Maledetta primavera - 2021 Remaster",
-      "Days": "1",
-      "Pk": "155",
+      "Days": "2",
+      "Pk": "128",
       "(x?)": "",
-      "Streams": "45,234",
-      "Streams+": "",
-      "7Day": "45,234",
-      "7Day+": "+45,234",
-      "Total": "45,234",
+      "Streams": "50,158",
+      "Streams+": "+4,924",
+      "7Day": "95,392",
+      "7Day+": "+50,158",
+      "Total": "95,392",
       "track_id": "12xYwI2fztwjKRa9UcOgNz",
       "artist_ids": [
         "0r310cYIlI5aMcuDTChNlO"
       ]
     },
     {
-      "Pos": "156",
+      "Pos": "129",
+      "P+": "+6",
+      "Artist and Title": "Artie 5ive - 7ELEVEN",
+      "Days": "481",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "50,133",
+      "Streams+": "+2,363",
+      "7Day": "359,669",
+      "7Day+": "-202",
+      "Total": "47,093,198",
+      "track_id": "27teXnNekA5jBFLCcsCFoq",
+      "artist_ids": [
+        "2R4kNOwHUUsuDYhKsESVbF"
+      ]
+    },
+    {
+      "Pos": "130",
+      "P+": "-9",
+      "Artist and Title": "Capo Plaza - 4U",
+      "Days": "27",
+      "Pk": "49",
+      "(x?)": "",
+      "Streams": "50,059",
+      "Streams+": "+518",
+      "7Day": "340,170",
+      "7Day+": "+5,555",
+      "Total": "1,533,689",
+      "track_id": "5Ro2csr2lw3pEcGAlkuHVp",
+      "artist_ids": [
+        "5SulO4l40qDuV9zUGLZx7n"
+      ]
+    },
+    {
+      "Pos": "131",
+      "P+": "+15",
+      "Artist and Title": "Djo - End of Beginning",
+      "Days": "475",
+      "Pk": "1",
+      "(x?)": "(x2)",
+      "Streams": "50,021",
+      "Streams+": "+3,624",
+      "7Day": "336,394",
+      "7Day+": "-8,684",
+      "Total": "47,817,696",
+      "track_id": "3qhlB30KknSejmIvZZLjOD",
+      "artist_ids": [
+        "5p9HO3XC5P3BLxJs5Mtrhm"
+      ]
+    },
+    {
+      "Pos": "132",
+      "P+": "-2",
+      "Artist and Title": "Ashe - Stop The Wedding!",
+      "Days": "13",
+      "Pk": "130",
+      "(x?)": "",
+      "Streams": "49,858",
+      "Streams+": "+1,248",
+      "7Day": "325,384",
+      "7Day+": "+3,235",
+      "Total": "605,016",
+      "track_id": "7MOO89Qv9AV7VZkt5mcqA8",
+      "artist_ids": [
+        "6P5NO5hzJbuOqSdyPB7SJM"
+      ]
+    },
+    {
+      "Pos": "133",
       "P+": "-28",
+      "Artist and Title": "Pinguini Tattici Nucleari - Islanda",
+      "Days": "650",
+      "Pk": "1",
+      "(x?)": "(x13)",
+      "Streams": "49,729",
+      "Streams+": "-1,948",
+      "7Day": "249,697",
+      "7Day+": "+49,729",
+      "Total": "80,987,158",
+      "track_id": "0JiJbbKU6RTYJXMBI34UzM",
+      "artist_ids": [
+        "6RdcIWVKYYzNzjQRd3oyHS"
+      ]
+    },
+    {
+      "Pos": "134",
+      "P+": "+16",
+      "Artist and Title": "Coez - Le luci della città",
+      "Days": "1432",
+      "Pk": "7",
+      "(x?)": "",
+      "Streams": "49,395",
+      "Streams+": "+3,187",
+      "7Day": "339,731",
+      "7Day+": "-5,572",
+      "Total": "73,816,890",
+      "track_id": "381VH1JFj9q08V1OMlPU5m",
+      "artist_ids": [
+        "5dXlc7MnpaTeUIsHLVe3n4"
+      ]
+    },
+    {
+      "Pos": "135",
+      "P+": "+2",
+      "Artist and Title": "Juli - Cantilene (w/ Olly)",
+      "Days": "200",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "49,198",
+      "Streams+": "+1,762",
+      "7Day": "344,388",
+      "7Day+": "-683",
+      "Total": "18,612,654",
+      "track_id": "3yaRrdo3DDeKgDaubuBsId",
+      "artist_ids": [
+        "4rj3KWaLAnuxgtMMkypZhf",
+        "25u1DN0MwQVSav4XoJS7hl"
+      ]
+    },
+    {
+      "Pos": "136",
+      "P+": "-8",
+      "Artist and Title": "Dagood YL - LA SCOPO CO O' SGUARDO",
+      "Days": "44",
+      "Pk": "55",
+      "(x?)": "",
+      "Streams": "49,115",
+      "Streams+": "+390",
+      "7Day": "372,247",
+      "7Day+": "-1,701",
+      "Total": "2,554,928",
+      "track_id": "4jQRIx85zOOBY07JJg61To",
+      "artist_ids": [
+        "4zHxCzvTEP15QarBTgB9hw"
+      ]
+    },
+    {
+      "Pos": "137",
+      "P+": "+14",
+      "Artist and Title": "Lazza - 100 MESSAGGI",
+      "Days": "827",
+      "Pk": "1",
+      "(x?)": "(x28)",
+      "Streams": "49,003",
+      "Streams+": "+3,104",
+      "7Day": "332,427",
+      "7Day+": "-981",
+      "Total": "128,061,013",
+      "track_id": "5bXgMzxuNymWhpwkgvYn4O",
+      "artist_ids": [
+        "0jdNdfi4vAuVi7a6cPDFBM"
+      ]
+    },
+    {
+      "Pos": "138",
+      "P+": "-39",
+      "Artist and Title": "Luchè - Nessuna",
+      "Days": "544",
+      "Pk": "1",
+      "(x?)": "(x4)",
+      "Streams": "48,952",
+      "Streams+": "-3,566",
+      "7Day": "365,225",
+      "7Day+": "-11,033",
+      "Total": "66,632,310",
+      "track_id": "5bhYjElbPmm2FyB0PxP8Wd",
+      "artist_ids": [
+        "3yiEJ9SByXZMXTwaKdVFN4"
+      ]
+    },
+    {
+      "Pos": "139",
+      "P+": "+3",
+      "Artist and Title": "chiello - HO SBAGLIATO ANCORA",
+      "Days": "89",
+      "Pk": "58",
+      "(x?)": "",
+      "Streams": "48,689",
+      "Streams+": "+1,819",
+      "7Day": "338,013",
+      "7Day+": "-4,527",
+      "Total": "5,254,610",
+      "track_id": "33LYvdSbeXaVc5PEIsjR6Z",
+      "artist_ids": [
+        "5mjasIBQQPIqA9GV2Ys61h"
+      ]
+    },
+    {
+      "Pos": "140",
+      "P+": "+3",
+      "Artist and Title": "Shiva - Gotham (w/ Kid Yugi)",
+      "Days": "633",
+      "Pk": "1",
+      "(x?)": "(x2)",
+      "Streams": "48,433",
+      "Streams+": "+1,646",
+      "7Day": "354,477",
+      "7Day+": "-1,860",
+      "Total": "57,658,694",
+      "track_id": "2ceJa7d62wQ3eRBK589ALG",
+      "artist_ids": [
+        "2K5nCggbhSZ00YCYP5qkZS",
+        "0EUR8jz8L936AEbV2Spkca"
+      ]
+    },
+    {
+      "Pos": "141",
+      "P+": "-2",
+      "Artist and Title": "Tom Odell - Another Love",
+      "Days": "1377",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "48,011",
+      "Streams+": "+622",
+      "7Day": "339,451",
+      "7Day+": "-1,357",
+      "Total": "96,385,844",
+      "track_id": "7jtQIBanIiJOMS6RyCx6jZ",
+      "artist_ids": [
+        "2txHhyCwHjUEpJjWrEyqyX"
+      ]
+    },
+    {
+      "Pos": "142",
+      "P+": "-9",
+      "Artist and Title": "Irama - Cabana",
+      "Days": "168",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "47,903",
+      "Streams+": "-327",
+      "7Day": "352,764",
+      "7Day+": "+47,903",
+      "Total": "14,103,537",
+      "track_id": "53GaYNLUejzouMIDRaukD1",
+      "artist_ids": [
+        "5iot8OPcosJN9nCl7I5SdK"
+      ]
+    },
+    {
+      "Pos": "143",
+      "P+": "-18",
+      "Artist and Title": "Antonello Venditti - Alta marea (Don't Dream It's Over)",
+      "Days": "27",
+      "Pk": "92",
+      "(x?)": "",
+      "Streams": "47,881",
+      "Streams+": "-1,173",
+      "7Day": "365,175",
+      "7Day+": "-4,233",
+      "Total": "1,387,001",
+      "track_id": "6yHTzM3fSUn2SPUODnYHrQ",
+      "artist_ids": [
+        "3hYLJPJuDyblFKersEaFd6"
+      ]
+    },
+    {
+      "Pos": "144",
+      "P+": "+10",
+      "Artist and Title": "Bad Bunny - DtMF",
+      "Days": "672",
+      "Pk": "1",
+      "(x?)": "(x24)",
+      "Streams": "47,865",
+      "Streams+": "+2,143",
+      "7Day": "347,354",
+      "7Day+": "-2,085",
+      "Total": "101,046,318",
+      "track_id": "3sK8wGT43QFpWrvNQsrQya",
+      "artist_ids": [
+        "4q3ewBCX7sLwd24euuV69X"
+      ]
+    },
+    {
+      "Pos": "145",
+      "P+": "-7",
+      "Artist and Title": "ANNA - WHITE GIRL WASTED",
+      "Days": "144",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "47,854",
+      "Streams+": "+443",
+      "7Day": "367,903",
+      "7Day+": "-2,225",
+      "Total": "18,088,294",
+      "track_id": "3d56FH7ZlHf9tjojZSwv8U",
+      "artist_ids": [
+        "7K80yOTC0Id95gRaOxDG5u"
+      ]
+    },
+    {
+      "Pos": "146",
+      "P+": "-1",
+      "Artist and Title": "Vance Joy - Riptide",
+      "Days": "1188",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "47,824",
+      "Streams+": "+1,366",
+      "7Day": "339,591",
+      "7Day+": "-3,451",
+      "Total": "33,887,891",
+      "track_id": "7yq4Qj7cqayVTp3FF9CWbm",
+      "artist_ids": [
+        "10exVja0key0uqUkk6LJRT"
+      ]
+    },
+    {
+      "Pos": "147",
+      "P+": "-7",
+      "Artist and Title": "HUGEL - Jamaican (Bam Bam) (w/ SOLTO (FR))",
+      "Days": "222",
+      "Pk": "14",
+      "(x?)": "",
+      "Streams": "47,688",
+      "Streams+": "+568",
+      "7Day": "357,169",
+      "7Day+": "-4,825",
+      "Total": "19,817,657",
+      "track_id": "7e4zDInS6tA2jwzphvs2Ay",
+      "artist_ids": [
+        "5PlfkPxwCpRRWQJBxCa0By",
+        "0F3tUZeb9dLNEpxCpzEBQt"
+      ]
+    },
+    {
+      "Pos": "148",
+      "P+": "+20",
+      "Artist and Title": "Capo Plaza - Non Fare Così",
+      "Days": "1198",
+      "Pk": "2",
+      "(x?)": "(x12)",
+      "Streams": "47,524",
+      "Streams+": "+3,107",
+      "7Day": "328,405",
+      "7Day+": "+47,524",
+      "Total": "77,955,191",
+      "track_id": "769M2rTiAoL7x2lKDHLjRa",
+      "artist_ids": [
+        "5SulO4l40qDuV9zUGLZx7n"
+      ]
+    },
+    {
+      "Pos": "149",
+      "P+": "-30",
+      "Artist and Title": "Guè - Brivido (w/ Marracash)",
+      "Days": "2310",
+      "Pk": "56",
+      "(x?)": "",
+      "Streams": "47,292",
+      "Streams+": "-2,440",
+      "7Day": "346,296",
+      "7Day+": "+1,683",
+      "Total": "128,295,796",
+      "track_id": "7fH13hSOyNoeiDGbjEnTUC",
+      "artist_ids": [
+        "7F2utINZ6tSokSiZTQBE27",
+        "5AZuEF0feCXMkUCwQiQlW7"
+      ]
+    },
+    {
+      "Pos": "150",
+      "P+": "-28",
+      "Artist and Title": "Sfera Ebbasta - Visiera A Becco",
+      "Days": "2109",
+      "Pk": "32",
+      "(x?)": "",
+      "Streams": "47,152",
+      "Streams+": "-2,299",
+      "7Day": "366,589",
+      "7Day+": "-1,447",
+      "Total": "122,261,726",
+      "track_id": "4ySxBjhmdnkeFUqhKxW3cY",
+      "artist_ids": [
+        "23TFHmajVfBtlRx5MXqgoz"
+      ]
+    },
+    {
+      "Pos": "151",
+      "P+": "+5",
       "Artist and Title": "Geolier - TUTTO È POSSIBILE (w/ Pino Daniele)",
-      "Days": "130",
+      "Days": "131",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "45,100",
-      "Streams+": "+139",
-      "7Day": "191,157",
-      "7Day+": "-3,605",
-      "Total": "10,683,205",
+      "Streams": "47,091",
+      "Streams+": "+1,991",
+      "7Day": "189,930",
+      "7Day+": "-1,227",
+      "Total": "10,730,296",
       "track_id": "5W5lGzvUR9jWQ7kyz9rr4T",
       "artist_ids": [
         "27LlKWxS3KXW7RRAxN5S8s",
@@ -2733,104 +2646,188 @@
       ]
     },
     {
-      "Pos": "157",
-      "P+": "+34",
-      "Artist and Title": "Ddusi - whereimat (w/ Artie 5ive)",
-      "Days": "37",
-      "Pk": "18",
-      "(x?)": "",
-      "Streams": "45,051",
-      "Streams+": "+6,711",
-      "7Day": "325,561",
-      "7Day+": "+121",
-      "Total": "2,056,881",
-      "track_id": "3tTY52nqC2AHVgAoaThfe6",
+      "Pos": "152",
+      "P+": "-5",
+      "Artist and Title": "Sfera Ebbasta - Tran Tran",
+      "Days": "1700",
+      "Pk": "1",
+      "(x?)": "(x10)",
+      "Streams": "46,906",
+      "Streams+": "+612",
+      "7Day": "343,812",
+      "7Day+": "+46,906",
+      "Total": "106,998,549",
+      "track_id": "3cGuiySfwJPXqvE15OiEEg",
       "artist_ids": [
-        "5VTNrKBvvSe0NdWMW8qTwa",
-        "2R4kNOwHUUsuDYhKsESVbF"
+        "23TFHmajVfBtlRx5MXqgoz"
       ]
     },
     {
-      "Pos": "158",
-      "P+": "-21",
+      "Pos": "153",
+      "P+": "+5",
       "Artist and Title": "Gianluca Grignani - La Mia Storia Tra Le Dita",
-      "Days": "93",
+      "Days": "94",
       "Pk": "109",
       "(x?)": "",
-      "Streams": "45,036",
-      "Streams+": "+1,325",
-      "7Day": "334,470",
-      "7Day+": "+4,011",
-      "Total": "4,472,143",
+      "Streams": "46,817",
+      "Streams+": "+1,781",
+      "7Day": "334,777",
+      "7Day+": "+307",
+      "Total": "4,518,960",
       "track_id": "5L4wJD8eyVhSrm4pbPuF2u",
       "artist_ids": [
         "0H1InhXaXQPL1aj0mvHemU"
       ]
     },
     {
-      "Pos": "159",
-      "P+": "+14",
-      "Artist and Title": "Capo Plaza - Giovane fuoriclasse",
-      "Days": "562",
-      "Pk": "21",
+      "Pos": "154",
+      "P+": "-10",
+      "Artist and Title": "Linkin Park - In the End",
+      "Days": "282",
+      "Pk": "9",
       "(x?)": "",
-      "Streams": "44,967",
-      "Streams+": "+4,754",
-      "7Day": "280,762",
-      "7Day+": "+44,967",
-      "Total": "27,673,297",
-      "track_id": "60muwbD6E61lEYQSnEYlLc",
+      "Streams": "46,817",
+      "Streams+": "+194",
+      "7Day": "325,634",
+      "7Day+": "+2,959",
+      "Total": "11,634,704",
+      "track_id": "60a0Rd6pjrkxjPbaKzXjfq",
       "artist_ids": [
-        "5SulO4l40qDuV9zUGLZx7n"
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ]
+    },
+    {
+      "Pos": "155",
+      "P+": "-14",
+      "Artist and Title": "Tony Boy - Come mi guardi",
+      "Days": "316",
+      "Pk": "75",
+      "(x?)": "",
+      "Streams": "46,630",
+      "Streams+": "-435",
+      "7Day": "343,242",
+      "7Day+": "-1,921",
+      "Total": "19,365,558",
+      "track_id": "7115pIZRP1L0MaJCPFPPFM",
+      "artist_ids": [
+        "6PsQc21YZU7WNfiODG69Qk"
+      ]
+    },
+    {
+      "Pos": "156",
+      "P+": "-20",
+      "Artist and Title": "Geolier - RIONE DI DOMENICA",
+      "Days": "26",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "46,533",
+      "Streams+": "-1,084",
+      "7Day": "395,054",
+      "7Day+": "-20,813",
+      "Total": "2,473,158",
+      "track_id": "2jTBeAiQJjzR06f8xXH2FB",
+      "artist_ids": [
+        "27LlKWxS3KXW7RRAxN5S8s"
+      ]
+    },
+    {
+      "Pos": "157",
+      "P+": "-4",
+      "Artist and Title": "ARIETE - Che Bella Vita (con Angelina Mango) (w/ Angelina Mango)",
+      "Days": "13",
+      "Pk": "67",
+      "(x?)": "",
+      "Streams": "46,457",
+      "Streams+": "+696",
+      "7Day": "229,510",
+      "7Day+": "+46,457",
+      "Total": "640,670",
+      "track_id": "7oFwCbJQRE29kBNm5eZ22j",
+      "artist_ids": [
+        "2T4kh33TYdnDesvlQyRst8",
+        "1A6HBLulvBFzNtlMb7b08f"
+      ]
+    },
+    {
+      "Pos": "158",
+      "P+": "+5",
+      "Artist and Title": "Bad Bunny - NUEVAYoL",
+      "Days": "674",
+      "Pk": "2",
+      "(x?)": "(x11)",
+      "Streams": "46,392",
+      "Streams+": "+1,592",
+      "7Day": "340,813",
+      "7Day+": "-267",
+      "Total": "86,055,487",
+      "track_id": "5TFD2bmFKGhoCRbX61nXY5",
+      "artist_ids": [
+        "4q3ewBCX7sLwd24euuV69X"
+      ]
+    },
+    {
+      "Pos": "159",
+      "P+": "+11",
+      "Artist and Title": "Sfera Ebbasta - 15 Piani",
+      "Days": "920",
+      "Pk": "1",
+      "(x?)": "(x11)",
+      "Streams": "46,296",
+      "Streams+": "+2,023",
+      "7Day": "322,416",
+      "7Day+": "-2,763",
+      "Total": "97,390,157",
+      "track_id": "05wb6MEyJeG2z1MVCIXxC8",
+      "artist_ids": [
+        "23TFHmajVfBtlRx5MXqgoz"
       ]
     },
     {
       "Pos": "160",
-      "P+": "-64",
-      "Artist and Title": "Coez - È sempre bello",
-      "Days": "1151",
-      "Pk": "1",
-      "(x?)": "(x25)",
-      "Streams": "44,955",
-      "Streams+": "-4,014",
-      "7Day": "420,759",
-      "7Day+": "-18,454",
-      "Total": "111,781,316",
-      "track_id": "6IdiuMw1FSAvU3e6bgWQVX",
+      "P+": "+6",
+      "Artist and Title": "Glocky - Problem Solver",
+      "Days": "359",
+      "Pk": "54",
+      "(x?)": "",
+      "Streams": "46,245",
+      "Streams+": "+1,643",
+      "7Day": "335,798",
+      "7Day+": "+668",
+      "Total": "21,011,578",
+      "track_id": "3X5Zw8zkIGULZEnJUwwJwj",
       "artist_ids": [
-        "5dXlc7MnpaTeUIsHLVe3n4"
+        "6frLp49xcNeQN6QYYrbSw7"
       ]
     },
     {
       "Pos": "161",
-      "P+": "+20",
-      "Artist and Title": "RRARI DAL TACCO - BIANCA (w/ Kid Yugi)",
-      "Days": "503",
-      "Pk": "1",
-      "(x?)": "(x15)",
-      "Streams": "44,879",
-      "Streams+": "+5,436",
-      "7Day": "332,704",
-      "7Day+": "-3,803",
-      "Total": "47,514,426",
-      "track_id": "5SnMK1oThJv22NFumoKVw4",
+      "P+": "-13",
+      "Artist and Title": "BLANCO - Stelle&Galassie",
+      "Days": "2",
+      "Pk": "148",
+      "(x?)": "",
+      "Streams": "46,171",
+      "Streams+": "-118",
+      "7Day": "92,460",
+      "7Day+": "+46,171",
+      "Total": "92,460",
+      "track_id": "6VDRCGGxETYuD0cPB5YIJh",
       "artist_ids": [
-        "30fnIb0InCgAp2IPY17nqd",
-        "0EUR8jz8L936AEbV2Spkca"
+        "1MRiIeZbc0cRuxOafDUCtH"
       ]
     },
     {
       "Pos": "162",
-      "P+": "-8",
+      "P+": "=",
       "Artist and Title": "Mauvais djo - Maladie",
-      "Days": "187",
+      "Days": "188",
       "Pk": "14",
       "(x?)": "",
-      "Streams": "44,847",
-      "Streams+": "+2,912",
-      "7Day": "340,076",
-      "7Day+": "-1,507",
-      "Total": "20,982,799",
+      "Streams": "45,914",
+      "Streams+": "+1,067",
+      "7Day": "337,804",
+      "7Day+": "-2,272",
+      "Total": "21,028,713",
       "track_id": "2n4L2a5xgpJmPdLzDl3mE6",
       "artist_ids": [
         "51OKuyM4BiiYxFm8Mi6fa9"
@@ -2838,169 +2835,278 @@
     },
     {
       "Pos": "163",
-      "P+": "-24",
-      "Artist and Title": "Bad Bunny - NUEVAYoL",
-      "Days": "673",
+      "P+": "+16",
+      "Artist and Title": "Tedua - Paradiso Artificiale (w/ Baby Gang, Kid Yugi)",
+      "Days": "1006",
       "Pk": "2",
-      "(x?)": "(x11)",
-      "Streams": "44,800",
-      "Streams+": "+1,147",
-      "7Day": "341,080",
-      "7Day+": "+813",
-      "Total": "86,009,095",
-      "track_id": "5TFD2bmFKGhoCRbX61nXY5",
+      "(x?)": "(x4)",
+      "Streams": "45,908",
+      "Streams+": "+3,395",
+      "7Day": "282,851",
+      "7Day+": "-1,385",
+      "Total": "110,690,026",
+      "track_id": "5omIW7YOPhA6CULhkdz6jE",
       "artist_ids": [
-        "4q3ewBCX7sLwd24euuV69X"
-      ]
-    },
-    {
-      "Pos": "164",
-      "P+": "+11",
-      "Artist and Title": "Kid Yugi - Gilgamesh",
-      "Days": "162",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "44,699",
-      "Streams+": "+4,574",
-      "7Day": "338,758",
-      "7Day+": "-8,994",
-      "Total": "15,333,175",
-      "track_id": "09wmUkefYD7B2IWpHP6v3P",
-      "artist_ids": [
+        "1AgAVqo74e2q4FVvg0xpT7",
+        "3LvwPiJQJ0da0GurKMToV0",
         "0EUR8jz8L936AEbV2Spkca"
       ]
     },
     {
-      "Pos": "165",
-      "P+": "-34",
-      "Artist and Title": "883 - Con un deca",
-      "Days": "57",
-      "Pk": "78",
+      "Pos": "164",
+      "P+": "-7",
+      "Artist and Title": "Ddusi - whereimat (w/ Artie 5ive)",
+      "Days": "38",
+      "Pk": "18",
       "(x?)": "",
-      "Streams": "44,680",
-      "Streams+": "+147",
-      "7Day": "247,319",
-      "7Day+": "-6,385",
-      "Total": "3,177,690",
-      "track_id": "20MwAekzD46VMJP0JmjmhS",
+      "Streams": "45,703",
+      "Streams+": "+652",
+      "7Day": "325,282",
+      "7Day+": "-279",
+      "Total": "2,102,584",
+      "track_id": "3tTY52nqC2AHVgAoaThfe6",
       "artist_ids": [
-        "6bMul6rmRS03x38tWKYifO"
+        "5VTNrKBvvSe0NdWMW8qTwa",
+        "2R4kNOwHUUsuDYhKsESVbF"
+      ]
+    },
+    {
+      "Pos": "165",
+      "P+": "+18",
+      "Artist and Title": "Alfa - Genova e Napoli (w/ Gigi D'Alessio)",
+      "Days": "57",
+      "Pk": "62",
+      "(x?)": "",
+      "Streams": "45,696",
+      "Streams+": "+3,312",
+      "7Day": "311,824",
+      "7Day+": "+45,696",
+      "Total": "3,125,383",
+      "track_id": "4IPvLJHeW1wwPDz0mYvxzZ",
+      "artist_ids": [
+        "7GacyaFUp0qkEJglERX9N7",
+        "4eSMsVzRJHhN1aq0IvZcyn"
       ]
     },
     {
       "Pos": "166",
-      "P+": "=",
-      "Artist and Title": "Glocky - Problem Solver",
-      "Days": "358",
-      "Pk": "54",
+      "P+": "RE",
+      "Artist and Title": "Ligabue - Certe notti",
+      "Days": "189",
+      "Pk": "93",
       "(x?)": "",
-      "Streams": "44,602",
-      "Streams+": "+3,615",
-      "7Day": "335,130",
-      "7Day+": "+242",
-      "Total": "20,965,333",
-      "track_id": "3X5Zw8zkIGULZEnJUwwJwj",
+      "Streams": "45,693",
+      "Streams+": "",
+      "7Day": "83,660",
+      "7Day+": "+45,693",
+      "Total": "9,865,421",
+      "track_id": "5gTuH5Jl8PVUitsFzFslWu",
       "artist_ids": [
-        "6frLp49xcNeQN6QYYrbSw7"
+        "7H8ZC8uHJMPZGLMApRRNIz"
       ]
     },
     {
       "Pos": "167",
-      "P+": "+18",
-      "Artist and Title": "Coez - Faccio un casino",
-      "Days": "851",
-      "Pk": "4",
+      "P+": "-8",
+      "Artist and Title": "Capo Plaza - Giovane fuoriclasse",
+      "Days": "563",
+      "Pk": "21",
       "(x?)": "",
-      "Streams": "44,426",
-      "Streams+": "+5,619",
-      "7Day": "271,840",
-      "7Day+": "-3,278",
-      "Total": "37,580,445",
-      "track_id": "6qNXkVk19OYLu4CoqjDfZ0",
-      "artist_ids": [
-        "5dXlc7MnpaTeUIsHLVe3n4"
-      ]
-    },
-    {
-      "Pos": "168",
-      "P+": "-5",
-      "Artist and Title": "Capo Plaza - Non Fare Così",
-      "Days": "1197",
-      "Pk": "2",
-      "(x?)": "(x12)",
-      "Streams": "44,417",
-      "Streams+": "+3,108",
-      "7Day": "280,881",
-      "7Day+": "+44,417",
-      "Total": "77,907,667",
-      "track_id": "769M2rTiAoL7x2lKDHLjRa",
+      "Streams": "45,502",
+      "Streams+": "+535",
+      "7Day": "326,264",
+      "7Day+": "+45,502",
+      "Total": "27,718,799",
+      "track_id": "60muwbD6E61lEYQSnEYlLc",
       "artist_ids": [
         "5SulO4l40qDuV9zUGLZx7n"
       ]
     },
     {
-      "Pos": "169",
-      "P+": "+8",
+      "Pos": "168",
+      "P+": "+1",
       "Artist and Title": "Ravyn Lenae - Love Me Not",
-      "Days": "226",
+      "Days": "227",
       "Pk": "85",
       "(x?)": "",
-      "Streams": "44,298",
-      "Streams+": "+4,289",
-      "7Day": "328,137",
-      "7Day+": "-2,240",
-      "Total": "11,495,429",
+      "Streams": "45,083",
+      "Streams+": "+785",
+      "7Day": "324,037",
+      "7Day+": "-4,100",
+      "Total": "11,540,512",
       "track_id": "4WFgvKVfEhb3IUAFGrutTR",
       "artist_ids": [
         "5RTLRtXjbXI2lSXc6jxlAz"
       ]
     },
     {
-      "Pos": "170",
-      "P+": "+13",
-      "Artist and Title": "Sfera Ebbasta - 15 Piani",
-      "Days": "919",
-      "Pk": "1",
-      "(x?)": "(x11)",
-      "Streams": "44,273",
-      "Streams+": "+5,101",
-      "7Day": "325,179",
-      "7Day+": "-1,268",
-      "Total": "97,343,861",
-      "track_id": "05wb6MEyJeG2z1MVCIXxC8",
+      "Pos": "169",
+      "P+": "+8",
+      "Artist and Title": "tha Supreme - ch1 5ei te",
+      "Days": "335",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "44,812",
+      "Streams+": "+1,986",
+      "7Day": "220,912",
+      "7Day+": "+44,812",
+      "Total": "25,903,240",
+      "track_id": "0tRj4m46GRFrBS7IsbS0Gk",
       "artist_ids": [
-        "23TFHmajVfBtlRx5MXqgoz"
+        "19i93sA0D7yS9dYoVNBqAA"
       ]
     },
     {
-      "Pos": "171",
-      "P+": "RE",
-      "Artist and Title": "Kid Yugi - Il Filmografo",
-      "Days": "505",
-      "Pk": "60",
-      "(x?)": "",
-      "Streams": "44,084",
-      "Streams+": "",
-      "7Day": "231,267",
-      "7Day+": "+2,058",
-      "Total": "30,077,094",
-      "track_id": "5nqOdSrqurNq8ejE7Ujc9l",
+      "Pos": "170",
+      "P+": "-6",
+      "Artist and Title": "Kid Yugi - Gilgamesh",
+      "Days": "163",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "44,763",
+      "Streams+": "+64",
+      "7Day": "331,090",
+      "7Day+": "-7,668",
+      "Total": "15,377,938",
+      "track_id": "09wmUkefYD7B2IWpHP6v3P",
       "artist_ids": [
         "0EUR8jz8L936AEbV2Spkca"
       ]
     },
     {
-      "Pos": "172",
+      "Pos": "171",
       "P+": "RE",
+      "Artist and Title": "Alleh - capaz (merengueton) (w/ Yorghaki)",
+      "Days": "646",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "44,677",
+      "Streams+": "",
+      "7Day": "179,571",
+      "7Day+": "+401",
+      "Total": "63,430,196",
+      "track_id": "4DnrAI8WyUY6gkOwl8GlPN",
+      "artist_ids": [
+        "3DeOmVSmpv7WknXoo1OS8p",
+        "4eq1q0o9XPyNq9RG3fNDD1"
+      ]
+    },
+    {
+      "Pos": "172",
+      "P+": "+3",
+      "Artist and Title": "Elisa - Se Piovesse Il Tuo Nome - con Calcutta (w/ Calcutta )",
+      "Days": "529",
+      "Pk": "40",
+      "(x?)": "",
+      "Streams": "44,573",
+      "Streams+": "+1,481",
+      "7Day": "227,412",
+      "7Day+": "+35",
+      "Total": "29,707,433",
+      "track_id": "3PYYiqmhooCNCGiiPTM5zS",
+      "artist_ids": [
+        "2ARH58Hit3yC6ziGdhma23",
+        "582KhTHEVOONNQLmQ5612r"
+      ]
+    },
+    {
+      "Pos": "173",
+      "P+": "+8",
+      "Artist and Title": "Capo Plaza - RATATA",
+      "Days": "357",
+      "Pk": "23",
+      "(x?)": "",
+      "Streams": "44,502",
+      "Streams+": "+2,065",
+      "7Day": "320,315",
+      "7Day+": "+44,502",
+      "Total": "19,088,402",
+      "track_id": "3QjM7blH1a157YfP8G33TA",
+      "artist_ids": [
+        "5SulO4l40qDuV9zUGLZx7n"
+      ]
+    },
+    {
+      "Pos": "174",
+      "P+": "-42",
+      "Artist and Title": "Nemzzz - MONEY (w/ Artie 5ive)",
+      "Days": "4",
+      "Pk": "80",
+      "(x?)": "",
+      "Streams": "44,280",
+      "Streams+": "-3,984",
+      "7Day": "208,668",
+      "7Day+": "+44,280",
+      "Total": "208,668",
+      "track_id": "5J8Bk70gqe0eQryVXePyR9",
+      "artist_ids": [
+        "3DHtfeD4PsmR9YGhCP4VF7",
+        "2R4kNOwHUUsuDYhKsESVbF"
+      ]
+    },
+    {
+      "Pos": "175",
+      "P+": "+19",
+      "Artist and Title": "Pinguini Tattici Nucleari - Amaro",
+      "Days": "442",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "44,152",
+      "Streams+": "+2,652",
+      "7Day": "85,652",
+      "7Day+": "+44,152",
+      "Total": "37,476,348",
+      "track_id": "15ZWSMDQMfBKVn4zurLX7k",
+      "artist_ids": [
+        "6RdcIWVKYYzNzjQRd3oyHS"
+      ]
+    },
+    {
+      "Pos": "176",
+      "P+": "-9",
+      "Artist and Title": "Coez - Faccio un casino",
+      "Days": "852",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "44,098",
+      "Streams+": "-328",
+      "7Day": "267,541",
+      "7Day+": "-4,299",
+      "Total": "37,624,543",
+      "track_id": "6qNXkVk19OYLu4CoqjDfZ0",
+      "artist_ids": [
+        "5dXlc7MnpaTeUIsHLVe3n4"
+      ]
+    },
+    {
+      "Pos": "177",
+      "P+": "-3",
+      "Artist and Title": "Harry Styles - Sign of the Times",
+      "Days": "257",
+      "Pk": "19",
+      "(x?)": "",
+      "Streams": "44,093",
+      "Streams+": "+809",
+      "7Day": "266,248",
+      "7Day+": "-3,212",
+      "Total": "8,476,612",
+      "track_id": "5Ohxk2dO5COHF1krpoPigN",
+      "artist_ids": [
+        "6KImCVD70vtIoJWnq6nGn3"
+      ]
+    },
+    {
+      "Pos": "178",
+      "P+": "-6",
       "Artist and Title": "Artie 5ive - 64 BARRE IN FACCIA (Red Bull 64 Bars) (w/ Ddusi, Sadturs, KIID)",
-      "Days": "155",
+      "Days": "156",
       "Pk": "33",
       "(x?)": "",
-      "Streams": "43,634",
-      "Streams+": "",
-      "7Day": "185,288",
-      "7Day+": "+43,634",
-      "Total": "15,224,263",
+      "Streams": "44,072",
+      "Streams+": "+438",
+      "7Day": "229,360",
+      "7Day+": "+44,072",
+      "Total": "15,268,335",
       "track_id": "1oBM9JTuD0wqfVQ8iuLjLQ",
       "artist_ids": [
         "2R4kNOwHUUsuDYhKsESVbF",
@@ -3010,69 +3116,17 @@
       ]
     },
     {
-      "Pos": "173",
-      "P+": "-1",
-      "Artist and Title": "Geolier - UN RICCO E UN POVERO",
-      "Days": "189",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "43,454",
-      "Streams+": "+3,211",
-      "7Day": "280,815",
-      "7Day+": "-1,820",
-      "Total": "15,640,609",
-      "track_id": "5IR9UiTqoJCGJRBUO34cIA",
-      "artist_ids": [
-        "27LlKWxS3KXW7RRAxN5S8s"
-      ]
-    },
-    {
-      "Pos": "174",
-      "P+": "+13",
-      "Artist and Title": "Harry Styles - Sign of the Times",
-      "Days": "256",
-      "Pk": "19",
-      "(x?)": "",
-      "Streams": "43,284",
-      "Streams+": "+4,633",
-      "7Day": "269,460",
-      "7Day+": "-2,159",
-      "Total": "8,432,519",
-      "track_id": "5Ohxk2dO5COHF1krpoPigN",
-      "artist_ids": [
-        "6KImCVD70vtIoJWnq6nGn3"
-      ]
-    },
-    {
-      "Pos": "175",
-      "P+": "RE",
-      "Artist and Title": "Elisa - Se Piovesse Il Tuo Nome - con Calcutta (w/ Calcutta )",
-      "Days": "528",
-      "Pk": "40",
-      "(x?)": "",
-      "Streams": "43,092",
-      "Streams+": "",
-      "7Day": "227,377",
-      "7Day+": "+82",
-      "Total": "29,662,860",
-      "track_id": "3PYYiqmhooCNCGiiPTM5zS",
-      "artist_ids": [
-        "2ARH58Hit3yC6ziGdhma23",
-        "582KhTHEVOONNQLmQ5612r"
-      ]
-    },
-    {
-      "Pos": "176",
-      "P+": "+18",
+      "Pos": "179",
+      "P+": "-3",
       "Artist and Title": "Shiva - Polvere (w/ Tony Boy)",
-      "Days": "493",
+      "Days": "494",
       "Pk": "8",
       "(x?)": "",
-      "Streams": "42,844",
-      "Streams+": "+4,769",
-      "7Day": "266,177",
-      "7Day+": "+42,844",
-      "Total": "37,486,716",
+      "Streams": "43,950",
+      "Streams+": "+1,106",
+      "7Day": "264,599",
+      "7Day+": "-1,578",
+      "Total": "37,530,666",
       "track_id": "3ppXueOTvYpYp7zQUbuIKh",
       "artist_ids": [
         "2K5nCggbhSZ00YCYP5qkZS",
@@ -3080,423 +3134,369 @@
       ]
     },
     {
-      "Pos": "177",
-      "P+": "+21",
-      "Artist and Title": "tha Supreme - ch1 5ei te",
-      "Days": "334",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "42,826",
-      "Streams+": "+5,099",
-      "7Day": "176,100",
-      "7Day+": "+42,826",
-      "Total": "25,858,428",
-      "track_id": "0tRj4m46GRFrBS7IsbS0Gk",
-      "artist_ids": [
-        "19i93sA0D7yS9dYoVNBqAA"
-      ]
-    },
-    {
-      "Pos": "178",
-      "P+": "RE",
-      "Artist and Title": "18K - Buttare, buttare (w/ Latrelle)",
-      "Days": "12",
-      "Pk": "173",
-      "(x?)": "",
-      "Streams": "42,604",
-      "Streams+": "",
-      "7Day": "222,274",
-      "7Day+": "+42,604",
-      "Total": "529,099",
-      "track_id": "0BeeP8VwfLIziYkdv0m6lQ",
-      "artist_ids": [
-        "5PVCzkHVhVLRLadPdJUdXB",
-        "2mUoO8KgRQOOzR0VoUWoEV"
-      ]
-    },
-    {
-      "Pos": "179",
-      "P+": "RE",
-      "Artist and Title": "Tedua - Paradiso Artificiale (w/ Baby Gang, Kid Yugi)",
-      "Days": "1005",
-      "Pk": "2",
-      "(x?)": "(x4)",
-      "Streams": "42,513",
-      "Streams+": "",
-      "7Day": "284,236",
-      "7Day+": "-2,464",
-      "Total": "110,644,118",
-      "track_id": "5omIW7YOPhA6CULhkdz6jE",
-      "artist_ids": [
-        "1AgAVqo74e2q4FVvg0xpT7",
-        "3LvwPiJQJ0da0GurKMToV0",
-        "0EUR8jz8L936AEbV2Spkca"
-      ]
-    },
-    {
       "Pos": "180",
-      "P+": "-13",
-      "Artist and Title": "Cesare Cremonini - Marmellata #25",
-      "Days": "329",
-      "Pk": "54",
+      "P+": "RE",
+      "Artist and Title": "883 - Nord sud ovest est",
+      "Days": "34",
+      "Pk": "110",
       "(x?)": "",
-      "Streams": "42,488",
-      "Streams+": "+1,579",
-      "7Day": "322,028",
-      "7Day+": "-2,598",
-      "Total": "19,692,347",
-      "track_id": "1b8tFExEyHyxTzrrlQAsu4",
+      "Streams": "43,844",
+      "Streams+": "",
+      "7Day": "284,075",
+      "7Day+": "+256",
+      "Total": "1,773,015",
+      "track_id": "7F54orEV7IMKtKG5X9Ig9y",
       "artist_ids": [
-        "396Jr76018oUMR6QBnqT8T"
+        "6bMul6rmRS03x38tWKYifO"
       ]
     },
     {
       "Pos": "181",
-      "P+": "-21",
-      "Artist and Title": "Capo Plaza - RATATA",
-      "Days": "356",
-      "Pk": "23",
-      "(x?)": "",
-      "Streams": "42,437",
-      "Streams+": "+889",
-      "7Day": "275,813",
-      "7Day+": "+42,437",
-      "Total": "19,043,900",
-      "track_id": "3QjM7blH1a157YfP8G33TA",
-      "artist_ids": [
-        "5SulO4l40qDuV9zUGLZx7n"
-      ]
-    },
-    {
-      "Pos": "182",
-      "P+": "+7",
+      "P+": "+1",
       "Artist and Title": "Shiva - Non lo Sai",
-      "Days": "695",
+      "Days": "696",
       "Pk": "1",
       "(x?)": "(x1)",
-      "Streams": "42,419",
-      "Streams+": "+3,816",
-      "7Day": "311,377",
-      "7Day+": "-2,212",
-      "Total": "92,615,221",
+      "Streams": "43,734",
+      "Streams+": "+1,315",
+      "7Day": "310,163",
+      "7Day+": "-1,214",
+      "Total": "92,658,955",
       "track_id": "0D3QZNAMH2d5MFkVlebo6h",
       "artist_ids": [
         "2K5nCggbhSZ00YCYP5qkZS"
       ]
     },
     {
-      "Pos": "183",
-      "P+": "-4",
-      "Artist and Title": "Alfa - Genova e Napoli (w/ Gigi D'Alessio)",
-      "Days": "56",
-      "Pk": "62",
+      "Pos": "182",
+      "P+": "-30",
+      "Artist and Title": "Luchè - Non Abbiamo Età",
+      "Days": "2196",
+      "Pk": "34",
       "(x?)": "",
-      "Streams": "42,384",
-      "Streams+": "+2,652",
-      "7Day": "266,128",
-      "7Day+": "+42,384",
-      "Total": "3,079,687",
-      "track_id": "4IPvLJHeW1wwPDz0mYvxzZ",
+      "Streams": "43,716",
+      "Streams+": "-2,176",
+      "7Day": "332,144",
+      "7Day+": "+294",
+      "Total": "143,290,631",
+      "track_id": "0NwuXciw6eQc4edjwSBnV3",
       "artist_ids": [
-        "7GacyaFUp0qkEJglERX9N7",
-        "4eSMsVzRJHhN1aq0IvZcyn"
+        "3yiEJ9SByXZMXTwaKdVFN4"
+      ]
+    },
+    {
+      "Pos": "183",
+      "P+": "-10",
+      "Artist and Title": "Geolier - UN RICCO E UN POVERO",
+      "Days": "190",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "43,552",
+      "Streams+": "+98",
+      "7Day": "274,484",
+      "7Day+": "-6,331",
+      "Total": "15,684,161",
+      "track_id": "5IR9UiTqoJCGJRBUO34cIA",
+      "artist_ids": [
+        "27LlKWxS3KXW7RRAxN5S8s"
       ]
     },
     {
       "Pos": "184",
-      "P+": "-76",
-      "Artist and Title": "Ultimo - ACQUARIO",
-      "Days": "266",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "42,337",
-      "Streams+": "-4,854",
-      "7Day": "287,480",
-      "7Day+": "+42,337",
-      "Total": "25,487,931",
-      "track_id": "0P0GZSQTYSdCPzQar8Rbqf",
+      "P+": "-23",
+      "Artist and Title": "RRARI DAL TACCO - BIANCA (w/ Kid Yugi)",
+      "Days": "504",
+      "Pk": "1",
+      "(x?)": "(x15)",
+      "Streams": "43,362",
+      "Streams+": "-1,517",
+      "7Day": "323,479",
+      "7Day+": "-9,225",
+      "Total": "47,557,788",
+      "track_id": "5SnMK1oThJv22NFumoKVw4",
       "artist_ids": [
-        "3hN3iJMbbBmqBSAMx5veDa"
+        "30fnIb0InCgAp2IPY17nqd",
+        "0EUR8jz8L936AEbV2Spkca"
       ]
     },
     {
       "Pos": "185",
-      "P+": "-11",
+      "P+": "RE",
+      "Artist and Title": "Benson Boone - Beautiful Things",
+      "Days": "779",
+      "Pk": "16",
+      "(x?)": "",
+      "Streams": "43,316",
+      "Streams+": "",
+      "7Day": "130,271",
+      "7Day+": "-3,236",
+      "Total": "72,718,774",
+      "track_id": "3xkHsmpQCBMytMJNiDf3Ii",
+      "artist_ids": [
+        "22wbnEMDvgVIAGdFeek6ET"
+      ]
+    },
+    {
+      "Pos": "186",
+      "P+": "-6",
+      "Artist and Title": "Cesare Cremonini - Marmellata #25",
+      "Days": "330",
+      "Pk": "54",
+      "(x?)": "",
+      "Streams": "43,306",
+      "Streams+": "+818",
+      "7Day": "313,458",
+      "7Day+": "-8,570",
+      "Total": "19,735,653",
+      "track_id": "1b8tFExEyHyxTzrrlQAsu4",
+      "artist_ids": [
+        "396Jr76018oUMR6QBnqT8T"
+      ]
+    },
+    {
+      "Pos": "187",
+      "P+": "RE",
+      "Artist and Title": "Lucio Battisti - Il mio canto libero",
+      "Days": "257",
+      "Pk": "40",
+      "(x?)": "",
+      "Streams": "43,291",
+      "Streams+": "",
+      "7Day": "221,620",
+      "7Day+": "-775",
+      "Total": "15,183,408",
+      "track_id": "2SvXqxiG2ntfkEWvuABT7u",
+      "artist_ids": [
+        "2caOYPej26UoQOyFnzXW3G"
+      ]
+    },
+    {
+      "Pos": "188",
+      "P+": "-3",
       "Artist and Title": "KAROL G - Si Antes Te Hubiera Conocido",
-      "Days": "835",
+      "Days": "836",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "42,224",
-      "Streams+": "+2,051",
-      "7Day": "318,973",
-      "7Day+": "-2,413",
-      "Total": "93,265,719",
+      "Streams": "43,200",
+      "Streams+": "+976",
+      "7Day": "313,742",
+      "7Day+": "-5,231",
+      "Total": "93,308,919",
       "track_id": "6WatFBLVB0x077xWeoVc2k",
       "artist_ids": [
         "790FomKkXshlbRYZFtlgla"
       ]
     },
     {
-      "Pos": "186",
-      "P+": "-36",
-      "Artist and Title": "Michael Jackson - Billie Jean",
-      "Days": "211",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "42,130",
-      "Streams+": "-508",
-      "7Day": "328,748",
-      "7Day+": "-3,735",
-      "Total": "18,031,234",
-      "track_id": "7J1uxwnxfQLu4APicE5Rnj",
-      "artist_ids": [
-        "3fMbdgg4jU18AjLCKBhRSm"
-      ]
-    },
-    {
-      "Pos": "187",
-      "P+": "-76",
-      "Artist and Title": "Dipinto - Boss (w/ Fresh Beatz)",
-      "Days": "74",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "42,098",
-      "Streams+": "-4,815",
-      "7Day": "343,941",
-      "7Day+": "-3,573",
-      "Total": "6,891,349",
-      "track_id": "0yWtSeNfVQaF8CCvRD2aZM",
-      "artist_ids": [
-        "26toJml6wSdf58ZgNG0ci9",
-        "6HQ27YefiitrZ9YsWrgRHX"
-      ]
-    },
-    {
-      "Pos": "188",
-      "P+": "RE",
-      "Artist and Title": "883 - Una canzone d'amore",
-      "Days": "27",
-      "Pk": "122",
-      "(x?)": "",
-      "Streams": "41,888",
-      "Streams+": "",
-      "7Day": "192,912",
-      "7Day+": "-3,266",
-      "Total": "1,342,183",
-      "track_id": "4pD1Wit3m1IHA7Ixgww9b6",
-      "artist_ids": [
-        "6bMul6rmRS03x38tWKYifO"
-      ]
-    },
-    {
       "Pos": "189",
-      "P+": "RE",
-      "Artist and Title": "Geolier - OLÈ (w/ Kid Yugi)",
-      "Days": "215",
-      "Pk": "2",
-      "(x?)": "(x5)",
-      "Streams": "41,837",
-      "Streams+": "",
-      "7Day": "90,385",
-      "7Day+": "+41,837",
-      "Total": "19,979,225",
-      "track_id": "3MCoJ2yjtBmL1CWkBpdYyJ",
-      "artist_ids": [
-        "27LlKWxS3KXW7RRAxN5S8s",
-        "0EUR8jz8L936AEbV2Spkca"
-      ]
-    },
-    {
-      "Pos": "190",
-      "P+": "-10",
-      "Artist and Title": "Geolier - 1H",
-      "Days": "252",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "41,830",
-      "Streams+": "+2,235",
-      "7Day": "177,278",
-      "7Day+": "+355",
-      "Total": "22,157,459",
-      "track_id": "6PtEfaLwNxmBtK4LX7Ffi6",
-      "artist_ids": [
-        "27LlKWxS3KXW7RRAxN5S8s"
-      ]
-    },
-    {
-      "Pos": "191",
-      "P+": "-23",
-      "Artist and Title": "Baby Gang - Tu Me Quieres - Prod. by Higashi x Roberto Ferrante (w/ Omega, Higashi, Roberto Ferrante)",
-      "Days": "730",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "41,821",
-      "Streams+": "+968",
-      "7Day": "178,420",
-      "7Day+": "+41,821",
-      "Total": "70,030,644",
-      "track_id": "00URgxWgyVoybGLhhmKr7g",
-      "artist_ids": [
-        "3LvwPiJQJ0da0GurKMToV0",
-        "1UjxAZqzphB1tsMb1aWBj0",
-        "1eBPcZCSWh1EAv0aOXusye",
-        "2aiM1OfMODFLUXaQgEVPK1"
-      ]
-    },
-    {
-      "Pos": "192",
-      "P+": "RE",
-      "Artist and Title": "Tony Boy - Solamente per amore",
-      "Days": "50",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "41,772",
-      "Streams+": "",
-      "7Day": "85,738",
-      "7Day+": "+41,772",
-      "Total": "4,186,017",
-      "track_id": "0lmQ7cVyO4oU2hpsUuUnO2",
-      "artist_ids": [
-        "6PsQc21YZU7WNfiODG69Qk"
-      ]
-    },
-    {
-      "Pos": "193",
-      "P+": "RE",
-      "Artist and Title": "Dua Lipa - Training Season",
-      "Days": "273",
-      "Pk": "62",
-      "(x?)": "",
-      "Streams": "41,626",
-      "Streams+": "",
-      "7Day": "230,972",
-      "7Day+": "-4,818",
-      "Total": "20,229,010",
-      "track_id": "5b5cPscqVEMChvDqscVw26",
-      "artist_ids": [
-        "6M2wZ9GZgrQXHCFfjv46we"
-      ]
-    },
-    {
-      "Pos": "194",
-      "P+": "RE",
-      "Artist and Title": "Pinguini Tattici Nucleari - Amaro",
-      "Days": "441",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "41,500",
-      "Streams+": "",
-      "7Day": "41,500",
-      "7Day+": "+41,500",
-      "Total": "37,432,196",
-      "track_id": "15ZWSMDQMfBKVn4zurLX7k",
-      "artist_ids": [
-        "6RdcIWVKYYzNzjQRd3oyHS"
-      ]
-    },
-    {
-      "Pos": "195",
-      "P+": "-3",
-      "Artist and Title": "Capo Plaza - Uno squillo",
-      "Days": "1068",
-      "Pk": "26",
-      "(x?)": "",
-      "Streams": "41,429",
-      "Streams+": "+3,125",
-      "7Day": "310,711",
-      "7Day+": "-1,296",
-      "Total": "66,378,146",
-      "track_id": "7zivIUyCw9MmYftdcayXnN",
-      "artist_ids": [
-        "5SulO4l40qDuV9zUGLZx7n"
-      ]
-    },
-    {
-      "Pos": "196",
-      "P+": "+3",
-      "Artist and Title": "Ghali - 22:22",
-      "Days": "125",
-      "Pk": "15",
-      "(x?)": "",
-      "Streams": "41,428",
-      "Streams+": "+3,760",
-      "7Day": "124,409",
-      "7Day+": "-721",
-      "Total": "6,804,011",
-      "track_id": "73hTfGHBSYC8iI6He1optV",
-      "artist_ids": [
-        "3egWSWp7Y4FyCKIyvXbw7L"
-      ]
-    },
-    {
-      "Pos": "197",
-      "P+": "RE",
-      "Artist and Title": "Fabri Fibra - Goya (w/ Pinguini Tattici Nucleari)",
-      "Days": "6",
-      "Pk": "69",
-      "(x?)": "",
-      "Streams": "41,349",
-      "Streams+": "",
-      "7Day": "88,831",
-      "7Day+": "+41,349",
-      "Total": "318,170",
-      "track_id": "0FhB5LAmIn6iFg4b2XL1hJ",
-      "artist_ids": [
-        "7u710e44HW3K7A5eTnRqHC",
-        "6RdcIWVKYYzNzjQRd3oyHS"
-      ]
-    },
-    {
-      "Pos": "198",
-      "P+": "RE",
+      "P+": "+9",
       "Artist and Title": "Kid Yugi - Lilith",
-      "Days": "677",
+      "Days": "678",
       "Pk": "5",
       "(x?)": "",
-      "Streams": "41,251",
-      "Streams+": "",
-      "7Day": "172,889",
-      "7Day+": "+428",
-      "Total": "61,321,728",
+      "Streams": "43,170",
+      "Streams+": "+1,919",
+      "7Day": "170,541",
+      "7Day+": "-2,348",
+      "Total": "61,364,898",
       "track_id": "6YB8rH5Lr340A4ps8eV7hw",
       "artist_ids": [
         "0EUR8jz8L936AEbV2Spkca"
       ]
     },
     {
+      "Pos": "190",
+      "P+": "RE",
+      "Artist and Title": "Geolier - L'ULTIMA POESIA (w/ Ultimo, Takagi & Ketra)",
+      "Days": "723",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "43,170",
+      "Streams+": "",
+      "7Day": "268,152",
+      "7Day+": "-311",
+      "Total": "66,176,700",
+      "track_id": "5oJVfPUHsD7A8bZtKVqgL2",
+      "artist_ids": [
+        "27LlKWxS3KXW7RRAxN5S8s",
+        "3hN3iJMbbBmqBSAMx5veDa",
+        "76UCIJTB0jcJvBaL0CdIqx"
+      ]
+    },
+    {
+      "Pos": "191",
+      "P+": "RE",
+      "Artist and Title": "Tony Boy - Non mi basta mai (w/ Frah Quintale, Capo Plaza)",
+      "Days": "232",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "43,160",
+      "Streams+": "",
+      "7Day": "179,306",
+      "7Day+": "+43,160",
+      "Total": "16,502,329",
+      "track_id": "0HiHVL8iC1Z1kAjV6vZdIo",
+      "artist_ids": [
+        "6PsQc21YZU7WNfiODG69Qk",
+        "7BgEOZ9w3Y4IMShXTMu1nN",
+        "5SulO4l40qDuV9zUGLZx7n"
+      ]
+    },
+    {
+      "Pos": "192",
+      "P+": "RE",
+      "Artist and Title": "Kid Yugi - Eva (w/ Tedua, Junior K)",
+      "Days": "496",
+      "Pk": "2",
+      "(x?)": "(x3)",
+      "Streams": "43,049",
+      "Streams+": "",
+      "7Day": "43,049",
+      "7Day+": "+43,049",
+      "Total": "68,266,712",
+      "track_id": "29nqe5lhK8JmNcVXum7UuA",
+      "artist_ids": [
+        "0EUR8jz8L936AEbV2Spkca",
+        "1AgAVqo74e2q4FVvg0xpT7",
+        "6jN6FwPrMDKLgHbU9OyTrt"
+      ]
+    },
+    {
+      "Pos": "193",
+      "P+": "-22",
+      "Artist and Title": "Kid Yugi - Il Filmografo",
+      "Days": "506",
+      "Pk": "60",
+      "(x?)": "",
+      "Streams": "42,914",
+      "Streams+": "-1,170",
+      "7Day": "228,438",
+      "7Day+": "-2,829",
+      "Total": "30,120,008",
+      "track_id": "5nqOdSrqurNq8ejE7Ujc9l",
+      "artist_ids": [
+        "0EUR8jz8L936AEbV2Spkca"
+      ]
+    },
+    {
+      "Pos": "194",
+      "P+": "-8",
+      "Artist and Title": "Michael Jackson - Billie Jean",
+      "Days": "212",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "42,676",
+      "Streams+": "+546",
+      "7Day": "324,579",
+      "7Day+": "-4,169",
+      "Total": "18,073,910",
+      "track_id": "7J1uxwnxfQLu4APicE5Rnj",
+      "artist_ids": [
+        "3fMbdgg4jU18AjLCKBhRSm"
+      ]
+    },
+    {
+      "Pos": "195",
+      "P+": "RE",
+      "Artist and Title": "Alfa - il filo rosso",
+      "Days": "586",
+      "Pk": "2",
+      "(x?)": "(x5)",
+      "Streams": "42,530",
+      "Streams+": "",
+      "7Day": "85,563",
+      "7Day+": "-1,865",
+      "Total": "79,473,451",
+      "track_id": "1QcmAp6Ev2HuYxKujUwnw0",
+      "artist_ids": [
+        "7GacyaFUp0qkEJglERX9N7"
+      ]
+    },
+    {
+      "Pos": "196",
+      "P+": "-3",
+      "Artist and Title": "Dua Lipa - Training Season",
+      "Days": "274",
+      "Pk": "62",
+      "(x?)": "",
+      "Streams": "42,347",
+      "Streams+": "+721",
+      "7Day": "224,499",
+      "7Day+": "-6,473",
+      "Total": "20,271,357",
+      "track_id": "5b5cPscqVEMChvDqscVw26",
+      "artist_ids": [
+        "6M2wZ9GZgrQXHCFfjv46we"
+      ]
+    },
+    {
+      "Pos": "197",
+      "P+": "+3",
+      "Artist and Title": "Ernia - FELLINI (w/ Kid Yugi)",
+      "Days": "348",
+      "Pk": "1",
+      "(x?)": "(x32)",
+      "Streams": "42,331",
+      "Streams+": "+1,134",
+      "7Day": "173,601",
+      "7Day+": "-6,550",
+      "Total": "41,888,893",
+      "track_id": "0rjVRGqVuNwnGCxwBkBZXd",
+      "artist_ids": [
+        "3fhMfkPPzksWuw0hEm4ldm",
+        "0EUR8jz8L936AEbV2Spkca"
+      ]
+    },
+    {
+      "Pos": "198",
+      "P+": "RE",
+      "Artist and Title": "Sayf - PARLAR D’AMORE (w/ Bresh)",
+      "Days": "165",
+      "Pk": "27",
+      "(x?)": "",
+      "Streams": "42,317",
+      "Streams+": "",
+      "7Day": "132,135",
+      "7Day+": "-1,351",
+      "Total": "9,944,254",
+      "track_id": "7lLSzMu2EKwIJ4co0sJSEe",
+      "artist_ids": [
+        "3HAwumPgGOSXlZSyGWuLhB",
+        "7FeObngbQ0GY3SojNwKdKn"
+      ]
+    },
+    {
       "Pos": "199",
       "P+": "RE",
-      "Artist and Title": "22simba - 1/1 feat. 18K (w/ 18K)",
-      "Days": "42",
-      "Pk": "26",
+      "Artist and Title": "Oasis - Don't Look Back in Anger - Remastered",
+      "Days": "165",
+      "Pk": "52",
       "(x?)": "",
-      "Streams": "41,249",
+      "Streams": "42,316",
       "Streams+": "",
-      "7Day": "41,249",
-      "7Day+": "-1,228",
-      "Total": "2,722,176",
-      "track_id": "0Vx6bDQI97MbHYe7665QzK",
+      "7Day": "165,965",
+      "7Day+": "-1,512",
+      "Total": "8,611,841",
+      "track_id": "0UvCh63URrLFcPkKt99hHd",
       "artist_ids": [
-        "4Xsf5hhfIyhTgiVymlPLA7",
-        "5PVCzkHVhVLRLadPdJUdXB"
+        "2DaxqgrOhkeH0fpeiQq2f4"
       ]
     },
     {
       "Pos": "200",
       "P+": "RE",
-      "Artist and Title": "Ernia - FELLINI (w/ Kid Yugi)",
-      "Days": "347",
-      "Pk": "1",
-      "(x?)": "(x32)",
-      "Streams": "41,197",
+      "Artist and Title": "Claudio Baglioni - Mille giorni di te e di me",
+      "Days": "5",
+      "Pk": "171",
+      "(x?)": "",
+      "Streams": "42,249",
       "Streams+": "",
-      "7Day": "180,151",
-      "7Day+": "-6,711",
-      "Total": "41,846,562",
-      "track_id": "0rjVRGqVuNwnGCxwBkBZXd",
+      "7Day": "178,516",
+      "7Day+": "+42,249",
+      "Total": "215,363",
+      "track_id": "6eLBzWfMCfir6mOvBQfrrr",
       "artist_ids": [
-        "3fhMfkPPzksWuw0hEm4ldm",
-        "0EUR8jz8L936AEbV2Spkca"
+        "5zBAb4P2NoTps0shbgZvgj"
       ]
     }
   ]
