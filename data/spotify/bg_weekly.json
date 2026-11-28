@@ -1,17 +1,17 @@
 {
   "source": "https://kworb.net/spotify/country/bg_weekly.html",
-  "title": "Spotify Weekly Chart - Bulgaria - 2026/11/19",
+  "title": "Spotify Weekly Chart - Bulgaria - 2026/11/26",
   "chart": [
     {
       "Pos": "1",
-      "P+": "+4",
+      "P+": "=",
       "Artist and Title": "Ayshenur - Bonbonche (w/ Monkey)",
-      "Wks": "5",
+      "Wks": "6",
       "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "174,426",
-      "Streams+": "+73,108",
-      "Total": "395,071",
+      "(x?)": "(x2)",
+      "Streams": "165,248",
+      "Streams+": "-9,178",
+      "Total": "560,319",
       "track_id": "1lhHWyCA45QNJO7HznfppW",
       "artist_ids": [
         "4LHZEpXA6Fd8r9tMoQsruq",
@@ -22,12 +22,12 @@
       "Pos": "2",
       "P+": "=",
       "Artist and Title": "VAYA - Koziruvash ili hvarchish",
-      "Wks": "4",
+      "Wks": "5",
       "Pk": "2",
-      "(x?)": "(x2)",
-      "Streams": "135,842",
-      "Streams+": "+19,390",
-      "Total": "419,816",
+      "(x?)": "(x3)",
+      "Streams": "115,618",
+      "Streams+": "-20,224",
+      "Total": "535,434",
       "track_id": "5saMtaNa9XdUQ8kDwaKf25",
       "artist_ids": [
         "4KYoUSnllfOfFWraainprN"
@@ -35,30 +35,14 @@
     },
     {
       "Pos": "3",
-      "P+": "-2",
-      "Artist and Title": "KSIOR - OTKRADNI ME (w/ SISS)",
-      "Wks": "4",
-      "Pk": "1",
-      "(x?)": "(x2)",
-      "Streams": "115,816",
-      "Streams+": "-5,939",
-      "Total": "415,295",
-      "track_id": "1vrtoqVHlUny6TfnBY3Lna",
-      "artist_ids": [
-        "2NuYz10D2u4pbBUb9zVCQ6",
-        "1URQKyDhNbxD42pNxdpctn"
-      ]
-    },
-    {
-      "Pos": "4",
-      "P+": "=",
+      "P+": "+1",
       "Artist and Title": "Diona - Voayor (w/ Silver)",
-      "Wks": "7",
+      "Wks": "8",
       "Pk": "1",
       "(x?)": "(x4)",
-      "Streams": "109,118",
-      "Streams+": "+298",
-      "Total": "788,324",
+      "Streams": "113,000",
+      "Streams+": "+3,882",
+      "Total": "901,324",
       "track_id": "3CMOPMTEuS7BKEPewguB5b",
       "artist_ids": [
         "5OyVwBuWRLl5npoif9l5sJ",
@@ -66,15 +50,77 @@
       ]
     },
     {
+      "Pos": "4",
+      "P+": "-1",
+      "Artist and Title": "KSIOR - OTKRADNI ME (w/ SISS)",
+      "Wks": "5",
+      "Pk": "1",
+      "(x?)": "(x2)",
+      "Streams": "89,008",
+      "Streams+": "-26,808",
+      "Total": "504,303",
+      "track_id": "1vrtoqVHlUny6TfnBY3Lna",
+      "artist_ids": [
+        "2NuYz10D2u4pbBUb9zVCQ6",
+        "1URQKyDhNbxD42pNxdpctn"
+      ]
+    },
+    {
       "Pos": "5",
       "P+": "+1",
-      "Artist and Title": "Bandata Na Ruba - BEGESTAN (w/ MOMO RECORDS)",
-      "Wks": "4",
+      "Artist and Title": "Emanuela - Изневяра",
+      "Wks": "5",
       "Pk": "4",
       "(x?)": "",
-      "Streams": "90,915",
-      "Streams+": "-4,810",
-      "Total": "317,098",
+      "Streams": "84,158",
+      "Streams+": "-5,480",
+      "Total": "412,283",
+      "track_id": "2l7755O6QVrXpkadsQcZic",
+      "artist_ids": [
+        "1lxHE7dVKOVaIjGOIu8svG"
+      ]
+    },
+    {
+      "Pos": "6",
+      "P+": "NEW",
+      "Artist and Title": "Alisia - Марш (w/ Emanuela)",
+      "Wks": "1",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "75,830",
+      "Streams+": "",
+      "Total": "75,830",
+      "track_id": "3eD686UVqIeWtbg3TGGeZw",
+      "artist_ids": [
+        "5mNFpEfI0KApCz2Y88LYW6",
+        "1lxHE7dVKOVaIjGOIu8svG"
+      ]
+    },
+    {
+      "Pos": "7",
+      "P+": "+1",
+      "Artist and Title": "Djordan - Сама ще си говориш (Remake 2026)",
+      "Wks": "6",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "73,474",
+      "Streams+": "-8,576",
+      "Total": "412,133",
+      "track_id": "2T18i6xJZudlyCEDyRVrjs",
+      "artist_ids": [
+        "4vczAVLBVJzhMndKRCsQls"
+      ]
+    },
+    {
+      "Pos": "8",
+      "P+": "-3",
+      "Artist and Title": "Bandata Na Ruba - BEGESTAN (w/ MOMO RECORDS)",
+      "Wks": "5",
+      "Pk": "4",
+      "(x?)": "",
+      "Streams": "70,422",
+      "Streams+": "-20,493",
+      "Total": "387,520",
       "track_id": "2gwshTWvh1EaBxT9e77CFy",
       "artist_ids": [
         "12fCNCkYtNfyBZ3zjFGri8",
@@ -82,76 +128,30 @@
       ]
     },
     {
-      "Pos": "6",
-      "P+": "+2",
-      "Artist and Title": "Emanuela - Изневяра",
-      "Wks": "4",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "89,638",
-      "Streams+": "+5,291",
-      "Total": "328,125",
-      "track_id": "2l7755O6QVrXpkadsQcZic",
-      "artist_ids": [
-        "1lxHE7dVKOVaIjGOIu8svG"
-      ]
-    },
-    {
-      "Pos": "7",
-      "P+": "-4",
+      "Pos": "9",
+      "P+": "-2",
       "Artist and Title": "Selina - Мацурана",
-      "Wks": "3",
+      "Wks": "4",
       "Pk": "3",
       "(x?)": "(x1)",
-      "Streams": "88,524",
-      "Streams+": "-21,100",
-      "Total": "229,904",
+      "Streams": "70,405",
+      "Streams+": "-18,119",
+      "Total": "300,309",
       "track_id": "2oZfLKFHUP5sCJzaQwMQ4J",
       "artist_ids": [
         "583wxBpo6S1maGz1bqYekZ"
       ]
     },
     {
-      "Pos": "8",
-      "P+": "-1",
-      "Artist and Title": "Djordan - Сама ще си говориш (Remake 2026)",
-      "Wks": "5",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "82,050",
-      "Streams+": "-3,857",
-      "Total": "338,659",
-      "track_id": "2T18i6xJZudlyCEDyRVrjs",
-      "artist_ids": [
-        "4vczAVLBVJzhMndKRCsQls"
-      ]
-    },
-    {
-      "Pos": "9",
-      "P+": "=",
-      "Artist and Title": "Galin - На пожар (w/ KSIOR)",
-      "Wks": "14",
-      "Pk": "1",
-      "(x?)": "(x6)",
-      "Streams": "66,015",
-      "Streams+": "-496",
-      "Total": "1,437,778",
-      "track_id": "0kRWgpSYzfouXapQfum4jf",
-      "artist_ids": [
-        "5amPFw5XVlNzP7uSKBXtai",
-        "2NuYz10D2u4pbBUb9zVCQ6"
-      ]
-    },
-    {
       "Pos": "10",
       "P+": "=",
       "Artist and Title": "Konstantin - БОМ-БОК (w/ Tedi Aleksandrova)",
-      "Wks": "18",
+      "Wks": "19",
       "Pk": "2",
       "(x?)": "(x1)",
-      "Streams": "62,389",
-      "Streams+": "+1,604",
-      "Total": "1,225,658",
+      "Streams": "69,671",
+      "Streams+": "+7,282",
+      "Total": "1,295,329",
       "track_id": "5igEXmQo4UruzPSXTAb1rn",
       "artist_ids": [
         "4v8n02xVhZK4CmdUAuipHn",
@@ -160,29 +160,30 @@
     },
     {
       "Pos": "11",
-      "P+": "+4",
-      "Artist and Title": "Kiara - Забранените игри",
-      "Wks": "8",
-      "Pk": "3",
-      "(x?)": "(x3)",
-      "Streams": "59,363",
-      "Streams+": "+7,553",
-      "Total": "487,685",
-      "track_id": "23sidjYjCS6C2DNasaTBYv",
+      "P+": "-2",
+      "Artist and Title": "Galin - На пожар (w/ KSIOR)",
+      "Wks": "15",
+      "Pk": "1",
+      "(x?)": "(x6)",
+      "Streams": "62,762",
+      "Streams+": "-3,253",
+      "Total": "1,500,540",
+      "track_id": "0kRWgpSYzfouXapQfum4jf",
       "artist_ids": [
-        "3J4l3yj3cNs6TifveDvk9Z"
+        "5amPFw5XVlNzP7uSKBXtai",
+        "2NuYz10D2u4pbBUb9zVCQ6"
       ]
     },
     {
       "Pos": "12",
       "P+": "=",
       "Artist and Title": "Djordan - Играчка (w/ Emanuela)",
-      "Wks": "15",
+      "Wks": "16",
       "Pk": "8",
       "(x?)": "",
-      "Streams": "59,049",
-      "Streams+": "+3,685",
-      "Total": "663,716",
+      "Streams": "58,256",
+      "Streams+": "-793",
+      "Total": "721,972",
       "track_id": "3t3WvabJwAMzeZkn2bNc4r",
       "artist_ids": [
         "4vczAVLBVJzhMndKRCsQls",
@@ -191,1191 +192,29 @@
     },
     {
       "Pos": "13",
-      "P+": "+3",
-      "Artist and Title": "Tedi Aleksandrova - AJ",
-      "Wks": "14",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "58,107",
-      "Streams+": "+6,826",
-      "Total": "536,283",
-      "track_id": "7ngzDY91OtjfMoixQrWJNa",
-      "artist_ids": [
-        "3CcA9m1Ivpp5XmLt8SxUpn"
-      ]
-    },
-    {
-      "Pos": "14",
-      "P+": "=",
-      "Artist and Title": "SIMONA - Прахосмукачка",
-      "Wks": "25",
-      "Pk": "1",
-      "(x?)": "(x6)",
-      "Streams": "51,932",
-      "Streams+": "-816",
-      "Total": "2,317,439",
-      "track_id": "6c2PAUaxUBF4m4DUlR0Ls6",
-      "artist_ids": [
-        "6NtH0d4qlaU5FakRdrdNwq"
-      ]
-    },
-    {
-      "Pos": "15",
-      "P+": "-4",
-      "Artist and Title": "KSIOR - BMW (w/ SISS)",
-      "Wks": "18",
-      "Pk": "1",
-      "(x?)": "(x2)",
-      "Streams": "51,448",
-      "Streams+": "-5,131",
-      "Total": "1,419,235",
-      "track_id": "117cR1Qm4uwOQQhp0uvD94",
-      "artist_ids": [
-        "2NuYz10D2u4pbBUb9zVCQ6",
-        "1URQKyDhNbxD42pNxdpctn"
-      ]
-    },
-    {
-      "Pos": "16",
-      "P+": "-3",
-      "Artist and Title": "Bandata Na Ruba - OT STAROTO (w/ MOMO RECORDS, Garjoka, Dim4ou)",
-      "Wks": "16",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "50,516",
-      "Streams+": "-2,461",
-      "Total": "974,848",
-      "track_id": "1uY6bR9vlVn1ZlAlK0FoEm",
-      "artist_ids": [
-        "12fCNCkYtNfyBZ3zjFGri8",
-        "5f1C9EB4G4MrxxmWmZP5Wo",
-        "2HB7K5UdSuYXmdxsPkK8Tm",
-        "6URykZzv72st8HDMcJNrsV"
-      ]
-    },
-    {
-      "Pos": "17",
-      "P+": "+27",
-      "Artist and Title": "Emanuela - Skapoto se plashta",
-      "Wks": "47",
-      "Pk": "17",
-      "(x?)": "",
-      "Streams": "47,067",
-      "Streams+": "+14,802",
-      "Total": "894,046",
-      "track_id": "5jumClRHFt7meCQ8vbKyDf",
-      "artist_ids": [
-        "1lxHE7dVKOVaIjGOIu8svG"
-      ]
-    },
-    {
-      "Pos": "18",
-      "P+": "-1",
-      "Artist and Title": "Dessita - Наказани",
-      "Wks": "6",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "46,518",
-      "Streams+": "-1,886",
-      "Total": "340,259",
-      "track_id": "7qhdjdPIrXccnPjzfvSWtr",
-      "artist_ids": [
-        "1WOWylyMYTYIkDJmKLeSpQ"
-      ]
-    },
-    {
-      "Pos": "19",
-      "P+": "-1",
-      "Artist and Title": "Tereza - Наказвам",
-      "Wks": "32",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "45,862",
-      "Streams+": "-1,396",
-      "Total": "1,607,887",
-      "track_id": "5hVGgwsMo3Q67k2REgWKKD",
-      "artist_ids": [
-        "2MkgDAmkpwckUwbjWuhh6x"
-      ]
-    },
-    {
-      "Pos": "20",
-      "P+": "-1",
-      "Artist and Title": "Djordan - Скъсаняк",
-      "Wks": "22",
-      "Pk": "2",
-      "(x?)": "(x2)",
-      "Streams": "44,989",
-      "Streams+": "-407",
-      "Total": "1,558,521",
-      "track_id": "75n8AlD4OLp8024wBSuqZq",
-      "artist_ids": [
-        "4vczAVLBVJzhMndKRCsQls"
-      ]
-    },
-    {
-      "Pos": "21",
-      "P+": "+7",
-      "Artist and Title": "Djena - S men da varvish (w/ Galin)",
-      "Wks": "197",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "43,614",
-      "Streams+": "+5,514",
-      "Total": "4,312,924",
-      "track_id": "1P0Fu36ZP4Hg6zPvtwpyKt",
-      "artist_ids": [
-        "07aV940tBFh4TthmbcjR3g",
-        "5amPFw5XVlNzP7uSKBXtai"
-      ]
-    },
-    {
-      "Pos": "22",
-      "P+": "=",
-      "Artist and Title": "Galin - Момче без сърце",
-      "Wks": "63",
-      "Pk": "21",
-      "(x?)": "",
-      "Streams": "42,809",
-      "Streams+": "+2,452",
-      "Total": "1,516,368",
-      "track_id": "751kslplg7iAx3bD98pZgs",
-      "artist_ids": [
-        "5amPFw5XVlNzP7uSKBXtai"
-      ]
-    },
-    {
-      "Pos": "23",
-      "P+": "+1",
-      "Artist and Title": "SIMONA - Катинара",
-      "Wks": "75",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "42,552",
-      "Streams+": "+2,636",
-      "Total": "4,380,695",
-      "track_id": "07semdYzIbyRJ28XhhPA7I",
-      "artist_ids": [
-        "6NtH0d4qlaU5FakRdrdNwq"
-      ]
-    },
-    {
-      "Pos": "24",
-      "P+": "+3",
-      "Artist and Title": "Lidia - Охрана",
-      "Wks": "43",
-      "Pk": "1",
-      "(x?)": "(x3)",
-      "Streams": "41,479",
-      "Streams+": "+3,262",
-      "Total": "2,766,680",
-      "track_id": "6PkOUoY60U1LoXu231uz3D",
-      "artist_ids": [
-        "4FTXvsvz433gZR67rhxFfN"
-      ]
-    },
-    {
-      "Pos": "25",
-      "P+": "+29",
-      "Artist and Title": "Emanuela - Bad Boys (w/ Alisia)",
-      "Wks": "27",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "41,159",
-      "Streams+": "+11,597",
-      "Total": "1,181,129",
-      "track_id": "5dbIBryEKXQzizXzb3MXnV",
-      "artist_ids": [
-        "1lxHE7dVKOVaIjGOIu8svG",
-        "5mNFpEfI0KApCz2Y88LYW6"
-      ]
-    },
-    {
-      "Pos": "26",
-      "P+": "+24",
-      "Artist and Title": "Diona - Лакомия (w/ Bo, Stella, Simona)",
-      "Wks": "3",
-      "Pk": "26",
-      "(x?)": "",
-      "Streams": "40,664",
-      "Streams+": "+9,896",
-      "Total": "89,351",
-      "track_id": "5S0qs9IQPsBkT9VO9n4lCk",
-      "artist_ids": [
-        "5OyVwBuWRLl5npoif9l5sJ",
-        "7hlTtVz10Vlmp9oDPHwjUE",
-        "002oyMRzxTzEsBRLzACi8d",
-        "0SR3odhUHWo15i58vnOHes"
-      ]
-    },
-    {
-      "Pos": "27",
-      "P+": "-4",
-      "Artist and Title": "Selina - Кеш, кеш",
-      "Wks": "27",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "40,630",
-      "Streams+": "+362",
-      "Total": "1,689,644",
-      "track_id": "2vuYIgU0KkIEAPGCPBPdh8",
-      "artist_ids": [
-        "583wxBpo6S1maGz1bqYekZ"
-      ]
-    },
-    {
-      "Pos": "28",
       "P+": "-2",
-      "Artist and Title": "Galin - Върколакът (w/ Dessita, Mirela)",
-      "Wks": "19",
-      "Pk": "1",
-      "(x?)": "(x2)",
-      "Streams": "40,553",
-      "Streams+": "+1,495",
-      "Total": "1,611,986",
-      "track_id": "3FsUOQOBUUigiAX4r8qNAD",
-      "artist_ids": [
-        "5amPFw5XVlNzP7uSKBXtai",
-        "1WOWylyMYTYIkDJmKLeSpQ",
-        "4aPsL8sPDTXIR11gYfAb0i"
-      ]
-    },
-    {
-      "Pos": "29",
-      "P+": "+8",
-      "Artist and Title": "Emanuela - Трохари",
-      "Wks": "21",
-      "Pk": "12",
-      "(x?)": "",
-      "Streams": "39,681",
-      "Streams+": "+5,773",
-      "Total": "894,885",
-      "track_id": "1qYrzuJ2VG4VObo5OQNexY",
-      "artist_ids": [
-        "1lxHE7dVKOVaIjGOIu8svG"
-      ]
-    },
-    {
-      "Pos": "30",
-      "P+": "+1",
-      "Artist and Title": "KSIOR - Bolnitsa (w/ Diona)",
-      "Wks": "7",
-      "Pk": "30",
-      "(x?)": "",
-      "Streams": "39,492",
-      "Streams+": "+4,326",
-      "Total": "176,291",
-      "track_id": "2FNPFo76QS9NXtMITSgMp3",
-      "artist_ids": [
-        "2NuYz10D2u4pbBUb9zVCQ6",
-        "5OyVwBuWRLl5npoif9l5sJ"
-      ]
-    },
-    {
-      "Pos": "31",
-      "P+": "NEW",
-      "Artist and Title": "Preslava - Кафе",
-      "Wks": "1",
-      "Pk": "31",
-      "(x?)": "",
-      "Streams": "37,366",
-      "Streams+": "",
-      "Total": "37,366",
-      "track_id": "2lNHXijf6yi12AThmLDQ3c",
-      "artist_ids": [
-        "2Dj0euYPa8eiI6Ee5VLBwg"
-      ]
-    },
-    {
-      "Pos": "32",
-      "P+": "+14",
-      "Artist and Title": "Galin - Роклята ти пада (w/ Yanitsa)",
-      "Wks": "39",
-      "Pk": "28",
-      "(x?)": "",
-      "Streams": "36,742",
-      "Streams+": "+5,080",
-      "Total": "990,245",
-      "track_id": "4SAkhbT3gRgT0vMhxQnwtT",
-      "artist_ids": [
-        "5amPFw5XVlNzP7uSKBXtai",
-        "3a4iT4FdFp6x0IqVTl47vR"
-      ]
-    },
-    {
-      "Pos": "33",
-      "P+": "-1",
-      "Artist and Title": "Boni - Vreme e",
+      "Artist and Title": "Kiara - Забранените игри",
       "Wks": "9",
-      "Pk": "32",
-      "(x?)": "",
-      "Streams": "36,583",
-      "Streams+": "+1,810",
-      "Total": "255,468",
-      "track_id": "3JOJCNsWThMKEeWBXWDgxI",
-      "artist_ids": [
-        "5XJiplMBIs5bkRy3Spyrgl"
-      ]
-    },
-    {
-      "Pos": "34",
-      "P+": "-9",
-      "Artist and Title": "Bandata Na Ruba - JOHN CENA (w/ MOMO RECORDS, Tita)",
-      "Wks": "24",
-      "Pk": "11",
-      "(x?)": "",
-      "Streams": "36,127",
-      "Streams+": "-3,101",
-      "Total": "903,035",
-      "track_id": "3XMcyRsCLVAWdIqKrSvS8Z",
-      "artist_ids": [
-        "12fCNCkYtNfyBZ3zjFGri8",
-        "5f1C9EB4G4MrxxmWmZP5Wo",
-        "5uOrQMWvhytvkjU7P3jgwV"
-      ]
-    },
-    {
-      "Pos": "35",
-      "P+": "-5",
-      "Artist and Title": "MOMO RECORDS - Dobra",
-      "Wks": "8",
-      "Pk": "15",
-      "(x?)": "",
-      "Streams": "36,031",
-      "Streams+": "-321",
-      "Total": "301,817",
-      "track_id": "1RalfDqd1uLsCPSuetbVIY",
-      "artist_ids": [
-        "5f1C9EB4G4MrxxmWmZP5Wo"
-      ]
-    },
-    {
-      "Pos": "36",
-      "P+": "+20",
-      "Artist and Title": "Emanuela - Danoto kopay (w/ Tedi Aleksandrova)",
-      "Wks": "59",
-      "Pk": "1",
-      "(x?)": "(x4)",
-      "Streams": "36,010",
-      "Streams+": "+7,708",
-      "Total": "3,271,092",
-      "track_id": "3Z0bGsiJF9ErQF1iMHsa1G",
-      "artist_ids": [
-        "1lxHE7dVKOVaIjGOIu8svG",
-        "3CcA9m1Ivpp5XmLt8SxUpn"
-      ]
-    },
-    {
-      "Pos": "37",
-      "P+": "+10",
-      "Artist and Title": "Emanuela - Bez chuvstva",
-      "Wks": "128",
-      "Pk": "15",
-      "(x?)": "",
-      "Streams": "35,971",
-      "Streams+": "+4,743",
-      "Total": "2,753,929",
-      "track_id": "0S9PPTm8Dx3KsQ3wi2EseQ",
-      "artist_ids": [
-        "1lxHE7dVKOVaIjGOIu8svG"
-      ]
-    },
-    {
-      "Pos": "38",
-      "P+": "+17",
-      "Artist and Title": "Preslava - Моето слабо място",
-      "Wks": "30",
-      "Pk": "14",
-      "(x?)": "",
-      "Streams": "35,433",
-      "Streams+": "+7,079",
-      "Total": "884,975",
-      "track_id": "46YeHpvSWbG2pHRlMcC5Rp",
-      "artist_ids": [
-        "2Dj0euYPa8eiI6Ee5VLBwg"
-      ]
-    },
-    {
-      "Pos": "39",
-      "P+": "-19",
-      "Artist and Title": "Galin - Крушката",
-      "Wks": "2",
-      "Pk": "20",
-      "(x?)": "",
-      "Streams": "34,821",
-      "Streams+": "-8,596",
-      "Total": "78,238",
-      "track_id": "4BmmtBePvavoAWaWFnTjCf",
-      "artist_ids": [
-        "5amPFw5XVlNzP7uSKBXtai"
-      ]
-    },
-    {
-      "Pos": "40",
-      "P+": "+11",
-      "Artist and Title": "Djulia - Iskam ot teb",
-      "Wks": "27",
-      "Pk": "32",
-      "(x?)": "",
-      "Streams": "34,015",
-      "Streams+": "+3,506",
-      "Total": "690,733",
-      "track_id": "2duH4aHmawCOPCayHzlLae",
-      "artist_ids": [
-        "6KsiFFe8CENPP9DN3SRouY"
-      ]
-    },
-    {
-      "Pos": "41",
-      "P+": "+22",
-      "Artist and Title": "Emanuela - Notarialno zaveren",
-      "Wks": "167",
-      "Pk": "23",
-      "(x?)": "",
-      "Streams": "33,750",
-      "Streams+": "+7,357",
-      "Total": "3,596,252",
-      "track_id": "7tJCzGC2zIWUYm4gQ3oaqi",
-      "artist_ids": [
-        "1lxHE7dVKOVaIjGOIu8svG"
-      ]
-    },
-    {
-      "Pos": "42",
-      "P+": "+1",
-      "Artist and Title": "Preslava - Ne se iztrivash",
-      "Wks": "147",
-      "Pk": "19",
-      "(x?)": "",
-      "Streams": "33,256",
-      "Streams+": "+793",
-      "Total": "2,881,280",
-      "track_id": "7eoO5bQx7uCb1MWxOxnK5h",
-      "artist_ids": [
-        "2Dj0euYPa8eiI6Ee5VLBwg"
-      ]
-    },
-    {
-      "Pos": "43",
-      "P+": "-7",
-      "Artist and Title": "The Neighbourhood - Reflections",
-      "Wks": "15",
-      "Pk": "36",
-      "(x?)": "",
-      "Streams": "32,952",
-      "Streams+": "-1,022",
-      "Total": "222,848",
-      "track_id": "2xql0pid3EUwW38AsywxhV",
-      "artist_ids": [
-        "77SW9BnxLY8rJ0RciFqkHh"
-      ]
-    },
-    {
-      "Pos": "44",
-      "P+": "-9",
-      "Artist and Title": "Djordan - Mutsuna",
-      "Wks": "100",
-      "Pk": "27",
-      "(x?)": "",
-      "Streams": "32,919",
-      "Streams+": "-1,083",
-      "Total": "2,112,804",
-      "track_id": "4DE0aFgEQcMzKJ5jn7oY04",
-      "artist_ids": [
-        "4vczAVLBVJzhMndKRCsQls"
-      ]
-    },
-    {
-      "Pos": "45",
-      "P+": "+26",
-      "Artist and Title": "Emanuela - Vinovna",
-      "Wks": "56",
-      "Pk": "38",
-      "(x?)": "",
-      "Streams": "32,840",
-      "Streams+": "+8,023",
-      "Total": "1,240,719",
-      "track_id": "3rCr3GaLdvKdIaA3jJW50l",
-      "artist_ids": [
-        "1lxHE7dVKOVaIjGOIu8svG"
-      ]
-    },
-    {
-      "Pos": "46",
-      "P+": "-6",
-      "Artist and Title": "Medi - Да си тук",
-      "Wks": "158",
-      "Pk": "2",
-      "(x?)": "(x3)",
-      "Streams": "32,197",
-      "Streams+": "-1,110",
-      "Total": "2,029,789",
-      "track_id": "4a0oV0MjoURyHnW1gz8qcg",
-      "artist_ids": [
-        "6sEfX6ntbBxeWBLggUMyyq"
-      ]
-    },
-    {
-      "Pos": "47",
-      "P+": "+36",
-      "Artist and Title": "Season 25 - Shotta's.",
-      "Wks": "4",
-      "Pk": "47",
-      "(x?)": "",
-      "Streams": "32,123",
-      "Streams+": "+8,188",
-      "Total": "91,522",
-      "track_id": "1ApUYfDejOBvrTnar2Wyf3",
-      "artist_ids": [
-        "1WtceoonufhxRc6AnUSbat"
-      ]
-    },
-    {
-      "Pos": "48",
-      "P+": "-3",
-      "Artist and Title": "KSIOR - BATUT (w/ SISS)",
-      "Wks": "20",
-      "Pk": "2",
-      "(x?)": "(x2)",
-      "Streams": "31,799",
-      "Streams+": "-227",
-      "Total": "1,134,183",
-      "track_id": "0cGSVOwXOlDrPpjV2lJthP",
-      "artist_ids": [
-        "2NuYz10D2u4pbBUb9zVCQ6",
-        "1URQKyDhNbxD42pNxdpctn"
-      ]
-    },
-    {
-      "Pos": "49",
-      "P+": "-16",
-      "Artist and Title": "The Neighbourhood - Sweater Weather",
-      "Wks": "303",
-      "Pk": "14",
-      "(x?)": "",
-      "Streams": "31,594",
-      "Streams+": "-2,897",
-      "Total": "4,718,439",
-      "track_id": "2QjOHCTQ1Jl3zawyYOpxh6",
-      "artist_ids": [
-        "77SW9BnxLY8rJ0RciFqkHh"
-      ]
-    },
-    {
-      "Pos": "50",
-      "P+": "-11",
-      "Artist and Title": "Djena - Huligan",
-      "Wks": "27",
-      "Pk": "22",
-      "(x?)": "",
-      "Streams": "31,348",
-      "Streams+": "-2,236",
-      "Total": "598,859",
-      "track_id": "7DmFY1omu3EuBPYA31Rz3a",
-      "artist_ids": [
-        "07aV940tBFh4TthmbcjR3g"
-      ]
-    },
-    {
-      "Pos": "51",
-      "P+": "-30",
-      "Artist and Title": "Medi - Добро не ти желая",
-      "Wks": "4",
-      "Pk": "16",
-      "(x?)": "",
-      "Streams": "31,326",
-      "Streams+": "-11,128",
-      "Total": "172,151",
-      "track_id": "0sDDJhectbYIl7OkvJ6es8",
-      "artist_ids": [
-        "6sEfX6ntbBxeWBLggUMyyq"
-      ]
-    },
-    {
-      "Pos": "52",
-      "P+": "-18",
-      "Artist and Title": "Menfis - RIKOSHET (w/ V:RGO)",
-      "Wks": "3",
-      "Pk": "21",
-      "(x?)": "",
-      "Streams": "31,006",
-      "Streams+": "-3,229",
-      "Total": "109,041",
-      "track_id": "02zX0wgHupX29Nhq8RAEoy",
-      "artist_ids": [
-        "1MHSqUazy7BjU8NytnUl0Q",
-        "556XyBuO17TCo0Bviw5nCW"
-      ]
-    },
-    {
-      "Pos": "53",
-      "P+": "-5",
-      "Artist and Title": "Mirela - Тарикат",
-      "Wks": "32",
-      "Pk": "1",
-      "(x?)": "(x4)",
-      "Streams": "30,228",
-      "Streams+": "-998",
-      "Total": "2,072,991",
-      "track_id": "2hSloAMRlwf37vFG8xeLM4",
-      "artist_ids": [
-        "4aPsL8sPDTXIR11gYfAb0i"
-      ]
-    },
-    {
-      "Pos": "54",
-      "P+": "-25",
-      "Artist and Title": "Tate McRae - Housewife",
-      "Wks": "5",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "29,832",
-      "Streams+": "-7,641",
-      "Total": "228,390",
-      "track_id": "2sFepQNyl1WjpROruP8bJ0",
-      "artist_ids": [
-        "45dkTj5sMRSjrmBSBeiHym"
-      ]
-    },
-    {
-      "Pos": "55",
-      "P+": "+26",
-      "Artist and Title": "Djordan - Vsichko s teb (w/ Monika Valerieva)",
-      "Wks": "10",
-      "Pk": "55",
-      "(x?)": "",
-      "Streams": "28,979",
-      "Streams+": "+4,875",
-      "Total": "161,544",
-      "track_id": "1MdKhH1ddozZ6h4rAUesKi",
-      "artist_ids": [
-        "4vczAVLBVJzhMndKRCsQls",
-        "0MZj5f4yDsu6aa5XdUhs4d"
-      ]
-    },
-    {
-      "Pos": "56",
-      "P+": "-15",
-      "Artist and Title": "Tereza - Малката, Сладката (w/ Rumen Borilov)",
-      "Wks": "33",
       "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "28,866",
-      "Streams+": "-4,382",
-      "Total": "1,480,527",
-      "track_id": "4uibxyiAMOhxVJ17bN9lNT",
-      "artist_ids": [
-        "2MkgDAmkpwckUwbjWuhh6x",
-        "0RU4GDjar4o0Jw6Iu9f4Yk"
-      ]
-    },
-    {
-      "Pos": "57",
-      "P+": "-19",
-      "Artist and Title": "Ivayla - Температура (w/ Diona)",
-      "Wks": "17",
-      "Pk": "14",
-      "(x?)": "",
-      "Streams": "28,636",
-      "Streams+": "-5,057",
-      "Total": "659,223",
-      "track_id": "2YL0n6M28RzmcUadbBZevV",
-      "artist_ids": [
-        "29Hsg37sCbjeeCdDA0HIgt",
-        "5OyVwBuWRLl5npoif9l5sJ"
-      ]
-    },
-    {
-      "Pos": "58",
-      "P+": "-6",
-      "Artist and Title": "Lidia - Amore",
-      "Wks": "17",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "28,535",
-      "Streams+": "-1,334",
-      "Total": "1,211,458",
-      "track_id": "52wihuqtqPo45YtCLt3RUc",
-      "artist_ids": [
-        "4FTXvsvz433gZR67rhxFfN"
-      ]
-    },
-    {
-      "Pos": "59",
-      "P+": "-17",
-      "Artist and Title": "KSIOR - Papi",
-      "Wks": "36",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "28,509",
-      "Streams+": "-3,980",
-      "Total": "1,280,077",
-      "track_id": "0L3eK2QAxN0YCRJHfFrgrp",
-      "artist_ids": [
-        "2NuYz10D2u4pbBUb9zVCQ6"
-      ]
-    },
-    {
-      "Pos": "60",
-      "P+": "+50",
-      "Artist and Title": "MALINA - Vij Kakvo",
-      "Wks": "18",
-      "Pk": "29",
-      "(x?)": "",
-      "Streams": "27,920",
-      "Streams+": "+6,363",
-      "Total": "405,050",
-      "track_id": "1BWqkdZhZbKsWg6qzFsqbp",
-      "artist_ids": [
-        "2WP3SX3VogIeqpZVCh8C1k"
-      ]
-    },
-    {
-      "Pos": "61",
-      "P+": "=",
-      "Artist and Title": "Djena - Koya",
-      "Wks": "29",
-      "Pk": "40",
-      "(x?)": "",
-      "Streams": "27,883",
-      "Streams+": "+1,239",
-      "Total": "684,955",
-      "track_id": "7AG1ltHqHdUl9BEaq6QniG",
-      "artist_ids": [
-        "07aV940tBFh4TthmbcjR3g"
-      ]
-    },
-    {
-      "Pos": "62",
-      "P+": "+11",
-      "Artist and Title": "Preslava - Bez teb",
-      "Wks": "66",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "27,427",
-      "Streams+": "+2,638",
-      "Total": "2,303,549",
-      "track_id": "3zlH4fylzmEq4QX6zjn3Ny",
-      "artist_ids": [
-        "2Dj0euYPa8eiI6Ee5VLBwg"
-      ]
-    },
-    {
-      "Pos": "63",
-      "P+": "-10",
-      "Artist and Title": "Medi - Времето лекува",
-      "Wks": "23",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "27,029",
-      "Streams+": "-2,742",
-      "Total": "760,659",
-      "track_id": "4kuW4hHAIl9tn8LuFQbAoz",
-      "artist_ids": [
-        "6sEfX6ntbBxeWBLggUMyyq"
-      ]
-    },
-    {
-      "Pos": "64",
-      "P+": "+8",
-      "Artist and Title": "Emanuela - Мили мой, ангел мой",
-      "Wks": "9",
-      "Pk": "64",
-      "(x?)": "",
-      "Streams": "27,000",
-      "Streams+": "+2,208",
-      "Total": "185,849",
-      "track_id": "0ZcrHacfayOf5Q5TPRtveI",
-      "artist_ids": [
-        "1lxHE7dVKOVaIjGOIu8svG"
-      ]
-    },
-    {
-      "Pos": "65",
-      "P+": "+5",
-      "Artist and Title": "Djulia - Na dyavola zhenata",
-      "Wks": "14",
-      "Pk": "65",
-      "(x?)": "",
-      "Streams": "26,855",
-      "Streams+": "+2,027",
-      "Total": "262,408",
-      "track_id": "1EN9ViobxmlMPc5lofxkGO",
-      "artist_ids": [
-        "6KsiFFe8CENPP9DN3SRouY"
-      ]
-    },
-    {
-      "Pos": "66",
-      "P+": "+45",
-      "Artist and Title": "Djordan - КУ-КУ",
-      "Wks": "48",
-      "Pk": "1",
-      "(x?)": "(x8)",
-      "Streams": "26,652",
-      "Streams+": "+5,147",
-      "Total": "2,481,290",
-      "track_id": "5DhNN329T0nLSSE1mkjGmW",
-      "artist_ids": [
-        "4vczAVLBVJzhMndKRCsQls"
-      ]
-    },
-    {
-      "Pos": "67",
-      "P+": "+1",
-      "Artist and Title": "Kiara - Завърти Го",
-      "Wks": "26",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "26,579",
-      "Streams+": "+1,193",
-      "Total": "865,776",
-      "track_id": "0ab61cb0WJ0FUITu81Is4g",
+      "(x?)": "(x3)",
+      "Streams": "56,378",
+      "Streams+": "-2,985",
+      "Total": "544,063",
+      "track_id": "23sidjYjCS6C2DNasaTBYv",
       "artist_ids": [
         "3J4l3yj3cNs6TifveDvk9Z"
       ]
     },
     {
-      "Pos": "68",
-      "P+": "-19",
-      "Artist and Title": "ADÉLA - Nicole Kidman",
-      "Wks": "11",
-      "Pk": "20",
-      "(x?)": "",
-      "Streams": "26,493",
-      "Streams+": "-4,401",
-      "Total": "366,798",
-      "track_id": "70cHKK8bHAfJrOGVnfRG9J",
-      "artist_ids": [
-        "2qanRMyA5bNuTvz1dK45OP"
-      ]
-    },
-    {
-      "Pos": "69",
-      "P+": "+25",
-      "Artist and Title": "Brothers Stoyanovi - Chicho Coco 2 (w/ N.A.S.I, Thugy Montana)",
-      "Wks": "7",
-      "Pk": "69",
-      "(x?)": "",
-      "Streams": "26,408",
-      "Streams+": "+3,521",
-      "Total": "139,226",
-      "track_id": "3pgDdsEe0ZW3iQrqnKAmxN",
-      "artist_ids": [
-        "57oEipwevUHpWsvlxHdJ4H",
-        "60nMDENsokaNkQsaZtk8Va",
-        "1U32hzPMcjEc23mSoa78ex"
-      ]
-    },
-    {
-      "Pos": "70",
-      "P+": "-3",
-      "Artist and Title": "Demo - Bonboni",
-      "Wks": "3",
-      "Pk": "67",
-      "(x?)": "",
-      "Streams": "26,404",
-      "Streams+": "+941",
-      "Total": "69,063",
-      "track_id": "05mE1A9w6n7nN260yyQCjg",
-      "artist_ids": [
-        "76yjtIxbhGHrfvROKd56wU"
-      ]
-    },
-    {
-      "Pos": "71",
-      "P+": "+18",
-      "Artist and Title": "Emanuela - Kasay",
-      "Wks": "53",
-      "Pk": "1",
-      "(x?)": "(x3)",
-      "Streams": "26,369",
-      "Streams+": "+3,057",
-      "Total": "2,651,714",
-      "track_id": "7qGwlBQIbgpv8Mj54sgFIk",
-      "artist_ids": [
-        "1lxHE7dVKOVaIjGOIu8svG"
-      ]
-    },
-    {
-      "Pos": "72",
-      "P+": "-10",
-      "Artist and Title": "Malkata - Poludyavash (w/ DENIS TEOFIKOV)",
-      "Wks": "31",
-      "Pk": "44",
-      "(x?)": "",
-      "Streams": "26,064",
-      "Streams+": "-443",
-      "Total": "679,931",
-      "track_id": "0L3m1FUTqFKEDQg0N2Io3d",
-      "artist_ids": [
-        "7p9pN8IIyaKdPrpVUjJI9G",
-        "5QO5nSTzmwGYnTFsJb8Gq6"
-      ]
-    },
-    {
-      "Pos": "73",
-      "P+": "-16",
-      "Artist and Title": "Medi - Зарязан",
-      "Wks": "19",
-      "Pk": "43",
-      "(x?)": "",
-      "Streams": "25,621",
-      "Streams+": "-2,488",
-      "Total": "348,976",
-      "track_id": "3f9supfupV4i2WU5yjv41N",
-      "artist_ids": [
-        "6sEfX6ntbBxeWBLggUMyyq"
-      ]
-    },
-    {
-      "Pos": "74",
-      "P+": "-15",
-      "Artist and Title": "Yanitsa - Varnah ti go",
-      "Wks": "29",
-      "Pk": "47",
-      "(x?)": "",
-      "Streams": "25,365",
-      "Streams+": "-1,462",
-      "Total": "628,460",
-      "track_id": "6zvwO7R26lGigFffAyFDRO",
-      "artist_ids": [
-        "3a4iT4FdFp6x0IqVTl47vR"
-      ]
-    },
-    {
-      "Pos": "75",
-      "P+": "-15",
-      "Artist and Title": "The Neighbourhood - Softcore",
-      "Wks": "118",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "25,321",
-      "Streams+": "-1,483",
-      "Total": "1,596,581",
-      "track_id": "2K7xn816oNHJZ0aVqdQsha",
-      "artist_ids": [
-        "77SW9BnxLY8rJ0RciFqkHh"
-      ]
-    },
-    {
-      "Pos": "76",
-      "P+": "+27",
-      "Artist and Title": "Gringod - NeNeNe",
-      "Wks": "16",
-      "Pk": "32",
-      "(x?)": "",
-      "Streams": "25,130",
-      "Streams+": "+2,895",
-      "Total": "425,022",
-      "track_id": "6xB0FzhcDdFZBMIdKmoTu6",
-      "artist_ids": [
-        "48icBZywzELehMYCdthR3C"
-      ]
-    },
-    {
-      "Pos": "77",
-      "P+": "-12",
-      "Artist and Title": "Mirela - Целувка с Tequila (w/ Lidia)",
-      "Wks": "70",
-      "Pk": "1",
-      "(x?)": "(x11)",
-      "Streams": "24,935",
-      "Streams+": "-1,173",
-      "Total": "4,362,484",
-      "track_id": "0DWuEaw17uIBKJVNd1ev5X",
-      "artist_ids": [
-        "4aPsL8sPDTXIR11gYfAb0i",
-        "4FTXvsvz433gZR67rhxFfN"
-      ]
-    },
-    {
-      "Pos": "78",
-      "P+": "-14",
-      "Artist and Title": "Djena - Yako mi e",
-      "Wks": "70",
-      "Pk": "37",
-      "(x?)": "",
-      "Streams": "24,857",
-      "Streams+": "-1,462",
-      "Total": "1,191,019",
-      "track_id": "55ly0w81L3r7MicGng6QiS",
-      "artist_ids": [
-        "07aV940tBFh4TthmbcjR3g"
-      ]
-    },
-    {
-      "Pos": "79",
-      "P+": "-13",
-      "Artist and Title": "Ivayla - Хотел (w/ Galin)",
-      "Wks": "49",
-      "Pk": "3",
-      "(x?)": "(x1)",
-      "Streams": "24,630",
-      "Streams+": "-1,188",
-      "Total": "1,940,629",
-      "track_id": "0JLwDgYbf88hOMIf3S0kqv",
-      "artist_ids": [
-        "29Hsg37sCbjeeCdDA0HIgt",
-        "5amPFw5XVlNzP7uSKBXtai"
-      ]
-    },
-    {
-      "Pos": "80",
-      "P+": "+27",
-      "Artist and Title": "MOMO RECORDS - Без теб (w/ Gyoky)",
-      "Wks": "77",
-      "Pk": "25",
-      "(x?)": "",
-      "Streams": "24,602",
-      "Streams+": "+2,795",
-      "Total": "1,178,169",
-      "track_id": "4cLi9bZRMvDITlmKdo6D2l",
-      "artist_ids": [
-        "5f1C9EB4G4MrxxmWmZP5Wo",
-        "4EZoIglbasg5y5mpZd6BDY"
-      ]
-    },
-    {
-      "Pos": "81",
-      "P+": "-3",
-      "Artist and Title": "Djulia - Chuzhda",
-      "Wks": "49",
-      "Pk": "44",
-      "(x?)": "",
-      "Streams": "24,565",
-      "Streams+": "+372",
-      "Total": "629,664",
-      "track_id": "3yltt4HoL2Jx1X3KtcjCpk",
-      "artist_ids": [
-        "6KsiFFe8CENPP9DN3SRouY"
-      ]
-    },
-    {
-      "Pos": "82",
-      "P+": "-24",
-      "Artist and Title": "HUGEL - Movin' To The Sun (w/ Imael Angel, Ultra Naté)",
-      "Wks": "25",
-      "Pk": "15",
-      "(x?)": "",
-      "Streams": "24,502",
-      "Streams+": "-2,434",
-      "Total": "876,012",
-      "track_id": "4vTsKN15Kqo3Geo9r7FhAN",
-      "artist_ids": [
-        "5PlfkPxwCpRRWQJBxCa0By",
-        "17yREPqyU875WJnX9U082A",
-        "1cK2Abwkni7m51wJCSGllN"
-      ]
-    },
-    {
-      "Pos": "83",
-      "P+": "NEW",
-      "Artist and Title": "KSIOR - FRIZBI (w/ SISS, Goro, Lobo, Bejbi Motorola)",
-      "Wks": "1",
-      "Pk": "83",
-      "(x?)": "",
-      "Streams": "24,492",
-      "Streams+": "",
-      "Total": "24,492",
-      "track_id": "0QYXgEqr6D0bIMNOeZMBkV",
-      "artist_ids": [
-        "2NuYz10D2u4pbBUb9zVCQ6",
-        "1URQKyDhNbxD42pNxdpctn",
-        "6s4C0UWAwpZFzZcz4fKasf",
-        "0dKzxhM1JXXV38H1SBaNUh",
-        "6XarDOWMMQnP0vgtRm5Uvx"
-      ]
-    },
-    {
-      "Pos": "84",
-      "P+": "-7",
-      "Artist and Title": "Lidia - Грешници (w/ Konstantin)",
-      "Wks": "221",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "24,368",
-      "Streams+": "-72",
-      "Total": "4,022,158",
-      "track_id": "6W2jsJG6MPPJ6xTWcNEeHr",
-      "artist_ids": [
-        "4FTXvsvz433gZR67rhxFfN",
-        "09dmaVobfJspAF2KEumlH8"
-      ]
-    },
-    {
-      "Pos": "85",
-      "P+": "+16",
-      "Artist and Title": "Desi Slava - И на всички като тебе",
-      "Wks": "50",
-      "Pk": "38",
-      "(x?)": "",
-      "Streams": "24,245",
-      "Streams+": "+1,720",
-      "Total": "1,024,565",
-      "track_id": "2ch2fanSZq6LCXdlPskq5C",
-      "artist_ids": [
-        "1FYHEsfPuSTAOV5oK1CNXG"
-      ]
-    },
-    {
-      "Pos": "86",
-      "P+": "+7",
-      "Artist and Title": "Konstantin - Ne me zasluzhavash (w/ Emanuela)",
-      "Wks": "34",
-      "Pk": "36",
-      "(x?)": "",
-      "Streams": "24,228",
-      "Streams+": "+1,135",
-      "Total": "845,343",
-      "track_id": "4apCbBmGlsVy3VM2EeN2t6",
-      "artist_ids": [
-        "4v8n02xVhZK4CmdUAuipHn",
-        "1lxHE7dVKOVaIjGOIu8svG"
-      ]
-    },
-    {
-      "Pos": "87",
-      "P+": "-12",
-      "Artist and Title": "Dessita - HA-HA",
-      "Wks": "26",
-      "Pk": "12",
-      "(x?)": "",
-      "Streams": "24,157",
-      "Streams+": "-406",
-      "Total": "909,002",
-      "track_id": "76v5LULysGLz5NnQnzDfmI",
-      "artist_ids": [
-        "1WOWylyMYTYIkDJmKLeSpQ"
-      ]
-    },
-    {
-      "Pos": "88",
-      "P+": "-4",
-      "Artist and Title": "Galin - Mezhdu nas (w/ Ani Hoang, Kristiana)",
-      "Wks": "28",
-      "Pk": "48",
-      "(x?)": "",
-      "Streams": "24,137",
-      "Streams+": "+274",
-      "Total": "625,821",
-      "track_id": "17heWk1oi0qx7sdPsQQSWC",
-      "artist_ids": [
-        "5amPFw5XVlNzP7uSKBXtai",
-        "26d0A70Fzkh2jvHSRjQULz",
-        "2nTdiezsve9faqcdXVjW2a"
-      ]
-    },
-    {
-      "Pos": "89",
-      "P+": "NEW",
+      "Pos": "14",
+      "P+": "+75",
       "Artist and Title": "Justice - Flower In A Hurricane (w/ Tame Impala, SZA, Grand Theft Auto VI, King Gizzard & The Lizard Wizard)",
-      "Wks": "1",
-      "Pk": "89",
+      "Wks": "2",
+      "Pk": "14",
       "(x?)": "",
-      "Streams": "24,006",
-      "Streams+": "",
-      "Total": "24,006",
+      "Streams": "55,342",
+      "Streams+": "+31,336",
+      "Total": "79,348",
       "track_id": "4HCOHRCSQelz2GPX8iTamO",
       "artist_ids": [
         "1gR0gsQYfi6joyO1dlp76N",
@@ -1386,61 +225,1164 @@
       ]
     },
     {
-      "Pos": "90",
-      "P+": "+76",
-      "Artist and Title": "Adam - Твоите измами",
-      "Wks": "2",
-      "Pk": "90",
-      "(x?)": "",
-      "Streams": "23,656",
-      "Streams+": "+6,313",
-      "Total": "40,999",
-      "track_id": "4a7EmFQ5pyvxoyZp6Z2b1v",
+      "Pos": "15",
+      "P+": "+5",
+      "Artist and Title": "Djordan - Скъсаняк",
+      "Wks": "23",
+      "Pk": "2",
+      "(x?)": "(x2)",
+      "Streams": "55,266",
+      "Streams+": "+10,277",
+      "Total": "1,613,787",
+      "track_id": "75n8AlD4OLp8024wBSuqZq",
       "artist_ids": [
-        "696J4fiOALx5ifVKv10VbK"
+        "4vczAVLBVJzhMndKRCsQls"
       ]
     },
     {
-      "Pos": "91",
-      "P+": "-9",
-      "Artist and Title": "Yanitsa - Nito minuta",
-      "Wks": "6",
-      "Pk": "49",
-      "(x?)": "",
-      "Streams": "23,574",
-      "Streams+": "-451",
-      "Total": "130,317",
-      "track_id": "3Sp3iAOjnQygYlhAEsLcHY",
+      "Pos": "16",
+      "P+": "-2",
+      "Artist and Title": "SIMONA - Прахосмукачка",
+      "Wks": "26",
+      "Pk": "1",
+      "(x?)": "(x6)",
+      "Streams": "52,663",
+      "Streams+": "+731",
+      "Total": "2,370,102",
+      "track_id": "6c2PAUaxUBF4m4DUlR0Ls6",
       "artist_ids": [
+        "6NtH0d4qlaU5FakRdrdNwq"
+      ]
+    },
+    {
+      "Pos": "17",
+      "P+": "-4",
+      "Artist and Title": "Tedi Aleksandrova - AJ",
+      "Wks": "15",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "49,718",
+      "Streams+": "-8,389",
+      "Total": "586,001",
+      "track_id": "7ngzDY91OtjfMoixQrWJNa",
+      "artist_ids": [
+        "3CcA9m1Ivpp5XmLt8SxUpn"
+      ]
+    },
+    {
+      "Pos": "18",
+      "P+": "-3",
+      "Artist and Title": "KSIOR - BMW (w/ SISS)",
+      "Wks": "19",
+      "Pk": "1",
+      "(x?)": "(x2)",
+      "Streams": "47,349",
+      "Streams+": "-4,099",
+      "Total": "1,466,584",
+      "track_id": "117cR1Qm4uwOQQhp0uvD94",
+      "artist_ids": [
+        "2NuYz10D2u4pbBUb9zVCQ6",
+        "1URQKyDhNbxD42pNxdpctn"
+      ]
+    },
+    {
+      "Pos": "19",
+      "P+": "+9",
+      "Artist and Title": "Galin - Върколакът (w/ Dessita, Mirela)",
+      "Wks": "20",
+      "Pk": "1",
+      "(x?)": "(x2)",
+      "Streams": "46,360",
+      "Streams+": "+5,807",
+      "Total": "1,658,346",
+      "track_id": "3FsUOQOBUUigiAX4r8qNAD",
+      "artist_ids": [
+        "5amPFw5XVlNzP7uSKBXtai",
+        "1WOWylyMYTYIkDJmKLeSpQ",
+        "4aPsL8sPDTXIR11gYfAb0i"
+      ]
+    },
+    {
+      "Pos": "20",
+      "P+": "-4",
+      "Artist and Title": "Bandata Na Ruba - OT STAROTO (w/ MOMO RECORDS, Garjoka, Dim4ou)",
+      "Wks": "17",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "46,146",
+      "Streams+": "-4,370",
+      "Total": "1,020,994",
+      "track_id": "1uY6bR9vlVn1ZlAlK0FoEm",
+      "artist_ids": [
+        "12fCNCkYtNfyBZ3zjFGri8",
+        "5f1C9EB4G4MrxxmWmZP5Wo",
+        "2HB7K5UdSuYXmdxsPkK8Tm",
+        "6URykZzv72st8HDMcJNrsV"
+      ]
+    },
+    {
+      "Pos": "21",
+      "P+": "+3",
+      "Artist and Title": "Lidia - Охрана",
+      "Wks": "44",
+      "Pk": "1",
+      "(x?)": "(x3)",
+      "Streams": "44,573",
+      "Streams+": "+3,094",
+      "Total": "2,811,253",
+      "track_id": "6PkOUoY60U1LoXu231uz3D",
+      "artist_ids": [
+        "4FTXvsvz433gZR67rhxFfN"
+      ]
+    },
+    {
+      "Pos": "22",
+      "P+": "-1",
+      "Artist and Title": "Djena - S men da varvish (w/ Galin)",
+      "Wks": "198",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "44,497",
+      "Streams+": "+883",
+      "Total": "4,357,421",
+      "track_id": "1P0Fu36ZP4Hg6zPvtwpyKt",
+      "artist_ids": [
+        "07aV940tBFh4TthmbcjR3g",
+        "5amPFw5XVlNzP7uSKBXtai"
+      ]
+    },
+    {
+      "Pos": "23",
+      "P+": "+6",
+      "Artist and Title": "Emanuela - Трохари",
+      "Wks": "22",
+      "Pk": "12",
+      "(x?)": "",
+      "Streams": "43,276",
+      "Streams+": "+3,595",
+      "Total": "938,161",
+      "track_id": "1qYrzuJ2VG4VObo5OQNexY",
+      "artist_ids": [
+        "1lxHE7dVKOVaIjGOIu8svG"
+      ]
+    },
+    {
+      "Pos": "24",
+      "P+": "+6",
+      "Artist and Title": "KSIOR - Bolnitsa (w/ Diona)",
+      "Wks": "8",
+      "Pk": "24",
+      "(x?)": "",
+      "Streams": "42,968",
+      "Streams+": "+3,476",
+      "Total": "219,259",
+      "track_id": "2FNPFo76QS9NXtMITSgMp3",
+      "artist_ids": [
+        "2NuYz10D2u4pbBUb9zVCQ6",
+        "5OyVwBuWRLl5npoif9l5sJ"
+      ]
+    },
+    {
+      "Pos": "25",
+      "P+": "+6",
+      "Artist and Title": "Preslava - Кафе",
+      "Wks": "2",
+      "Pk": "25",
+      "(x?)": "",
+      "Streams": "42,468",
+      "Streams+": "+5,102",
+      "Total": "79,834",
+      "track_id": "2lNHXijf6yi12AThmLDQ3c",
+      "artist_ids": [
+        "2Dj0euYPa8eiI6Ee5VLBwg"
+      ]
+    },
+    {
+      "Pos": "26",
+      "P+": "+19",
+      "Artist and Title": "Emanuela - Vinovna",
+      "Wks": "57",
+      "Pk": "26",
+      "(x?)": "",
+      "Streams": "42,426",
+      "Streams+": "+9,586",
+      "Total": "1,283,145",
+      "track_id": "3rCr3GaLdvKdIaA3jJW50l",
+      "artist_ids": [
+        "1lxHE7dVKOVaIjGOIu8svG"
+      ]
+    },
+    {
+      "Pos": "27",
+      "P+": "-8",
+      "Artist and Title": "Tereza - Наказвам",
+      "Wks": "33",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "41,714",
+      "Streams+": "-4,148",
+      "Total": "1,649,601",
+      "track_id": "5hVGgwsMo3Q67k2REgWKKD",
+      "artist_ids": [
+        "2MkgDAmkpwckUwbjWuhh6x"
+      ]
+    },
+    {
+      "Pos": "28",
+      "P+": "+19",
+      "Artist and Title": "Season 25 - Shotta's.",
+      "Wks": "5",
+      "Pk": "28",
+      "(x?)": "",
+      "Streams": "41,612",
+      "Streams+": "+9,489",
+      "Total": "133,134",
+      "track_id": "1ApUYfDejOBvrTnar2Wyf3",
+      "artist_ids": [
+        "1WtceoonufhxRc6AnUSbat"
+      ]
+    },
+    {
+      "Pos": "29",
+      "P+": "-12",
+      "Artist and Title": "Emanuela - Skapoto se plashta",
+      "Wks": "48",
+      "Pk": "17",
+      "(x?)": "",
+      "Streams": "41,530",
+      "Streams+": "-5,537",
+      "Total": "935,576",
+      "track_id": "5jumClRHFt7meCQ8vbKyDf",
+      "artist_ids": [
+        "1lxHE7dVKOVaIjGOIu8svG"
+      ]
+    },
+    {
+      "Pos": "30",
+      "P+": "-12",
+      "Artist and Title": "Dessita - Наказани",
+      "Wks": "7",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "40,511",
+      "Streams+": "-6,007",
+      "Total": "380,770",
+      "track_id": "7qhdjdPIrXccnPjzfvSWtr",
+      "artist_ids": [
+        "1WOWylyMYTYIkDJmKLeSpQ"
+      ]
+    },
+    {
+      "Pos": "31",
+      "P+": "-8",
+      "Artist and Title": "SIMONA - Катинара",
+      "Wks": "76",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "39,275",
+      "Streams+": "-3,277",
+      "Total": "4,419,970",
+      "track_id": "07semdYzIbyRJ28XhhPA7I",
+      "artist_ids": [
+        "6NtH0d4qlaU5FakRdrdNwq"
+      ]
+    },
+    {
+      "Pos": "32",
+      "P+": "+18",
+      "Artist and Title": "Djena - Huligan",
+      "Wks": "28",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "38,823",
+      "Streams+": "+7,475",
+      "Total": "637,682",
+      "track_id": "7DmFY1omu3EuBPYA31Rz3a",
+      "artist_ids": [
+        "07aV940tBFh4TthmbcjR3g"
+      ]
+    },
+    {
+      "Pos": "33",
+      "P+": "+9",
+      "Artist and Title": "Preslava - Ne se iztrivash",
+      "Wks": "148",
+      "Pk": "19",
+      "(x?)": "",
+      "Streams": "38,463",
+      "Streams+": "+5,207",
+      "Total": "2,919,743",
+      "track_id": "7eoO5bQx7uCb1MWxOxnK5h",
+      "artist_ids": [
+        "2Dj0euYPa8eiI6Ee5VLBwg"
+      ]
+    },
+    {
+      "Pos": "34",
+      "P+": "+5",
+      "Artist and Title": "Galin - Крушката",
+      "Wks": "3",
+      "Pk": "20",
+      "(x?)": "",
+      "Streams": "38,118",
+      "Streams+": "+3,297",
+      "Total": "116,356",
+      "track_id": "4BmmtBePvavoAWaWFnTjCf",
+      "artist_ids": [
+        "5amPFw5XVlNzP7uSKBXtai"
+      ]
+    },
+    {
+      "Pos": "35",
+      "P+": "+9",
+      "Artist and Title": "Djordan - Mutsuna",
+      "Wks": "101",
+      "Pk": "27",
+      "(x?)": "",
+      "Streams": "37,120",
+      "Streams+": "+4,201",
+      "Total": "2,149,924",
+      "track_id": "4DE0aFgEQcMzKJ5jn7oY04",
+      "artist_ids": [
+        "4vczAVLBVJzhMndKRCsQls"
+      ]
+    },
+    {
+      "Pos": "36",
+      "P+": "+1",
+      "Artist and Title": "Emanuela - Bez chuvstva",
+      "Wks": "129",
+      "Pk": "15",
+      "(x?)": "",
+      "Streams": "36,735",
+      "Streams+": "+764",
+      "Total": "2,790,664",
+      "track_id": "0S9PPTm8Dx3KsQ3wi2EseQ",
+      "artist_ids": [
+        "1lxHE7dVKOVaIjGOIu8svG"
+      ]
+    },
+    {
+      "Pos": "37",
+      "P+": "-15",
+      "Artist and Title": "Galin - Момче без сърце",
+      "Wks": "64",
+      "Pk": "21",
+      "(x?)": "",
+      "Streams": "36,069",
+      "Streams+": "-6,740",
+      "Total": "1,552,437",
+      "track_id": "751kslplg7iAx3bD98pZgs",
+      "artist_ids": [
+        "5amPFw5XVlNzP7uSKBXtai"
+      ]
+    },
+    {
+      "Pos": "38",
+      "P+": "+29",
+      "Artist and Title": "Kiara - Завърти Го",
+      "Wks": "27",
+      "Pk": "13",
+      "(x?)": "",
+      "Streams": "35,938",
+      "Streams+": "+9,359",
+      "Total": "901,714",
+      "track_id": "0ab61cb0WJ0FUITu81Is4g",
+      "artist_ids": [
+        "3J4l3yj3cNs6TifveDvk9Z"
+      ]
+    },
+    {
+      "Pos": "39",
+      "P+": "-14",
+      "Artist and Title": "Emanuela - Bad Boys (w/ Alisia)",
+      "Wks": "28",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "35,845",
+      "Streams+": "-5,314",
+      "Total": "1,216,974",
+      "track_id": "5dbIBryEKXQzizXzb3MXnV",
+      "artist_ids": [
+        "1lxHE7dVKOVaIjGOIu8svG",
+        "5mNFpEfI0KApCz2Y88LYW6"
+      ]
+    },
+    {
+      "Pos": "40",
+      "P+": "-13",
+      "Artist and Title": "Selina - Кеш, кеш",
+      "Wks": "28",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "35,675",
+      "Streams+": "-4,955",
+      "Total": "1,725,319",
+      "track_id": "2vuYIgU0KkIEAPGCPBPdh8",
+      "artist_ids": [
+        "583wxBpo6S1maGz1bqYekZ"
+      ]
+    },
+    {
+      "Pos": "41",
+      "P+": "+25",
+      "Artist and Title": "Djordan - КУ-КУ",
+      "Wks": "49",
+      "Pk": "1",
+      "(x?)": "(x8)",
+      "Streams": "35,126",
+      "Streams+": "+8,474",
+      "Total": "2,516,416",
+      "track_id": "5DhNN329T0nLSSE1mkjGmW",
+      "artist_ids": [
+        "4vczAVLBVJzhMndKRCsQls"
+      ]
+    },
+    {
+      "Pos": "42",
+      "P+": "+41",
+      "Artist and Title": "KSIOR - FRIZBI (w/ SISS, Goro, Lobo, Bejbi Motorola)",
+      "Wks": "2",
+      "Pk": "42",
+      "(x?)": "",
+      "Streams": "35,063",
+      "Streams+": "+10,571",
+      "Total": "59,555",
+      "track_id": "0QYXgEqr6D0bIMNOeZMBkV",
+      "artist_ids": [
+        "2NuYz10D2u4pbBUb9zVCQ6",
+        "1URQKyDhNbxD42pNxdpctn",
+        "6s4C0UWAwpZFzZcz4fKasf",
+        "0dKzxhM1JXXV38H1SBaNUh",
+        "6XarDOWMMQnP0vgtRm5Uvx"
+      ]
+    },
+    {
+      "Pos": "43",
+      "P+": "-7",
+      "Artist and Title": "Emanuela - Danoto kopay (w/ Tedi Aleksandrova)",
+      "Wks": "60",
+      "Pk": "1",
+      "(x?)": "(x4)",
+      "Streams": "34,700",
+      "Streams+": "-1,310",
+      "Total": "3,305,792",
+      "track_id": "3Z0bGsiJF9ErQF1iMHsa1G",
+      "artist_ids": [
+        "1lxHE7dVKOVaIjGOIu8svG",
+        "3CcA9m1Ivpp5XmLt8SxUpn"
+      ]
+    },
+    {
+      "Pos": "44",
+      "P+": "-6",
+      "Artist and Title": "Preslava - Моето слабо място",
+      "Wks": "31",
+      "Pk": "14",
+      "(x?)": "",
+      "Streams": "33,631",
+      "Streams+": "-1,802",
+      "Total": "918,606",
+      "track_id": "46YeHpvSWbG2pHRlMcC5Rp",
+      "artist_ids": [
+        "2Dj0euYPa8eiI6Ee5VLBwg"
+      ]
+    },
+    {
+      "Pos": "45",
+      "P+": "+24",
+      "Artist and Title": "Brothers Stoyanovi - Chicho Coco 2 (w/ N.A.S.I, Thugy Montana)",
+      "Wks": "8",
+      "Pk": "45",
+      "(x?)": "",
+      "Streams": "33,044",
+      "Streams+": "+6,636",
+      "Total": "172,270",
+      "track_id": "3pgDdsEe0ZW3iQrqnKAmxN",
+      "artist_ids": [
+        "57oEipwevUHpWsvlxHdJ4H",
+        "60nMDENsokaNkQsaZtk8Va",
+        "1U32hzPMcjEc23mSoa78ex"
+      ]
+    },
+    {
+      "Pos": "46",
+      "P+": "-12",
+      "Artist and Title": "Bandata Na Ruba - JOHN CENA (w/ MOMO RECORDS, Tita)",
+      "Wks": "25",
+      "Pk": "11",
+      "(x?)": "",
+      "Streams": "32,474",
+      "Streams+": "-3,653",
+      "Total": "935,509",
+      "track_id": "3XMcyRsCLVAWdIqKrSvS8Z",
+      "artist_ids": [
+        "12fCNCkYtNfyBZ3zjFGri8",
+        "5f1C9EB4G4MrxxmWmZP5Wo",
+        "5uOrQMWvhytvkjU7P3jgwV"
+      ]
+    },
+    {
+      "Pos": "47",
+      "P+": "+1",
+      "Artist and Title": "KSIOR - BATUT (w/ SISS)",
+      "Wks": "21",
+      "Pk": "2",
+      "(x?)": "(x2)",
+      "Streams": "32,328",
+      "Streams+": "+529",
+      "Total": "1,166,511",
+      "track_id": "0cGSVOwXOlDrPpjV2lJthP",
+      "artist_ids": [
+        "2NuYz10D2u4pbBUb9zVCQ6",
+        "1URQKyDhNbxD42pNxdpctn"
+      ]
+    },
+    {
+      "Pos": "48",
+      "P+": "NEW",
+      "Artist and Title": "Galena - Ще откача",
+      "Wks": "1",
+      "Pk": "48",
+      "(x?)": "",
+      "Streams": "32,289",
+      "Streams+": "",
+      "Total": "32,289",
+      "track_id": "1EuOuNdDk5VZs9bh4Z49p7",
+      "artist_ids": [
+        "5M7RMcbgYy45XzC51HU355"
+      ]
+    },
+    {
+      "Pos": "49",
+      "P+": "-17",
+      "Artist and Title": "Galin - Роклята ти пада (w/ Yanitsa)",
+      "Wks": "40",
+      "Pk": "28",
+      "(x?)": "",
+      "Streams": "32,072",
+      "Streams+": "-4,670",
+      "Total": "1,022,317",
+      "track_id": "4SAkhbT3gRgT0vMhxQnwtT",
+      "artist_ids": [
+        "5amPFw5XVlNzP7uSKBXtai",
         "3a4iT4FdFp6x0IqVTl47vR"
       ]
     },
     {
-      "Pos": "92",
-      "P+": "-1",
-      "Artist and Title": "MiyaGi & Endspiel - I Got Love (w/ Rem Digga)",
-      "Wks": "11",
-      "Pk": "91",
+      "Pos": "50",
+      "P+": "-15",
+      "Artist and Title": "MOMO RECORDS - Dobra",
+      "Wks": "9",
+      "Pk": "15",
       "(x?)": "",
-      "Streams": "23,559",
-      "Streams+": "+398",
-      "Total": "223,454",
-      "track_id": "43wgyQXc2M9KmTDUqVzugM",
+      "Streams": "31,890",
+      "Streams+": "-4,141",
+      "Total": "333,707",
+      "track_id": "1RalfDqd1uLsCPSuetbVIY",
       "artist_ids": [
-        "6L5bLEtpxwd0KOdOr3gtW4",
-        "2R1OELuSJzXjRm8lc8FjPC"
+        "5f1C9EB4G4MrxxmWmZP5Wo"
       ]
     },
     {
-      "Pos": "93",
-      "P+": "+24",
-      "Artist and Title": "Tedi Aleksandrova - Hasta La Vista Baby (w/ Silver)",
+      "Pos": "51",
+      "P+": "-5",
+      "Artist and Title": "Medi - Да си тук",
+      "Wks": "159",
+      "Pk": "2",
+      "(x?)": "(x3)",
+      "Streams": "31,605",
+      "Streams+": "-592",
+      "Total": "2,061,394",
+      "track_id": "4a0oV0MjoURyHnW1gz8qcg",
+      "artist_ids": [
+        "6sEfX6ntbBxeWBLggUMyyq"
+      ]
+    },
+    {
+      "Pos": "52",
+      "P+": "+4",
+      "Artist and Title": "Tereza - Малката, Сладката (w/ Rumen Borilov)",
       "Wks": "34",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "31,493",
+      "Streams+": "+2,627",
+      "Total": "1,512,020",
+      "track_id": "4uibxyiAMOhxVJ17bN9lNT",
+      "artist_ids": [
+        "2MkgDAmkpwckUwbjWuhh6x",
+        "0RU4GDjar4o0Jw6Iu9f4Yk"
+      ]
+    },
+    {
+      "Pos": "53",
+      "P+": "-12",
+      "Artist and Title": "Emanuela - Notarialno zaveren",
+      "Wks": "168",
+      "Pk": "23",
+      "(x?)": "",
+      "Streams": "31,429",
+      "Streams+": "-2,321",
+      "Total": "3,627,681",
+      "track_id": "7tJCzGC2zIWUYm4gQ3oaqi",
+      "artist_ids": [
+        "1lxHE7dVKOVaIjGOIu8svG"
+      ]
+    },
+    {
+      "Pos": "54",
+      "P+": "-28",
+      "Artist and Title": "Diona - Лакомия (w/ Bo, Stella, Simona)",
+      "Wks": "4",
+      "Pk": "26",
+      "(x?)": "",
+      "Streams": "30,978",
+      "Streams+": "-9,686",
+      "Total": "120,329",
+      "track_id": "5S0qs9IQPsBkT9VO9n4lCk",
+      "artist_ids": [
+        "5OyVwBuWRLl5npoif9l5sJ",
+        "7hlTtVz10Vlmp9oDPHwjUE",
+        "002oyMRzxTzEsBRLzACi8d",
+        "0SR3odhUHWo15i58vnOHes"
+      ]
+    },
+    {
+      "Pos": "55",
+      "P+": "-15",
+      "Artist and Title": "Djulia - Iskam ot teb",
+      "Wks": "28",
+      "Pk": "32",
+      "(x?)": "",
+      "Streams": "30,976",
+      "Streams+": "-3,039",
+      "Total": "721,709",
+      "track_id": "2duH4aHmawCOPCayHzlLae",
+      "artist_ids": [
+        "6KsiFFe8CENPP9DN3SRouY"
+      ]
+    },
+    {
+      "Pos": "56",
+      "P+": "+2",
+      "Artist and Title": "Lidia - Amore",
+      "Wks": "18",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "30,921",
+      "Streams+": "+2,386",
+      "Total": "1,242,379",
+      "track_id": "52wihuqtqPo45YtCLt3RUc",
+      "artist_ids": [
+        "4FTXvsvz433gZR67rhxFfN"
+      ]
+    },
+    {
+      "Pos": "57",
+      "P+": "+3",
+      "Artist and Title": "MALINA - Vij Kakvo",
+      "Wks": "19",
+      "Pk": "29",
+      "(x?)": "",
+      "Streams": "30,216",
+      "Streams+": "+2,296",
+      "Total": "435,266",
+      "track_id": "1BWqkdZhZbKsWg6qzFsqbp",
+      "artist_ids": [
+        "2WP3SX3VogIeqpZVCh8C1k"
+      ]
+    },
+    {
+      "Pos": "58",
+      "P+": "-5",
+      "Artist and Title": "Mirela - Тарикат",
+      "Wks": "33",
+      "Pk": "1",
+      "(x?)": "(x4)",
+      "Streams": "29,989",
+      "Streams+": "-239",
+      "Total": "2,102,980",
+      "track_id": "2hSloAMRlwf37vFG8xeLM4",
+      "artist_ids": [
+        "4aPsL8sPDTXIR11gYfAb0i"
+      ]
+    },
+    {
+      "Pos": "59",
+      "P+": "+2",
+      "Artist and Title": "Djena - Koya",
+      "Wks": "30",
+      "Pk": "40",
+      "(x?)": "",
+      "Streams": "29,509",
+      "Streams+": "+1,626",
+      "Total": "714,464",
+      "track_id": "7AG1ltHqHdUl9BEaq6QniG",
+      "artist_ids": [
+        "07aV940tBFh4TthmbcjR3g"
+      ]
+    },
+    {
+      "Pos": "60",
+      "P+": "+13",
+      "Artist and Title": "Medi - Зарязан",
+      "Wks": "20",
+      "Pk": "43",
+      "(x?)": "",
+      "Streams": "29,468",
+      "Streams+": "+3,847",
+      "Total": "378,444",
+      "track_id": "3f9supfupV4i2WU5yjv41N",
+      "artist_ids": [
+        "6sEfX6ntbBxeWBLggUMyyq"
+      ]
+    },
+    {
+      "Pos": "61",
+      "P+": "-2",
+      "Artist and Title": "KSIOR - Papi",
+      "Wks": "37",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "29,323",
+      "Streams+": "+814",
+      "Total": "1,309,400",
+      "track_id": "0L3eK2QAxN0YCRJHfFrgrp",
+      "artist_ids": [
+        "2NuYz10D2u4pbBUb9zVCQ6"
+      ]
+    },
+    {
+      "Pos": "62",
+      "P+": "+26",
+      "Artist and Title": "Galin - Mezhdu nas (w/ Ani Hoang, Kristiana)",
+      "Wks": "29",
+      "Pk": "48",
+      "(x?)": "",
+      "Streams": "29,249",
+      "Streams+": "+5,112",
+      "Total": "655,070",
+      "track_id": "17heWk1oi0qx7sdPsQQSWC",
+      "artist_ids": [
+        "5amPFw5XVlNzP7uSKBXtai",
+        "26d0A70Fzkh2jvHSRjQULz",
+        "2nTdiezsve9faqcdXVjW2a"
+      ]
+    },
+    {
+      "Pos": "63",
+      "P+": "+8",
+      "Artist and Title": "Emanuela - Kasay",
+      "Wks": "54",
+      "Pk": "1",
+      "(x?)": "(x3)",
+      "Streams": "29,144",
+      "Streams+": "+2,775",
+      "Total": "2,680,858",
+      "track_id": "7qGwlBQIbgpv8Mj54sgFIk",
+      "artist_ids": [
+        "1lxHE7dVKOVaIjGOIu8svG"
+      ]
+    },
+    {
+      "Pos": "64",
+      "P+": "-10",
+      "Artist and Title": "Tate McRae - Housewife",
+      "Wks": "6",
+      "Pk": "10",
+      "(x?)": "",
+      "Streams": "28,551",
+      "Streams+": "-1,281",
+      "Total": "256,941",
+      "track_id": "2sFepQNyl1WjpROruP8bJ0",
+      "artist_ids": [
+        "45dkTj5sMRSjrmBSBeiHym"
+      ]
+    },
+    {
+      "Pos": "65",
+      "P+": "-2",
+      "Artist and Title": "Medi - Времето лекува",
+      "Wks": "24",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "28,220",
+      "Streams+": "+1,191",
+      "Total": "788,879",
+      "track_id": "4kuW4hHAIl9tn8LuFQbAoz",
+      "artist_ids": [
+        "6sEfX6ntbBxeWBLggUMyyq"
+      ]
+    },
+    {
+      "Pos": "66",
+      "P+": "+20",
+      "Artist and Title": "Konstantin - Ne me zasluzhavash (w/ Emanuela)",
+      "Wks": "35",
+      "Pk": "36",
+      "(x?)": "",
+      "Streams": "28,167",
+      "Streams+": "+3,939",
+      "Total": "873,510",
+      "track_id": "4apCbBmGlsVy3VM2EeN2t6",
+      "artist_ids": [
+        "4v8n02xVhZK4CmdUAuipHn",
+        "1lxHE7dVKOVaIjGOIu8svG"
+      ]
+    },
+    {
+      "Pos": "67",
+      "P+": "-10",
+      "Artist and Title": "Ivayla - Температура (w/ Diona)",
+      "Wks": "18",
+      "Pk": "14",
+      "(x?)": "",
+      "Streams": "27,929",
+      "Streams+": "-707",
+      "Total": "687,152",
+      "track_id": "2YL0n6M28RzmcUadbBZevV",
+      "artist_ids": [
+        "29Hsg37sCbjeeCdDA0HIgt",
+        "5OyVwBuWRLl5npoif9l5sJ"
+      ]
+    },
+    {
+      "Pos": "68",
+      "P+": "+52",
+      "Artist and Title": "Preslava - Rezhim Neprilichna",
+      "Wks": "77",
+      "Pk": "19",
+      "(x?)": "",
+      "Streams": "27,840",
+      "Streams+": "+7,017",
+      "Total": "1,431,912",
+      "track_id": "1BDsCVdpvuR5qku8n8LUqG",
+      "artist_ids": [
+        "2Dj0euYPa8eiI6Ee5VLBwg"
+      ]
+    },
+    {
+      "Pos": "69",
+      "P+": "-5",
+      "Artist and Title": "Emanuela - Мили мой, ангел мой",
+      "Wks": "10",
+      "Pk": "64",
+      "(x?)": "",
+      "Streams": "26,844",
+      "Streams+": "-156",
+      "Total": "212,693",
+      "track_id": "0ZcrHacfayOf5Q5TPRtveI",
+      "artist_ids": [
+        "1lxHE7dVKOVaIjGOIu8svG"
+      ]
+    },
+    {
+      "Pos": "70",
+      "P+": "+39",
+      "Artist and Title": "Konstantin - Ne si ti (w/ Alisia)",
+      "Wks": "17",
+      "Pk": "70",
+      "(x?)": "",
+      "Streams": "26,792",
+      "Streams+": "+5,312",
+      "Total": "353,283",
+      "track_id": "4Wh08XgmKYgdfg43XCUoKC",
+      "artist_ids": [
+        "4v8n02xVhZK4CmdUAuipHn",
+        "5mNFpEfI0KApCz2Y88LYW6"
+      ]
+    },
+    {
+      "Pos": "71",
+      "P+": "+7",
+      "Artist and Title": "Djena - Yako mi e",
+      "Wks": "71",
+      "Pk": "37",
+      "(x?)": "",
+      "Streams": "26,704",
+      "Streams+": "+1,847",
+      "Total": "1,217,723",
+      "track_id": "55ly0w81L3r7MicGng6QiS",
+      "artist_ids": [
+        "07aV940tBFh4TthmbcjR3g"
+      ]
+    },
+    {
+      "Pos": "72",
+      "P+": "-10",
+      "Artist and Title": "Preslava - Bez teb",
+      "Wks": "67",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "26,653",
+      "Streams+": "-774",
+      "Total": "2,330,202",
+      "track_id": "3zlH4fylzmEq4QX6zjn3Ny",
+      "artist_ids": [
+        "2Dj0euYPa8eiI6Ee5VLBwg"
+      ]
+    },
+    {
+      "Pos": "73",
+      "P+": "+11",
+      "Artist and Title": "Lidia - Грешници (w/ Konstantin)",
+      "Wks": "222",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "26,334",
+      "Streams+": "+1,966",
+      "Total": "4,048,492",
+      "track_id": "6W2jsJG6MPPJ6xTWcNEeHr",
+      "artist_ids": [
+        "4FTXvsvz433gZR67rhxFfN",
+        "09dmaVobfJspAF2KEumlH8"
+      ]
+    },
+    {
+      "Pos": "74",
+      "P+": "+3",
+      "Artist and Title": "Mirela - Целувка с Tequila (w/ Lidia)",
+      "Wks": "71",
+      "Pk": "1",
+      "(x?)": "(x11)",
+      "Streams": "25,781",
+      "Streams+": "+846",
+      "Total": "4,388,265",
+      "track_id": "0DWuEaw17uIBKJVNd1ev5X",
+      "artist_ids": [
+        "4aPsL8sPDTXIR11gYfAb0i",
+        "4FTXvsvz433gZR67rhxFfN"
+      ]
+    },
+    {
+      "Pos": "75",
+      "P+": "-24",
+      "Artist and Title": "Medi - Добро не ти желая",
+      "Wks": "5",
+      "Pk": "16",
+      "(x?)": "",
+      "Streams": "25,751",
+      "Streams+": "-5,575",
+      "Total": "197,902",
+      "track_id": "0sDDJhectbYIl7OkvJ6es8",
+      "artist_ids": [
+        "6sEfX6ntbBxeWBLggUMyyq"
+      ]
+    },
+    {
+      "Pos": "76",
+      "P+": "-8",
+      "Artist and Title": "ADÉLA - Nicole Kidman",
+      "Wks": "12",
+      "Pk": "20",
+      "(x?)": "",
+      "Streams": "25,734",
+      "Streams+": "-759",
+      "Total": "392,532",
+      "track_id": "70cHKK8bHAfJrOGVnfRG9J",
+      "artist_ids": [
+        "2qanRMyA5bNuTvz1dK45OP"
+      ]
+    },
+    {
+      "Pos": "77",
+      "P+": "+20",
+      "Artist and Title": "Krasyo - Злобари",
+      "Wks": "31",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "25,422",
+      "Streams+": "+2,797",
+      "Total": "1,128,069",
+      "track_id": "7G2NBshHNMyHsKknSYcLCc",
+      "artist_ids": [
+        "0MpqjrVgdUO07oY6JcgTeG"
+      ]
+    },
+    {
+      "Pos": "78",
+      "P+": "-2",
+      "Artist and Title": "Gringod - NeNeNe",
+      "Wks": "17",
+      "Pk": "32",
+      "(x?)": "",
+      "Streams": "25,374",
+      "Streams+": "+244",
+      "Total": "450,396",
+      "track_id": "6xB0FzhcDdFZBMIdKmoTu6",
+      "artist_ids": [
+        "48icBZywzELehMYCdthR3C"
+      ]
+    },
+    {
+      "Pos": "79",
+      "P+": "NEW",
+      "Artist and Title": "Tove Lo - Blood In Your Eyes (from GTAVI: The Album) (w/ Grand Theft Auto VI)",
+      "Wks": "1",
+      "Pk": "79",
+      "(x?)": "",
+      "Streams": "25,316",
+      "Streams+": "",
+      "Total": "25,316",
+      "track_id": "4h3tY2zV4easaHEAbHVmgj",
+      "artist_ids": [
+        "4NHQUGzhtTLFvgF5SZesLK",
+        "15o7qdDTBzs6xWRUYUtZc1"
+      ]
+    },
+    {
+      "Pos": "80",
+      "P+": "-15",
+      "Artist and Title": "Djulia - Na dyavola zhenata",
+      "Wks": "15",
+      "Pk": "65",
+      "(x?)": "",
+      "Streams": "24,174",
+      "Streams+": "-2,681",
+      "Total": "286,582",
+      "track_id": "1EN9ViobxmlMPc5lofxkGO",
+      "artist_ids": [
+        "6KsiFFe8CENPP9DN3SRouY"
+      ]
+    },
+    {
+      "Pos": "81",
+      "P+": "-48",
+      "Artist and Title": "Boni - Vreme e",
+      "Wks": "10",
+      "Pk": "32",
+      "(x?)": "",
+      "Streams": "24,170",
+      "Streams+": "-12,413",
+      "Total": "279,638",
+      "track_id": "3JOJCNsWThMKEeWBXWDgxI",
+      "artist_ids": [
+        "5XJiplMBIs5bkRy3Spyrgl"
+      ]
+    },
+    {
+      "Pos": "82",
+      "P+": "+22",
+      "Artist and Title": "Krissy - Дискотека (w/ Tedi Aleksandrova)",
+      "Wks": "29",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "24,104",
+      "Streams+": "+2,471",
+      "Total": "830,485",
+      "track_id": "7DLnkcz4EU04ghpTIQcEqL",
+      "artist_ids": [
+        "1tQw6OfMksrYe6ZipFVFzo",
+        "3CcA9m1Ivpp5XmLt8SxUpn"
+      ]
+    },
+    {
+      "Pos": "83",
+      "P+": "-1",
+      "Artist and Title": "HUGEL - Movin' To The Sun (w/ Imael Angel, Ultra Naté)",
+      "Wks": "26",
+      "Pk": "15",
+      "(x?)": "",
+      "Streams": "24,024",
+      "Streams+": "-478",
+      "Total": "900,036",
+      "track_id": "4vTsKN15Kqo3Geo9r7FhAN",
+      "artist_ids": [
+        "5PlfkPxwCpRRWQJBxCa0By",
+        "17yREPqyU875WJnX9U082A",
+        "1cK2Abwkni7m51wJCSGllN"
+      ]
+    },
+    {
+      "Pos": "84",
+      "P+": "-12",
+      "Artist and Title": "Malkata - Poludyavash (w/ DENIS TEOFIKOV)",
+      "Wks": "32",
+      "Pk": "44",
+      "(x?)": "",
+      "Streams": "23,818",
+      "Streams+": "-2,246",
+      "Total": "703,749",
+      "track_id": "0L3m1FUTqFKEDQg0N2Io3d",
+      "artist_ids": [
+        "7p9pN8IIyaKdPrpVUjJI9G",
+        "5QO5nSTzmwGYnTFsJb8Gq6"
+      ]
+    },
+    {
+      "Pos": "85",
+      "P+": "-33",
+      "Artist and Title": "Menfis - RIKOSHET (w/ V:RGO)",
+      "Wks": "4",
+      "Pk": "21",
+      "(x?)": "",
+      "Streams": "23,670",
+      "Streams+": "-7,336",
+      "Total": "132,711",
+      "track_id": "02zX0wgHupX29Nhq8RAEoy",
+      "artist_ids": [
+        "1MHSqUazy7BjU8NytnUl0Q",
+        "556XyBuO17TCo0Bviw5nCW"
+      ]
+    },
+    {
+      "Pos": "86",
+      "P+": "-37",
+      "Artist and Title": "The Neighbourhood - Sweater Weather",
+      "Wks": "304",
+      "Pk": "14",
+      "(x?)": "",
+      "Streams": "23,473",
+      "Streams+": "-8,121",
+      "Total": "4,741,912",
+      "track_id": "2QjOHCTQ1Jl3zawyYOpxh6",
+      "artist_ids": [
+        "77SW9BnxLY8rJ0RciFqkHh"
+      ]
+    },
+    {
+      "Pos": "87",
+      "P+": "+66",
+      "Artist and Title": "Tedi Aleksandrova - Darpay ya (w/ Emanuela)",
+      "Wks": "68",
+      "Pk": "19",
+      "(x?)": "",
+      "Streams": "23,130",
+      "Streams+": "+4,521",
+      "Total": "917,179",
+      "track_id": "6lazMmzPhIzAzWBtjVSeeh",
+      "artist_ids": [
+        "3CcA9m1Ivpp5XmLt8SxUpn",
+        "1lxHE7dVKOVaIjGOIu8svG"
+      ]
+    },
+    {
+      "Pos": "88",
+      "P+": "+11",
+      "Artist and Title": "Lorena - Яка е жена ти (w/ Alisia)",
+      "Wks": "38",
+      "Pk": "76",
+      "(x?)": "",
+      "Streams": "23,041",
+      "Streams+": "+717",
+      "Total": "716,340",
+      "track_id": "1h4oxFSSXlJhFwpho5Levr",
+      "artist_ids": [
+        "1GNGuprNrIvSiOAcUIQy2h",
+        "5mNFpEfI0KApCz2Y88LYW6"
+      ]
+    },
+    {
+      "Pos": "89",
+      "P+": "+4",
+      "Artist and Title": "Tedi Aleksandrova - Hasta La Vista Baby (w/ Silver)",
+      "Wks": "35",
       "Pk": "50",
       "(x?)": "",
-      "Streams": "23,520",
-      "Streams+": "+2,233",
-      "Total": "758,076",
+      "Streams": "22,929",
+      "Streams+": "-591",
+      "Total": "781,005",
       "track_id": "6vcgh8YJbjJc2xpxVonAUC",
       "artist_ids": [
         "3CcA9m1Ivpp5XmLt8SxUpn",
@@ -1448,31 +1390,61 @@
       ]
     },
     {
-      "Pos": "94",
-      "P+": "+2",
-      "Artist and Title": "KSIOR - DJOBNO GADJE (w/ SISS)",
-      "Wks": "11",
-      "Pk": "26",
+      "Pos": "90",
+      "P+": "+43",
+      "Artist and Title": "Emanuela - Kupih ti sartse (w/ Djordan)",
+      "Wks": "72",
+      "Pk": "32",
       "(x?)": "",
-      "Streams": "23,233",
-      "Streams+": "+555",
-      "Total": "307,823",
-      "track_id": "2l3YT1dyHLUrbwUCLYqky5",
+      "Streams": "22,773",
+      "Streams+": "+2,871",
+      "Total": "974,346",
+      "track_id": "1TIQ8BrPa6qiL7l3k4El2e",
       "artist_ids": [
-        "2NuYz10D2u4pbBUb9zVCQ6",
-        "1URQKyDhNbxD42pNxdpctn"
+        "1lxHE7dVKOVaIjGOIu8svG",
+        "4vczAVLBVJzhMndKRCsQls"
       ]
     },
     {
-      "Pos": "95",
-      "P+": "-8",
+      "Pos": "91",
+      "P+": "-48",
+      "Artist and Title": "The Neighbourhood - Reflections",
+      "Wks": "16",
+      "Pk": "36",
+      "(x?)": "",
+      "Streams": "22,761",
+      "Streams+": "-10,191",
+      "Total": "245,609",
+      "track_id": "2xql0pid3EUwW38AsywxhV",
+      "artist_ids": [
+        "77SW9BnxLY8rJ0RciFqkHh"
+      ]
+    },
+    {
+      "Pos": "92",
+      "P+": "-18",
+      "Artist and Title": "Yanitsa - Varnah ti go",
+      "Wks": "30",
+      "Pk": "47",
+      "(x?)": "",
+      "Streams": "22,653",
+      "Streams+": "-2,712",
+      "Total": "651,113",
+      "track_id": "6zvwO7R26lGigFffAyFDRO",
+      "artist_ids": [
+        "3a4iT4FdFp6x0IqVTl47vR"
+      ]
+    },
+    {
+      "Pos": "93",
+      "P+": "+2",
       "Artist and Title": "MOMO RECORDS - Сакове (w/ Bandata Na Ruba, Kapo Verde)",
-      "Wks": "17",
+      "Wks": "18",
       "Pk": "52",
       "(x?)": "",
-      "Streams": "23,191",
-      "Streams+": "-385",
-      "Total": "362,910",
+      "Streams": "22,537",
+      "Streams+": "-654",
+      "Total": "385,447",
       "track_id": "1hDHWk74RPmGwgkWEHiFjU",
       "artist_ids": [
         "5f1C9EB4G4MrxxmWmZP5Wo",
@@ -1481,199 +1453,62 @@
       ]
     },
     {
-      "Pos": "96",
-      "P+": "-16",
-      "Artist and Title": "HUGEL - Jamaican (Bam Bam) (w/ SOLTO (FR))",
-      "Wks": "42",
-      "Pk": "6",
+      "Pos": "94",
+      "P+": "+33",
+      "Artist and Title": "Alisia - Imame li vrazka",
+      "Wks": "132",
+      "Pk": "18",
       "(x?)": "",
-      "Streams": "22,873",
-      "Streams+": "-1,274",
-      "Total": "1,808,714",
-      "track_id": "7e4zDInS6tA2jwzphvs2Ay",
+      "Streams": "22,471",
+      "Streams+": "+2,079",
+      "Total": "2,637,393",
+      "track_id": "3XNlp4fJs4W7jbeYDfD3aD",
       "artist_ids": [
-        "5PlfkPxwCpRRWQJBxCa0By",
-        "0F3tUZeb9dLNEpxCpzEBQt"
-      ]
-    },
-    {
-      "Pos": "97",
-      "P+": "-23",
-      "Artist and Title": "Krasyo - Злобари",
-      "Wks": "30",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "22,625",
-      "Streams+": "-2,093",
-      "Total": "1,102,647",
-      "track_id": "7G2NBshHNMyHsKknSYcLCc",
-      "artist_ids": [
-        "0MpqjrVgdUO07oY6JcgTeG"
-      ]
-    },
-    {
-      "Pos": "98",
-      "P+": "-19",
-      "Artist and Title": "Selina - Откачила (w/ Medi)",
-      "Wks": "81",
-      "Pk": "19",
-      "(x?)": "",
-      "Streams": "22,462",
-      "Streams+": "-1,722",
-      "Total": "2,122,314",
-      "track_id": "3fEpl8LU6WyIuE3C9P6pfI",
-      "artist_ids": [
-        "583wxBpo6S1maGz1bqYekZ",
-        "6sEfX6ntbBxeWBLggUMyyq"
-      ]
-    },
-    {
-      "Pos": "99",
-      "P+": "-23",
-      "Artist and Title": "Lorena - Яка е жена ти (w/ Alisia)",
-      "Wks": "37",
-      "Pk": "76",
-      "(x?)": "",
-      "Streams": "22,324",
-      "Streams+": "-2,209",
-      "Total": "693,299",
-      "track_id": "1h4oxFSSXlJhFwpho5Levr",
-      "artist_ids": [
-        "1GNGuprNrIvSiOAcUIQy2h",
         "5mNFpEfI0KApCz2Y88LYW6"
       ]
     },
     {
-      "Pos": "100",
-      "P+": "-14",
-      "Artist and Title": "Tame Impala - Loser",
-      "Wks": "16",
-      "Pk": "24",
-      "(x?)": "",
-      "Streams": "22,249",
-      "Streams+": "-1,351",
-      "Total": "480,627",
-      "track_id": "7bxaFZ1O3cHkgLKMsdC3xR",
+      "Pos": "95",
+      "P+": "-16",
+      "Artist and Title": "Ivayla - Хотел (w/ Galin)",
+      "Wks": "50",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "22,461",
+      "Streams+": "-2,169",
+      "Total": "1,963,090",
+      "track_id": "0JLwDgYbf88hOMIf3S0kqv",
       "artist_ids": [
-        "5INjqkS1o8h1imAzPqGZBb"
+        "29Hsg37sCbjeeCdDA0HIgt",
+        "5amPFw5XVlNzP7uSKBXtai"
       ]
     },
     {
-      "Pos": "101",
-      "P+": "-11",
-      "Artist and Title": "Medi - Надежда",
-      "Wks": "100",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "22,191",
-      "Streams+": "-1,033",
-      "Total": "2,107,285",
-      "track_id": "1N0LbbD7X8FBwTuHkHPjvE",
-      "artist_ids": [
-        "6sEfX6ntbBxeWBLggUMyyq"
-      ]
-    },
-    {
-      "Pos": "102",
-      "P+": "+38",
-      "Artist and Title": "Kali - Kopie",
-      "Wks": "13",
-      "Pk": "102",
-      "(x?)": "",
-      "Streams": "22,120",
-      "Streams+": "+2,990",
-      "Total": "237,487",
-      "track_id": "3qUD6so5gqot1JZM9XvkU9",
-      "artist_ids": [
-        "7AuKJFjFEMk4AfOZQyI8Ow"
-      ]
-    },
-    {
-      "Pos": "103",
-      "P+": "-1",
-      "Artist and Title": "Medi - Ще ме търсиш",
-      "Wks": "64",
-      "Pk": "5",
-      "(x?)": "",
-      "Streams": "21,736",
-      "Streams+": "-601",
-      "Total": "2,174,840",
-      "track_id": "4DxdsSAzo1IVE2PRg0WsG8",
-      "artist_ids": [
-        "6sEfX6ntbBxeWBLggUMyyq"
-      ]
-    },
-    {
-      "Pos": "104",
-      "P+": "-35",
-      "Artist and Title": "Krissy - Дискотека (w/ Tedi Aleksandrova)",
-      "Wks": "28",
-      "Pk": "22",
-      "(x?)": "",
-      "Streams": "21,633",
-      "Streams+": "-3,197",
-      "Total": "806,381",
-      "track_id": "7DLnkcz4EU04ghpTIQcEqL",
-      "artist_ids": [
-        "1tQw6OfMksrYe6ZipFVFzo",
-        "3CcA9m1Ivpp5XmLt8SxUpn"
-      ]
-    },
-    {
-      "Pos": "105",
-      "P+": "+13",
-      "Artist and Title": "N.A.S.I - 4 Курви (4 Курви)",
-      "Wks": "12",
-      "Pk": "31",
-      "(x?)": "",
-      "Streams": "21,598",
-      "Streams+": "+372",
-      "Total": "293,471",
-      "track_id": "0jXQIHyGwY0MuuEoGALZsC",
-      "artist_ids": [
-        "60nMDENsokaNkQsaZtk8Va"
-      ]
-    },
-    {
-      "Pos": "106",
-      "P+": "+31",
-      "Artist and Title": "Rayna - Zle te chuvam",
-      "Wks": "32",
-      "Pk": "12",
-      "(x?)": "",
-      "Streams": "21,586",
-      "Streams+": "+2,084",
-      "Total": "547,608",
-      "track_id": "3aw9qQEF3H8oBpaaonkEXd",
-      "artist_ids": [
-        "7dOcrtda9FBmyDlH94mmbx"
-      ]
-    },
-    {
-      "Pos": "107",
-      "P+": "NEW",
-      "Artist and Title": "Molec - МЕСЕЧИНА",
-      "Wks": "1",
-      "Pk": "107",
-      "(x?)": "",
-      "Streams": "21,548",
+      "Pos": "96",
+      "P+": "RE",
+      "Artist and Title": "Emanuela - Mazalyak (w/ Monkey)",
+      "Wks": "65",
+      "Pk": "2",
+      "(x?)": "(x2)",
+      "Streams": "22,334",
       "Streams+": "",
-      "Total": "21,548",
-      "track_id": "6aFll9XRDGspVhAryzuBYP",
+      "Total": "2,434,956",
+      "track_id": "542H35VsHuyhN1mBzDpAaT",
       "artist_ids": [
-        "7H9Le3C3Z6DHOLxZrA3lVr"
+        "1lxHE7dVKOVaIjGOIu8svG",
+        "3ulU1RBrSIiiKhxbeIuvpw"
       ]
     },
     {
-      "Pos": "108",
-      "P+": "+35",
+      "Pos": "97",
+      "P+": "+11",
       "Artist and Title": "Beatris - Tintiri Mintiri (w/ Monkey)",
-      "Wks": "35",
+      "Wks": "36",
       "Pk": "15",
       "(x?)": "",
-      "Streams": "21,529",
-      "Streams+": "+2,471",
-      "Total": "961,914",
+      "Streams": "22,309",
+      "Streams+": "+780",
+      "Total": "984,223",
       "track_id": "6QcUO5ViDICTY2HMQPFpmV",
       "artist_ids": [
         "29MN0yjTnpXAU1M7NIETxK",
@@ -1681,31 +1516,626 @@
       ]
     },
     {
-      "Pos": "109",
-      "P+": "+33",
-      "Artist and Title": "Konstantin - Ne si ti (w/ Alisia)",
-      "Wks": "16",
-      "Pk": "75",
+      "Pos": "98",
+      "P+": "-13",
+      "Artist and Title": "Desi Slava - И на всички като тебе",
+      "Wks": "51",
+      "Pk": "38",
       "(x?)": "",
-      "Streams": "21,480",
-      "Streams+": "+2,413",
-      "Total": "326,491",
-      "track_id": "4Wh08XgmKYgdfg43XCUoKC",
+      "Streams": "22,301",
+      "Streams+": "-1,944",
+      "Total": "1,046,866",
+      "track_id": "2ch2fanSZq6LCXdlPskq5C",
       "artist_ids": [
-        "4v8n02xVhZK4CmdUAuipHn",
-        "5mNFpEfI0KApCz2Y88LYW6"
+        "1FYHEsfPuSTAOV5oK1CNXG"
+      ]
+    },
+    {
+      "Pos": "99",
+      "P+": "-3",
+      "Artist and Title": "HUGEL - Jamaican (Bam Bam) (w/ SOLTO (FR))",
+      "Wks": "43",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "22,256",
+      "Streams+": "-617",
+      "Total": "1,830,970",
+      "track_id": "7e4zDInS6tA2jwzphvs2Ay",
+      "artist_ids": [
+        "5PlfkPxwCpRRWQJBxCa0By",
+        "0F3tUZeb9dLNEpxCpzEBQt"
+      ]
+    },
+    {
+      "Pos": "100",
+      "P+": "-8",
+      "Artist and Title": "MiyaGi & Endspiel - I Got Love (w/ Rem Digga)",
+      "Wks": "12",
+      "Pk": "91",
+      "(x?)": "",
+      "Streams": "22,206",
+      "Streams+": "-1,353",
+      "Total": "245,660",
+      "track_id": "43wgyQXc2M9KmTDUqVzugM",
+      "artist_ids": [
+        "6L5bLEtpxwd0KOdOr3gtW4",
+        "2R1OELuSJzXjRm8lc8FjPC"
+      ]
+    },
+    {
+      "Pos": "101",
+      "P+": "-46",
+      "Artist and Title": "Djordan - Vsichko s teb (w/ Monika Valerieva)",
+      "Wks": "11",
+      "Pk": "55",
+      "(x?)": "",
+      "Streams": "22,204",
+      "Streams+": "-6,775",
+      "Total": "183,748",
+      "track_id": "1MdKhH1ddozZ6h4rAUesKi",
+      "artist_ids": [
+        "4vczAVLBVJzhMndKRCsQls",
+        "0MZj5f4yDsu6aa5XdUhs4d"
+      ]
+    },
+    {
+      "Pos": "102",
+      "P+": "+27",
+      "Artist and Title": "Emrah - Палава си",
+      "Wks": "15",
+      "Pk": "44",
+      "(x?)": "",
+      "Streams": "22,132",
+      "Streams+": "+2,062",
+      "Total": "324,408",
+      "track_id": "0qEIfEvkXJk0VoBLXL7JXO",
+      "artist_ids": [
+        "4aL5skAlrmagFwCx6OXKPr"
+      ]
+    },
+    {
+      "Pos": "103",
+      "P+": "-33",
+      "Artist and Title": "Demo - Bonboni",
+      "Wks": "4",
+      "Pk": "67",
+      "(x?)": "",
+      "Streams": "22,105",
+      "Streams+": "-4,299",
+      "Total": "91,168",
+      "track_id": "05mE1A9w6n7nN260yyQCjg",
+      "artist_ids": [
+        "76yjtIxbhGHrfvROKd56wU"
+      ]
+    },
+    {
+      "Pos": "104",
+      "P+": "+8",
+      "Artist and Title": "Lorena - Жена за лудницата",
+      "Wks": "58",
+      "Pk": "58",
+      "(x?)": "",
+      "Streams": "22,099",
+      "Streams+": "+730",
+      "Total": "1,116,032",
+      "track_id": "5oSf546wo1pUnAvJ5xMRF8",
+      "artist_ids": [
+        "1GNGuprNrIvSiOAcUIQy2h"
+      ]
+    },
+    {
+      "Pos": "105",
+      "P+": "+30",
+      "Artist and Title": "Djordan - Mercedes",
+      "Wks": "12",
+      "Pk": "54",
+      "(x?)": "",
+      "Streams": "22,057",
+      "Streams+": "+2,317",
+      "Total": "198,127",
+      "track_id": "1io7ZvdApB58FMUVhX26Z3",
+      "artist_ids": [
+        "4vczAVLBVJzhMndKRCsQls"
+      ]
+    },
+    {
+      "Pos": "106",
+      "P+": "-3",
+      "Artist and Title": "Medi - Ще ме търсиш",
+      "Wks": "65",
+      "Pk": "5",
+      "(x?)": "",
+      "Streams": "22,016",
+      "Streams+": "+280",
+      "Total": "2,196,856",
+      "track_id": "4DxdsSAzo1IVE2PRg0WsG8",
+      "artist_ids": [
+        "6sEfX6ntbBxeWBLggUMyyq"
+      ]
+    },
+    {
+      "Pos": "107",
+      "P+": "-7",
+      "Artist and Title": "Tame Impala - Loser",
+      "Wks": "17",
+      "Pk": "24",
+      "(x?)": "",
+      "Streams": "21,975",
+      "Streams+": "-274",
+      "Total": "502,602",
+      "track_id": "7bxaFZ1O3cHkgLKMsdC3xR",
+      "artist_ids": [
+        "5INjqkS1o8h1imAzPqGZBb"
+      ]
+    },
+    {
+      "Pos": "108",
+      "P+": "+90",
+      "Artist and Title": "Galena - Znam diagnozata",
+      "Wks": "25",
+      "Pk": "65",
+      "(x?)": "",
+      "Streams": "21,969",
+      "Streams+": "+5,286",
+      "Total": "487,089",
+      "track_id": "4OvUp1FOv2QvUPu9Atm1ne",
+      "artist_ids": [
+        "5M7RMcbgYy45XzC51HU355"
+      ]
+    },
+    {
+      "Pos": "109",
+      "P+": "RE",
+      "Artist and Title": "Djordan - Marmalad",
+      "Wks": "24",
+      "Pk": "109",
+      "(x?)": "",
+      "Streams": "21,761",
+      "Streams+": "",
+      "Total": "424,166",
+      "track_id": "2PMhh3VXRpolp59hEcjksv",
+      "artist_ids": [
+        "4vczAVLBVJzhMndKRCsQls"
       ]
     },
     {
       "Pos": "110",
-      "P+": "-22",
+      "P+": "-9",
+      "Artist and Title": "Medi - Надежда",
+      "Wks": "101",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "21,717",
+      "Streams+": "-474",
+      "Total": "2,129,002",
+      "track_id": "1N0LbbD7X8FBwTuHkHPjvE",
+      "artist_ids": [
+        "6sEfX6ntbBxeWBLggUMyyq"
+      ]
+    },
+    {
+      "Pos": "111",
+      "P+": "+45",
+      "Artist and Title": "Medi - Обичам те, ти мене - не",
+      "Wks": "59",
+      "Pk": "53",
+      "(x?)": "",
+      "Streams": "21,633",
+      "Streams+": "+3,271",
+      "Total": "1,069,271",
+      "track_id": "3Scey0Q45CW7JnPlex6SD0",
+      "artist_ids": [
+        "6sEfX6ntbBxeWBLggUMyyq"
+      ]
+    },
+    {
+      "Pos": "112",
+      "P+": "-14",
+      "Artist and Title": "Selina - Откачила (w/ Medi)",
+      "Wks": "82",
+      "Pk": "19",
+      "(x?)": "",
+      "Streams": "21,614",
+      "Streams+": "-848",
+      "Total": "2,143,928",
+      "track_id": "3fEpl8LU6WyIuE3C9P6pfI",
+      "artist_ids": [
+        "583wxBpo6S1maGz1bqYekZ",
+        "6sEfX6ntbBxeWBLggUMyyq"
+      ]
+    },
+    {
+      "Pos": "113",
+      "P+": "+58",
+      "Artist and Title": "Tsvetelina Yaneva - Vidimo izneveril",
+      "Wks": "25",
+      "Pk": "103",
+      "(x?)": "",
+      "Streams": "21,423",
+      "Streams+": "+3,770",
+      "Total": "447,842",
+      "track_id": "2xBL3p3OoyG9p1Dvni375C",
+      "artist_ids": [
+        "4AZihrM3P96d5mA9kvsxxH"
+      ]
+    },
+    {
+      "Pos": "114",
+      "P+": "-9",
+      "Artist and Title": "N.A.S.I - 4 Курви (4 Курви)",
+      "Wks": "13",
+      "Pk": "31",
+      "(x?)": "",
+      "Streams": "21,403",
+      "Streams+": "-195",
+      "Total": "314,874",
+      "track_id": "0jXQIHyGwY0MuuEoGALZsC",
+      "artist_ids": [
+        "60nMDENsokaNkQsaZtk8Va"
+      ]
+    },
+    {
+      "Pos": "115",
+      "P+": "+27",
+      "Artist and Title": "No Doubt - Don't Speak",
+      "Wks": "2",
+      "Pk": "115",
+      "(x?)": "",
+      "Streams": "21,363",
+      "Streams+": "+2,031",
+      "Total": "40,695",
+      "track_id": "6urCAbunOQI4bLhmGpX7iS",
+      "artist_ids": [
+        "0cQbJU1aAzvbEmTuljWLlF"
+      ]
+    },
+    {
+      "Pos": "116",
+      "P+": "+18",
+      "Artist and Title": "Djena - Spri da mi dosazhdash",
+      "Wks": "19",
+      "Pk": "87",
+      "(x?)": "",
+      "Streams": "21,204",
+      "Streams+": "+1,343",
+      "Total": "340,223",
+      "track_id": "7w2a2IOeNYFBuN0L4NDC4J",
+      "artist_ids": [
+        "07aV940tBFh4TthmbcjR3g"
+      ]
+    },
+    {
+      "Pos": "117",
+      "P+": "+67",
+      "Artist and Title": "Galena - Pak li",
+      "Wks": "12",
+      "Pk": "82",
+      "(x?)": "",
+      "Streams": "21,153",
+      "Streams+": "+4,109",
+      "Total": "212,447",
+      "track_id": "4nc1CxmIXHJs2xsB7CA3vm",
+      "artist_ids": [
+        "5M7RMcbgYy45XzC51HU355"
+      ]
+    },
+    {
+      "Pos": "118",
+      "P+": "-37",
+      "Artist and Title": "Djulia - Chuzhda",
+      "Wks": "50",
+      "Pk": "44",
+      "(x?)": "",
+      "Streams": "20,995",
+      "Streams+": "-3,570",
+      "Total": "650,659",
+      "track_id": "3yltt4HoL2Jx1X3KtcjCpk",
+      "artist_ids": [
+        "6KsiFFe8CENPP9DN3SRouY"
+      ]
+    },
+    {
+      "Pos": "119",
+      "P+": "-3",
+      "Artist and Title": "Preslava - Na tebe ne otkazvam",
+      "Wks": "55",
+      "Pk": "51",
+      "(x?)": "",
+      "Streams": "20,981",
+      "Streams+": "-34",
+      "Total": "1,054,133",
+      "track_id": "5qXynMZJAEsLz00X6BTq9q",
+      "artist_ids": [
+        "2Dj0euYPa8eiI6Ee5VLBwg"
+      ]
+    },
+    {
+      "Pos": "120",
+      "P+": "-33",
+      "Artist and Title": "Dessita - HA-HA",
+      "Wks": "27",
+      "Pk": "12",
+      "(x?)": "",
+      "Streams": "20,964",
+      "Streams+": "-3,193",
+      "Total": "929,966",
+      "track_id": "76v5LULysGLz5NnQnzDfmI",
+      "artist_ids": [
+        "1WOWylyMYTYIkDJmKLeSpQ"
+      ]
+    },
+    {
+      "Pos": "121",
+      "P+": "-4",
+      "Artist and Title": "Tedi Aleksandrova - AMG Isteria (w/ Silver)",
+      "Wks": "20",
+      "Pk": "104",
+      "(x?)": "",
+      "Streams": "20,912",
+      "Streams+": "-102",
+      "Total": "361,809",
+      "track_id": "0E9Jiv4B0khocaeIFONTSQ",
+      "artist_ids": [
+        "3CcA9m1Ivpp5XmLt8SxUpn",
+        "4XrGMiPcnaZsT4GknLHDGS"
+      ]
+    },
+    {
+      "Pos": "122",
+      "P+": "-7",
+      "Artist and Title": "Selina - Вдига му бившата",
+      "Wks": "53",
+      "Pk": "3",
+      "(x?)": "(x2)",
+      "Streams": "20,886",
+      "Streams+": "-228",
+      "Total": "2,435,186",
+      "track_id": "3iiSZNHW0SScG7pvi0fIUv",
+      "artist_ids": [
+        "583wxBpo6S1maGz1bqYekZ"
+      ]
+    },
+    {
+      "Pos": "123",
+      "P+": "+62",
+      "Artist and Title": "Emilia - California (w/ DJ Ceci Ludata Glava)",
+      "Wks": "44",
+      "Pk": "96",
+      "(x?)": "",
+      "Streams": "20,886",
+      "Streams+": "+3,881",
+      "Total": "780,955",
+      "track_id": "0VUfw943xkhcvLRXruuzdP",
+      "artist_ids": [
+        "0j6Z5YMSqBePHbPKLQwrcU",
+        "74GzqKaHbbDCOEdJQuY6xo"
+      ]
+    },
+    {
+      "Pos": "124",
+      "P+": "-18",
+      "Artist and Title": "Rayna - Zle te chuvam",
+      "Wks": "33",
+      "Pk": "12",
+      "(x?)": "",
+      "Streams": "20,876",
+      "Streams+": "-710",
+      "Total": "568,484",
+      "track_id": "3aw9qQEF3H8oBpaaonkEXd",
+      "artist_ids": [
+        "7dOcrtda9FBmyDlH94mmbx"
+      ]
+    },
+    {
+      "Pos": "125",
+      "P+": "NEW",
+      "Artist and Title": "Krum - Nishto Ne Znaesh (w/ Emanuela)",
+      "Wks": "1",
+      "Pk": "125",
+      "(x?)": "",
+      "Streams": "20,868",
+      "Streams+": "",
+      "Total": "20,868",
+      "track_id": "3sL6tOw9dIzAYVsmJnUzXi",
+      "artist_ids": [
+        "388BvMn23ia99MU87D6j6u",
+        "1lxHE7dVKOVaIjGOIu8svG"
+      ]
+    },
+    {
+      "Pos": "126",
+      "P+": "-46",
+      "Artist and Title": "MOMO RECORDS - Без теб (w/ Gyoky)",
+      "Wks": "78",
+      "Pk": "25",
+      "(x?)": "",
+      "Streams": "20,757",
+      "Streams+": "-3,845",
+      "Total": "1,198,926",
+      "track_id": "4cLi9bZRMvDITlmKdo6D2l",
+      "artist_ids": [
+        "5f1C9EB4G4MrxxmWmZP5Wo",
+        "4EZoIglbasg5y5mpZd6BDY"
+      ]
+    },
+    {
+      "Pos": "127",
+      "P+": "-1",
+      "Artist and Title": "Arctic Monkeys - Do I Wanna Know?",
+      "Wks": "451",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "20,707",
+      "Streams+": "+284",
+      "Total": "2,655,088",
+      "track_id": "5FVd6KXrgO9B3JPmC8OPst",
+      "artist_ids": [
+        "7Ln80lUS6He07XvHI8qqHH"
+      ]
+    },
+    {
+      "Pos": "128",
+      "P+": "RE",
+      "Artist and Title": "Andrea - Probvai Se (w/ Azis)",
+      "Wks": "63",
+      "Pk": "83",
+      "(x?)": "",
+      "Streams": "20,577",
+      "Streams+": "",
+      "Total": "1,000,650",
+      "track_id": "2RC5CkvOzaaQeJZEO08Cdg",
+      "artist_ids": [
+        "3Q71N3lHz2pijhljCNqOqw",
+        "1vAwQYTE1k5MBhNsvqphp1"
+      ]
+    },
+    {
+      "Pos": "129",
+      "P+": "+48",
+      "Artist and Title": "Djulia - Tvoya byah",
+      "Wks": "10",
+      "Pk": "129",
+      "(x?)": "",
+      "Streams": "20,551",
+      "Streams+": "+3,205",
+      "Total": "176,722",
+      "track_id": "576CTMPzJgxNQSjcowr8ZP",
+      "artist_ids": [
+        "6KsiFFe8CENPP9DN3SRouY"
+      ]
+    },
+    {
+      "Pos": "130",
+      "P+": "-17",
+      "Artist and Title": "Medi - Серенада",
+      "Wks": "13",
+      "Pk": "22",
+      "(x?)": "",
+      "Streams": "20,462",
+      "Streams+": "-850",
+      "Total": "320,761",
+      "track_id": "11pQW1h0eDUnyeFzYGktMn",
+      "artist_ids": [
+        "6sEfX6ntbBxeWBLggUMyyq"
+      ]
+    },
+    {
+      "Pos": "131",
+      "P+": "+1",
+      "Artist and Title": "Medi - Рана",
+      "Wks": "228",
+      "Pk": "8",
+      "(x?)": "",
+      "Streams": "20,441",
+      "Streams+": "+527",
+      "Total": "3,293,747",
+      "track_id": "32vRPT2jNoRZRg22GxtY0l",
+      "artist_ids": [
+        "6sEfX6ntbBxeWBLggUMyyq"
+      ]
+    },
+    {
+      "Pos": "132",
+      "P+": "-11",
+      "Artist and Title": "BTS - SWIM",
+      "Wks": "36",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "20,376",
+      "Streams+": "-306",
+      "Total": "1,120,387",
+      "track_id": "68lbSrXDORS51pmyjZv712",
+      "artist_ids": [
+        "3Nrfpe0tUJi4K4DXYWgMUX"
+      ]
+    },
+    {
+      "Pos": "133",
+      "P+": "RE",
+      "Artist and Title": "Djena - Da te byah ranila",
+      "Wks": "22",
+      "Pk": "78",
+      "(x?)": "",
+      "Streams": "20,254",
+      "Streams+": "",
+      "Total": "412,238",
+      "track_id": "3t9exDK1YIekmZqlSkr2NL",
+      "artist_ids": [
+        "07aV940tBFh4TthmbcjR3g"
+      ]
+    },
+    {
+      "Pos": "134",
+      "P+": "+30",
+      "Artist and Title": "dirty.secrets2k - LEGENDA",
+      "Wks": "21",
+      "Pk": "92",
+      "(x?)": "",
+      "Streams": "20,036",
+      "Streams+": "+2,173",
+      "Total": "387,004",
+      "track_id": "2hNXpw2o6SFVxES0YMHfJt",
+      "artist_ids": [
+        "1Fh0q8ZYdIrWeD1u9vvdYc"
+      ]
+    },
+    {
+      "Pos": "135",
+      "P+": "+46",
+      "Artist and Title": "Medi - Мама не дава (w/ Dessita)",
+      "Wks": "50",
+      "Pk": "43",
+      "(x?)": "",
+      "Streams": "19,967",
+      "Streams+": "+2,857",
+      "Total": "1,099,696",
+      "track_id": "2l0H1o8guCuGekEgyaE8Of",
+      "artist_ids": [
+        "6sEfX6ntbBxeWBLggUMyyq",
+        "1WOWylyMYTYIkDJmKLeSpQ"
+      ]
+    },
+    {
+      "Pos": "136",
+      "P+": "RE",
+      "Artist and Title": "Wham! - Last Christmas",
+      "Wks": "65",
+      "Pk": "3",
+      "(x?)": "(x1)",
+      "Streams": "19,919",
+      "Streams+": "",
+      "Total": "1,138,295",
+      "track_id": "2FRnf9qhLbvw8fu4IBXx78",
+      "artist_ids": [
+        "5lpH0xAS4fVfLkACg9DAuM"
+      ]
+    },
+    {
+      "Pos": "137",
+      "P+": "-43",
+      "Artist and Title": "KSIOR - DJOBNO GADJE (w/ SISS)",
+      "Wks": "12",
+      "Pk": "26",
+      "(x?)": "",
+      "Streams": "19,871",
+      "Streams+": "-3,362",
+      "Total": "327,694",
+      "track_id": "2l3YT1dyHLUrbwUCLYqky5",
+      "artist_ids": [
+        "2NuYz10D2u4pbBUb9zVCQ6",
+        "1URQKyDhNbxD42pNxdpctn"
+      ]
+    },
+    {
+      "Pos": "138",
+      "P+": "-28",
       "Artist and Title": "MOMO RECORDS - SPIDERMAN (w/ Bandata Na Ruba, Kapo Verde)",
-      "Wks": "14",
+      "Wks": "15",
       "Pk": "54",
       "(x?)": "",
-      "Streams": "21,444",
-      "Streams+": "-1,876",
-      "Total": "306,551",
+      "Streams": "19,856",
+      "Streams+": "-1,588",
+      "Total": "326,407",
       "track_id": "5rMcccz09zBOPrG0g36WgI",
       "artist_ids": [
         "5f1C9EB4G4MrxxmWmZP5Wo",
@@ -1714,551 +2144,121 @@
       ]
     },
     {
-      "Pos": "111",
+      "Pos": "139",
       "P+": "RE",
-      "Artist and Title": "F1LMIRAN - Za Tebe (w/ Lorena)",
-      "Wks": "2",
-      "Pk": "101",
+      "Artist and Title": "Galin - #MeGusta",
+      "Wks": "9",
+      "Pk": "76",
       "(x?)": "",
-      "Streams": "21,402",
+      "Streams": "19,831",
       "Streams+": "",
-      "Total": "42,882",
-      "track_id": "2KT2pCXais64iVthMl5k8z",
+      "Total": "157,894",
+      "track_id": "3m6oTpy4U4L8Zf0HIMpCQw",
       "artist_ids": [
-        "2lrtiA0ly4pLmbcqrVrD7O",
-        "1GNGuprNrIvSiOAcUIQy2h"
+        "5amPFw5XVlNzP7uSKBXtai"
       ]
     },
     {
-      "Pos": "112",
-      "P+": "+14",
-      "Artist and Title": "Lorena - Жена за лудницата",
-      "Wks": "57",
-      "Pk": "58",
-      "(x?)": "",
-      "Streams": "21,369",
-      "Streams+": "+1,189",
-      "Total": "1,093,933",
-      "track_id": "5oSf546wo1pUnAvJ5xMRF8",
-      "artist_ids": [
-        "1GNGuprNrIvSiOAcUIQy2h"
-      ]
-    },
-    {
-      "Pos": "113",
-      "P+": "-13",
-      "Artist and Title": "Medi - Серенада",
-      "Wks": "12",
-      "Pk": "22",
-      "(x?)": "",
-      "Streams": "21,312",
-      "Streams+": "-1,227",
-      "Total": "300,299",
-      "track_id": "11pQW1h0eDUnyeFzYGktMn",
-      "artist_ids": [
-        "6sEfX6ntbBxeWBLggUMyyq"
-      ]
-    },
-    {
-      "Pos": "114",
-      "P+": "=",
-      "Artist and Title": "Evanescence - Bring Me To Life",
-      "Wks": "85",
-      "Pk": "91",
-      "(x?)": "",
-      "Streams": "21,296",
-      "Streams+": "-71",
-      "Total": "1,448,548",
-      "track_id": "0COqiPhxzoWICwFCS4eZcp",
-      "artist_ids": [
-        "5nGIFgo0shDenQYSE0Sn7c"
-      ]
-    },
-    {
-      "Pos": "115",
-      "P+": "-9",
-      "Artist and Title": "Selina - Вдига му бившата",
-      "Wks": "52",
-      "Pk": "3",
-      "(x?)": "(x2)",
-      "Streams": "21,114",
-      "Streams+": "-712",
-      "Total": "2,414,300",
-      "track_id": "3iiSZNHW0SScG7pvi0fIUv",
-      "artist_ids": [
-        "583wxBpo6S1maGz1bqYekZ"
-      ]
-    },
-    {
-      "Pos": "116",
-      "P+": "+12",
-      "Artist and Title": "Preslava - Na tebe ne otkazvam",
-      "Wks": "54",
-      "Pk": "51",
-      "(x?)": "",
-      "Streams": "21,015",
-      "Streams+": "+916",
-      "Total": "1,033,152",
-      "track_id": "5qXynMZJAEsLz00X6BTq9q",
-      "artist_ids": [
-        "2Dj0euYPa8eiI6Ee5VLBwg"
-      ]
-    },
-    {
-      "Pos": "117",
-      "P+": "RE",
-      "Artist and Title": "Tedi Aleksandrova - AMG Isteria (w/ Silver)",
-      "Wks": "19",
-      "Pk": "104",
-      "(x?)": "",
-      "Streams": "21,014",
-      "Streams+": "",
-      "Total": "340,897",
-      "track_id": "0E9Jiv4B0khocaeIFONTSQ",
-      "artist_ids": [
-        "3CcA9m1Ivpp5XmLt8SxUpn",
-        "4XrGMiPcnaZsT4GknLHDGS"
-      ]
-    },
-    {
-      "Pos": "118",
-      "P+": "-20",
-      "Artist and Title": "MBT - Orient Express (w/ Krisko)",
-      "Wks": "21",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "20,869",
-      "Streams+": "-1,727",
-      "Total": "980,774",
-      "track_id": "5fyieCkRITuBt8EOs47W2f",
-      "artist_ids": [
-        "7iCQglTnIkivy8E3yP7WMd",
-        "4oopAFtLdKXCoq2XoEjDZD"
-      ]
-    },
-    {
-      "Pos": "119",
-      "P+": "-20",
-      "Artist and Title": "Medi - Питаш ли ме",
-      "Wks": "26",
-      "Pk": "55",
-      "(x?)": "",
-      "Streams": "20,829",
-      "Streams+": "-1,746",
-      "Total": "572,441",
-      "track_id": "4wDv6oZrRYK0xQgbnUVRfB",
-      "artist_ids": [
-        "6sEfX6ntbBxeWBLggUMyyq"
-      ]
-    },
-    {
-      "Pos": "120",
-      "P+": "+9",
-      "Artist and Title": "Preslava - Rezhim Neprilichna",
-      "Wks": "76",
-      "Pk": "19",
-      "(x?)": "",
-      "Streams": "20,823",
-      "Streams+": "+778",
-      "Total": "1,404,072",
-      "track_id": "1BDsCVdpvuR5qku8n8LUqG",
-      "artist_ids": [
-        "2Dj0euYPa8eiI6Ee5VLBwg"
-      ]
-    },
-    {
-      "Pos": "121",
-      "P+": "-12",
-      "Artist and Title": "BTS - SWIM",
-      "Wks": "35",
-      "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "20,682",
-      "Streams+": "-947",
-      "Total": "1,100,011",
-      "track_id": "68lbSrXDORS51pmyjZv712",
-      "artist_ids": [
-        "3Nrfpe0tUJi4K4DXYWgMUX"
-      ]
-    },
-    {
-      "Pos": "122",
-      "P+": "+13",
-      "Artist and Title": "V:RGO - PORSCHE (w/ Emil TRF, MBT)",
-      "Wks": "59",
-      "Pk": "1",
-      "(x?)": "(x2)",
-      "Streams": "20,640",
-      "Streams+": "+950",
-      "Total": "2,366,406",
-      "track_id": "6rACBIj56htTfrd0VY1PTu",
-      "artist_ids": [
-        "556XyBuO17TCo0Bviw5nCW",
-        "3zM12oJgWeFu7k2kl9I3UB",
-        "7iCQglTnIkivy8E3yP7WMd"
-      ]
-    },
-    {
-      "Pos": "123",
-      "P+": "-2",
-      "Artist and Title": "Dessita - Добро момче",
-      "Wks": "58",
-      "Pk": "4",
-      "(x?)": "",
-      "Streams": "20,491",
-      "Streams+": "-113",
-      "Total": "1,738,617",
-      "track_id": "1KpfzzQNYJ56vqhOXk0SEt",
-      "artist_ids": [
-        "1WOWylyMYTYIkDJmKLeSpQ"
-      ]
-    },
-    {
-      "Pos": "124",
-      "P+": "-9",
-      "Artist and Title": "Gabriella - Габриела (w/ Medi)",
-      "Wks": "50",
-      "Pk": "2",
-      "(x?)": "(x2)",
-      "Streams": "20,437",
-      "Streams+": "-879",
-      "Total": "2,105,139",
-      "track_id": "4MvuZxJn8hc6Wa5sEJXBae",
-      "artist_ids": [
-        "5KHGNMZtf5BjebLwFGqYxT",
-        "6sEfX6ntbBxeWBLggUMyyq"
-      ]
-    },
-    {
-      "Pos": "125",
-      "P+": "-9",
-      "Artist and Title": "Ankara Echoes - Beni Al (Ta Ki Seni Görene Kadar) - Afro House Remix (w/ Kürşad Kahraman)",
-      "Wks": "22",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "20,433",
-      "Streams+": "-875",
-      "Total": "868,601",
-      "track_id": "4TpofYIjlzhztvF8kWwPXi",
-      "artist_ids": [
-        "18SuKvcITcf0mACwhitMeM",
-        "6KmaeBAxvfEYozb0DQSkGU"
-      ]
-    },
-    {
-      "Pos": "126",
-      "P+": "+21",
-      "Artist and Title": "Arctic Monkeys - Do I Wanna Know?",
-      "Wks": "450",
-      "Pk": "9",
-      "(x?)": "",
-      "Streams": "20,423",
-      "Streams+": "+1,684",
-      "Total": "2,634,381",
-      "track_id": "5FVd6KXrgO9B3JPmC8OPst",
-      "artist_ids": [
-        "7Ln80lUS6He07XvHI8qqHH"
-      ]
-    },
-    {
-      "Pos": "127",
-      "P+": "-4",
-      "Artist and Title": "Alisia - Imame li vrazka",
-      "Wks": "131",
-      "Pk": "18",
-      "(x?)": "",
-      "Streams": "20,392",
-      "Streams+": "+96",
-      "Total": "2,614,922",
-      "track_id": "3XNlp4fJs4W7jbeYDfD3aD",
-      "artist_ids": [
-        "5mNFpEfI0KApCz2Y88LYW6"
-      ]
-    },
-    {
-      "Pos": "128",
-      "P+": "-20",
-      "Artist and Title": "Medi - Дивана",
-      "Wks": "106",
-      "Pk": "28",
-      "(x?)": "",
-      "Streams": "20,104",
-      "Streams+": "-1,596",
-      "Total": "1,070,212",
-      "track_id": "5KhisjtC9RpYuwpGs8eG60",
-      "artist_ids": [
-        "6sEfX6ntbBxeWBLggUMyyq"
-      ]
-    },
-    {
-      "Pos": "129",
-      "P+": "+30",
-      "Artist and Title": "Emrah - Палава си",
-      "Wks": "14",
-      "Pk": "44",
-      "(x?)": "",
-      "Streams": "20,070",
-      "Streams+": "+2,379",
-      "Total": "302,276",
-      "track_id": "0qEIfEvkXJk0VoBLXL7JXO",
-      "artist_ids": [
-        "4aL5skAlrmagFwCx6OXKPr"
-      ]
-    },
-    {
-      "Pos": "130",
-      "P+": "-17",
+      "Pos": "140",
+      "P+": "-10",
       "Artist and Title": "ADÉLA - Ain't In LA",
-      "Wks": "17",
+      "Wks": "18",
       "Pk": "52",
       "(x?)": "",
-      "Streams": "20,048",
-      "Streams+": "-1,340",
-      "Total": "374,718",
+      "Streams": "19,819",
+      "Streams+": "-229",
+      "Total": "394,537",
       "track_id": "6U9VpmP3dEinuezxCJ2Zg9",
       "artist_ids": [
         "2qanRMyA5bNuTvz1dK45OP"
       ]
     },
     {
-      "Pos": "131",
-      "P+": "RE",
-      "Artist and Title": "Tedi Aleksandrova - Top",
-      "Wks": "2",
-      "Pk": "131",
+      "Pos": "141",
+      "P+": "-22",
+      "Artist and Title": "Medi - Питаш ли ме",
+      "Wks": "27",
+      "Pk": "55",
       "(x?)": "",
-      "Streams": "19,984",
-      "Streams+": "",
-      "Total": "38,290",
-      "track_id": "2gXjTwV7CScr1BdaKHpv0r",
-      "artist_ids": [
-        "3CcA9m1Ivpp5XmLt8SxUpn"
-      ]
-    },
-    {
-      "Pos": "132",
-      "P+": "-8",
-      "Artist and Title": "Medi - Рана",
-      "Wks": "227",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "19,914",
-      "Streams+": "-364",
-      "Total": "3,273,306",
-      "track_id": "32vRPT2jNoRZRg22GxtY0l",
+      "Streams": "19,752",
+      "Streams+": "-1,077",
+      "Total": "592,193",
+      "track_id": "4wDv6oZrRYK0xQgbnUVRfB",
       "artist_ids": [
         "6sEfX6ntbBxeWBLggUMyyq"
       ]
     },
     {
-      "Pos": "133",
-      "P+": "+57",
-      "Artist and Title": "Emanuela - Kupih ti sartse (w/ Djordan)",
-      "Wks": "71",
-      "Pk": "32",
-      "(x?)": "",
-      "Streams": "19,902",
-      "Streams+": "+3,493",
-      "Total": "951,573",
-      "track_id": "1TIQ8BrPa6qiL7l3k4El2e",
-      "artist_ids": [
-        "1lxHE7dVKOVaIjGOIu8svG",
-        "4vczAVLBVJzhMndKRCsQls"
-      ]
-    },
-    {
-      "Pos": "134",
-      "P+": "+38",
-      "Artist and Title": "Djena - Spri da mi dosazhdash",
-      "Wks": "18",
-      "Pk": "87",
-      "(x?)": "",
-      "Streams": "19,861",
-      "Streams+": "+2,948",
-      "Total": "319,019",
-      "track_id": "7w2a2IOeNYFBuN0L4NDC4J",
-      "artist_ids": [
-        "07aV940tBFh4TthmbcjR3g"
-      ]
-    },
-    {
-      "Pos": "135",
-      "P+": "+62",
-      "Artist and Title": "Djordan - Mercedes",
-      "Wks": "11",
-      "Pk": "54",
-      "(x?)": "",
-      "Streams": "19,740",
-      "Streams+": "+3,626",
-      "Total": "176,070",
-      "track_id": "1io7ZvdApB58FMUVhX26Z3",
-      "artist_ids": [
-        "4vczAVLBVJzhMndKRCsQls"
-      ]
-    },
-    {
-      "Pos": "136",
-      "P+": "NEW",
-      "Artist and Title": "Emilia - Специално за всяка",
-      "Wks": "1",
-      "Pk": "136",
-      "(x?)": "",
-      "Streams": "19,708",
-      "Streams+": "",
-      "Total": "19,708",
-      "track_id": "2l51apMQ6royCPl0XsH7Jt",
-      "artist_ids": [
-        "0j6Z5YMSqBePHbPKLQwrcU"
-      ]
-    },
-    {
-      "Pos": "137",
-      "P+": "-32",
-      "Artist and Title": "Dessita - Разкажи ѝ",
-      "Wks": "92",
-      "Pk": "2",
-      "(x?)": "(x5)",
-      "Streams": "19,456",
-      "Streams+": "-2,675",
-      "Total": "2,973,633",
-      "track_id": "21z8pee2qYV0SzbqQCb72g",
-      "artist_ids": [
-        "1WOWylyMYTYIkDJmKLeSpQ"
-      ]
-    },
-    {
-      "Pos": "138",
-      "P+": "-19",
-      "Artist and Title": "The Neighbourhood - Daddy Issues",
-      "Wks": "127",
-      "Pk": "43",
-      "(x?)": "",
-      "Streams": "19,418",
-      "Streams+": "-1,583",
-      "Total": "1,210,075",
-      "track_id": "5E30LdtzQTGqRvNd7l6kG5",
-      "artist_ids": [
-        "77SW9BnxLY8rJ0RciFqkHh"
-      ]
-    },
-    {
-      "Pos": "139",
-      "P+": "-7",
-      "Artist and Title": "The Weeknd - Starboy (w/ Daft Punk)",
-      "Wks": "428",
-      "Pk": "1",
-      "(x?)": "(x13)",
-      "Streams": "19,414",
-      "Streams+": "-381",
-      "Total": "5,343,277",
-      "track_id": "7MXVkk9YMctZqd1Srtv4MB",
-      "artist_ids": [
-        "1Xyo4u8uXC1ZmMpatF05PJ",
-        "4tZwfgrHOc3mvqYlEYSvVi"
-      ]
-    },
-    {
-      "Pos": "140",
-      "P+": "-36",
-      "Artist and Title": "Bandata Na Ruba - SHIVALI (w/ MOMO RECORDS)",
-      "Wks": "20",
-      "Pk": "39",
-      "(x?)": "",
-      "Streams": "19,356",
-      "Streams+": "-2,785",
-      "Total": "476,397",
-      "track_id": "4TxCB4NwlnlL4kVnw3U75h",
-      "artist_ids": [
-        "12fCNCkYtNfyBZ3zjFGri8",
-        "5f1C9EB4G4MrxxmWmZP5Wo"
-      ]
-    },
-    {
-      "Pos": "141",
-      "P+": "+16",
-      "Artist and Title": "MOMO RECORDS - KOI SUM KAI SUM",
-      "Wks": "10",
-      "Pk": "70",
-      "(x?)": "",
-      "Streams": "19,336",
-      "Streams+": "+1,349",
-      "Total": "191,037",
-      "track_id": "3gyD2Y0r54LKYyBJZEpUyO",
-      "artist_ids": [
-        "5f1C9EB4G4MrxxmWmZP5Wo"
-      ]
-    },
-    {
       "Pos": "142",
-      "P+": "NEW",
-      "Artist and Title": "No Doubt - Don't Speak",
-      "Wks": "1",
-      "Pk": "142",
-      "(x?)": "",
-      "Streams": "19,332",
+      "P+": "RE",
+      "Artist and Title": "Mariah Carey - All I Want for Christmas Is You",
+      "Wks": "70",
+      "Pk": "1",
+      "(x?)": "(x2)",
+      "Streams": "19,727",
       "Streams+": "",
-      "Total": "19,332",
-      "track_id": "6urCAbunOQI4bLhmGpX7iS",
+      "Total": "1,281,786",
+      "track_id": "0bYg9bo50gSsH3LtXe2SQn",
       "artist_ids": [
-        "0cQbJU1aAzvbEmTuljWLlF"
+        "4iHNK0tOyZPYnBU7nGAgpQ"
       ]
     },
     {
       "Pos": "143",
-      "P+": "-48",
-      "Artist and Title": "Enca - VASHA",
-      "Wks": "8",
-      "Pk": "27",
+      "P+": "+49",
+      "Artist and Title": "Desi Slava - Neka da e tayno (w/ Galin)",
+      "Wks": "52",
+      "Pk": "51",
       "(x?)": "",
-      "Streams": "19,214",
-      "Streams+": "-3,552",
-      "Total": "217,721",
-      "track_id": "2lnSDftBnfiPRmnEjmVumR",
+      "Streams": "19,516",
+      "Streams+": "+2,679",
+      "Total": "984,896",
+      "track_id": "5xtqsB0ziLWMldW3JLcTZe",
       "artist_ids": [
-        "6wBMW3WjTK0tQETJviyov9"
+        "1FYHEsfPuSTAOV5oK1CNXG",
+        "5amPFw5XVlNzP7uSKBXtai"
       ]
     },
     {
       "Pos": "144",
-      "P+": "-59",
-      "Artist and Title": "DARA - BAD IDEA",
-      "Wks": "3",
-      "Pk": "25",
+      "P+": "-30",
+      "Artist and Title": "Evanescence - Bring Me To Life",
+      "Wks": "86",
+      "Pk": "91",
       "(x?)": "",
-      "Streams": "19,186",
-      "Streams+": "-4,461",
-      "Total": "80,995",
-      "track_id": "7FfG4gnPZfM5ksxl1WvF1w",
+      "Streams": "19,443",
+      "Streams+": "-1,853",
+      "Total": "1,467,991",
+      "track_id": "0COqiPhxzoWICwFCS4eZcp",
       "artist_ids": [
-        "6WRl7KUrzOq7GpY97KrYxi"
+        "5nGIFgo0shDenQYSE0Sn7c"
       ]
     },
     {
       "Pos": "145",
-      "P+": "+17",
-      "Artist and Title": "Emilia - Тръгвай си (w/ DENIS TEOFIKOV)",
-      "Wks": "7",
-      "Pk": "145",
+      "P+": "+3",
+      "Artist and Title": "Galin - Vse napred",
+      "Wks": "26",
+      "Pk": "61",
       "(x?)": "",
-      "Streams": "19,078",
-      "Streams+": "+1,403",
-      "Total": "121,498",
-      "track_id": "4ZYQHvkJLQPBBwoVy8BjK1",
+      "Streams": "19,410",
+      "Streams+": "+396",
+      "Total": "515,860",
+      "track_id": "46wPr3FrjoBkBfIGK8R4lW",
       "artist_ids": [
-        "0j6Z5YMSqBePHbPKLQwrcU",
-        "5QO5nSTzmwGYnTFsJb8Gq6"
+        "5amPFw5XVlNzP7uSKBXtai"
       ]
     },
     {
       "Pos": "146",
-      "P+": "RE",
+      "P+": "=",
       "Artist and Title": "Emanuela - 5, 6, 7, 8 (w/ Galin)",
-      "Wks": "4",
+      "Wks": "5",
       "Pk": "110",
       "(x?)": "",
-      "Streams": "19,044",
-      "Streams+": "",
-      "Total": "70,019",
+      "Streams": "19,343",
+      "Streams+": "+299",
+      "Total": "89,362",
       "track_id": "778OPaGZEcSr0OQgPb7XSF",
       "artist_ids": [
         "1lxHE7dVKOVaIjGOIu8svG",
@@ -2267,293 +2267,60 @@
     },
     {
       "Pos": "147",
-      "P+": "NEW",
-      "Artist and Title": "Emanuela - Mamino sinche (w/ GIA)",
-      "Wks": "1",
-      "Pk": "147",
+      "P+": "-2",
+      "Artist and Title": "Emilia - Тръгвай си (w/ DENIS TEOFIKOV)",
+      "Wks": "8",
+      "Pk": "145",
       "(x?)": "",
-      "Streams": "19,041",
-      "Streams+": "",
-      "Total": "19,041",
-      "track_id": "6jZ8diWKAfbYurhu15NWo4",
+      "Streams": "19,329",
+      "Streams+": "+251",
+      "Total": "140,827",
+      "track_id": "4ZYQHvkJLQPBBwoVy8BjK1",
       "artist_ids": [
-        "1lxHE7dVKOVaIjGOIu8svG",
-        "2tixG3QCAhhk485PSOWM7F"
+        "0j6Z5YMSqBePHbPKLQwrcU",
+        "5QO5nSTzmwGYnTFsJb8Gq6"
       ]
     },
     {
       "Pos": "148",
-      "P+": "-7",
-      "Artist and Title": "Galin - Vse napred",
-      "Wks": "25",
-      "Pk": "61",
+      "P+": "RE",
+      "Artist and Title": "Preslava - Dyavolsko zhelanie",
+      "Wks": "75",
+      "Pk": "56",
       "(x?)": "",
-      "Streams": "19,014",
-      "Streams+": "-61",
-      "Total": "496,450",
-      "track_id": "46wPr3FrjoBkBfIGK8R4lW",
+      "Streams": "19,311",
+      "Streams+": "",
+      "Total": "1,122,634",
+      "track_id": "4ySXllOjxOgOTXUrsi51CG",
       "artist_ids": [
-        "5amPFw5XVlNzP7uSKBXtai"
+        "2Dj0euYPa8eiI6Ee5VLBwg"
       ]
     },
     {
       "Pos": "149",
       "P+": "RE",
-      "Artist and Title": "Ivayla - Мръсна жега (w/ Adam)",
-      "Wks": "68",
-      "Pk": "16",
+      "Artist and Title": "Fiki - Bum",
+      "Wks": "66",
+      "Pk": "62",
       "(x?)": "",
-      "Streams": "18,786",
+      "Streams": "19,256",
       "Streams+": "",
-      "Total": "1,756,278",
-      "track_id": "2H8IhpLx4fuPMHToqHzGpi",
+      "Total": "1,158,102",
+      "track_id": "03DGNi1ZjjhKCdP2uP1T4k",
       "artist_ids": [
-        "29Hsg37sCbjeeCdDA0HIgt",
-        "696J4fiOALx5ifVKv10VbK"
+        "7JLPN5CklYCRotAvFGw4Q1"
       ]
     },
     {
       "Pos": "150",
-      "P+": "-38",
-      "Artist and Title": "Medi - Върни ми сърцето (w/ Krissy)",
-      "Wks": "5",
-      "Pk": "112",
-      "(x?)": "",
-      "Streams": "18,736",
-      "Streams+": "-2,700",
-      "Total": "90,153",
-      "track_id": "5v7838Be33Vjq9fG4ltEkd",
-      "artist_ids": [
-        "6sEfX6ntbBxeWBLggUMyyq",
-        "1tQw6OfMksrYe6ZipFVFzo"
-      ]
-    },
-    {
-      "Pos": "151",
-      "P+": "-29",
-      "Artist and Title": "VANE$$A - Мръсотия",
-      "Wks": "3",
-      "Pk": "122",
-      "(x?)": "",
-      "Streams": "18,717",
-      "Streams+": "-1,764",
-      "Total": "55,717",
-      "track_id": "1LPwT0veXCWx4h318sMysq",
-      "artist_ids": [
-        "12a4KgFut39rBB8WjeN2oL"
-      ]
-    },
-    {
-      "Pos": "152",
-      "P+": "RE",
-      "Artist and Title": "Emanuela - Napravi taka",
-      "Wks": "28",
-      "Pk": "94",
-      "(x?)": "",
-      "Streams": "18,623",
-      "Streams+": "",
-      "Total": "239,142",
-      "track_id": "1npiS34LVmCcS6pdpawBrE",
-      "artist_ids": [
-        "1lxHE7dVKOVaIjGOIu8svG"
-      ]
-    },
-    {
-      "Pos": "153",
-      "P+": "+14",
-      "Artist and Title": "Tedi Aleksandrova - Darpay ya (w/ Emanuela)",
-      "Wks": "67",
-      "Pk": "19",
-      "(x?)": "",
-      "Streams": "18,609",
-      "Streams+": "+1,364",
-      "Total": "894,049",
-      "track_id": "6lazMmzPhIzAzWBtjVSeeh",
-      "artist_ids": [
-        "3CcA9m1Ivpp5XmLt8SxUpn",
-        "1lxHE7dVKOVaIjGOIu8svG"
-      ]
-    },
-    {
-      "Pos": "154",
-      "P+": "RE",
-      "Artist and Title": "Fiki - S drug me barkash (w/ Galena)",
-      "Wks": "2",
-      "Pk": "100",
-      "(x?)": "",
-      "Streams": "18,483",
-      "Streams+": "",
-      "Total": "38,482",
-      "track_id": "2yb57VXhDSwgQuXMcyftjv",
-      "artist_ids": [
-        "7JLPN5CklYCRotAvFGw4Q1",
-        "5M7RMcbgYy45XzC51HU355"
-      ]
-    },
-    {
-      "Pos": "155",
-      "P+": "+8",
-      "Artist and Title": "Rihanna - Don't Stop The Music",
-      "Wks": "69",
-      "Pk": "68",
-      "(x?)": "",
-      "Streams": "18,401",
-      "Streams+": "+754",
-      "Total": "1,258,483",
-      "track_id": "1Jo0Zg7XlrA6z0mFTZVdkn",
-      "artist_ids": [
-        "5pKCCKE2ajJHZ9KAiaK11H"
-      ]
-    },
-    {
-      "Pos": "156",
-      "P+": "-3",
-      "Artist and Title": "Medi - Обичам те, ти мене - не",
-      "Wks": "58",
-      "Pk": "53",
-      "(x?)": "",
-      "Streams": "18,362",
-      "Streams+": "-63",
-      "Total": "1,047,638",
-      "track_id": "3Scey0Q45CW7JnPlex6SD0",
-      "artist_ids": [
-        "6sEfX6ntbBxeWBLggUMyyq"
-      ]
-    },
-    {
-      "Pos": "157",
-      "P+": "-19",
-      "Artist and Title": "Krisko - #OET",
-      "Wks": "193",
-      "Pk": "13",
-      "(x?)": "",
-      "Streams": "18,281",
-      "Streams+": "-1,202",
-      "Total": "3,142,474",
-      "track_id": "442WPlDTRneEns7knaacHK",
-      "artist_ids": [
-        "4oopAFtLdKXCoq2XoEjDZD"
-      ]
-    },
-    {
-      "Pos": "158",
-      "P+": "+18",
-      "Artist and Title": "dirty.secrets2k - Ne Spirai",
-      "Wks": "10",
-      "Pk": "114",
-      "(x?)": "",
-      "Streams": "18,237",
-      "Streams+": "+1,342",
-      "Total": "171,307",
-      "track_id": "3dRBe6XDwrWtYKOjk9MW5c",
-      "artist_ids": [
-        "1Fh0q8ZYdIrWeD1u9vvdYc"
-      ]
-    },
-    {
-      "Pos": "159",
-      "P+": "-7",
-      "Artist and Title": "MBT - Only Fans",
-      "Wks": "71",
-      "Pk": "1",
-      "(x?)": "(x1)",
-      "Streams": "18,157",
-      "Streams+": "-334",
-      "Total": "2,137,906",
-      "track_id": "1lYu0w0V6kGnFhH4jq1ZtS",
-      "artist_ids": [
-        "7iCQglTnIkivy8E3yP7WMd"
-      ]
-    },
-    {
-      "Pos": "160",
-      "P+": "-6",
-      "Artist and Title": "Krisko - Ministarat Na Veselieto (w/ Lora Karajova, Bobo)",
-      "Wks": "128",
-      "Pk": "6",
-      "(x?)": "",
-      "Streams": "18,134",
-      "Streams+": "-279",
-      "Total": "3,224,970",
-      "track_id": "653RTe2vklxgMHS2yfYWqo",
-      "artist_ids": [
-        "4oopAFtLdKXCoq2XoEjDZD",
-        "5io8vM6q4wMK12XmOdEYIt",
-        "6r0YcUb4D28iZMWUKPlBWf"
-      ]
-    },
-    {
-      "Pos": "161",
-      "P+": "+16",
-      "Artist and Title": "Billy Hlapeto - Башмайсторска (w/ Lexus, Dim4ou)",
-      "Wks": "191",
-      "Pk": "44",
-      "(x?)": "",
-      "Streams": "18,039",
-      "Streams+": "+1,173",
-      "Total": "3,234,346",
-      "track_id": "1rLpf280OicMHgkl6SfGHG",
-      "artist_ids": [
-        "0dz4rGLXin0gvKYqFh7iyI",
-        "7L0jOBGO246iJcBr8uWfXs",
-        "6URykZzv72st8HDMcJNrsV"
-      ]
-    },
-    {
-      "Pos": "162",
-      "P+": "+3",
-      "Artist and Title": "Djordan - Ne te boli",
-      "Wks": "31",
-      "Pk": "70",
-      "(x?)": "",
-      "Streams": "18,000",
-      "Streams+": "+582",
-      "Total": "602,278",
-      "track_id": "6cAQRggud6djFvJNq2YKwO",
-      "artist_ids": [
-        "4vczAVLBVJzhMndKRCsQls"
-      ]
-    },
-    {
-      "Pos": "163",
-      "P+": "-3",
-      "Artist and Title": "The Neighbourhood - A Little Death",
-      "Wks": "2",
-      "Pk": "160",
-      "(x?)": "",
-      "Streams": "17,926",
-      "Streams+": "+239",
-      "Total": "35,613",
-      "track_id": "5ji8WlqOBtVRCQK9HmHz2x",
-      "artist_ids": [
-        "77SW9BnxLY8rJ0RciFqkHh"
-      ]
-    },
-    {
-      "Pos": "164",
-      "P+": "-20",
-      "Artist and Title": "dirty.secrets2k - LEGENDA",
-      "Wks": "20",
-      "Pk": "92",
-      "(x?)": "",
-      "Streams": "17,863",
-      "Streams+": "-1,153",
-      "Total": "366,968",
-      "track_id": "2hNXpw2o6SFVxES0YMHfJt",
-      "artist_ids": [
-        "1Fh0q8ZYdIrWeD1u9vvdYc"
-      ]
-    },
-    {
-      "Pos": "165",
-      "P+": "-34",
+      "P+": "+15",
       "Artist and Title": "Nasyo Chernia - TARIKATA (w/ Fury, Bobo Armani)",
-      "Wks": "20",
+      "Wks": "21",
       "Pk": "26",
       "(x?)": "",
-      "Streams": "17,833",
-      "Streams+": "-2,066",
-      "Total": "565,905",
+      "Streams": "19,164",
+      "Streams+": "+1,331",
+      "Total": "585,069",
       "track_id": "55BpgtsgLWNJs5OW1SpmLA",
       "artist_ids": [
         "14hRjnPyJXRdg38ghjQA9H",
@@ -2562,358 +2329,31 @@
       ]
     },
     {
-      "Pos": "166",
-      "P+": "RE",
-      "Artist and Title": "V:RGO - TVOQTA LUBOV (w/ Lidia)",
-      "Wks": "58",
+      "Pos": "151",
+      "P+": "-27",
+      "Artist and Title": "Gabriella - Габриела (w/ Medi)",
+      "Wks": "51",
       "Pk": "2",
-      "(x?)": "(x1)",
-      "Streams": "17,823",
-      "Streams+": "",
-      "Total": "1,834,949",
-      "track_id": "5UEjI8H2w4yk9XsFMR06ws",
+      "(x?)": "(x2)",
+      "Streams": "19,162",
+      "Streams+": "-1,275",
+      "Total": "2,124,301",
+      "track_id": "4MvuZxJn8hc6Wa5sEJXBae",
       "artist_ids": [
-        "556XyBuO17TCo0Bviw5nCW",
-        "4FTXvsvz433gZR67rhxFfN"
+        "5KHGNMZtf5BjebLwFGqYxT",
+        "6sEfX6ntbBxeWBLggUMyyq"
       ]
     },
     {
-      "Pos": "167",
-      "P+": "-28",
-      "Artist and Title": "SIMONA - Момиче от лед",
-      "Wks": "115",
-      "Pk": "10",
-      "(x?)": "",
-      "Streams": "17,773",
-      "Streams+": "-1,490",
-      "Total": "1,662,787",
-      "track_id": "5JuM3RrFBnSDFUtivSNCbI",
-      "artist_ids": [
-        "6NtH0d4qlaU5FakRdrdNwq"
-      ]
-    },
-    {
-      "Pos": "168",
-      "P+": "-35",
-      "Artist and Title": "Anelia - Shampion (w/ Jivko Mix)",
-      "Wks": "60",
-      "Pk": "127",
-      "(x?)": "",
-      "Streams": "17,740",
-      "Streams+": "-2,043",
-      "Total": "327,380",
-      "track_id": "2SSAm64DnzKKlfrGUEpULX",
-      "artist_ids": [
-        "5tUV7pEJAFzJXWbJBtTkjt",
-        "4FGA1nL0JQrKPhFXIqLmYF"
-      ]
-    },
-    {
-      "Pos": "169",
-      "P+": "-35",
-      "Artist and Title": "Yanitsa - Speshno (w/ DJ Jivko Mix)",
-      "Wks": "26",
-      "Pk": "76",
-      "(x?)": "",
-      "Streams": "17,721",
-      "Streams+": "-1,996",
-      "Total": "467,271",
-      "track_id": "19aFPzuyyEmSpfWJgdzsVp",
-      "artist_ids": [
-        "3a4iT4FdFp6x0IqVTl47vR",
-        "1vnyt0KWJs30ve4DCWY6ID"
-      ]
-    },
-    {
-      "Pos": "170",
-      "P+": "+15",
-      "Artist and Title": "Andrea - Edno (w/ Boris Dali)",
-      "Wks": "33",
-      "Pk": "33",
-      "(x?)": "",
-      "Streams": "17,672",
-      "Streams+": "+990",
-      "Total": "688,112",
-      "track_id": "0fMT05PbFMD2jtsSl6JMps",
-      "artist_ids": [
-        "3Q71N3lHz2pijhljCNqOqw",
-        "0YSfR255xknAvfcWPwEydx"
-      ]
-    },
-    {
-      "Pos": "171",
-      "P+": "-2",
-      "Artist and Title": "Tsvetelina Yaneva - Vidimo izneveril",
-      "Wks": "24",
-      "Pk": "103",
-      "(x?)": "",
-      "Streams": "17,653",
-      "Streams+": "+502",
-      "Total": "426,419",
-      "track_id": "2xBL3p3OoyG9p1Dvni375C",
-      "artist_ids": [
-        "4AZihrM3P96d5mA9kvsxxH"
-      ]
-    },
-    {
-      "Pos": "172",
-      "P+": "-14",
-      "Artist and Title": "The Weeknd - One Of The Girls (w/ JENNIE, Lily-Rose Depp)",
-      "Wks": "154",
-      "Pk": "18",
-      "(x?)": "",
-      "Streams": "17,625",
-      "Streams+": "-73",
-      "Total": "3,368,954",
-      "track_id": "7CyPwkp0oE8Ro9Dd5CUDjW",
-      "artist_ids": [
-        "1Xyo4u8uXC1ZmMpatF05PJ",
-        "250b0Wlc5Vk0CoUsaCY84M",
-        "1pBLC0qVRTB5zVMuteQ9jJ"
-      ]
-    },
-    {
-      "Pos": "173",
-      "P+": "RE",
-      "Artist and Title": "Mihaela - Zaribena (w/ Djordan)",
-      "Wks": "2",
-      "Pk": "170",
-      "(x?)": "",
-      "Streams": "17,605",
-      "Streams+": "",
-      "Total": "34,689",
-      "track_id": "4O7JbO6qnkuK8XwZLedqRE",
-      "artist_ids": [
-        "0BZzNQUUxNgu2qbmgoxty0",
-        "4vczAVLBVJzhMndKRCsQls"
-      ]
-    },
-    {
-      "Pos": "174",
-      "P+": "RE",
-      "Artist and Title": "Adam - Булеварда",
-      "Wks": "33",
-      "Pk": "14",
-      "(x?)": "",
-      "Streams": "17,558",
-      "Streams+": "",
-      "Total": "798,276",
-      "track_id": "7ESOjeoe9blHDhUjkJmWxP",
-      "artist_ids": [
-        "696J4fiOALx5ifVKv10VbK"
-      ]
-    },
-    {
-      "Pos": "175",
-      "P+": "-26",
-      "Artist and Title": "Selina - Трафик",
-      "Wks": "72",
-      "Pk": "2",
-      "(x?)": "(x3)",
-      "Streams": "17,527",
-      "Streams+": "-1,079",
-      "Total": "3,481,626",
-      "track_id": "1Upth6DB6AHg3tWFQ3gnpX",
-      "artist_ids": [
-        "583wxBpo6S1maGz1bqYekZ"
-      ]
-    },
-    {
-      "Pos": "176",
-      "P+": "-3",
-      "Artist and Title": "Galin - Тази дискотека (w/ Azis)",
-      "Wks": "73",
-      "Pk": "1",
-      "(x?)": "(x4)",
-      "Streams": "17,495",
-      "Streams+": "+583",
-      "Total": "3,411,000",
-      "track_id": "4ZMpVZ52QE7EMJ35F5ReN2",
-      "artist_ids": [
-        "5amPFw5XVlNzP7uSKBXtai",
-        "1vAwQYTE1k5MBhNsvqphp1"
-      ]
-    },
-    {
-      "Pos": "177",
-      "P+": "-32",
-      "Artist and Title": "Djulia - Tvoya byah",
-      "Wks": "9",
-      "Pk": "134",
-      "(x?)": "",
-      "Streams": "17,346",
-      "Streams+": "-1,585",
-      "Total": "156,171",
-      "track_id": "576CTMPzJgxNQSjcowr8ZP",
-      "artist_ids": [
-        "6KsiFFe8CENPP9DN3SRouY"
-      ]
-    },
-    {
-      "Pos": "178",
-      "P+": "-7",
-      "Artist and Title": "MOMO RECORDS - Г-Н ПОРЪЧКА",
-      "Wks": "57",
-      "Pk": "8",
-      "(x?)": "",
-      "Streams": "17,286",
-      "Streams+": "+364",
-      "Total": "1,366,298",
-      "track_id": "1UeRaFI9tWAF9gy5hsnxHl",
-      "artist_ids": [
-        "5f1C9EB4G4MrxxmWmZP5Wo"
-      ]
-    },
-    {
-      "Pos": "179",
-      "P+": "-49",
-      "Artist and Title": "Selina - Мазохистка",
-      "Wks": "80",
-      "Pk": "18",
-      "(x?)": "",
-      "Streams": "17,253",
-      "Streams+": "-2,692",
-      "Total": "1,881,910",
-      "track_id": "6hRJgAPy4kDgOkiyD5s8je",
-      "artist_ids": [
-        "583wxBpo6S1maGz1bqYekZ"
-      ]
-    },
-    {
-      "Pos": "180",
-      "P+": "RE",
-      "Artist and Title": "Preslava - Nyama da ti pisha",
-      "Wks": "2",
-      "Pk": "180",
-      "(x?)": "",
-      "Streams": "17,209",
-      "Streams+": "",
-      "Total": "32,225",
-      "track_id": "4IczdT7rt66XrZTt79oNYW",
-      "artist_ids": [
-        "2Dj0euYPa8eiI6Ee5VLBwg"
-      ]
-    },
-    {
-      "Pos": "181",
-      "P+": "-26",
-      "Artist and Title": "Medi - Мама не дава (w/ Dessita)",
-      "Wks": "49",
-      "Pk": "43",
-      "(x?)": "",
-      "Streams": "17,110",
-      "Streams+": "-1,118",
-      "Total": "1,079,729",
-      "track_id": "2l0H1o8guCuGekEgyaE8Of",
-      "artist_ids": [
-        "6sEfX6ntbBxeWBLggUMyyq",
-        "1WOWylyMYTYIkDJmKLeSpQ"
-      ]
-    },
-    {
-      "Pos": "182",
-      "P+": "-34",
-      "Artist and Title": "MBT - Trap Kingx (w/ Bandata Na Ruba)",
-      "Wks": "97",
-      "Pk": "53",
-      "(x?)": "",
-      "Streams": "17,069",
-      "Streams+": "-1,584",
-      "Total": "1,386,126",
-      "track_id": "7aO0KrTDSwWv2mBZwEgN8N",
-      "artist_ids": [
-        "7iCQglTnIkivy8E3yP7WMd",
-        "4DJbjA4M8tw1EworNlTMWw"
-      ]
-    },
-    {
-      "Pos": "183",
-      "P+": "NEW",
-      "Artist and Title": "Emanuela - Kraina Miarka",
-      "Wks": "1",
-      "Pk": "183",
-      "(x?)": "",
-      "Streams": "17,063",
-      "Streams+": "",
-      "Total": "17,063",
-      "track_id": "7o6P9MgNO3O7LWXUThczwZ",
-      "artist_ids": [
-        "1lxHE7dVKOVaIjGOIu8svG"
-      ]
-    },
-    {
-      "Pos": "184",
-      "P+": "RE",
-      "Artist and Title": "Galena - Pak li",
-      "Wks": "11",
-      "Pk": "82",
-      "(x?)": "",
-      "Streams": "17,044",
-      "Streams+": "",
-      "Total": "191,294",
-      "track_id": "4nc1CxmIXHJs2xsB7CA3vm",
-      "artist_ids": [
-        "5M7RMcbgYy45XzC51HU355"
-      ]
-    },
-    {
-      "Pos": "185",
-      "P+": "RE",
-      "Artist and Title": "Emilia - California (w/ DJ Ceci Ludata Glava)",
-      "Wks": "43",
-      "Pk": "96",
-      "(x?)": "",
-      "Streams": "17,005",
-      "Streams+": "",
-      "Total": "760,069",
-      "track_id": "0VUfw943xkhcvLRXruuzdP",
-      "artist_ids": [
-        "0j6Z5YMSqBePHbPKLQwrcU",
-        "74GzqKaHbbDCOEdJQuY6xo"
-      ]
-    },
-    {
-      "Pos": "186",
-      "P+": "-7",
-      "Artist and Title": "Bilyanish - First Class (w/ Emrah)",
-      "Wks": "9",
-      "Pk": "59",
-      "(x?)": "",
-      "Streams": "16,964",
-      "Streams+": "+137",
-      "Total": "174,070",
-      "track_id": "2XnjRXH14PIn73n5SDFC38",
-      "artist_ids": [
-        "7Cg8hnSsmbfC6fxCykWYrh",
-        "4aL5skAlrmagFwCx6OXKPr"
-      ]
-    },
-    {
-      "Pos": "187",
-      "P+": "-67",
-      "Artist and Title": "Galena - Koy (w/ Fiki)",
-      "Wks": "11",
-      "Pk": "120",
-      "(x?)": "",
-      "Streams": "16,915",
-      "Streams+": "-3,765",
-      "Total": "184,235",
-      "track_id": "3kYv3Vsy9et4xyrvPgDIdY",
-      "artist_ids": [
-        "5M7RMcbgYy45XzC51HU355",
-        "7JLPN5CklYCRotAvFGw4Q1"
-      ]
-    },
-    {
-      "Pos": "188",
-      "P+": "-2",
+      "Pos": "152",
+      "P+": "+36",
       "Artist and Title": "Fiki - Блокиран (w/ Azis)",
-      "Wks": "12",
+      "Wks": "13",
       "Pk": "89",
       "(x?)": "",
-      "Streams": "16,890",
-      "Streams+": "+238",
-      "Total": "210,808",
+      "Streams": "19,066",
+      "Streams+": "+2,176",
+      "Total": "229,874",
       "track_id": "3E7RF4aNT2qxNAbqw6Dg5R",
       "artist_ids": [
         "7JLPN5CklYCRotAvFGw4Q1",
@@ -2921,78 +2361,371 @@
       ]
     },
     {
-      "Pos": "189",
-      "P+": "RE",
-      "Artist and Title": "The Weeknd - House Of Balloons / Glass Table Girls - Original",
-      "Wks": "7",
-      "Pk": "149",
+      "Pos": "153",
+      "P+": "+16",
+      "Artist and Title": "Yanitsa - Speshno (w/ DJ Jivko Mix)",
+      "Wks": "27",
+      "Pk": "76",
       "(x?)": "",
-      "Streams": "16,886",
-      "Streams+": "",
-      "Total": "108,376",
-      "track_id": "2r7BPog74oaTG5shNYiUnV",
+      "Streams": "19,006",
+      "Streams+": "+1,285",
+      "Total": "486,277",
+      "track_id": "19aFPzuyyEmSpfWJgdzsVp",
       "artist_ids": [
-        "1Xyo4u8uXC1ZmMpatF05PJ"
+        "3a4iT4FdFp6x0IqVTl47vR",
+        "1vnyt0KWJs30ve4DCWY6ID"
       ]
     },
     {
-      "Pos": "190",
-      "P+": "-39",
-      "Artist and Title": "Shakira - Dai Dai (w/ Burna Boy)",
-      "Wks": "25",
+      "Pos": "154",
+      "P+": "-17",
+      "Artist and Title": "Dessita - Разкажи ѝ",
+      "Wks": "93",
+      "Pk": "2",
+      "(x?)": "(x5)",
+      "Streams": "18,931",
+      "Streams+": "-525",
+      "Total": "2,992,564",
+      "track_id": "21z8pee2qYV0SzbqQCb72g",
+      "artist_ids": [
+        "1WOWylyMYTYIkDJmKLeSpQ"
+      ]
+    },
+    {
+      "Pos": "155",
+      "P+": "-15",
+      "Artist and Title": "Bandata Na Ruba - SHIVALI (w/ MOMO RECORDS)",
+      "Wks": "21",
+      "Pk": "39",
+      "(x?)": "",
+      "Streams": "18,924",
+      "Streams+": "-432",
+      "Total": "495,321",
+      "track_id": "4TxCB4NwlnlL4kVnw3U75h",
+      "artist_ids": [
+        "12fCNCkYtNfyBZ3zjFGri8",
+        "5f1C9EB4G4MrxxmWmZP5Wo"
+      ]
+    },
+    {
+      "Pos": "156",
+      "P+": "-54",
+      "Artist and Title": "Kali - Kopie",
+      "Wks": "14",
+      "Pk": "102",
+      "(x?)": "",
+      "Streams": "18,922",
+      "Streams+": "-3,198",
+      "Total": "256,409",
+      "track_id": "3qUD6so5gqot1JZM9XvkU9",
+      "artist_ids": [
+        "7AuKJFjFEMk4AfOZQyI8Ow"
+      ]
+    },
+    {
+      "Pos": "157",
+      "P+": "+38",
+      "Artist and Title": "Yanitsa - Vartelezhkata",
+      "Wks": "141",
+      "Pk": "66",
+      "(x?)": "",
+      "Streams": "18,870",
+      "Streams+": "+2,144",
+      "Total": "1,120,850",
+      "track_id": "4HMiW3eARgvjdCqmhuMJ1V",
+      "artist_ids": [
+        "3a4iT4FdFp6x0IqVTl47vR"
+      ]
+    },
+    {
+      "Pos": "158",
+      "P+": "-33",
+      "Artist and Title": "Ankara Echoes - Beni Al (Ta Ki Seni Görene Kadar) - Afro House Remix (w/ Kürşad Kahraman)",
+      "Wks": "23",
       "Pk": "6",
       "(x?)": "",
-      "Streams": "16,881",
-      "Streams+": "-1,634",
-      "Total": "829,055",
-      "track_id": "0kosUz0jePvjiz4ctmR6wL",
+      "Streams": "18,855",
+      "Streams+": "-1,578",
+      "Total": "887,456",
+      "track_id": "4TpofYIjlzhztvF8kWwPXi",
       "artist_ids": [
-        "0EmeFodog0BfCgMzAIvKQp",
-        "3wcj11K77LjEY1PkEazffa"
+        "18SuKvcITcf0mACwhitMeM",
+        "6KmaeBAxvfEYozb0DQSkGU"
       ]
     },
     {
-      "Pos": "191",
-      "P+": "RE",
-      "Artist and Title": "Galin - Nyama da mi mine (w/ Lidia)",
-      "Wks": "7",
-      "Pk": "128",
-      "(x?)": "",
-      "Streams": "16,866",
-      "Streams+": "",
-      "Total": "121,219",
-      "track_id": "2SmBiy4ZB0YyMM3dFXGTou",
-      "artist_ids": [
-        "5amPFw5XVlNzP7uSKBXtai",
-        "4FTXvsvz433gZR67rhxFfN"
-      ]
-    },
-    {
-      "Pos": "192",
-      "P+": "-24",
-      "Artist and Title": "Desi Slava - Neka da e tayno (w/ Galin)",
-      "Wks": "51",
-      "Pk": "51",
-      "(x?)": "",
-      "Streams": "16,837",
-      "Streams+": "-370",
-      "Total": "965,380",
-      "track_id": "5xtqsB0ziLWMldW3JLcTZe",
-      "artist_ids": [
-        "1FYHEsfPuSTAOV5oK1CNXG",
-        "5amPFw5XVlNzP7uSKBXtai"
-      ]
-    },
-    {
-      "Pos": "193",
+      "Pos": "159",
       "P+": "-2",
-      "Artist and Title": "KAROL G - BbY WOW (w/ Judeline, rusowsky)",
-      "Wks": "2",
-      "Pk": "191",
+      "Artist and Title": "Krisko - #OET",
+      "Wks": "194",
+      "Pk": "13",
       "(x?)": "",
-      "Streams": "16,809",
-      "Streams+": "+491",
-      "Total": "33,127",
+      "Streams": "18,589",
+      "Streams+": "+308",
+      "Total": "3,161,063",
+      "track_id": "442WPlDTRneEns7knaacHK",
+      "artist_ids": [
+        "4oopAFtLdKXCoq2XoEjDZD"
+      ]
+    },
+    {
+      "Pos": "160",
+      "P+": "+27",
+      "Artist and Title": "Galena - Koy (w/ Fiki)",
+      "Wks": "12",
+      "Pk": "120",
+      "(x?)": "",
+      "Streams": "18,500",
+      "Streams+": "+1,585",
+      "Total": "202,735",
+      "track_id": "3kYv3Vsy9et4xyrvPgDIdY",
+      "artist_ids": [
+        "5M7RMcbgYy45XzC51HU355",
+        "7JLPN5CklYCRotAvFGw4Q1"
+      ]
+    },
+    {
+      "Pos": "161",
+      "P+": "NEW",
+      "Artist and Title": "Dua Lipa - Go Easy (from GTAVI: The Album) (w/ Grand Theft Auto VI)",
+      "Wks": "1",
+      "Pk": "161",
+      "(x?)": "",
+      "Streams": "18,405",
+      "Streams+": "",
+      "Total": "18,405",
+      "track_id": "7koaKeYj2Xkw1vItkRUlX4",
+      "artist_ids": [
+        "6M2wZ9GZgrQXHCFfjv46we",
+        "15o7qdDTBzs6xWRUYUtZc1"
+      ]
+    },
+    {
+      "Pos": "162",
+      "P+": "-71",
+      "Artist and Title": "Yanitsa - Nito minuta",
+      "Wks": "7",
+      "Pk": "49",
+      "(x?)": "",
+      "Streams": "18,299",
+      "Streams+": "-5,275",
+      "Total": "148,616",
+      "track_id": "3Sp3iAOjnQygYlhAEsLcHY",
+      "artist_ids": [
+        "3a4iT4FdFp6x0IqVTl47vR"
+      ]
+    },
+    {
+      "Pos": "163",
+      "P+": "RE",
+      "Artist and Title": "BTS - NORMAL",
+      "Wks": "22",
+      "Pk": "26",
+      "(x?)": "",
+      "Streams": "18,183",
+      "Streams+": "",
+      "Total": "463,585",
+      "track_id": "4B4Q7zfd0aHcuhQBfCRnH5",
+      "artist_ids": [
+        "3Nrfpe0tUJi4K4DXYWgMUX"
+      ]
+    },
+    {
+      "Pos": "164",
+      "P+": "-46",
+      "Artist and Title": "MBT - Orient Express (w/ Krisko)",
+      "Wks": "22",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "18,102",
+      "Streams+": "-2,767",
+      "Total": "998,876",
+      "track_id": "5fyieCkRITuBt8EOs47W2f",
+      "artist_ids": [
+        "7iCQglTnIkivy8E3yP7WMd",
+        "4oopAFtLdKXCoq2XoEjDZD"
+      ]
+    },
+    {
+      "Pos": "165",
+      "P+": "-37",
+      "Artist and Title": "Medi - Дивана",
+      "Wks": "107",
+      "Pk": "28",
+      "(x?)": "",
+      "Streams": "18,065",
+      "Streams+": "-2,039",
+      "Total": "1,088,277",
+      "track_id": "5KhisjtC9RpYuwpGs8eG60",
+      "artist_ids": [
+        "6sEfX6ntbBxeWBLggUMyyq"
+      ]
+    },
+    {
+      "Pos": "166",
+      "P+": "+9",
+      "Artist and Title": "Selina - Трафик",
+      "Wks": "73",
+      "Pk": "2",
+      "(x?)": "(x3)",
+      "Streams": "18,045",
+      "Streams+": "+518",
+      "Total": "3,499,671",
+      "track_id": "1Upth6DB6AHg3tWFQ3gnpX",
+      "artist_ids": [
+        "583wxBpo6S1maGz1bqYekZ"
+      ]
+    },
+    {
+      "Pos": "167",
+      "P+": "-13",
+      "Artist and Title": "Fiki - S drug me barkash (w/ Galena)",
+      "Wks": "3",
+      "Pk": "100",
+      "(x?)": "",
+      "Streams": "17,986",
+      "Streams+": "-497",
+      "Total": "56,468",
+      "track_id": "2yb57VXhDSwgQuXMcyftjv",
+      "artist_ids": [
+        "7JLPN5CklYCRotAvFGw4Q1",
+        "5M7RMcbgYy45XzC51HU355"
+      ]
+    },
+    {
+      "Pos": "168",
+      "P+": "-9",
+      "Artist and Title": "MBT - Only Fans",
+      "Wks": "72",
+      "Pk": "1",
+      "(x?)": "(x1)",
+      "Streams": "17,852",
+      "Streams+": "-305",
+      "Total": "2,155,758",
+      "track_id": "1lYu0w0V6kGnFhH4jq1ZtS",
+      "artist_ids": [
+        "7iCQglTnIkivy8E3yP7WMd"
+      ]
+    },
+    {
+      "Pos": "169",
+      "P+": "RE",
+      "Artist and Title": "Galena - V tvoite ochi (w/ Desi Slava)",
+      "Wks": "47",
+      "Pk": "77",
+      "(x?)": "",
+      "Streams": "17,830",
+      "Streams+": "",
+      "Total": "745,878",
+      "track_id": "1ZpAUnvIyJJKv8GhMKqHyh",
+      "artist_ids": [
+        "5M7RMcbgYy45XzC51HU355",
+        "1FYHEsfPuSTAOV5oK1CNXG"
+      ]
+    },
+    {
+      "Pos": "170",
+      "P+": "-9",
+      "Artist and Title": "Billy Hlapeto - Башмайсторска (w/ Lexus, Dim4ou)",
+      "Wks": "192",
+      "Pk": "44",
+      "(x?)": "",
+      "Streams": "17,777",
+      "Streams+": "-262",
+      "Total": "3,252,123",
+      "track_id": "1rLpf280OicMHgkl6SfGHG",
+      "artist_ids": [
+        "0dz4rGLXin0gvKYqFh7iyI",
+        "7L0jOBGO246iJcBr8uWfXs",
+        "6URykZzv72st8HDMcJNrsV"
+      ]
+    },
+    {
+      "Pos": "171",
+      "P+": "-20",
+      "Artist and Title": "VANE$$A - Мръсотия",
+      "Wks": "4",
+      "Pk": "122",
+      "(x?)": "",
+      "Streams": "17,681",
+      "Streams+": "-1,036",
+      "Total": "73,398",
+      "track_id": "1LPwT0veXCWx4h318sMysq",
+      "artist_ids": [
+        "12a4KgFut39rBB8WjeN2oL"
+      ]
+    },
+    {
+      "Pos": "172",
+      "P+": "-17",
+      "Artist and Title": "Rihanna - Don't Stop The Music",
+      "Wks": "70",
+      "Pk": "68",
+      "(x?)": "",
+      "Streams": "17,661",
+      "Streams+": "-740",
+      "Total": "1,276,144",
+      "track_id": "1Jo0Zg7XlrA6z0mFTZVdkn",
+      "artist_ids": [
+        "5pKCCKE2ajJHZ9KAiaK11H"
+      ]
+    },
+    {
+      "Pos": "173",
+      "P+": "-34",
+      "Artist and Title": "The Weeknd - Starboy (w/ Daft Punk)",
+      "Wks": "429",
+      "Pk": "1",
+      "(x?)": "(x13)",
+      "Streams": "17,654",
+      "Streams+": "-1,760",
+      "Total": "5,360,931",
+      "track_id": "7MXVkk9YMctZqd1Srtv4MB",
+      "artist_ids": [
+        "1Xyo4u8uXC1ZmMpatF05PJ",
+        "4tZwfgrHOc3mvqYlEYSvVi"
+      ]
+    },
+    {
+      "Pos": "174",
+      "P+": "RE",
+      "Artist and Title": "Preslava - Beden v sartseto",
+      "Wks": "103",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "17,630",
+      "Streams+": "",
+      "Total": "1,045,526",
+      "track_id": "5oE4QPgCrAs3itnmj2GmsM",
+      "artist_ids": [
+        "2Dj0euYPa8eiI6Ee5VLBwg"
+      ]
+    },
+    {
+      "Pos": "175",
+      "P+": "-100",
+      "Artist and Title": "The Neighbourhood - Softcore",
+      "Wks": "119",
+      "Pk": "9",
+      "(x?)": "",
+      "Streams": "17,594",
+      "Streams+": "-7,727",
+      "Total": "1,614,175",
+      "track_id": "2K7xn816oNHJZ0aVqdQsha",
+      "artist_ids": [
+        "77SW9BnxLY8rJ0RciFqkHh"
+      ]
+    },
+    {
+      "Pos": "176",
+      "P+": "+17",
+      "Artist and Title": "KAROL G - BbY WOW (w/ Judeline, rusowsky)",
+      "Wks": "3",
+      "Pk": "176",
+      "(x?)": "",
+      "Streams": "17,566",
+      "Streams+": "+757",
+      "Total": "50,693",
       "track_id": "3h5T5JypYU7huFiVYhv1dr",
       "artist_ids": [
         "790FomKkXshlbRYZFtlgla",
@@ -3001,45 +2734,125 @@
       ]
     },
     {
-      "Pos": "194",
-      "P+": "-48",
-      "Artist and Title": "Djulia - Tochka za men",
-      "Wks": "9",
-      "Pk": "106",
-      "(x?)": "",
-      "Streams": "16,747",
-      "Streams+": "-2,142",
-      "Total": "164,685",
-      "track_id": "5vGhOedN0zKp2c8Kl330VS",
+      "Pos": "177",
+      "P+": "-55",
+      "Artist and Title": "V:RGO - PORSCHE (w/ Emil TRF, MBT)",
+      "Wks": "60",
+      "Pk": "1",
+      "(x?)": "(x2)",
+      "Streams": "17,558",
+      "Streams+": "-3,082",
+      "Total": "2,383,964",
+      "track_id": "6rACBIj56htTfrd0VY1PTu",
       "artist_ids": [
-        "6KsiFFe8CENPP9DN3SRouY"
+        "556XyBuO17TCo0Bviw5nCW",
+        "3zM12oJgWeFu7k2kl9I3UB",
+        "7iCQglTnIkivy8E3yP7WMd"
       ]
     },
     {
-      "Pos": "195",
-      "P+": "-12",
-      "Artist and Title": "Yanitsa - Vartelezhkata",
-      "Wks": "140",
-      "Pk": "66",
+      "Pos": "178",
+      "P+": "RE",
+      "Artist and Title": "Tedi Aleksandrova - Obicham te (w/ Emrah)",
+      "Wks": "7",
+      "Pk": "131",
       "(x?)": "",
-      "Streams": "16,726",
-      "Streams+": "+2",
-      "Total": "1,101,980",
-      "track_id": "4HMiW3eARgvjdCqmhuMJ1V",
+      "Streams": "17,543",
+      "Streams+": "",
+      "Total": "123,353",
+      "track_id": "3V3DvZEoxqMPyd9vrnV3kO",
       "artist_ids": [
-        "3a4iT4FdFp6x0IqVTl47vR"
+        "3CcA9m1Ivpp5XmLt8SxUpn",
+        "4aL5skAlrmagFwCx6OXKPr"
       ]
     },
     {
-      "Pos": "196",
-      "P+": "=",
+      "Pos": "179",
+      "P+": "-29",
+      "Artist and Title": "Medi - Върни ми сърцето (w/ Krissy)",
+      "Wks": "6",
+      "Pk": "112",
+      "(x?)": "",
+      "Streams": "17,538",
+      "Streams+": "-1,198",
+      "Total": "107,691",
+      "track_id": "5v7838Be33Vjq9fG4ltEkd",
+      "artist_ids": [
+        "6sEfX6ntbBxeWBLggUMyyq",
+        "1tQw6OfMksrYe6ZipFVFzo"
+      ]
+    },
+    {
+      "Pos": "180",
+      "P+": "-44",
+      "Artist and Title": "Emilia - Специално за всяка",
+      "Wks": "2",
+      "Pk": "136",
+      "(x?)": "",
+      "Streams": "17,463",
+      "Streams+": "-2,245",
+      "Total": "37,171",
+      "track_id": "2l51apMQ6royCPl0XsH7Jt",
+      "artist_ids": [
+        "0j6Z5YMSqBePHbPKLQwrcU"
+      ]
+    },
+    {
+      "Pos": "181",
+      "P+": "RE",
+      "Artist and Title": "Emanuela - Doseshtay se sam",
+      "Wks": "52",
+      "Pk": "53",
+      "(x?)": "",
+      "Streams": "17,440",
+      "Streams+": "",
+      "Total": "1,120,508",
+      "track_id": "0FpscyomAHJAkvHjYbpqwE",
+      "artist_ids": [
+        "1lxHE7dVKOVaIjGOIu8svG"
+      ]
+    },
+    {
+      "Pos": "182",
+      "P+": "RE",
+      "Artist and Title": "Konstantin - Ot utre shte e drugo (w/ Desi Slava)",
+      "Wks": "2",
+      "Pk": "92",
+      "(x?)": "",
+      "Streams": "17,439",
+      "Streams+": "",
+      "Total": "39,481",
+      "track_id": "59TwgVEBNrwVTttBlOhxzO",
+      "artist_ids": [
+        "4v8n02xVhZK4CmdUAuipHn",
+        "1FYHEsfPuSTAOV5oK1CNXG"
+      ]
+    },
+    {
+      "Pos": "183",
+      "P+": "RE",
+      "Artist and Title": "Djordan - Мераклия",
+      "Wks": "80",
+      "Pk": "2",
+      "(x?)": "(x2)",
+      "Streams": "17,332",
+      "Streams+": "",
+      "Total": "2,868,902",
+      "track_id": "0b2D7UMjaaIYJndNYBbdRU",
+      "artist_ids": [
+        "4vczAVLBVJzhMndKRCsQls"
+      ]
+    },
+    {
+      "Pos": "184",
+      "P+": "+12",
       "Artist and Title": "Djena - Huligani (w/ Djordan)",
-      "Wks": "50",
+      "Wks": "51",
       "Pk": "5",
       "(x?)": "",
-      "Streams": "16,704",
-      "Streams+": "+537",
-      "Total": "1,333,507",
+      "Streams": "17,274",
+      "Streams+": "+570",
+      "Total": "1,350,781",
       "track_id": "7KhJMKLSxQWG98iMhCiYqX",
       "artist_ids": [
         "07aV940tBFh4TthmbcjR3g",
@@ -3047,15 +2860,187 @@
       ]
     },
     {
-      "Pos": "197",
-      "P+": "-72",
+      "Pos": "185",
+      "P+": "-9",
+      "Artist and Title": "Galin - Тази дискотека (w/ Azis)",
+      "Wks": "74",
+      "Pk": "1",
+      "(x?)": "(x4)",
+      "Streams": "17,139",
+      "Streams+": "-356",
+      "Total": "3,428,139",
+      "track_id": "4ZMpVZ52QE7EMJ35F5ReN2",
+      "artist_ids": [
+        "5amPFw5XVlNzP7uSKBXtai",
+        "1vAwQYTE1k5MBhNsvqphp1"
+      ]
+    },
+    {
+      "Pos": "186",
+      "P+": "RE",
+      "Artist and Title": "Ceca - Trepni",
+      "Wks": "30",
+      "Pk": "61",
+      "(x?)": "",
+      "Streams": "17,127",
+      "Streams+": "",
+      "Total": "90,534",
+      "track_id": "4IenNPVMeZpNA4MdtNxSI4",
+      "artist_ids": [
+        "3uV7fmwEFZqp3mp2gTDB5s"
+      ]
+    },
+    {
+      "Pos": "187",
+      "P+": "RE",
+      "Artist and Title": "Emilia - Акула (w/ DENIS TEOFIKOV)",
+      "Wks": "3",
+      "Pk": "82",
+      "(x?)": "",
+      "Streams": "17,126",
+      "Streams+": "",
+      "Total": "59,595",
+      "track_id": "24hrU4tGZAmseUXPAT6rC0",
+      "artist_ids": [
+        "0j6Z5YMSqBePHbPKLQwrcU",
+        "5QO5nSTzmwGYnTFsJb8Gq6"
+      ]
+    },
+    {
+      "Pos": "188",
+      "P+": "-81",
+      "Artist and Title": "Molec - МЕСЕЧИНА",
+      "Wks": "2",
+      "Pk": "107",
+      "(x?)": "",
+      "Streams": "17,125",
+      "Streams+": "-4,423",
+      "Total": "38,673",
+      "track_id": "6aFll9XRDGspVhAryzuBYP",
+      "artist_ids": [
+        "7H9Le3C3Z6DHOLxZrA3lVr"
+      ]
+    },
+    {
+      "Pos": "189",
+      "P+": "-27",
+      "Artist and Title": "Djordan - Ne te boli",
+      "Wks": "32",
+      "Pk": "70",
+      "(x?)": "",
+      "Streams": "17,116",
+      "Streams+": "-884",
+      "Total": "619,394",
+      "track_id": "6cAQRggud6djFvJNq2YKwO",
+      "artist_ids": [
+        "4vczAVLBVJzhMndKRCsQls"
+      ]
+    },
+    {
+      "Pos": "190",
+      "P+": "-30",
+      "Artist and Title": "Krisko - Ministarat Na Veselieto (w/ Lora Karajova, Bobo)",
+      "Wks": "129",
+      "Pk": "6",
+      "(x?)": "",
+      "Streams": "17,103",
+      "Streams+": "-1,031",
+      "Total": "3,242,073",
+      "track_id": "653RTe2vklxgMHS2yfYWqo",
+      "artist_ids": [
+        "4oopAFtLdKXCoq2XoEjDZD",
+        "5io8vM6q4wMK12XmOdEYIt",
+        "6r0YcUb4D28iZMWUKPlBWf"
+      ]
+    },
+    {
+      "Pos": "191",
+      "P+": "RE",
+      "Artist and Title": "Emanuela - Da Si Plashtal",
+      "Wks": "126",
+      "Pk": "36",
+      "(x?)": "",
+      "Streams": "17,099",
+      "Streams+": "",
+      "Total": "2,494,896",
+      "track_id": "1u8eHkUmd6VCRTVZQ7JKX1",
+      "artist_ids": [
+        "1lxHE7dVKOVaIjGOIu8svG"
+      ]
+    },
+    {
+      "Pos": "192",
+      "P+": "-26",
+      "Artist and Title": "V:RGO - TVOQTA LUBOV (w/ Lidia)",
+      "Wks": "59",
+      "Pk": "2",
+      "(x?)": "(x1)",
+      "Streams": "17,022",
+      "Streams+": "-801",
+      "Total": "1,851,971",
+      "track_id": "5UEjI8H2w4yk9XsFMR06ws",
+      "artist_ids": [
+        "556XyBuO17TCo0Bviw5nCW",
+        "4FTXvsvz433gZR67rhxFfN"
+      ]
+    },
+    {
+      "Pos": "193",
+      "P+": "RE",
+      "Artist and Title": "Alisia - Nito duma (w/ Ilian)",
+      "Wks": "40",
+      "Pk": "78",
+      "(x?)": "",
+      "Streams": "16,995",
+      "Streams+": "",
+      "Total": "717,945",
+      "track_id": "7vaJHWO4a2Ckj4sc21yFjX",
+      "artist_ids": [
+        "5mNFpEfI0KApCz2Y88LYW6",
+        "7c1rGKb2kBgVcv2hPcg06N"
+      ]
+    },
+    {
+      "Pos": "194",
+      "P+": "RE",
+      "Artist and Title": "Lorena - Нощта гърми (w/ Galin)",
+      "Wks": "107",
+      "Pk": "58",
+      "(x?)": "",
+      "Streams": "16,973",
+      "Streams+": "",
+      "Total": "1,792,306",
+      "track_id": "5QbBm04I7SpMPLy7Sluk50",
+      "artist_ids": [
+        "1GNGuprNrIvSiOAcUIQy2h",
+        "5amPFw5XVlNzP7uSKBXtai"
+      ]
+    },
+    {
+      "Pos": "195",
+      "P+": "-21",
+      "Artist and Title": "Adam - Булеварда",
+      "Wks": "34",
+      "Pk": "14",
+      "(x?)": "",
+      "Streams": "16,959",
+      "Streams+": "-599",
+      "Total": "815,235",
+      "track_id": "7ESOjeoe9blHDhUjkJmWxP",
+      "artist_ids": [
+        "696J4fiOALx5ifVKv10VbK"
+      ]
+    },
+    {
+      "Pos": "196",
+      "P+": "+1",
       "Artist and Title": "MOMO RECORDS - Трапа ми (w/ Bandata Na Ruba, Kapo Verde)",
-      "Wks": "10",
+      "Wks": "11",
       "Pk": "90",
       "(x?)": "",
-      "Streams": "16,700",
-      "Streams+": "-3,563",
-      "Total": "196,224",
+      "Streams": "16,949",
+      "Streams+": "+249",
+      "Total": "213,173",
       "track_id": "6MQxGNer5C2FhS7tUwYEWQ",
       "artist_ids": [
         "5f1C9EB4G4MrxxmWmZP5Wo",
@@ -3064,50 +3049,67 @@
       ]
     },
     {
-      "Pos": "198",
+      "Pos": "197",
       "P+": "RE",
-      "Artist and Title": "Galena - Znam diagnozata",
-      "Wks": "24",
-      "Pk": "65",
+      "Artist and Title": "Galin - Na Egipet Faraona (w/ Azis)",
+      "Wks": "2",
+      "Pk": "190",
       "(x?)": "",
-      "Streams": "16,683",
+      "Streams": "16,940",
       "Streams+": "",
-      "Total": "465,120",
-      "track_id": "4OvUp1FOv2QvUPu9Atm1ne",
+      "Total": "32,856",
+      "track_id": "3TFstpmZOfend3sy4CmM5C",
       "artist_ids": [
-        "5M7RMcbgYy45XzC51HU355"
+        "5amPFw5XVlNzP7uSKBXtai",
+        "1vAwQYTE1k5MBhNsvqphp1"
+      ]
+    },
+    {
+      "Pos": "198",
+      "P+": "-46",
+      "Artist and Title": "Emanuela - Napravi taka",
+      "Wks": "29",
+      "Pk": "94",
+      "(x?)": "",
+      "Streams": "16,920",
+      "Streams+": "-1,703",
+      "Total": "256,062",
+      "track_id": "1npiS34LVmCcS6pdpawBrE",
+      "artist_ids": [
+        "1lxHE7dVKOVaIjGOIu8svG"
       ]
     },
     {
       "Pos": "199",
-      "P+": "-7",
-      "Artist and Title": "Krissy - Чалга (w/ Tedi Aleksandrova)",
-      "Wks": "40",
-      "Pk": "25",
-      "(x?)": "",
-      "Streams": "16,645",
-      "Streams+": "+346",
-      "Total": "712,428",
-      "track_id": "0yUj55Q6bb9r9wFaSV2Mql",
-      "artist_ids": [
-        "1tQw6OfMksrYe6ZipFVFzo",
-        "3CcA9m1Ivpp5XmLt8SxUpn"
-      ]
-    },
-    {
-      "Pos": "200",
-      "P+": "-20",
+      "P+": "+1",
       "Artist and Title": "Emilia - Луд скандал (w/ DJ Damyan)",
-      "Wks": "14",
+      "Wks": "15",
       "Pk": "53",
       "(x?)": "",
-      "Streams": "16,612",
-      "Streams+": "-165",
-      "Total": "292,473",
+      "Streams": "16,913",
+      "Streams+": "+301",
+      "Total": "309,386",
       "track_id": "0Ky1DTBlzc3rYCtCM8LDhH",
       "artist_ids": [
         "0j6Z5YMSqBePHbPKLQwrcU",
         "39mjWoyHE5RMghSx70h7pI"
+      ]
+    },
+    {
+      "Pos": "200",
+      "P+": "-28",
+      "Artist and Title": "The Weeknd - One Of The Girls (w/ JENNIE, Lily-Rose Depp)",
+      "Wks": "155",
+      "Pk": "18",
+      "(x?)": "",
+      "Streams": "16,904",
+      "Streams+": "-721",
+      "Total": "3,385,858",
+      "track_id": "7CyPwkp0oE8Ro9Dd5CUDjW",
+      "artist_ids": [
+        "1Xyo4u8uXC1ZmMpatF05PJ",
+        "250b0Wlc5Vk0CoUsaCY84M",
+        "1pBLC0qVRTB5zVMuteQ9jJ"
       ]
     }
   ]
